@@ -44,7 +44,7 @@
 
 		<a href="vehicles/" class="thumb"><span><img src="vehicle.png" alt="" /></span></a>
 
-		<h2><a href="vehicles/">Vehicles Management</a></h2>
+		<h2><a href="vehicles/">Vehicles Management ---------</a></h2>
 
 	</li>
 
