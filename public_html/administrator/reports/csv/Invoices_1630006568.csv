@@ -1,0 +1,15 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Aug. 26 2021
+,,,Invoice From: Jul. 01 2021 To: Aug. 26 2021
+,,,Total Amount Billed: 13401.34
+1,1302,Jul-16 2021[Private Pay],Test Kevin, ,Leg B,1502-A--Central Parkway,-,,AMBULATORY VAN - Pickup Charges: 20 - Price Per Miles: 1.5,474.15,5,469.15,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,723.73
+ 2,1309,Aug-05 2021[Modiv Care],Alex Test, ,Leg B,2223 State Highway 54--Durham- NC- USA,-,Will ,Stretcher Van - Pickup Charges: 275 - Price Per Miles: 4.25,674.79,0,674.79,,3142.86
+ 3,1309,Aug-05 2021[Modiv Care],Alex Test, ,Leg A,1112 St Nicholas Ave--New York- NY- USA,2223 State Highway 54--Durham- NC- USA,03:00,Stretcher Van - Pickup Charges: 275 - Price Per Miles: 4.25,500.66,0,500.66,,2402.81
+ 4,857,Aug-05 2021[],test, ,Leg B,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 10 - Price Per Miles: 10,11.14,0,11.14,Oxygen. Charges: 0  ,121.40
+ 5,1311,Aug-06 2021[MTM],JAMES COUTCHER, Z0QQ2BL9D0AA,Leg A,67 PROSPECT HILL AVE--WEST WARWICK-RI-02893,600 PAWTUCKET AVE--PAWTUCKET-RI-02860,05:00,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 0 - Price Per Miles: 0,13.03,0,13.03,,0.00
+ 6,1073,Aug-16 2021[],test, ,Leg A,Calmar-- IA- USA,Decorah--IA- USA,16:00,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 10 - Price Per Miles: 10,10.97,0,10.97,,119.70
+ 7,468,Aug-16 2021[],test, ,Leg B,Calmar--IA- USA,-,09:00,AMBULATORY VAN - Pickup Charges: 12 - Price Per Miles: 1.5,410.98,0,410.98,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,628.47
+ 8,66,Aug-25 2021[],Test bryan, ,Leg A,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00,Stretcher Van - Pickup Charges: 20 - Price Per Miles: 1.5,999.87,0,999.87,,1519.81
+ 9,1338,Aug-25 2021[Private Pay],Test Kevin, ,Leg B,1125 Corporation Pkwy STE 131--- NC 27610- USA,-,,Stretcher Van - Pickup Charges: 20 - Price Per Miles: 1.5,697.64,5,692.64,,1058.96
+ 10,1338,Aug-25 2021[Private Pay],Test Kevin, ,Leg A,2645 N Cole Rd-,1125 Corporation Pkwy STE 131--- NC 27610- USA,04:00,Stretcher Van - Pickup Charges: 20 - Price Per Miles: 1.5,2447.4,5,2442.4,,3683.60
+

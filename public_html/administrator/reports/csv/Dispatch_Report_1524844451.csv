@@ -1,0 +1,875 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+AMBER IRISH,B,,1324 11th Avenue-east wing-Lewiston- ID- United States,2350 Nez Perce Drive-360-Lewiston- ID- United States,23:59:59,00:00:00,1.43,Completed
+Phillip Beck,B,,12018 Atlantic Avenue--Jamaica- NY- USA,-,11:11:00,00:00:00,0,Pending
+AMBER IRISH,A,,2350 Nez Perce Drive-360-Lewiston- ID- United States,1324 11th Avenue-east wing-Lewiston- ID- United States,10:00:00,00:00:00,1.43,Pending
+adam smith,A,Gail  Searfoss,2150 Dunn Avenue--Memphis- TN- USA,2160 Dunn Avenue--Memphis- TN- USA,04:00:00,16:35:07,0.02,In Progress
+Phillip Beck,B,Alan S,12018 Atlantic Avenue-- Jamaica- NY- USA,,23:59:59,17:12:52,0,Completed
+Test,A,,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,00:00:00,13.65,Pending
+AMBER IRISH,A,,2350 Nez Perce Drive-360-Lewiston- ID- United States,1324 11th Avenue-east wing-Lewiston- ID- United States,10:00:00,00:00:00,1.43,Completed
+Phillip Beck,A,,750 South Humer Street--Enola- PA- USA,12018 Atlantic Avenue--Jamaica- NY- USA,08:00:00,00:00:00,198.53,Pending
+Phillip Beck,A,,750 South Humer Street-- Enola- PA- USA,12018 Atlantic Avenue-- Jamaica- NY- USA,08:00:00,00:00:00,198.53,Pending
+AMBER IRISH,B,,1324 11th Avenue-east wing-Lewiston- ID- United States,2350 Nez Perce Drive-360-Lewiston- ID- United States,16:00:00,00:00:00,1.43,Pending
+adam smith,A,Alan S,2150 Dunn Avenue-- Memphis- TN- USA,2160 Dunn Avenue-- Memphis- TN- USA,04:00:00,18:56:52,0.02,Completed
+Test,A,,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,00:00:00,13.65,Pending
+adam smith,B,,2160 Dunn Avenue-- Memphis- TN- USA,2150 Dunn Avenue-- Memphis- TN- USA,06:00:00,00:00:00,0.02,Pending
+Rogelio F,A,,---2130 Primrose St-,--DaVita  Fontana-17590 E Foothill Blvd-Fontana,04:30:00,00:00:00,909.64,Pending
+Robert J,B,,--DaVita  Pomona-2111 N Garey Ave-Pomona,91767---1506 W Jess St.-Pomona,09:00:00,00:00:00,3.4,Pending
+Ramiro Z,A,,---3641 Grizzley Creek-Ontario,--DaVita Pomona Valley-2703 S Towne Ave-Pomona,14:50:00,00:00:00,10.74,Pending
+Mauricio A,B,,92336--RAI Fontana-10557 Juniper Ave-Fontana,92337---7372 Peppertree Ln-Fontana,07:50:00,00:00:00,5.86,Pending
+Estelle A,A,,---1308 Blackstone Ave-San Bernardino,92411--DaVita  Citrus Valley-894 Hardt St-San Bernardino,13:50:00,00:00:00,8.08,Pending
+Alberto B,B,,--RAI Fontana-10557 Juniper Ave-Fontana,92337---5098 Troth St-Mira Loma,11:15:00,00:00:00,11.44,Pending
+Jason I,A,,---1730 W. Arrow-Upland,--Ontario Dialysis-1950 S Grove Ave Suite 101-Ontario,14:00:00,00:00:00,7.49,Pending
+Gabriel B,A,,---29335 Gold Buckle Rd-Highland,92346--DaVita  Highland-7223 Church St A14-Highland,09:45:00,00:00:00,1.46,Pending
+Hilda C,B,,91766--DaVita Pomona Valley-2703 S Towne Ave-Pomona,91766---595 E. 11th street-Pomona,09:15:00,00:00:00,2.29,Pending
+Laura C,B,,--DaVita Chino-4445 Riverside Dr-Chino,91710---14206 Cherry Court-Chino,15:30:00,00:00:00,4.91,Pending
+Guillermo C,A,,---910 S Vine Ave-Redlands,92373--DaVita  Colton-1405 W Valley Blvd Ste 100-Colton,04:45:00,00:00:00,10.98,Pending
+Robert D,B,,--DaVita  Chino-4445 Riverside Dr-Chino,91710---16055 Pebble Beach-Chino Hills,15:00:00,00:00:00,4.41,Pending
+Jesus D,B,,92335--RAI Rialto-1850 N Riverside Ave-Rialto,92376---9170 Pine Ave-Fontana,11:35:00,00:00:00,6.5,Pending
+Serena D,A,,---160 S Eucalyptus Ave-San Bernardino,--DaVita  Citrus Valley-894 Hardt St-San Bernardino,04:30:00,00:00:00,8.61,Pending
+Juan E,B,,--DaVita  Mt. Vista-4041 North University Parkway-San Bernardino,92407---2225 Pumalo St # 211-San Bernardino,09:30:00,00:00:00,7.63,Pending
+Martinez Carlos B,B,,--DaVita  Colton-1405 W Valley Blvd Ste 100-Colton,92324---2689 Rosedale Ave-Colton,07:00:00,00:00:00,3.7,Pending
+Maria E,A,,---440 W. Cromwell St-Highland,92346--RAI Rialto-1850 N Riverside Ave-Rialto,12:45:00,00:00:00,746.1,Pending
+Mario F,B,,--DaVita  Upland-600 N 13th Ave-Upland,91786---5106 Benito St.-Montclair,13:00:00,00:00:00,5.38,Pending
+Joe A,B,,--RAI Rialto-1850 N Riverside Ave-Rialto,92376---2505 W. Foothill-San Bernardino,15:00:00,00:00:00,2.26,Pending
+Javier F,A,,---26120 9th St-Fontana,92336--DaVita  Citrus Valley-894 Hardt St-San Bernardino,05:00:00,00:00:00,10.7,Pending
+Hazel O,A,,---2196 Medical Center Dr. Apt 329-Alta Loma,91701--RAI Rialto-1850 N Riverside Ave-Rialto,07:15:00,00:00:00,3.46,Pending
+Julia G,B,,92335--RAI Rialto-1850 N Riverside Ave-Rialto,92376---9440 Citrus Ave-Fontana,15:30:00,00:00:00,8.81,Pending
+Sione H Z,B,,91762--Dialysis Center of Ontario-2850 Inland Empire Blvd-Ontario,91764---956 Cone Flower Lane-Ontario,14:30:00,00:00:00,7.19,Pending
+Liligo Jr G,A,,---7036 Victoria Ave. Apt E-Fontana,92335--RAI Waterman-1500 N Waterman-San Bernardino,04:00:00,00:00:00,11.83,Pending
+Victor De Leon P,A,,---257 W Pleasant View Ave-Rancho Cucamonga,91730--RAI Rialto-1850 N Riverside Ave-Rialto,03:30:00,00:00:00,13.44,Pending
+Antonio H,A,,---410 W Maitland St-Ontario,91762--DaVita  Ontario-1950 S Grove Ave Suite 101-Ontario,09:45:00,00:00:00,2.85,Pending
+Mabel Y,B,,91768--DaVita  Upland-600 N 13th Ave-Upland,91786---250 W. Artestia-Pomona,13:15:00,00:00:00,8.06,Pending
+Peter Q,B,,91710--DaVita  Chino-4445 Riverside Dr-Chino,91710---6860 Sunriver Street-Chino,10:00:00,00:00:00,4.53,Pending
+Marie H,A,,---1618 Laurel Ave-Ontario,91762--RAI Redlands-1210 Indiana Court-Redlands,12:30:00,00:00:00,0,Pending
+Maria Q,A,,---8560 Oleander Ave-Highland,--RAI Rialto-1850 N Riverside Ave-Rialto,03:45:00,00:00:00,11.98,Pending
+Darwin I,A,,---1275 W. Bohnert-Rialto,--DaVita  Fontana-17590 E Foothill Blvd-Fontana,05:00:00,00:00:00,3.93,Pending
+Magdy Hali X,B,,92336--Arrowhead Colton-400 N Pepper Ave-Colton,92324---13641 Kings Canyon Ct-Fontana,12:00:00,00:00:00,12.59,Pending
+Nawab P,B,,92316--RAI Redlands-1210 Indiana Court-Redlands,92374---814 Woodcrest st CODE #1040-Bloomington,16:10:00,00:00:00,0,Pending
+Felipa I,A,,---706 S 8th St.-Ontario,--RAI Colton-1275 West C Street-Colton,04:30:00,00:00:00,832.47,Pending
+Frank R,A,,---359 E N. St-. Fontana,92336--RAI Colton-1275 West C Street-Colton,03:45:00,00:00:00,751.55,Pending
+Alicia Y,A,,---1132 Belleview St-San Bernardino,--RAI Colton-1275 West C Street-Colton,12:45:00,00:00:00,3.94,Pending
+Dennis W,B,,--DaVita  Mt. Vista-4041 North University Parkway-San Bernardino,92407---1618 Laurel Ave.-Redlands,18:30:00,00:00:00,15.19,Pending
+Bettie O,B,,--FMC RC-10532 Acacia Street-Rancho Cucamonga,91730---7153 Archibald Apt 175-Rancho Cucamonga,17:30:00,00:00:00,2.29,Pending
+Larvell J,A,,---1682 Sepulveda Ave Apt # A-San Bernardino,--RAI Fontana-10557 Juniper Ave-Fontana,11:45:00,00:00:00,14.34,Pending
+Natalia S,A,,---7360 Poplar Dr-Ontario,91764--RAI Rialto-1850 N Riverside Ave-Rialto,08:30:00,00:00:00,6.84,Pending
+Karl H,A,,---1680 Finecroft Dr-Claremont,91711--DaVita  Montclair-9142 Monte Vista Ave-Montclair,08:15:00,00:00:00,4.21,Pending
+Jr V,B,,--RAI Waterman-1500 N Waterman-San Bernardino,92404---4190 Sepulveda Ave # 3-San Bernardino,08:30:00,00:00:00,2.96,Pending
+Jacqueline N,B,,91786--DaVita  Chino-4445 Riverside Dr-Chino,91710---530 Alpine St #410-Upland,11:45:00,00:00:00,9.03,Pending
+Soledad K,A,,---1948 Magnolia st.-Pomona,91768--RAI Rialto-1850 N Riverside Ave-Rialto,03:15:00,00:00:00,24.08,Pending
+Mary T,A,,---1673 N D St-Grand Terrace,--DaVita  Mt. Vista-4041 North University Parkway-San Bernardino,13:00:00,00:00:00,2849.28,Pending
+Julia W,A,,---17381 Lilac St-Fontana,92337--DaVita  Fontana-17590 E Foothill Blvd-Fontana,09:20:00,00:00:00,5.4,Pending
+Ernest U,B,,92376--RAI Rialto-1850 N Riverside Ave-Rialto,92376---890 W 3rd St-Rialto,07:45:00,00:00:00,2.97,Pending
+Yolanda M,B,,92324 ‎--RAI Colton-1275 West C Street-Colton,92324---819 S Berry St-Colton,12:30:00,00:00:00,2.71,Pending
+Nora L,A,,---18325 Evening Primrose Ln-San Bernardino,--DaVita  Fontana-17590 E Foothill Blvd-Fontana,13:50:00,00:00:00,8.14,Pending
+Lewis U,A,,---22491 De Berry Street-San Bernardino,92411--FMC Loma Linda-269 E Caroline St Ste A-San Bernardino,05:00:00,00:00:00,3.58,Pending
+Andres X,A,,---1618 Laurel Ave.-Redlands,--DaVita  Highland-7223 Church St A14-Highland,13:30:00,00:00:00,7.72,Pending
+Rogaciano T,B,,91709--DaVita  Chino-4445 Riverside Dr-Chino,91710---16052 Tamarind Terrace-Chino Hills,13:30:00,00:00:00,5.4,Pending
+Javier Barrera L,B,,--DaVita  Upland-600 N 13th Ave-Upland,91786---909 S Vine St-Ontario,07:30:00,00:00:00,4.54,Pending
+Joseph M,A,,---172 E. 11th street-San Bernardino,92411--DaVita Mt Vista-4041 North University Parkway-San Bernardino,09:00:00,00:00:00,4.95,Pending
+Eneliko V,A,,---1595 N Hancock St-Upland,--DaVita  Colton-1405 W Valley Blvd Ste 100-Colton,09:00:00,00:00:00,2675.99,Pending
+Valentino B,A,,---1168 W. Lewis St.-Fontana,92335--RAI Rialto-1850 N Riverside Ave-Rialto,10:15:00,00:00:00,1.99,Pending
+Stan S,B,,92335--RAI Fontana-10557 Juniper Ave-Fontana,92337---16683 Mallory Drive-Fontana,15:00:00,00:00:00,1.35,Pending
+Larry K,B,,92404--RAI Waterman-1500 N Waterman-San Bernardino,92404---467 E Gilbert St-San Bernardino,19:00:00,00:00:00,0.24,Pending
+Julie N,A,,---5984 McKinley Ave.-San Bernardino,92411--DaVita  Highland-7223 Church St A14-Highland,13:30:00,00:00:00,5.26,Pending
+Martha W,A,,---867 E. 11th St-San Bernardino,--DaVita  Upland-600 N 13th Ave-Upland,09:30:00,00:00:00,24.88,Pending
+Christopher R,B,,92405--RAI Rialto-1850 N Riverside Ave-Rialto,92376---560 W. 20th Apt. 12-San Bernardino,12:30:00,00:00:00,5.73,Pending
+Aureliano J,B,,--DaVita  Highland-7223 Church St A14-Highland,92346---1019 N. Pershing Ave Apt 3-San Bernardino,08:30:00,00:00:00,6.84,Pending
+Leticia V,A,,---243 North Meridian Avenue-San Bernardino,92410--RAI Colton-1275 West C Street-Colton,04:15:00,00:00:00,3.19,Pending
+Francisco X,A,,---708 W 4th St Apt # 226-San Bernardino,92410--Arrowhead Colton-400 N Pepper Ave-Colton,12:00:00,00:00:00,6.66,Pending
+Lamont Q,B,,92407--DaVita  Highland-7223 Church St A14-Highland,92346---4495 N. D. St-San Bernardino,12:15:00,00:00:00,8.96,Pending
+Ricardo G,B,,91762--DaVita  Ontario-1950 S Grove Ave Suite 101-Ontario,91761---1221 W. E st.-Ontario,18:30:00,00:00:00,4.16,Pending
+Carmen T,A,,---626 N Hancock St-San Bernardino,92411--DaVita  Fontana-17590 E Foothill Blvd-Fontana,05:30:00,00:00:00,5.85,Pending
+Semisi Y,A,,---1001 N. Archibald Ave. Apt H-Pomona,--DaVita  Ontario-1950 S Grove Ave Suite 101-Ontario,09:15:00,00:00:00,4.55,Pending
+Maria P,B,,--RAI Waterman-1500 N Waterman-San Bernardino,92404---2673 N. Carlo Ave.-San Bernardino,16:00:00,00:00:00,5.7,Pending
+Francisco F,B,,--DaVita  Colton-1405 W Valley Blvd Ste 100-Colton,92324---182 Randall Alley-San Bernardino,13:00:00,00:00:00,6.1,Pending
+Ramon S,A,,---1700 E Washington St-Colton,92324--DaVita  Colton-1405 W Valley Blvd Ste 100-Colton,09:45:00,00:00:00,5.41,Pending
+Mitsuo Z,A,,---219 E Foothill Blvd-Ontario,91762--DaVita  Pamona-2111 N Garey Ave-Pomona,09:30:00,00:00:00,7.78,Pending
+Sandra O,B,,92410--DaVita  Mt. Vista-4041 North University Parkway-San Bernardino,92407---7348 Elm St-San Bernardino,08:15:00,00:00:00,9.04,Pending
+Jose R,A,,---1071 N Western Ave-San Bernardino,92411--DaVita  Citrus Valley-894 Hardt St-San Bernardino,05:00:00,00:00:00,8.19,Pending
+Aurelio A,A,,---1661 S Euclid Ave-Rialto,92377--San Dimas Dialysis-1335 Cypress Street-San Dimas,10:00:00,00:00:00,2524.92,Pending
+Adam N,B,,92373--RAI Redlands-1210 Indiana Court-Redlands,92374---Assistencia Villa 1875 Barton Rd.-Redlands,15:00:00,00:00:00,2.37,Pending
+Peter Q,A,,---6860 Sunriver Street-Chino,91710--DaVita  Chino-4445 Riverside Dr-Chino,06:30:00,00:00:00,3.7,Pending
+Lidio C,A,,---15037 Holly Dr-Highland,92346--Arrowhead Colton-400 N Pepper Ave-Colton,07:30:00,00:00:00,1947.94,Pending
+Vincent M,B,,--RAI Redlands-1210 Indiana Court-Redlands,92374---29095 Greenspot Road-Highland,09:00:00,00:00:00,4.89,Pending
+Darlene D,A,,---26265 23rd St-Pomona,91768--DaVita  Highland-7223 Church St A14-Highland,05:00:00,00:00:00,1285.23,Pending
+Estella L,B,,--RAI Rialto-1850 N Riverside Ave-Rialto,92376---330 Millard Ave-Rialto,11:00:00,00:00:00,2.27,Pending
+Jason I,B,,--Ontario Dialysis-1950 S Grove Ave Suite 101-Ontario,91761---1730 W. Arrow-Upland,18:30:00,00:00:00,7.63,Pending
+Rosie E,A,,---250 W Artesia St-Upland,91786--DaVita  Pomona-2111 N Garey Ave-Pomona,13:00:00,00:00:00,0.94,Pending
+Angel K,B,,--DaVita Citrus Valley-894 Hardt St-San Bernardino,92408---1239 Herald Street-Redlands,16:30:00,00:00:00,6.11,Pending
+Fermina U,B,,91768--DaVita  Montclair-9142 Monte Vista Ave-Montclair,91763---215 W Pearl St-Pomona,13:30:00,00:00:00,4.38,Pending
+Robert J,A,,---1506 W Jess St.-Pomona,--DaVita  Pomona-2111 N Garey Ave-Pomona,05:00:00,00:00:00,3.56,Pending
+Rogelio F,B,,--DaVita  Fontana-17590 E Foothill Blvd-Fontana,92335---2130 Primrose St-,08:30:00,00:00:00,909.49,Pending
+Mauricio A,A,,---7372 Peppertree Ln-Fontana,92336--RAI Fontana-10557 Juniper Ave-Fontana,04:20:00,00:00:00,5.92,Pending
+Ramiro Z,B,,--DaVita Pomona Valley-2703 S Towne Ave-Pomona,91766---3641 Grizzley Creek-Ontario,17:00:00,00:00:00,11.01,Pending
+Alberto B,A,,---5098 Troth St-Mira Loma,--RAI Fontana-10557 Juniper Ave-Fontana,07:00:00,00:00:00,13.93,Pending
+Estelle A,B,,92411--DaVita  Citrus Valley-894 Hardt St-San Bernardino,92408---1308 Blackstone Ave-San Bernardino,17:50:00,00:00:00,7.03,Pending
+Hilda C,A,,---595 E. 11th street-Pomona,91766--DaVita Pomona Valley-2703 S Towne Ave-Pomona,04:30:00,00:00:00,2.14,Pending
+Laura C,A,,---14206 Cherry Court-Chino,--DaVita Chino-4445 Riverside Dr-Chino,11:30:00,00:00:00,4.9,Pending
+Jose Fernandez E,A,,---250 N. Linden Ave. Spc 36-Rialto,--RAI Rialto-1850 N Riverside Ave-Rialto,03:45:00,00:00:00,3.85,Pending
+Gabriel B,B,,92346--DaVita  Highland-7223 Church St A14-Highland,92346---29335 Gold Buckle Rd-Highland,13:45:00,00:00:00,1.47,Pending
+Jose Fernandez E,B,,--RAI Rialto-1850 N Riverside Ave-Rialto,92376---250 N. Linden Ave. Spc 36-Rialto,07:00:00,00:00:00,3.85,Pending
+Robert D,A,,---16055 Pebble Beach-Chino Hills,--DaVita  Chino-4445 Riverside Dr-Chino,10:30:00,00:00:00,4.41,Pending
+Jesus D,A,,---9170 Pine Ave-Fontana,92335--RAI Rialto-1850 N Riverside Ave-Rialto,08:05:00,00:00:00,8.56,Pending
+Guillermo C,B,,92373--DaVita  Colton-1405 W Valley Blvd Ste 100-Colton,92324---910 S Vine Ave-Redlands,09:15:00,00:00:00,10.1,Pending
+Juan E,A,,---2225 Pumalo St # 211-San Bernardino,--DaVita  Mt. Vista-4041 North University Parkway-San Bernardino,05:30:00,00:00:00,6.9,Pending
+Martinez Carlos B,A,,---2689 Rosedale Ave-Colton,--DaVita  Colton-1405 W Valley Blvd Ste 100-Colton,03:45:00,00:00:00,4.19,Pending
+Serena D,B,,--DaVita  Citrus Valley-894 Hardt St-San Bernardino,92408---160 S Eucalyptus Ave-San Bernardino,07:30:00,00:00:00,7.68,Pending
+Mario F,A,,---5106 Benito St.-Montclair,--DaVita  Upland-600 N 13th Ave-Upland,08:30:00,00:00:00,5.49,Pending
+Joe A,A,,---2505 W. Foothill-San Bernardino,--RAI Rialto-1850 N Riverside Ave-Rialto,11:30:00,00:00:00,3.33,Pending
+Maria E,B,,92346--RAI Rialto-1850 N Riverside Ave-Rialto,92376---440 W. Cromwell St-Highland,16:15:00,00:00:00,745.67,Pending
+Julia G,A,,---9440 Citrus Ave-Fontana,92335--RAI Rialto-1850 N Riverside Ave-Rialto,12:00:00,00:00:00,8.62,Pending
+Sione H Z,A,,---956 Cone Flower Lane-Ontario,91762--Dialysis Center of Ontario-2850 Inland Empire Blvd-Ontario,09:45:00,00:00:00,6.84,Pending
+Javier F,B,,92336--DaVita  Citrus Valley-894 Hardt St-San Bernardino,92408---26120 9th St-Fontana,08:45:00,00:00:00,9.92,Pending
+Hazel O,B,,91701--RAI Rialto-1850 N Riverside Ave-Rialto,92376---2196 Medical Center Dr. Apt 329-Alta Loma,10:45:00,00:00:00,,Pending
+Mabel Y,A,,---250 W. Artestia-Pomona,91768--DaVita  Upland-600 N 13th Ave-Upland,09:45:00,00:00:00,8.33,Pending
+Liligo Jr G,B,,92335--RAI Waterman-1500 N Waterman-San Bernardino,92404---7036 Victoria Ave. Apt E-Fontana,08:00:00,00:00:00,15.02,Pending
+Victor De Leon P,B,,91730--RAI Rialto-1850 N Riverside Ave-Rialto,92376---257 W Pleasant View Ave-Rancho Cucamonga,06:45:00,00:00:00,13.57,Pending
+Antonio H,B,,91762--DaVita  Ontario-1950 S Grove Ave Suite 101-Ontario,91761---410 W Maitland St-Ontario,13:15:00,00:00:00,2.79,Pending
+Magdy Hali X,A,,---13641 Kings Canyon Ct-Fontana,92336--Arrowhead Colton-400 N Pepper Ave-Colton,08:30:00,00:00:00,12.5,Pending
+Nawab P,A,,---814 Woodcrest st CODE #1040-Bloomington,92316--RAI Redlands-1210 Indiana Court-Redlands,12:45:00,00:00:00,0,Pending
+Marie H,B,,91762--RAI Redlands-1210 Indiana Court-Redlands,92374---1618 Laurel Ave-Ontario,16:30:00,00:00:00,0,Pending
+Maria Q,B,,--RAI Rialto-1850 N Riverside Ave-Rialto,92376---8560 Oleander Ave-Highland,07:00:00,00:00:00,12.04,Pending
+Darwin I,B,,--DaVita  Fontana-17590 E Foothill Blvd-Fontana,92335---1275 W. Bohnert-Rialto,09:15:00,00:00:00,3.93,Pending
+Dennis W,A,,---1618 Laurel Ave.-Redlands,--DaVita  Mt. Vista-4041 North University Parkway-San Bernardino,14:00:00,00:00:00,14.9,Pending
+Bettie O,A,,---7153 Archibald Apt 175-Rancho Cucamonga,--FMC RC-10532 Acacia Street-Rancho Cucamonga,14:00:00,00:00:00,3.66,Pending
+Felipa I,B,,--RAI Colton-1275 West C Street-Colton,92324---706 S 8th St.-Ontario,08:00:00,00:00:00,2.25,Pending
+Frank R,B,,92336--RAI Colton-1275 West C Street-Colton,92324---359 E N. St-. Fontana,09:00:00,00:00:00,751.17,Pending
+Alicia Y,B,,--RAI Colton-1275 West C Street-Colton,92324---1132 Belleview St-San Bernardino,16:15:00,00:00:00,2.61,Pending
+Jr V,A,,---4190 Sepulveda Ave # 3-San Bernardino,--RAI Waterman-1500 N Waterman-San Bernardino,04:00:00,00:00:00,2.96,Pending
+Jacqueline N,A,,---530 Alpine St #410-Upland,91786--DaVita  Chino-4445 Riverside Dr-Chino,08:45:00,00:00:00,8.84,Pending
+Larvell J,B,,--RAI Fontana-10557 Juniper Ave-Fontana,92337---1682 Sepulveda Ave Apt # A-San Bernardino,15:15:00,00:00:00,14.36,Pending
+Natalia S,B,,91764--RAI Rialto-1850 N Riverside Ave-Rialto,92376---7360 Poplar Dr-Ontario,12:00:00,00:00:00,18.67,Pending
+Karl H,B,,91711--DaVita  Montclair-9142 Monte Vista Ave-Montclair,91763---1680 Finecroft Dr-Claremont,12:15:00,00:00:00,4.24,Pending
+Ernest U,A,,---890 W 3rd St-Rialto,92376--RAI Rialto-1850 N Riverside Ave-Rialto,04:00:00,00:00:00,2.97,Pending
+Yolanda M,A,,---819 S Berry St-Colton,92324 ‎--RAI Colton-1275 West C Street-Colton,08:30:00,00:00:00,2.98,Pending
+Soledad K,B,,91768--RAI Rialto-1850 N Riverside Ave-Rialto,92376---1948 Magnolia st.-Pomona,06:15:00,00:00:00,24.22,Pending
+Mary T,B,,--DaVita  Mt. Vista-4041 North University Parkway-San Bernardino,92407---1673 N D St-Grand Terrace,17:00:00,00:00:00,3.75,Pending
+Julia W,B,,92337--DaVita  Fontana-17590 E Foothill Blvd-Fontana,92335---17381 Lilac St-Fontana,12:20:00,00:00:00,5.43,Pending
+Rogaciano T,A,,---16052 Tamarind Terrace-Chino Hills,91709--DaVita  Chino-4445 Riverside Dr-Chino,10:15:00,00:00:00,6.89,Pending
+Javier Barrera L,A,,---909 S Vine St-Ontario,--DaVita  Upland-600 N 13th Ave-Upland,04:30:00,00:00:00,4.54,Pending
+Nora L,B,,--DaVita  Fontana-17590 E Foothill Blvd-Fontana,92335---18325 Evening Primrose Ln-San Bernardino,16:50:00,00:00:00,8.11,Pending
+Lewis U,B,,92411--FMC Loma Linda-269 E Caroline St Ste A-San Bernardino,92408---22491 De Berry Street-San Bernardino,09:00:00,00:00:00,3.55,Pending
+Andres X,B,,--DaVita  Highland-7223 Church St A14-Highland,92346---1618 Laurel Ave.-Redlands,17:00:00,00:00:00,1.89,Pending
+Stan S,A,,---16683 Mallory Drive-Fontana,92335--RAI Fontana-10557 Juniper Ave-Fontana,11:00:00,00:00:00,1.35,Pending
+Larry K,A,,---467 E Gilbert St-San Bernardino,92404--RAI Waterman-1500 N Waterman-San Bernardino,15:30:00,00:00:00,0.24,Pending
+Joseph M,B,,92411--DaVita Mt Vista-4041 North University Parkway-San Bernardino,92407---172 E. 11th street-San Bernardino,13:30:00,00:00:00,5.24,Pending
+Eneliko V,B,,--DaVita  Colton-1405 W Valley Blvd Ste 100-Colton,92324---1595 N Hancock St-Upland,12:30:00,00:00:00,2673.35,Pending
+Valentino B,B,,92335--RAI Rialto-1850 N Riverside Ave-Rialto,92376---1168 W. Lewis St.-Fontana,14:15:00,00:00:00,1.98,Pending
+Christopher R,A,,---560 W. 20th Apt. 12-San Bernardino,92405--RAI Rialto-1850 N Riverside Ave-Rialto,08:30:00,00:00:00,5.72,Pending
+Aureliano J,A,,---1019 N. Pershing Ave Apt 3-San Bernardino,--DaVita  Highland-7223 Church St A14-Highland,05:00:00,00:00:00,6.93,Pending
+Julie N,B,,92411--DaVita  Highland-7223 Church St A14-Highland,92346---5984 McKinley Ave.-San Bernardino,17:30:00,00:00:00,4.03,Pending
+Martha W,B,,--DaVita  Upland-600 N 13th Ave-Upland,91786---867 E. 11th St-San Bernardino,13:45:00,00:00:00,0.8,Pending
+Lamont Q,A,,---4495 N. D. St-San Bernardino,92407--DaVita  Highland-7223 Church St A14-Highland,08:00:00,00:00:00,9.42,Pending
+Ricardo G,A,,---1221 W. E st.-Ontario,91762--DaVita  Ontario-1950 S Grove Ave Suite 101-Ontario,15:00:00,00:00:00,4.55,Pending
+Leticia V,B,,92410--RAI Colton-1275 West C Street-Colton,92324---243 North Meridian Avenue-San Bernardino,07:45:00,00:00:00,2.71,Pending
+Francisco X,B,,92410--Arrowhead Colton-400 N Pepper Ave-Colton,92324---708 W 4th St Apt # 226-San Bernardino,15:30:00,00:00:00,7.54,Pending
+Maria P,A,,---2673 N. Carlo Ave.-San Bernardino,--RAI Waterman-1500 N Waterman-San Bernardino,12:00:00,00:00:00,5.91,Pending
+Francisco F,A,,---182 Randall Alley-San Bernardino,--DaVita  Colton-1405 W Valley Blvd Ste 100-Colton,08:45:00,00:00:00,6.38,Pending
+Carmen T,B,,92411--DaVita  Fontana-17590 E Foothill Blvd-Fontana,92335---626 N Hancock St-San Bernardino,09:30:00,00:00:00,5.85,Pending
+Semisi Y,B,,--DaVita  Ontario-1950 S Grove Ave Suite 101-Ontario,91761---1001 N. Archibald Ave. Apt H-Pomona,12:45:00,00:00:00,4.55,Pending
+Sandra O,A,,---7348 Elm St-San Bernardino,92410--DaVita  Mt. Vista-4041 North University Parkway-San Bernardino,04:45:00,00:00:00,7.44,Pending
+Ramon S,B,,92324--DaVita  Colton-1405 W Valley Blvd Ste 100-Colton,92324---1700 E Washington St-Colton,14:00:00,00:00:00,4.72,Pending
+Mitsuo Z,B,,91762--DaVita  Pamona-2111 N Garey Ave-Pomona,91767---219 E Foothill Blvd-Ontario,13:30:00,00:00:00,8.07,Pending
+Adam N,A,,---Assistencia Villa 1875 Barton Rd.-Redlands,92373--RAI Redlands-1210 Indiana Court-Redlands,10:00:00,00:00:00,2.37,Pending
+Jose R,B,,92411--DaVita  Citrus Valley-894 Hardt St-San Bernardino,92408---1071 N Western Ave-San Bernardino,08:30:00,00:00:00,7.14,Pending
+Aurelio A,B,,92377--San Dimas Dialysis-1335 Cypress Street-San Dimas,91773---1661 S Euclid Ave-Rialto,14:00:00,00:00:00,2530.99,Pending
+Vincent M,A,,---29095 Greenspot Road-Highland,--RAI Redlands-1210 Indiana Court-Redlands,05:10:00,00:00:00,4.81,Pending
+Lidio C,B,,92346--Arrowhead Colton-400 N Pepper Ave-Colton,92324---15037 Holly Dr-Highland,12:45:00,00:00:00,1950.15,Pending
+Estella L,A,,---330 Millard Ave-Rialto,--RAI Rialto-1850 N Riverside Ave-Rialto,07:45:00,00:00:00,2.28,Pending
+Darlene D,B,,91768--DaVita  Highland-7223 Church St A14-Highland,92346---26265 23rd St-Pomona,08:00:00,00:00:00,97.25,Pending
+Angel K,A,,---1239 Herald Street-Redlands,--DaVita Citrus Valley-894 Hardt St-San Bernardino,13:00:00,00:00:00,6.03,Pending
+Fermina U,A,,---215 W Pearl St-Pomona,91768--DaVita  Montclair-9142 Monte Vista Ave-Montclair,09:30:00,00:00:00,4.43,Pending
+Rosie E,B,,91786--DaVita  Pomona-2111 N Garey Ave-Pomona,91767---250 W Artesia St-Upland,16:00:00,00:00:00,0.77,Pending
+adam smith,B,,300 Gatlin Avenue--Orlando- FL- United States,100 North Forest Hill Irene Road-- Cordova- TN- USA,06:00:00,00:00:00,821.28,Pending
+adam smith,A,Aljean S,100 North Forest Hill Irene Road-- Cordova- TN- USA,300 Gatlin Avenue--Orlando- FL- United States,04:00:00,18:38:23,821.77,Completed
+Test,A,,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,00:00:00,13.65,Pending
+Test,A,,11957 Bighorn Peak Court-- Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,00:00:00,13.65,Pending
+Test,A,,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,00:00:00,13.65,Cancelled
+Test,A,Fernando j,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,00:00:00,13.65,Pending
+Ramiro V,A,,3641 Grizzley Creek--Ontario-CA-,2703 S Towne Ave--Pomona-CA-91766,10:15:00,00:00:00,9,Pending
+Fermina I,A,,9142 Monte Vista Ave--Montclair-CA-91763,215 W Pearl St--Pomona-CA-91768,13:30:00,00:00:00,15,Pending
+Vincent I,A,,29095 Greenspot Road--Highland-CA-,1210 Indiana Court--Redlands-CA-92374,05:10:00,00:00:00,5,Pending
+Adam J,A,,Assistencia Villa 1875 Barton Rd.--Redlands-CA-92373,1210 Indiana Court--Redlands-CA-92374,10:00:00,00:00:00,,Pending
+Leticia I,A,,1275 West C Street--Colton-CA-92324,243 North Meridian Avenue--San Bernardino-CA-92410,09:00:00,00:00:00,,Pending
+Soledad A,A,,1850 N Riverside Ave--Rialto-CA-92376,1948 Magnolia st.--San Bernardino-CA-,06:15:00,00:00:00,4,Pending
+Mitsuo K,A,,219 E Foothill Blvd--Pomona-CA-,2111 N Garey Ave--Pomona-CA-91767,09:30:00,00:00:00,2,Pending
+Darlene A,A,,26265 23rd St--Highland-CA-92346,7223 Church St A14--Highland-CA-92346,05:00:00,00:00:00,5,Pending
+Aurelio E,A,,1661 S Euclid Ave--Ontario-CA-91762,1335 Cypress Street--San Dimas-CA-91773,10:00:00,00:00:00,16,Pending
+Francisco I,A,,400 N Pepper Ave--Colton-CA-92324,708 W 4th St Apt # 226--San Bernardino-CA-,15:30:00,00:00:00,7,Pending
+Mitsuo Q,A,,2111 N Garey Ave--Pomona-CA-91767,219 E Foothill Blvd--Pomona-CA-,13:30:00,00:00:00,2,Pending
+Nawab K,A,,814 Woodcrest st CODE #1040--Bloomington-CA-92316,1210 Indiana Court--Redlands-CA-92374,12:45:00,00:00:00,12,Pending
+Jason Z,A,,1730 W. Arrow--Upland-CA-,1950 S Grove Ave Suite 101--Ontario-CA-91761,14:00:00,00:00:00,2,Pending
+Ernest P,A,,890 W 3rd St--Rialto-CA-92376,1850 N Riverside Ave--Rialto-CA-92376,04:00:00,00:00:00,5,Pending
+Hazel V,A,,2196 Medical Center Dr. Apt 329--San Bernardino-CA-92411,1850 N Riverside Ave--Rialto-CA-92376,07:15:00,00:00:00,3,Pending
+Liligo D,A,,7036 Victoria Ave. Apt E--Highland-CA-92346,1500 N Waterman--San Bernardino-CA-92404,04:30:00,00:00:00,3.31,Pending
+Victor De Leon C,A,,1850 N Riverside Ave--Rialto-CA-92376,257 W Pleasant View Ave--Colton-CA-,06:45:00,00:00:00,7,Pending
+Lidio J,A,,400 N Pepper Ave--Colton-CA-92324,15037 Holly Dr--Fontana-CA-92335,12:45:00,00:00:00,9,Pending
+Rogelio V,A,,2130 Primrose St--Upland-CA-91786,17590 E Foothill Blvd--Fontana-CA-92335,04:30:00,00:00:00,2,Pending
+Mario N,A,,5106 Benito St.--Montclair-CA-,600 N 13th Ave--Upland-CA-91786,08:30:00,00:00:00,6,Pending
+Jose Fernandez Y,A,,1850 N Riverside Ave--Rialto-CA-92376,250 N. Linden Ave. Spc 36--Rialto-CA-,07:00:00,00:00:00,4,Pending
+Karl H,A,,9142 Monte Vista Ave--Montclair-CA-91763,1680 Finecroft Dr--Claremont-CA-91711,11:45:00,00:00:00,4.21,Pending
+Sandra K,A,,4041 North University Parkway--San Bernardino-CA-92407,7348 Elm St--San Bernardino-CA-92410,09:00:00,00:00:00,8.68,Pending
+Alberto G,A,,5098 Troth St--Mira Loma-CA-,10557 Juniper Ave--Fontana-CA-92337,07:00:00,00:00:00,,Pending
+Peter H,A,,6860 Sunriver Street--Chino-CA-91710,4445 Riverside Dr--Chino-CA-91710,06:30:00,00:00:00,4,Pending
+Semisi P,A,,1950 S Grove Ave Suite 101--Ontario-CA-91761,1001 N. Archibald Ave. Apt H--Ontario-CA-91764,12:45:00,00:00:00,5,Pending
+Javier Barrera V,A,,600 N 13th Ave--Upland-CA-91786,909 S Vine St--Ontario-CA-,07:30:00,00:00:00,5,Pending
+Maria G,A,,1500 N Waterman--San Bernardino-CA-92404,2673 N. Carlo Ave.--San Bernardino-CA-,16:00:00,00:00:00,6,Pending
+Larvell N,A,,10557 Juniper Ave--Fontana-CA-92337,1682 Sepulveda Ave Apt # A--San Bernardino-CA-92404,15:15:00,00:00:00,9,Pending
+Jacqueline G,A,,530 Alpine St #410--Upland-CA-91786,4445 Riverside Dr--Chino-CA-91710,08:45:00,00:00:00,10,Pending
+Yolanda G,A,,1275 West C Street--Colton-CA-92324,819 S Berry St--Colton-CA-92324 ‎,13:00:00,00:00:00,2.71,Pending
+Hilda A,A,,2703 S Towne Ave--Pomona-CA-91766,595 E. 11th street--Pomona-CA-91766,09:15:00,00:00:00,,Pending
+Mabel O,A,,250 W. Artestia--Pomona-CA-91768,600 N 13th Ave--Upland-CA-91786,09:45:00,00:00:00,8,Pending
+Carmen S,A,,626 N Hancock St--San Bernardino-CA-92411,17590 E Foothill Blvd--Fontana-CA-92335,05:30:00,00:00:00,6,Pending
+Robert E,A,,16055 Pebble Beach--Chino Hills-CA-,4445 Riverside Dr--Chino-CA-91710,10:30:00,00:00:00,5,Pending
+Lewis X,A,,22491 De Berry Street--Grand Terrace-CA-,269 E Caroline St Ste A--San Bernardino-CA-92408,23:59:59,00:00:00,4,Pending
+Nora U,A,,18325 Evening Primrose Ln--San Bernardino-CA-92407,17590 E Foothill Blvd--Fontana-CA-92335,13:50:00,00:00:00,9,Pending
+Ramiro B,A,,2703 S Towne Ave--Pomona-CA-91766,3641 Grizzley Creek--Ontario-CA-,06:15:00,00:00:00,10.98,Pending
+Juan D,A,,2225 Pumalo St # 211--San Bernardino-CA-,4041 North University Parkway--San Bernardino-CA-92407,05:00:00,00:00:00,6.85,Pending
+Ramon O,A,,1700 E Washington St--Colton-CA-92324,1405 W Valley Blvd Ste 100--Colton-CA-92324,09:45:00,00:00:00,6,Pending
+Eneliko Q,A,,1595 N Hancock St--San Bernardino-CA-92411,1405 W Valley Blvd Ste 100--Colton-CA-92324,09:00:00,00:00:00,6,Pending
+Alberto M,A,,10557 Juniper Ave--Fontana-CA-92337,5098 Troth St--Mira Loma-CA-,11:15:00,00:00:00,,Pending
+Mary G,A,,1673 N D St--San Bernardino-CA-92405,4041 North University Parkway--San Bernardino-CA-92407,13:00:00,00:00:00,4,Pending
+Pabloita B,A,,1365 N Waterman Ave #231--San Bernardino-CA-92404,1275 West C Street--Colton-CA-92324,23:59:59,00:00:00,8,In Progress
+Aureliano X,A,,1019 N. Pershing Ave Apt 3--San Bernardino-CA-,7223 Church St A14--Highland-CA-92346,05:00:00,00:00:00,8,Pending
+Larry I,A,,1500 N Waterman--San Bernardino-CA-92404,Medical Center Convalescent- 467 E Gilbert St--San Bernardino-CA-92404,23:59:59,00:00:00,1,Pending
+Christopher U,A,,1850 N Riverside Ave--Rialto-CA-92376,560 W. 20th Apt. 12--San Bernardino-CA-92405,12:30:00,00:00:00,6,Pending
+Darwin R,A,,1275 W. Bohnert--Rialto-CA-,17590 E Foothill Blvd--Fontana-CA-92335,05:00:00,00:00:00,9,Pending
+Estella N,A,,330 Millard Ave--Rialto-CA-,1850 N Riverside Ave--Rialto-CA-92376,07:45:00,00:00:00,3,Pending
+Christopher O,A,,560 W. 20th Apt. 12--San Bernardino-CA-92405,1850 N Riverside Ave--Rialto-CA-92376,08:30:00,00:00:00,6,Pending
+Javier L,A,,26120 9th St--Highland-CA-92346,894 Hardt St--San Bernardino-CA-92408,05:00:00,00:00:00,5,Pending
+Laura R,A,,14206 Cherry Court--Chino-CA-,4445 Riverside Dr--Chino-CA-91710,11:30:00,00:00:00,,Pending
+Serena K,A,,160 S Eucalyptus Ave--Rialto-CA-92376,894 Hardt St--San Bernardino-CA-92408,04:30:00,00:00:00,8,Pending
+Natalia Y,A,,7360 Poplar Dr--. Fontana-CA-92336,1850 N Riverside Ave--Rialto-CA-92376,08:30:00,00:00:00,7,Pending
+Lamont C,A,,7223 Church St A14--Highland-CA-92346,4495 N. D. St--San Bernardino-CA-92407,12:15:00,00:00:00,10,Pending
+John B,A,,4190 Sepulveda Ave # 3--San Bernardino-CA-,1500 N Waterman--San Bernardino-CA-92404,04:00:00,00:00:00,6,Pending
+Julie Z,A,,5984 McKinley Ave.--San Bernardino-CA-,7223 Church St A14--Highland-CA-92346,13:30:00,00:00:00,5,Pending
+Bettie E,A,,10532 Acacia Street--Rancho Cucamonga-CA-91730,7153 Archibald Apt 175--Rancho Cucamonga-CA-,17:30:00,00:00:00,4,Pending
+Angel S,A,,1239 Herald Street--Redlands-CA-,894 Hardt St--San Bernardino-CA-92408,13:00:00,00:00:00,,Pending
+Alicia D,A,,1132 Belleview St--San Bernardino-CA-,1275 West C Street--Colton-CA-92324,13:00:00,00:00:00,7,Pending
+Andres E,A,,7223 Church St A14--Highland-CA-92346,1618 Laurel Ave.--Redlands-CA-,23:59:59,00:00:00,,Pending
+Jose Fernandez S,A,,250 N. Linden Ave. Spc 36--Rialto-CA-,1850 N Riverside Ave--Rialto-CA-92376,03:45:00,00:00:00,4,Pending
+Julia S,A,,1850 N Riverside Ave--Rialto-CA-92376,9440 Citrus Ave--Fontana-CA-92335,15:30:00,00:00:00,9,Pending
+Francisco N,A,,182 Randall Alley--San Bernardino-CA-,1405 W Valley Blvd Ste 100--Colton-CA-92324,08:45:00,00:00:00,9,Pending
+Maria D,A,,1850 N Riverside Ave--Rialto-CA-92376,8560 Oleander Ave--Fontana-CA-,07:00:00,00:00:00,7,Pending
+Carlos Gomez M,A,,2689 Rosedale Ave.--Colton-CA-,1405 W Valley Blvd Ste 100--Colton-CA-92324,13:00:00,00:00:00,5,Pending
+Ricardo I,A,,1221 W. E st.--Ontario-CA-91762,1950 S Grove Ave Suite 101--Ontario-CA-91761,15:00:00,00:00:00,5,Pending
+Stan G,A,,400 N Pepper Ave--Colton-CA-92324,16683 Mallory Drive--Fontana-CA-92335,17:00:00,00:00:00,5.83,Pending
+Julia M,A,,9440 Citrus Ave--Fontana-CA-92335,1850 N Riverside Ave--Rialto-CA-92376,12:00:00,00:00:00,9,Pending
+Mauricio F,A,,7372 Peppertree Ln--Fontana-CA-92336,10557 Juniper Ave--Fontana-CA-92337,04:20:00,00:00:00,6,Pending
+Antonio H,A,,410 W Maitland St--Ontario-CA-91762,1950 S Grove Ave Suite 101--Ontario-CA-91761,09:45:00,00:00:00,3,Pending
+Valentino Z,A,,1168 W. Lewis St.--Rialto-CA-92377,1850 N Riverside Ave--Rialto-CA-92376,10:15:00,00:00:00,2,Pending
+Martha Q,A,,867 E. 11th St--Upland-CA-,600 N 13th Ave--Upland-CA-91786,09:30:00,00:00:00,1,Pending
+Dennis F,A,,1618 Laurel Ave.--Redlands-CA-,4041 North University Parkway--San Bernardino-CA-92407,14:00:00,00:00:00,15,Pending
+Sione C,A,,2850 Inland Empire Blvd--Ontario-CA-91764,956 Cone Flower Lane--Ontario-CA-91762,14:30:00,00:00:00,4,Pending
+Magdy B,A,,13641 Kings Canyon Ct--Fontana-CA-92336,400 N Pepper Ave--Colton-CA-92324,08:30:00,00:00:00,13,Pending
+Jose I,A,,1071 N Western Ave--San Bernardino-CA-92411,894 Hardt St--San Bernardino-CA-92408,05:00:00,00:00:00,8,Pending
+Guillermo V,A,,1405 W Valley Blvd Ste 100--Colton-CA-92324,910 S Vine Ave--Bloomington-CA-,09:15:00,00:00:00,4,Pending
+Robert L,A,,1506 W Jess St.--Pomona-CA-,2111 N Garey Ave--Pomona-CA-91767,05:00:00,00:00:00,3.56,Pending
+Soledad U,A,,1948 Magnolia st.--San Bernardino-CA-,1850 N Riverside Ave--Rialto-CA-92376,03:15:00,00:00:00,4,Pending
+Estelle J,A,,1308 Blackstone Ave--San Bernardino-CA-92411,894 Hardt St--San Bernardino-CA-92408,13:15:00,00:00:00,7,Pending
+Larvell H,A,,1682 Sepulveda Ave Apt # A--San Bernardino-CA-92404,10557 Juniper Ave--Fontana-CA-92337,11:45:00,00:00:00,9,Pending
+Larry C,A,,Medical Center Convalescent- 467 E Gilbert St--San Bernardino-CA-92404,1500 N Waterman--San Bernardino-CA-92404,23:59:59,00:00:00,1,Pending
+Marie L,A,,1618 Laurel Ave--Redlands-CA-92373,1210 Indiana Court--Redlands-CA-92374,12:30:00,00:00:00,3,Pending
+Karl B,A,,1680 Finecroft Dr--Claremont-CA-91711,9142 Monte Vista Ave--Montclair-CA-91763,07:45:00,00:00:00,4,Pending
+Hazel B,A,,1850 N Riverside Ave--Rialto-CA-92376,2196 Medical Center Dr. Apt 329--San Bernardino-CA-92411,10:45:00,00:00:00,3,Pending
+Lidio D,A,,15037 Holly Dr--Fontana-CA-92335,400 N Pepper Ave--Colton-CA-92324,07:30:00,00:00:00,9,Pending
+Frank E,A,,359 E N. St--Colton-CA-92324,1275 West C Street--Colton-CA-92324,03:45:00,00:00:00,3,Pending
+Vincent O,A,,1210 Indiana Court--Redlands-CA-92374,29095 Greenspot Road--Highland-CA-,09:00:00,00:00:00,5,Pending
+Hilda U,A,,595 E. 11th street--Pomona-CA-91766,2703 S Towne Ave--Pomona-CA-91766,13:15:00,00:00:00,2.18,Pending
+Joe Q,A,,2505 W. Foothill--San Bernardino-CA-,1850 N Riverside Ave--Rialto-CA-92376,11:30:00,00:00:00,4,Pending
+Francisco C,A,,708 W 4th St Apt # 226--San Bernardino-CA-,400 N Pepper Ave--Colton-CA-92324,12:00:00,00:00:00,7,Pending
+Maria T,A,,440 W. Cromwell St--Rialto-CA-92376,1850 N Riverside Ave--Rialto-CA-92376,12:45:00,00:00:00,1,Pending
+Ernest V,A,,1850 N Riverside Ave--Rialto-CA-92376,890 W 3rd St--Rialto-CA-92376,07:45:00,00:00:00,5,Pending
+Aurelio K,A,,1335 Cypress Street--San Dimas-CA-91773,1661 S Euclid Ave--Ontario-CA-91762,14:00:00,00:00:00,16,Pending
+Jesus X,A,,1850 N Riverside Ave--Rialto-CA-92376,9170 Pine Ave--Fontana-CA-92335,11:35:00,00:00:00,7,Pending
+Maria Z,A,,1850 N Riverside Ave--Rialto-CA-92376,440 W. Cromwell St--Rialto-CA-92376,16:15:00,00:00:00,1,Pending
+Nawab Q,A,,1210 Indiana Court--Redlands-CA-92374,814 Woodcrest st CODE #1040--Bloomington-CA-92316,06:10:00,00:00:00,12,Pending
+Jesus R,A,,9170 Pine Ave--Fontana-CA-92335,1850 N Riverside Ave--Rialto-CA-92376,08:05:00,00:00:00,7,Pending
+Julia Z,A,,17590 E Foothill Blvd--Fontana-CA-92335,17381 Lilac St--Fontana-CA-92337,12:20:00,00:00:00,6,Pending
+Liligo J,A,,1500 N Waterman--San Bernardino-CA-92404,7036 Victoria Ave. Apt E--Highland-CA-92346,08:30:00,00:00:00,4,Pending
+Victor De Leon W,A,,257 W Pleasant View Ave--Colton-CA-,1850 N Riverside Ave--Rialto-CA-92376,03:30:00,00:00:00,7,Pending
+Darlene G,A,,7223 Church St A14--Highland-CA-92346,26265 23rd St--Highland-CA-92346,08:00:00,00:00:00,5,Pending
+Fermina C,A,,215 W Pearl St--Pomona-CA-91768,9142 Monte Vista Ave--Montclair-CA-91763,09:30:00,00:00:00,15,Pending
+Mario T,A,,600 N 13th Ave--Upland-CA-91786,5106 Benito St.--Montclair-CA-,13:00:00,00:00:00,6,Pending
+Semisi J,A,,1001 N. Archibald Ave. Apt H--Ontario-CA-91764,1950 S Grove Ave Suite 101--Ontario-CA-91761,09:15:00,00:00:00,5,Pending
+Rosie S,A,,2111 N Garey Ave--Pomona-CA-91767,250 W Artesia St--Pomona-CA-91768,16:00:00,00:00:00,1,Pending
+Sandra E,A,,7348 Elm St--San Bernardino-CA-92410,4041 North University Parkway--San Bernardino-CA-92407,05:00:00,00:00:00,8,Pending
+Joe W,A,,1850 N Riverside Ave--Rialto-CA-92376,2505 W. Foothill--San Bernardino-CA-,15:00:00,00:00:00,4,Pending
+Peter N,A,,4445 Riverside Dr--Chino-CA-91710,6860 Sunriver Street--Chino-CA-91710,10:00:00,00:00:00,4,Pending
+Yolanda A,A,,819 S Berry St--Colton-CA-92324 ‎,1275 West C Street--Colton-CA-92324,09:00:00,00:00:00,3,Pending
+Joseph Z,A,,4041 North University Parkway--San Bernardino-CA-92407,172 E. 11th street--San Bernardino-CA-,13:30:00,00:00:00,5,Pending
+Mabel U,A,,600 N 13th Ave--Upland-CA-91786,250 W. Artestia--Pomona-CA-91768,13:15:00,00:00:00,8,Pending
+Jacqueline M,A,,4445 Riverside Dr--Chino-CA-91710,530 Alpine St #410--Upland-CA-91786,11:45:00,00:00:00,10,Pending
+Darwin X,A,,17590 E Foothill Blvd--Fontana-CA-92335,1275 W. Bohnert--Rialto-CA-,09:15:00,00:00:00,9,Pending
+Carmen Y,A,,17590 E Foothill Blvd--Fontana-CA-92335,626 N Hancock St--San Bernardino-CA-92411,09:30:00,00:00:00,6,Pending
+Robert K,A,,4445 Riverside Dr--Chino-CA-91710,16055 Pebble Beach--Chino Hills-CA-,15:00:00,00:00:00,5,Pending
+Lewis D,A,,269 E Caroline St Ste A--San Bernardino-CA-92408,22491 De Berry Street--Grand Terrace-CA-,23:59:59,00:00:00,4,Pending
+Nora A,A,,17590 E Foothill Blvd--Fontana-CA-92335,18325 Evening Primrose Ln--San Bernardino-CA-92407,16:50:00,00:00:00,9,Pending
+Jason F,A,,1950 S Grove Ave Suite 101--Ontario-CA-91761,1730 W. Arrow--Upland-CA-,18:30:00,00:00:00,2,Pending
+Juan J,A,,4041 North University Parkway--San Bernardino-CA-92407,2225 Pumalo St # 211--San Bernardino-CA-,09:30:00,00:00:00,7,Pending
+Ramon U,A,,1405 W Valley Blvd Ste 100--Colton-CA-92324,1700 E Washington St--Colton-CA-92324,14:00:00,00:00:00,6,Pending
+Eneliko W,A,,1405 W Valley Blvd Ste 100--Colton-CA-92324,1595 N Hancock St--San Bernardino-CA-92411,12:30:00,00:00:00,6,Pending
+Adam P,A,,1210 Indiana Court--Redlands-CA-92374,Assistencia Villa 1875 Barton Rd.--Redlands-CA-92373,15:00:00,00:00:00,,Pending
+Rogaciano F,A,,16052 Tamarind Terrace--Chino Hills-CA-91709,4445 Riverside Dr--Chino-CA-91710,10:15:00,00:00:00,6,Pending
+Mary M,A,,4041 North University Parkway--San Bernardino-CA-92407,1673 N D St--San Bernardino-CA-92405,17:00:00,00:00:00,4,Pending
+Pabloita H,A,,1275 West C Street--Colton-CA-92324,1365 N Waterman Ave #231--San Bernardino-CA-92404,09:00:00,00:00:00,8,In Progress
+Margarita L,A,,1850 N Riverside Ave--Rialto-CA-92376,1153 W 15th St.--San Bernardino-CA-,20:00:00,00:00:00,7,Pending
+Aureliano D,A,,7223 Church St A14--Highland-CA-92346,1019 N. Pershing Ave Apt 3--San Bernardino-CA-,08:30:00,00:00:00,8,Pending
+Laura X,A,,4445 Riverside Dr--Chino-CA-91710,14206 Cherry Court--Chino-CA-,15:30:00,00:00:00,,Pending
+Estella T,A,,1850 N Riverside Ave--Rialto-CA-92376,330 Millard Ave--Rialto-CA-,11:00:00,00:00:00,3,Pending
+Estelle P,A,,894 Hardt St--San Bernardino-CA-92408,1308 Blackstone Ave--San Bernardino-CA-92411,17:15:00,00:00:00,7,Pending
+Javier R,A,,894 Hardt St--San Bernardino-CA-92408,26120 9th St--Highland-CA-92346,08:45:00,00:00:00,5,Pending
+Lamont W,A,,4495 N. D. St--San Bernardino-CA-92407,7223 Church St A14--Highland-CA-92346,08:00:00,00:00:00,10,Pending
+Serena Q,A,,894 Hardt St--San Bernardino-CA-92408,160 S Eucalyptus Ave--Rialto-CA-92376,07:30:00,00:00:00,8,Pending
+Natalia E,A,,1850 N Riverside Ave--Rialto-CA-92376,7360 Poplar Dr--. Fontana-CA-92336,12:00:00,00:00:00,7,Pending
+Bettie Y,A,,7153 Archibald Apt 175--Rancho Cucamonga-CA-,10532 Acacia Street--Rancho Cucamonga-CA-91730,14:00:00,00:00:00,4,Pending
+John H,A,,1500 N Waterman--San Bernardino-CA-92404,4190 Sepulveda Ave # 3--San Bernardino-CA-,08:30:00,00:00:00,6,Pending
+Julie F,A,,7223 Church St A14--Highland-CA-92346,5984 McKinley Ave.--San Bernardino-CA-,17:30:00,00:00:00,5,Pending
+Andres Y,A,,1618 Laurel Ave.--Redlands-CA-,7223 Church St A14--Highland-CA-92346,23:59:59,00:00:00,,Pending
+Angel Y,A,,894 Hardt St--San Bernardino-CA-92408,1239 Herald Street--Redlands-CA-,16:30:00,00:00:00,,Pending
+Maria A,A,,2673 N. Carlo Ave.--San Bernardino-CA-,1500 N Waterman--San Bernardino-CA-92404,12:00:00,00:00:00,6,Pending
+Alicia J,A,,1275 West C Street--Colton-CA-92324,1132 Belleview St--San Bernardino-CA-,17:00:00,00:00:00,4.06,Pending
+Maria X,A,,8560 Oleander Ave--Fontana-CA-,1850 N Riverside Ave--Rialto-CA-92376,03:45:00,00:00:00,7,Pending
+Leticia C,A,,243 North Meridian Avenue--San Bernardino-CA-92410,1275 West C Street--Colton-CA-92324,05:00:00,00:00:00,2.79,Pending
+Francisco T,A,,1405 W Valley Blvd Ste 100--Colton-CA-92324,182 Randall Alley--San Bernardino-CA-,13:00:00,00:00:00,9,Pending
+Stan A,A,,16683 Mallory Drive--Fontana-CA-92335,400 N Pepper Ave--Colton-CA-92324,13:00:00,00:00:00,2,Pending
+Carlos Gomez S,A,,1405 W Valley Blvd Ste 100--Colton-CA-92324,2689 Rosedale Ave.--Colton-CA-,17:30:00,00:00:00,5,Pending
+Ricardo O,A,,1950 S Grove Ave Suite 101--Ontario-CA-91761,1221 W. E st.--Ontario-CA-91762,18:30:00,00:00:00,5,Pending
+Antonio N,A,,1950 S Grove Ave Suite 101--Ontario-CA-91761,410 W Maitland St--Ontario-CA-91762,13:15:00,00:00:00,3,Pending
+Valentino F,A,,1850 N Riverside Ave--Rialto-CA-92376,1168 W. Lewis St.--Rialto-CA-92377,14:15:00,00:00:00,2,Pending
+Mauricio L,A,,10557 Juniper Ave--Fontana-CA-92337,7372 Peppertree Ln--Fontana-CA-92336,07:50:00,00:00:00,6,Pending
+Frank K,A,,1275 West C Street--Colton-CA-92324,359 E N. St--Colton-CA-92324,09:00:00,00:00:00,3,Pending
+Sione W,A,,956 Cone Flower Lane--Ontario-CA-91762,2850 Inland Empire Blvd--Ontario-CA-91764,09:45:00,00:00:00,4,Pending
+Martha W,A,,600 N 13th Ave--Upland-CA-91786,867 E. 11th St--Upland-CA-,13:45:00,00:00:00,1,Pending
+Dennis L,A,,4041 North University Parkway--San Bernardino-CA-92407,1618 Laurel Ave.--Redlands-CA-,18:30:00,00:00:00,15,Pending
+Guillermo P,A,,910 S Vine Ave--Bloomington-CA-,1405 W Valley Blvd Ste 100--Colton-CA-92324,04:45:00,00:00:00,4,Pending
+Magdy H,A,,400 N Pepper Ave--Colton-CA-92324,13641 Kings Canyon Ct--Fontana-CA-92336,12:00:00,00:00:00,13,Pending
+Jose O,A,,894 Hardt St--San Bernardino-CA-92408,1071 N Western Ave--San Bernardino-CA-92411,08:30:00,00:00:00,8,Pending
+Javier Barrera P,A,,909 S Vine St--Ontario-CA-,600 N 13th Ave--Upland-CA-91786,04:30:00,00:00:00,5,Pending
+Robert R,A,,2111 N Garey Ave--Pomona-CA-91767,1506 W Jess St.--Pomona-CA-,09:00:00,00:00:00,4,Pending
+Rogelio B,A,,17590 E Foothill Blvd--Fontana-CA-92335,2130 Primrose St--Upland-CA-91786,08:30:00,00:00:00,2,Pending
+Rosie M,A,,250 W Artesia St--Pomona-CA-91768,2111 N Garey Ave--Pomona-CA-91767,13:00:00,00:00:00,1,Pending
+Margarita F,A,,1153 W 15th St.--San Bernardino-CA-,1850 N Riverside Ave--Rialto-CA-92376,16:30:00,00:00:00,7,Pending
+Joseph T,A,,172 E. 11th street--San Bernardino-CA-,4041 North University Parkway--San Bernardino-CA-92407,09:00:00,00:00:00,5,Pending
+Marie R,A,,1210 Indiana Court--Redlands-CA-92374,1618 Laurel Ave--Redlands-CA-92373,16:30:00,00:00:00,3,Pending
+Julia T,A,,17381 Lilac St--Fontana-CA-92337,17590 E Foothill Blvd--Fontana-CA-92335,09:20:00,00:00:00,6,Pending
+Rogaciano L,A,,4445 Riverside Dr--Chino-CA-91710,16052 Tamarind Terrace--Chino Hills-CA-91709,13:30:00,00:00:00,6,Pending
+Angelina M,B,,1950 S Grove Ave Suite 101--Ontario-CA-91761,1132 N. Cucamonga--Ontario-CA-91764,12:15:00,00:00:00,3,Pending
+Makaryous G,B,,4445 Riverside Dr--Chino-CA-91710,5926 Notre Dame Ave. Suite 322--Chino-CA-91710,13:15:00,00:00:00,10,Pending
+Antonia A,A,,1661 S Euclid Ave--Ontario-CA-91762,9142 Monte Vista Ave--Montclair-CA-91763,13:15:00,00:00:00,7,Pending
+Bertha N,B,,2703 S Towne Ave--Pomona-CA-91766,9797 Alton Drive--Rancho Cucamonga-CA-,18:30:00,00:00:00,,Pending
+Mario H,B,,4445 Riverside Dr--Chino-CA-91710,12803 Conifer Ave--Chino-CA-91710,16:30:00,00:00:00,3,Pending
+Gustavo D,B,,4041 North University Parkway--San Bernardino-CA-92407,25376 Los Flores Dr--San Bernardino-CA-92404,23:59:59,00:00:00,4,Pending
+Lilly O,A,,215 W Pearl St Room 18C--Pomona-CA-91768,2703 S Towne Ave--Pomona-CA-91766,13:00:00,00:00:00,,Pending
+Augustina L,B,,1950 S Grove Ave Suite 101--Ontario-CA-91761,250 W Artesia St--Pomona-CA-91768,17:45:00,00:00:00,11,Pending
+Patricia I,B,,4445 Riverside Dr--Chino-CA-91710,12843 9th Street--Chino-CA-,10:00:00,00:00:00,2,Pending
+Gustavo D,A,,25376 Los Flores Dr--San Bernardino-CA-92404,4041 North University Parkway--San Bernardino-CA-92407,05:00:00,00:00:00,4,Pending
+Coraza V,B,,1405 W Valley Blvd Ste 100--Colton-CA-92324,1825 S. Raintree Place--San Bernardino-CA-,08:15:00,00:00:00,6,Pending
+Antonio Avalos I,A,,458 W Philadelphia Street--Ontario-CA-91762,1950 S Grove Ave Suite 101--Ontario-CA-91761,13:45:00,00:00:00,2,Pending
+Esther U,B,,1850 N Riverside Ave--Rialto-CA-92376,7756 Palmetto Ave.--Fontana-CA-,14:45:00,00:00:00,6,Pending
+Larry J,B,,4445 Riverside Dr--Chino-CA-91710,10381 Boston Ave--Chino-CA-91710,07:30:00,00:00:00,1,Pending
+Mikelangelo N,A,,10850 Church St Rancho--Cucamonga-CA-91730,10557 Juniper Ave--Fontana-CA-92337,12:30:00,00:00:00,12,Pending
+Peter J,A,,9576 Central Ave--Montclair-CA-91763,1950 S Grove Ave Suite 101--Ontario-CA-91761,04:15:00,00:00:00,8,Pending
+Jose V,B,,1850 N Riverside Ave--Rialto-CA-92376,3390 Duffy--San Bernardino-CA-,16:00:00,00:00:00,4,Pending
+Guadalupe K,B,,4445 Riverside Dr--Chino-CA-91710,2139 4th st.--Ontario-CA-,13:30:00,00:00:00,10,Pending
+Jorge Z,A,,26838 9th St--Highland-CA-92346,7223 Church St A14--Highland-CA-92346,05:15:00,00:00:00,3,Pending
+Sergio K,A,,407 E. Philips St--Ontario-CA-91761,1950 S Grove Ave Suite 101--Ontario-CA-91761,14:00:00,00:00:00,2,Pending
+Steven W,B,,1850 N Riverside Ave--Rialto-CA-92376,26809 13th St.--Highland-CA-,13:00:00,00:00:00,10,Pending
+Joseph L,B,,4445 Riverside Dr--Chino-CA-91710,2466 Norte Vista Dr--Chino Hills-CA-91709,17:15:00,00:00:00,3,Pending
+Maria D,B,,400 N Pepper Ave--Colton-CA-92324,2575 Mimosa drive--San Bernardino-CA-,08:30:00,00:00:00,2,Pending
+Alejandro E,A,,345 W Wabash Street--San Bernardino-CA-,4041 North University Parkway--San Bernardino-CA-92407,12:30:00,00:00:00,5,Pending
+Josefina F,A,,2466 Ogden St.--San Bernardino-CA-,4041 North University Parkway--San Bernardino-CA-92407,15:00:00,00:00:00,3,Pending
+Rosario X,B,,1850 N Riverside Ave--Rialto-CA-92376,1311 E Date St--San Bernardino-CA-92404,10:15:00,00:00:00,8,Pending
+Araceli M,B,,894 Hardt St--San Bernardino-CA-92408,1850 N. Waterman Ave.--San Bernardino-CA-,12:45:00,00:00:00,6,Pending
+Saucedo C,B,,400 N Pepper Ave--Colton-CA-92324,16964 San Bernardino Avenue--Fontana-CA-,12:15:00,00:00:00,6,Pending
+Jacqueline B,A,,800 E 5th Street Room 212B--Ontario-CA-91764,9142 Monte Vista Ave--Montclair-CA-91763,14:00:00,00:00:00,4,Pending
+Terri G,A,,1265 Kendall Dr--San Bernardino-CA-,4041 North University Parkway--San Bernardino-CA-92407,04:15:00,00:00:00,6,Pending
+Manuel Y,B,,1850 N Riverside Ave--Rialto-CA-92376,966 N. Magnolia Ave.--Rialto-CA-,06:30:00,00:00:00,2,Pending
+Edelmira N,B,,894 Hardt St--San Bernardino-CA-92408,1679 W. 27th st--San Bernardino-CA-92407,08:30:00,00:00:00,9,Pending
+Robert C,A,,233 E. 17th St. Apt. 20--San Bernardino-CA-92404,4041 North University Parkway--San Bernardino-CA-92407,03:55:00,00:00:00,6,Pending
+Augustina L,A,,250 W Artesia St--Pomona-CA-91768,1950 S Grove Ave Suite 101--Ontario-CA-91761,14:45:00,00:00:00,11,Pending
+Maria R,B,,1850 N Riverside Ave--Rialto-CA-92376,2526 W 2nd Ave--Muscoy-CA-92407,08:00:00,00:00:00,5,Pending
+Robert Q,A,,1296 W 3rd St.--Pomona-CA-,2703 S Towne Ave--Pomona-CA-91766,09:30:00,00:00:00,4,Pending
+Ruthann Z,A,,692 E. G St.--Colton-CA-,1850 N Riverside Ave--Rialto-CA-92376,03:35:00,00:00:00,8,Pending
+Frits O,A,,1142 Gould St Apt 1142--San Bernardino-CA-92408,894 Hardt St--San Bernardino-CA-92408,09:15:00,00:00:00,1,Pending
+Ernest T,A,,3409 N E St APT B--San Bernardino-CA-92405,1405 W Valley Blvd Ste 100--Colton-CA-92324,09:45:00,00:00:00,10,Pending
+Margarita A,A,,1693 W. Valencia--Rialto-CA-,1850 N Riverside Ave--Rialto-CA-92376,14:00:00,00:00:00,3,Pending
+Karen P,A,,1875 Barton Rd--Redlands-CA-92373,894 Hardt St--San Bernardino-CA-92408,09:15:00,00:00:00,4,Pending
+Joseph R,A,,511 N Palmetto Ave Apt 135--Ontario-CA-91762,600 N 13th Ave--Upland-CA-91786,13:30:00,00:00:00,4,Pending
+Juan B,A,,1519 W. 8th St.--San Bernardino-CA-92411,1850 N Riverside Ave--Rialto-CA-92376,03:30:00,00:00:00,5,Pending
+Maria Q,A,,7699 Cole Ave--Highland-CA-,894 Hardt St--San Bernardino-CA-92408,04:45:00,00:00:00,6,Pending
+Coraza V,A,,1825 S. Raintree Place--San Bernardino-CA-,1405 W Valley Blvd Ste 100--Colton-CA-92324,23:59:59,00:00:00,6,Pending
+Francisco C,A,,16065 Ramona Dr--Fontana-CA-92336,1850 N Riverside Ave--Rialto-CA-92376,11:00:00,00:00:00,11,Pending
+Gabino R,A,,560 N. F St.--San Bernardino-CA-92410,894 Hardt St--San Bernardino-CA-92408,13:00:00,00:00:00,5,Pending
+Jaime Y,A,,787 Penmar Lane--Pomona-CA-,2850 Inland Empire Blvd--Ontario-CA-91764,12:00:00,00:00:00,12,Pending
+Samuel X,B,,9142 Monte Vista Ave--Montclair-CA-91763,9630 BOLTON AVE--MONTCLAIR-CA-,23:59:59,00:00:00,,Pending
+Teresa D,A,,8191 Calabash St.--Fontana-CA-92335,1850 N Riverside Ave--Rialto-CA-92376,08:25:00,00:00:00,10,Pending
+Jose S,A,,1471 S Riverside Ave--Rialto-CA-92376,1405 W Valley Blvd Ste 100--Colton-CA-92324,15:00:00,00:00:00,2,Pending
+Hayes Z,A,,11171 Oakwood Dr APT 203--Loma Linda-CA-92354,269 E Caroline St Ste A--San Bernardino-CA-92408,09:00:00,00:00:00,1,Pending
+Maria W,B,,1405 W Valley Blvd Ste 100--Colton-CA-92324,3556 Novak St.--Riverside-CA-,17:00:00,00:00:00,,Pending
+Constantino E,A,,2858 N Duffy St--San Bernardino-CA-92407 ‎,1850 N Riverside Ave--Rialto-CA-92376,07:25:00,00:00:00,4,Pending
+Jose S,C,,1405 W Valley Blvd Ste 100--Colton-CA-92324,600 N 13th Ave--Upland-CA-91786,19:00:00,00:00:00,2,Pending
+Tyron A,A,,1247 W 7th St--San Bernardino-CA-92411,269 E Caroline St Ste A--San Bernardino-CA-92408,06:00:00,00:00:00,5,Pending
+Alphonso V,B,,587 N Mountain Ave----,1400 W 13th St. Spc. 20--Upland-CA-91786,12:30:00,00:00:00,1,Pending
+Ann F,A,,7454 Cunningham St.--Highland-CA-,1500 N Waterman--San Bernardino-CA-92404,10:00:00,00:00:00,,Pending
+Esther T,B,,1850 N Riverside Ave--Rialto-CA-92376,2469 Etiwanda Ave--San Bernardino-CA-92410,11:45:00,00:00:00,3,Pending
+Belen B,A,,Inland Valley Healthcare Center- 250 W Artesia St--Pomona-CA-91768,150 E Arrow Hwy--Pomona-CA-91767,11:00:00,00:00:00,,Pending
+Steven X,B,,1405 W Valley Blvd Ste 100--Colton-CA-92324,364 S Eucalyptus Ave--Rialto-CA-92376,08:15:00,00:00:00,3,Pending
+Benjamin G,A,,3957 N. Genevieve St.--San Bernardino-CA-,1500 N Waterman--San Bernardino-CA-92404,23:59:59,00:00:00,3,Pending
+Maria De Jesus G S,B,,1850 N Riverside Ave--Rialto-CA-92376,14996 Athol St--Fontana-CA-,15:45:00,00:00:00,10,Pending
+Refugio C,A,,Claremont Care Center- 219 E Foothill Blvd--Pomona-CA-91768,638 Glendora Ave--Glendora-CA-91740,09:00:00,00:00:00,,Pending
+Maria Y,B,,17590 E Foothill Blvd--Fontana-CA-92335,7794 Kempster Ave--Fontana-CA-92336,17:15:00,00:00:00,1,Pending
+Jorge H,A,,8560 Buckeye Drive--Fontana-CA-92335,1950 S Grove Ave Suite 101--Ontario-CA-91761,12:30:00,00:00:00,22,Pending
+Lonzetta Q,B,,1850 N Riverside Ave--Rialto-CA-92376,1459 W Wabash St--Rialto-CA-92376,11:45:00,00:00:00,3,Pending
+Christopher D,A,,12961 Grape Harvest Dr--Rancho Cucamonga-CA-91739,1950 S Grove Ave Suite 101--Ontario-CA-91761,23:59:59,00:00:00,13,Pending
+Alfonso Barbosa H,B,,1500 N Waterman--San Bernardino-CA-92404,648 N. Crescent Ave.--San Bernardino-CA-92411,14:00:00,00:00:00,,Pending
+Augusta L,A,,1424 Walnut Ave--San Bernardino-CA-92401,1275 West C Street--Colton-CA-92324,23:59:59,00:00:00,4,Pending
+Leasher P,B,,1210 Indiana Court--Redlands-CA-92374,862 Pine Ave. APT D--Redlands-CA-92373,09:00:00,00:00:00,2,Pending
+Billy E,A,,10350 baseline rd--Alta Loma-CA-,1950 S Grove Ave Suite 101--Ontario-CA-91761,14:30:00,00:00:00,8,Pending
+Angelica T,B,,600 N 13th Ave--Upland-CA-91786,9345 Greenbelt Place--Rancho Cucamonga-CA-,12:15:00,00:00:00,4,Pending
+Darnell G,A,,8458 Autumn Leaf Dr.--Rancho Cucamonga-CA-91730,1950 S Grove Ave Suite 101--Ontario-CA-91761,04:00:00,00:00:00,4,Pending
+Richard O,B,,10557 Juniper Ave--Fontana-CA-92337,14134 Chapparral Ave.--Fontana-CA-,06:45:00,00:00:00,5,Pending
+Jose F,A,,3668 Grizzley Creek Ct--Ontario-CA-91761,1950 S Grove Ave Suite 101--Ontario-CA-91761,04:00:00,00:00:00,10,Pending
+Mary U,B,,600 N 13th Ave--Upland-CA-91786,7109 Archibald Ave apt 79--Alta Loma-CA-91701,13:30:00,00:00:00,3,Pending
+Jose Dela J,A,,1471 S. Riverside Ave.--Rialto-CA-92376,1275 West C Street--Colton-CA-92324,23:59:59,00:00:00,6,Pending
+Felipa M,A,,706 S 8th St.--Colton-CA-,1275 West C Street--Colton-CA-92324,23:59:59,00:00:00,3,Pending
+Arturo A,A,,804 Spruce Ave--Rialto-CA-92376,400 N Pepper Ave--Colton-CA-92324,05:00:00,00:00:00,4,Pending
+Mary K,A,,16427 Strong Wood Ln--Fontana-CA-,1275 West C Street--Colton-CA-92324,04:00:00,00:00:00,11,Pending
+Robert P,A,,2703 S Towne Ave--Pomona-CA-91766,2703 S Towne Ave--Pomona-CA-91766,03:00:00,00:00:00,3,Pending
+Isabel E,B,,400 N Pepper Ave--Colton-CA-92324,1675 Industrial Park Ave--Redlands-CA-,13:00:00,00:00:00,3,Pending
+Rafael I,A,,334 E Randall Ave--Rialto-CA-,1275 West C Street--Colton-CA-92324,09:20:00,00:00:00,2,Pending
+Jose B,B,,400 N Pepper Ave--Colton-CA-92324,1235 W 6th St.--San Bernardino-CA-,17:30:00,00:00:00,5,Pending
+Felicidad F,B,,4445 Riverside Dr--Chino-CA-91710,14722 Burgundy Pl--Chino Hills-CA-91709,18:30:00,00:00:00,5,Pending
+Maria Sanchez H,A,,545 East E st.--Ontario-CA-,1950 S Grove Ave Suite 101--Ontario-CA-91761,12:45:00,00:00:00,3,Pending
+Bertha N,A,,9797 Alton Drive--Rancho Cucamonga-CA-,2703 S Towne Ave--Pomona-CA-91766,14:30:00,00:00:00,,Pending
+Mario H,A,,12803 Conifer Ave--Chino-CA-91710,4445 Riverside Dr--Chino-CA-91710,14:00:00,00:00:00,3,Pending
+Angelica Otiz W,B,,1405 W Valley Blvd Ste 100--Colton-CA-92324,1419 N. Edelberry Ave--Ontario-CA-91762,23:59:59,00:00:00,20,Pending
+Antonia A,B,,9142 Monte Vista Ave--Montclair-CA-91763,1661 S Euclid Ave--Ontario-CA-91762,17:45:00,00:00:00,7,Pending
+Jose B,A,,1235 W 6th St.--San Bernardino-CA-,400 N Pepper Ave--Colton-CA-92324,13:30:00,00:00:00,5,Pending
+Patricia I,A,,12843 9th Street--Chino-CA-,4445 Riverside Dr--Chino-CA-91710,06:00:00,00:00:00,2,Pending
+Angelica Otiz W,A,,1419 N. Edelberry Ave--Ontario-CA-91762,1405 W Valley Blvd Ste 100--Colton-CA-92324,12:15:00,00:00:00,20,Pending
+Lilly O,B,,2703 S Towne Ave--Pomona-CA-91766,215 W Pearl St Room 18C--Pomona-CA-91768,17:15:00,00:00:00,,Pending
+Esther U,A,,7756 Palmetto Ave.--Fontana-CA-,1850 N Riverside Ave--Rialto-CA-92376,11:15:00,00:00:00,6,Pending
+Larry J,A,,10381 Boston Ave--Chino-CA-91710,4445 Riverside Dr--Chino-CA-91710,04:15:00,00:00:00,1,Pending
+Arturo A,B,,400 N Pepper Ave--Colton-CA-92324,804 Spruce Ave--Rialto-CA-92376,08:30:00,00:00:00,4,Pending
+Danny U,B,,1405 W Valley Blvd Ste 100--Colton-CA-92324,1700 E Washington St Level B--Colton-CA-92324,13:30:00,00:00:00,6,Pending
+Antonio Avalos I,B,,1950 S Grove Ave Suite 101--Ontario-CA-91761,458 W Philadelphia Street--Ontario-CA-91762,17:30:00,00:00:00,2,Pending
+Jose V,A,,3390 Duffy--San Bernardino-CA-,1850 N Riverside Ave--Rialto-CA-92376,12:30:00,00:00:00,4,Pending
+Guadalupe K,A,,2139 4th st.--Ontario-CA-,4445 Riverside Dr--Chino-CA-91710,09:45:00,00:00:00,10,Pending
+Mikelangelo N,B,,10557 Juniper Ave--Fontana-CA-92337,10850 Church St Rancho--Cucamonga-CA-91730,23:59:59,00:00:00,12,Pending
+Peter J,B,,1950 S Grove Ave Suite 101--Ontario-CA-91761,9576 Central Ave--Montclair-CA-91763,07:45:00,00:00:00,8,Pending
+Steven W,A,,26809 13th St.--Highland-CA-,1850 N Riverside Ave--Rialto-CA-92376,09:15:00,00:00:00,10,Pending
+Joseph L,A,,2466 Norte Vista Dr--Chino Hills-CA-91709,4445 Riverside Dr--Chino-CA-91710,13:30:00,00:00:00,3,Pending
+Jorge Z,B,,7223 Church St A14--Highland-CA-92346,26838 9th St--Highland-CA-92346,08:45:00,00:00:00,3,Pending
+Sergio K,B,,1950 S Grove Ave Suite 101--Ontario-CA-91761,407 E. Philips St--Ontario-CA-91761,18:00:00,00:00:00,2,Pending
+Rosario X,A,,1311 E Date St--San Bernardino-CA-92404,1850 N Riverside Ave--Rialto-CA-92376,07:00:00,00:00:00,8,Pending
+Araceli M,A,,1850 N. Waterman Ave.--San Bernardino-CA-,894 Hardt St--San Bernardino-CA-92408,09:30:00,00:00:00,6,Pending
+Saucedo C,A,,16964 San Bernardino Avenue--Fontana-CA-,400 N Pepper Ave--Colton-CA-92324,08:00:00,00:00:00,6,Pending
+Alejandro E,B,,4041 North University Parkway--San Bernardino-CA-92407,345 W Wabash Street--San Bernardino-CA-,23:59:59,00:00:00,5,Pending
+Josefina F,B,,4041 North University Parkway--San Bernardino-CA-92407,2466 Ogden St.--San Bernardino-CA-,18:00:00,00:00:00,3,Pending
+Manuel Y,A,,966 N. Magnolia Ave.--Rialto-CA-,1850 N Riverside Ave--Rialto-CA-92376,03:15:00,00:00:00,2,Pending
+Edelmira N,A,,1679 W. 27th st--San Bernardino-CA-92407,894 Hardt St--San Bernardino-CA-92408,05:00:00,00:00:00,9,Pending
+Maria D,A,,2575 Mimosa drive--San Bernardino-CA-,400 N Pepper Ave--Colton-CA-92324,05:00:00,00:00:00,2,Pending
+Jacqueline B,B,,9142 Monte Vista Ave--Montclair-CA-91763,800 E 5th Street Room 212B--Ontario-CA-91764,18:00:00,00:00:00,4,Pending
+Terri G,B,,4041 North University Parkway--San Bernardino-CA-92407,1265 Kendall Dr--San Bernardino-CA-,23:59:59,00:00:00,6,Pending
+Robert C,B,,4041 North University Parkway--San Bernardino-CA-92407,233 E. 17th St. Apt. 20--San Bernardino-CA-92404,23:59:59,00:00:00,6,Pending
+Maria R,A,,2526 W 2nd Ave--Muscoy-CA-92407,1850 N Riverside Ave--Rialto-CA-92376,04:15:00,00:00:00,5,Pending
+Robert Q,B,,2703 S Towne Ave--Pomona-CA-91766,1296 W 3rd St.--Pomona-CA-,14:00:00,00:00:00,4,Pending
+Ruthann Z,B,,1850 N Riverside Ave--Rialto-CA-92376,692 E. G St.--Colton-CA-,07:20:00,00:00:00,8,Pending
+Frits O,B,,894 Hardt St--San Bernardino-CA-92408,1142 Gould St Apt 1142--San Bernardino-CA-92408,13:15:00,00:00:00,1,Pending
+Ernest T,B,,1405 W Valley Blvd Ste 100--Colton-CA-92324,3409 N E St APT B--San Bernardino-CA-92405,14:15:00,00:00:00,10,Pending
+Margarita A,B,,1850 N Riverside Ave--Rialto-CA-92376,1693 W. Valencia--Rialto-CA-,17:30:00,00:00:00,3,Pending
+Karen P,B,,894 Hardt St--San Bernardino-CA-92408,1875 Barton Rd--Redlands-CA-92373,12:45:00,00:00:00,4,Pending
+Joseph R,B,,600 N 13th Ave--Upland-CA-91786,511 N Palmetto Ave Apt 135--Ontario-CA-91762,17:30:00,00:00:00,4,Pending
+Juan B,B,,1850 N Riverside Ave--Rialto-CA-92376,1519 W. 8th St.--San Bernardino-CA-92411,07:00:00,00:00:00,5,Pending
+Maria Q,B,,894 Hardt St--San Bernardino-CA-92408,7699 Cole Ave--Highland-CA-,07:45:00,00:00:00,6,Pending
+Danny U,A,,1700 E Washington St Level B--Colton-CA-92324,1405 W Valley Blvd Ste 100--Colton-CA-92324,10:15:00,00:00:00,6,Pending
+Francisco C,B,,1850 N Riverside Ave--Rialto-CA-92376,16065 Ramona Dr--Fontana-CA-92336,14:30:00,00:00:00,11,Pending
+Gabino R,B,,894 Hardt St--San Bernardino-CA-92408,560 N. F St.--San Bernardino-CA-92410,16:30:00,00:00:00,5,Pending
+Jaime Y,B,,2850 Inland Empire Blvd--Ontario-CA-91764,787 Penmar Lane--Pomona-CA-,16:00:00,00:00:00,12,Pending
+Samuel X,A,,9630 BOLTON AVE--MONTCLAIR-CA-,9142 Monte Vista Ave--Montclair-CA-91763,23:59:59,00:00:00,,Pending
+Teresa D,B,,1850 N Riverside Ave--Rialto-CA-92376,8191 Calabash St.--Fontana-CA-92335,11:55:00,00:00:00,10,Pending
+Jose S,B,,1405 W Valley Blvd Ste 100--Colton-CA-92324,1405 W Valley Blvd Ste 100--Colton-CA-92324,13:45:00,00:00:00,2,Pending
+Hayes Z,B,,269 E Caroline St Ste A--San Bernardino-CA-92408,11171 Oakwood Dr APT 203--Loma Linda-CA-92354,14:30:00,00:00:00,1,Pending
+Maria W,A,,3556 Novak St.--Riverside-CA-,1405 W Valley Blvd Ste 100--Colton-CA-92324,13:00:00,00:00:00,,Pending
+Constantino E,B,,1850 N Riverside Ave--Rialto-CA-92376,2858 N Duffy St--San Bernardino-CA-92407 ‎,10:55:00,00:00:00,4,Pending
+Jose S,D,,600 N 13th Ave--Upland-CA-91786,1509 N Corona Ave--Ontario-CA-,17:15:00,00:00:00,2,Pending
+Tyron A,B,,269 E Caroline St Ste A--San Bernardino-CA-92408,1247 W 7th St--San Bernardino-CA-92411,09:45:00,00:00:00,5,Pending
+Steven X,A,,364 S Eucalyptus Ave--Rialto-CA-92376,1405 W Valley Blvd Ste 100--Colton-CA-92324,04:45:00,00:00:00,3,Pending
+Ann F,B,,1500 N Waterman--San Bernardino-CA-92404,7454 Cunningham St.--Highland-CA-,14:30:00,00:00:00,,Pending
+Maria De Jesus G S,A,,14996 Athol St--Fontana-CA-,1850 N Riverside Ave--Rialto-CA-92376,12:00:00,00:00:00,10,Pending
+Belen B,B,,150 E Arrow Hwy--Pomona-CA-91767,Inland Valley Healthcare Center- 250 W Artesia St--Pomona-CA-91768,15:30:00,00:00:00,,Pending
+Maria Y,A,,7794 Kempster Ave--Fontana-CA-92336,17590 E Foothill Blvd--Fontana-CA-92335,13:45:00,00:00:00,1,Pending
+Benjamin G,B,,1500 N Waterman--San Bernardino-CA-92404,3957 N. Genevieve St.--San Bernardino-CA-,10:00:00,00:00:00,3,Pending
+Esther T,A,,2469 Etiwanda Ave--San Bernardino-CA-92410,1850 N Riverside Ave--Rialto-CA-92376,08:15:00,00:00:00,3,Pending
+Refugio C,B,,638 Glendora Ave--Glendora-CA-91740,Claremont Care Center- 219 E Foothill Blvd--Pomona-CA-91768,13:00:00,00:00:00,,Pending
+Alfonso Barbosa H,A,,648 N. Crescent Ave.--San Bernardino-CA-92411,1500 N Waterman--San Bernardino-CA-92404,10:00:00,00:00:00,,Pending
+Jorge H,B,,1950 S Grove Ave Suite 101--Ontario-CA-91761,8560 Buckeye Drive--Fontana-CA-92335,16:30:00,00:00:00,22,Pending
+Leasher P,A,,862 Pine Ave. APT D--Redlands-CA-92373,1210 Indiana Court--Redlands-CA-92374,04:30:00,00:00:00,2,Pending
+Christopher D,B,,1950 S Grove Ave Suite 101--Ontario-CA-91761,12961 Grape Harvest Dr--Rancho Cucamonga-CA-91739,08:15:00,00:00:00,13,Pending
+Angelica T,A,,9345 Greenbelt Place--Rancho Cucamonga-CA-,600 N 13th Ave--Upland-CA-91786,08:00:00,00:00:00,4,Pending
+Augusta L,B,,1275 West C Street--Colton-CA-92324,1424 Walnut Ave--San Bernardino-CA-92401,09:00:00,00:00:00,4,Pending
+Lonzetta Q,A,,1459 W Wabash St--Rialto-CA-92376,1850 N Riverside Ave--Rialto-CA-92376,07:45:00,00:00:00,3,Pending
+Billy E,B,,1950 S Grove Ave Suite 101--Ontario-CA-91761,10350 baseline rd--Alta Loma-CA-,19:00:00,00:00:00,8,Pending
+Mary U,A,,7109 Archibald Ave apt 79--Alta Loma-CA-91701,600 N 13th Ave--Upland-CA-91786,09:45:00,00:00:00,3,Pending
+Darnell G,B,,1950 S Grove Ave Suite 101--Ontario-CA-91761,8458 Autumn Leaf Dr.--Rancho Cucamonga-CA-91730,07:45:00,00:00:00,4,Pending
+Richard O,A,,14134 Chapparral Ave.--Fontana-CA-,10557 Juniper Ave--Fontana-CA-92337,03:15:00,00:00:00,5,Pending
+Jose F,B,,1950 S Grove Ave Suite 101--Ontario-CA-91761,3668 Grizzley Creek Ct--Ontario-CA-91761,08:00:00,00:00:00,10,Pending
+Alphonso V,A,,1400 W 13th St. Spc. 20--Upland-CA-91786,587 N Mountain Ave----,08:00:00,00:00:00,1,Pending
+Jose Dela J,B,,1275 West C Street--Colton-CA-92324,1471 S. Riverside Ave.--Rialto-CA-92376,09:00:00,00:00:00,6,Pending
+Felipa M,B,,1275 West C Street--Colton-CA-92324,706 S 8th St.--Colton-CA-,09:00:00,00:00:00,3,Pending
+Isabel E,A,,1675 Industrial Park Ave--Redlands-CA-,400 N Pepper Ave--Colton-CA-92324,09:30:00,00:00:00,3,Pending
+Mary K,B,,1275 West C Street--Colton-CA-92324,16427 Strong Wood Ln--Fontana-CA-,23:59:59,00:00:00,11,Pending
+Robert P,B,,2703 S Towne Ave--Pomona-CA-91766,2703 S Towne Ave--Pomona-CA-91766,18:30:00,00:00:00,3,Pending
+Felicidad F,A,,14722 Burgundy Pl--Chino Hills-CA-91709,4445 Riverside Dr--Chino-CA-91710,14:00:00,00:00:00,5,Pending
+Rafael I,B,,1275 West C Street--Colton-CA-92324,334 E Randall Ave--Rialto-CA-,13:15:00,00:00:00,2,Pending
+Angelina M,A,,1132 N. Cucamonga--Ontario-CA-91764,1950 S Grove Ave Suite 101--Ontario-CA-91761,09:00:00,00:00:00,3,Pending
+Makaryous G,A,,5926 Notre Dame Ave. Suite 322--Chino-CA-91710,4445 Riverside Dr--Chino-CA-91710,09:45:00,00:00:00,10,Pending
+Maria Sanchez H,B,,1950 S Grove Ave Suite 101--Ontario-CA-91761,545 East E st.--Ontario-CA-,16:45:00,00:00:00,3,Pending
+Robert R,A,,2111 N Garey Ave--Pomona-CA-91767,1506 W Jess St.--Pomona-CA-,09:00:00,00:00:00,4,Pending
+Sandra E,A,,7348 Elm St--San Bernardino-CA-92410,4041 North University Parkway--San Bernardino-CA-92407,05:00:00,00:00:00,8,Pending
+Adam J,A,,Assistencia Villa 1875 Barton Rd.--Redlands-CA-92373,1210 Indiana Court--Redlands-CA-92374,10:00:00,00:00:00,,Pending
+Stan G,A,,400 N Pepper Ave--Colton-CA-92324,16683 Mallory Drive--Fontana-CA-92335,23:59:59,00:00:00,2,Pending
+Larvell N,A,,10557 Juniper Ave--Fontana-CA-92337,1682 Sepulveda Ave Apt # A--San Bernardino-CA-92404,15:15:00,00:00:00,9,Pending
+Soledad U,A,,1948 Magnolia st.--San Bernardino-CA-,1850 N Riverside Ave--Rialto-CA-92376,03:15:00,00:00:00,4,Pending
+Jose Fernandez S,A,,250 N. Linden Ave. Spc 36--Rialto-CA-,1850 N Riverside Ave--Rialto-CA-92376,03:45:00,00:00:00,4,Pending
+Laura X,A,,4445 Riverside Dr--Chino-CA-91710,14206 Cherry Court--Chino-CA-,15:30:00,00:00:00,,Pending
+Margarita L,A,,1850 N Riverside Ave--Rialto-CA-92376,1153 W 15th St.--San Bernardino-CA-,20:00:00,00:00:00,7,Pending
+Julia T,A,,17381 Lilac St--Fontana-CA-92337,17590 E Foothill Blvd--Fontana-CA-92335,09:20:00,00:00:00,6,Pending
+Sione C,A,,2850 Inland Empire Blvd--Ontario-CA-91764,956 Cone Flower Lane--Ontario-CA-91762,14:30:00,00:00:00,4,Pending
+Leticia I,A,,1275 West C Street--Colton-CA-92324,243 North Meridian Avenue--San Bernardino-CA-92410,09:00:00,00:00:00,,Pending
+Francisco C,A,,708 W 4th St Apt # 226--San Bernardino-CA-,400 N Pepper Ave--Colton-CA-92324,12:00:00,00:00:00,7,Pending
+Guillermo V,A,,1405 W Valley Blvd Ste 100--Colton-CA-92324,910 S Vine Ave--Bloomington-CA-,09:15:00,00:00:00,4,Pending
+Angel S,A,,1239 Herald Street--Redlands-CA-,894 Hardt St--San Bernardino-CA-92408,13:00:00,00:00:00,,Pending
+Aurelio K,A,,1335 Cypress Street--San Dimas-CA-91773,1661 S Euclid Ave--Ontario-CA-91762,14:00:00,00:00:00,16,Pending
+Valentino F,A,,1850 N Riverside Ave--Rialto-CA-92376,1168 W. Lewis St.--Rialto-CA-92377,14:15:00,00:00:00,2,Pending
+Pabloita H,A,,1275 West C Street--Colton-CA-92324,1365 N Waterman Ave #231--San Bernardino-CA-92404,09:00:00,00:00:00,8,Pending
+Christopher U,A,,1850 N Riverside Ave--Rialto-CA-92376,560 W. 20th Apt. 12--San Bernardino-CA-92405,12:30:00,00:00:00,6,Pending
+Vincent O,A,,1210 Indiana Court--Redlands-CA-92374,29095 Greenspot Road--Highland-CA-,09:00:00,00:00:00,5,Pending
+Estella T,A,,1850 N Riverside Ave--Rialto-CA-92376,330 Millard Ave--Rialto-CA-,11:00:00,00:00:00,3,Pending
+Rogaciano L,A,,4445 Riverside Dr--Chino-CA-91710,16052 Tamarind Terrace--Chino Hills-CA-91709,13:30:00,00:00:00,6,Pending
+Maria T,A,,440 W. Cromwell St--Rialto-CA-92376,1850 N Riverside Ave--Rialto-CA-92376,12:45:00,00:00:00,1,Pending
+Serena Q,A,,894 Hardt St--San Bernardino-CA-92408,160 S Eucalyptus Ave--Rialto-CA-92376,07:30:00,00:00:00,8,Pending
+Joe W,A,,1850 N Riverside Ave--Rialto-CA-92376,2505 W. Foothill--San Bernardino-CA-,15:00:00,00:00:00,4,Pending
+Jacqueline M,A,,4445 Riverside Dr--Chino-CA-91710,530 Alpine St #410--Upland-CA-91786,11:45:00,00:00:00,10,Pending
+Maria Z,A,,1850 N Riverside Ave--Rialto-CA-92376,440 W. Cromwell St--Rialto-CA-92376,16:15:00,00:00:00,1,Pending
+Liligo J,A,,1500 N Waterman--San Bernardino-CA-92404,7036 Victoria Ave. Apt E--Highland-CA-92346,08:30:00,00:00:00,4,Pending
+Rogelio B,A,,17590 E Foothill Blvd--Fontana-CA-92335,2130 Primrose St--Upland-CA-91786,08:30:00,00:00:00,2,Pending
+John B,A,,4190 Sepulveda Ave # 3--San Bernardino-CA-,1500 N Waterman--San Bernardino-CA-92404,04:00:00,00:00:00,6,Pending
+Estelle J,A,,1308 Blackstone Ave--San Bernardino-CA-92411,894 Hardt St--San Bernardino-CA-92408,13:15:00,00:00:00,7,Pending
+Mario T,A,,600 N 13th Ave--Upland-CA-91786,5106 Benito St.--Montclair-CA-,13:00:00,00:00:00,6,Pending
+Marie R,A,,1210 Indiana Court--Redlands-CA-92374,1618 Laurel Ave--Redlands-CA-92373,16:30:00,00:00:00,3,Pending
+Darlene G,A,,7223 Church St A14--Highland-CA-92346,26265 23rd St--Highland-CA-92346,08:00:00,00:00:00,5,Pending
+Nawab K,A,,814 Woodcrest st CODE #1040--Bloomington-CA-92316,1210 Indiana Court--Redlands-CA-92374,12:45:00,00:00:00,12,Pending
+Peter N,A,,4445 Riverside Dr--Chino-CA-91710,6860 Sunriver Street--Chino-CA-91710,10:00:00,00:00:00,4,Pending
+Dennis L,A,,4041 North University Parkway--San Bernardino-CA-92407,1618 Laurel Ave.--Redlands-CA-,18:30:00,00:00:00,15,Pending
+Rosie S,A,,2111 N Garey Ave--Pomona-CA-91767,250 W Artesia St--Pomona-CA-91768,16:00:00,00:00:00,1,Pending
+Liligo D,A,,7036 Victoria Ave. Apt E--Highland-CA-92346,1500 N Waterman--San Bernardino-CA-92404,23:59:59,00:00:00,4,Pending
+Jose O,A,,894 Hardt St--San Bernardino-CA-92408,1071 N Western Ave--San Bernardino-CA-92411,08:30:00,00:00:00,8,Pending
+Joseph Z,A,,4041 North University Parkway--San Bernardino-CA-92407,172 E. 11th street--San Bernardino-CA-,13:30:00,00:00:00,5,Pending
+Fermina I,A,,9142 Monte Vista Ave--Montclair-CA-91763,215 W Pearl St--Pomona-CA-91768,13:30:00,00:00:00,15,Pending
+Martha Q,A,,867 E. 11th St--Upland-CA-,600 N 13th Ave--Upland-CA-91786,09:30:00,00:00:00,1,Pending
+Ramiro B,A,,2703 S Towne Ave--Pomona-CA-91766,3641 Grizzley Creek--Ontario-CA-,23:59:59,00:00:00,9,Pending
+Ramon U,A,,1405 W Valley Blvd Ste 100--Colton-CA-92324,1700 E Washington St--Colton-CA-92324,14:00:00,00:00:00,6,Pending
+Frank K,A,,1275 West C Street--Colton-CA-92324,359 E N. St--Colton-CA-92324,09:00:00,00:00:00,3,Pending
+Alicia J,A,,1275 West C Street--Colton-CA-92324,1132 Belleview St--San Bernardino-CA-,23:59:59,00:00:00,7,Pending
+Alberto M,A,,10557 Juniper Ave--Fontana-CA-92337,5098 Troth St--Mira Loma-CA-,11:15:00,00:00:00,,Pending
+Lewis X,A,,22491 De Berry Street--Grand Terrace-CA-,269 E Caroline St Ste A--San Bernardino-CA-92408,23:59:59,00:00:00,4,Pending
+Antonio N,A,,1950 S Grove Ave Suite 101--Ontario-CA-91761,410 W Maitland St--Ontario-CA-91762,13:15:00,00:00:00,3,Pending
+Francisco T,A,,1405 W Valley Blvd Ste 100--Colton-CA-92324,182 Randall Alley--San Bernardino-CA-,13:00:00,00:00:00,9,Pending
+Larry I,A,,1500 N Waterman--San Bernardino-CA-92404,Medical Center Convalescent- 467 E Gilbert St--San Bernardino-CA-92404,23:59:59,00:00:00,1,Pending
+Ramon O,A,,1700 E Washington St--Colton-CA-92324,1405 W Valley Blvd Ste 100--Colton-CA-92324,09:45:00,00:00:00,6,Pending
+Robert K,A,,4445 Riverside Dr--Chino-CA-91710,16055 Pebble Beach--Chino Hills-CA-,15:00:00,00:00:00,5,Pending
+Ricardo O,A,,1950 S Grove Ave Suite 101--Ontario-CA-91761,1221 W. E st.--Ontario-CA-91762,18:30:00,00:00:00,5,Pending
+Victor De Leon W,A,,257 W Pleasant View Ave--Colton-CA-,1850 N Riverside Ave--Rialto-CA-92376,03:30:00,00:00:00,7,Pending
+Juan J,A,,4041 North University Parkway--San Bernardino-CA-92407,2225 Pumalo St # 211--San Bernardino-CA-,09:30:00,00:00:00,7,Pending
+Mauricio L,A,,10557 Juniper Ave--Fontana-CA-92337,7372 Peppertree Ln--Fontana-CA-92336,07:50:00,00:00:00,6,Pending
+Nora U,A,,18325 Evening Primrose Ln--San Bernardino-CA-92407,17590 E Foothill Blvd--Fontana-CA-92335,13:50:00,00:00:00,9,Pending
+Jesus R,A,,9170 Pine Ave--Fontana-CA-92335,1850 N Riverside Ave--Rialto-CA-92376,08:05:00,00:00:00,7,Pending
+Mary M,A,,4041 North University Parkway--San Bernardino-CA-92407,1673 N D St--San Bernardino-CA-92405,17:00:00,00:00:00,4,Pending
+Julie Z,A,,5984 McKinley Ave.--San Bernardino-CA-,7223 Church St A14--Highland-CA-92346,13:30:00,00:00:00,5,Pending
+Yolanda A,A,,819 S Berry St--Colton-CA-92324 ‎,1275 West C Street--Colton-CA-92324,09:00:00,00:00:00,3,Pending
+Ernest P,A,,890 W 3rd St--Rialto-CA-92376,1850 N Riverside Ave--Rialto-CA-92376,04:00:00,00:00:00,5,Pending
+Darwin X,A,,17590 E Foothill Blvd--Fontana-CA-92335,1275 W. Bohnert--Rialto-CA-,09:15:00,00:00:00,9,Pending
+Eneliko Q,A,,1595 N Hancock St--San Bernardino-CA-92411,1405 W Valley Blvd Ste 100--Colton-CA-92324,09:00:00,00:00:00,6,Pending
+Semisi J,A,,1001 N. Archibald Ave. Apt H--Ontario-CA-91764,1950 S Grove Ave Suite 101--Ontario-CA-91761,09:15:00,00:00:00,5,Pending
+Lidio D,A,,15037 Holly Dr--Fontana-CA-92335,400 N Pepper Ave--Colton-CA-92324,07:30:00,00:00:00,9,Pending
+Mabel U,A,,600 N 13th Ave--Upland-CA-91786,250 W. Artestia--Pomona-CA-91768,13:15:00,00:00:00,8,Pending
+Aureliano X,A,,1019 N. Pershing Ave Apt 3--San Bernardino-CA-,7223 Church St A14--Highland-CA-92346,05:00:00,00:00:00,8,Pending
+Hazel V,A,,2196 Medical Center Dr. Apt 329--San Bernardino-CA-92411,1850 N Riverside Ave--Rialto-CA-92376,07:15:00,00:00:00,3,Pending
+Karl B,A,,1680 Finecroft Dr--Claremont-CA-91711,9142 Monte Vista Ave--Montclair-CA-91763,07:45:00,00:00:00,4,Pending
+Lamont C,A,,7223 Church St A14--Highland-CA-92346,4495 N. D. St--San Bernardino-CA-92407,12:15:00,00:00:00,10,Pending
+Javier L,A,,26120 9th St--Highland-CA-92346,894 Hardt St--San Bernardino-CA-92408,05:00:00,00:00:00,5,Pending
+Carlos Gomez M,A,,2689 Rosedale Ave.--Colton-CA-,1405 W Valley Blvd Ste 100--Colton-CA-92324,13:00:00,00:00:00,5,Pending
+Javier Barrera P,A,,909 S Vine St--Ontario-CA-,600 N 13th Ave--Upland-CA-91786,04:30:00,00:00:00,5,Pending
+Bettie E,A,,10532 Acacia Street--Rancho Cucamonga-CA-91730,7153 Archibald Apt 175--Rancho Cucamonga-CA-,17:30:00,00:00:00,4,Pending
+Natalia Y,A,,7360 Poplar Dr--. Fontana-CA-92336,1850 N Riverside Ave--Rialto-CA-92376,08:30:00,00:00:00,7,Pending
+Julia M,A,,9440 Citrus Ave--Fontana-CA-92335,1850 N Riverside Ave--Rialto-CA-92376,12:00:00,00:00:00,9,Pending
+Hilda U,A,,595 E. 11th street--Pomona-CA-91766,2703 S Towne Ave--Pomona-CA-91766,23:59:59,00:00:00,,Pending
+Andres E,A,,7223 Church St A14--Highland-CA-92346,1618 Laurel Ave.--Redlands-CA-,23:59:59,00:00:00,,Pending
+Magdy H,A,,400 N Pepper Ave--Colton-CA-92324,13641 Kings Canyon Ct--Fontana-CA-92336,12:00:00,00:00:00,13,Pending
+Maria A,A,,2673 N. Carlo Ave.--San Bernardino-CA-,1500 N Waterman--San Bernardino-CA-92404,12:00:00,00:00:00,6,Pending
+Jason Z,A,,1730 W. Arrow--Upland-CA-,1950 S Grove Ave Suite 101--Ontario-CA-91761,14:00:00,00:00:00,2,Pending
+Maria D,A,,1850 N Riverside Ave--Rialto-CA-92376,8560 Oleander Ave--Fontana-CA-,07:00:00,00:00:00,7,Pending
+Larvell H,A,,1682 Sepulveda Ave Apt # A--San Bernardino-CA-92404,10557 Juniper Ave--Fontana-CA-92337,11:45:00,00:00:00,9,Pending
+Francisco I,A,,400 N Pepper Ave--Colton-CA-92324,708 W 4th St Apt # 226--San Bernardino-CA-,15:30:00,00:00:00,7,Pending
+Larry C,A,,Medical Center Convalescent- 467 E Gilbert St--San Bernardino-CA-92404,1500 N Waterman--San Bernardino-CA-92404,23:59:59,00:00:00,1,Pending
+Laura R,A,,14206 Cherry Court--Chino-CA-,4445 Riverside Dr--Chino-CA-91710,11:30:00,00:00:00,,Pending
+Margarita F,A,,1153 W 15th St.--San Bernardino-CA-,1850 N Riverside Ave--Rialto-CA-92376,16:30:00,00:00:00,7,Pending
+Soledad A,A,,1850 N Riverside Ave--Rialto-CA-92376,1948 Magnolia st.--San Bernardino-CA-,06:15:00,00:00:00,4,Pending
+Lidio J,A,,400 N Pepper Ave--Colton-CA-92324,15037 Holly Dr--Fontana-CA-92335,12:45:00,00:00:00,9,Pending
+Sione W,A,,956 Cone Flower Lane--Ontario-CA-91762,2850 Inland Empire Blvd--Ontario-CA-91764,09:45:00,00:00:00,4,Pending
+Leticia C,A,,243 North Meridian Avenue--San Bernardino-CA-92410,1275 West C Street--Colton-CA-92324,23:59:59,00:00:00,,Pending
+Julia Z,A,,17590 E Foothill Blvd--Fontana-CA-92335,17381 Lilac St--Fontana-CA-92337,12:20:00,00:00:00,6,Pending
+Guillermo P,A,,910 S Vine Ave--Bloomington-CA-,1405 W Valley Blvd Ste 100--Colton-CA-92324,04:45:00,00:00:00,4,Pending
+Angel Y,A,,894 Hardt St--San Bernardino-CA-92408,1239 Herald Street--Redlands-CA-,16:30:00,00:00:00,,Pending
+Aurelio E,A,,1661 S Euclid Ave--Ontario-CA-91762,1335 Cypress Street--San Dimas-CA-91773,10:00:00,00:00:00,16,Pending
+Valentino Z,A,,1168 W. Lewis St.--Rialto-CA-92377,1850 N Riverside Ave--Rialto-CA-92376,10:15:00,00:00:00,2,Pending
+Pabloita B,A,,1365 N Waterman Ave #231--San Bernardino-CA-92404,1275 West C Street--Colton-CA-92324,23:59:59,00:00:00,8,Pending
+Christopher O,A,,560 W. 20th Apt. 12--San Bernardino-CA-92405,1850 N Riverside Ave--Rialto-CA-92376,08:30:00,00:00:00,6,Pending
+Vincent I,A,,29095 Greenspot Road--Highland-CA-,1210 Indiana Court--Redlands-CA-92374,05:10:00,00:00:00,5,Pending
+Estella N,A,,330 Millard Ave--Rialto-CA-,1850 N Riverside Ave--Rialto-CA-92376,07:45:00,00:00:00,3,Pending
+Rogaciano F,A,,16052 Tamarind Terrace--Chino Hills-CA-91709,4445 Riverside Dr--Chino-CA-91710,10:15:00,00:00:00,6,Pending
+Mitsuo K,A,,219 E Foothill Blvd--Pomona-CA-,2111 N Garey Ave--Pomona-CA-91767,09:30:00,00:00:00,2,Pending
+Serena K,A,,160 S Eucalyptus Ave--Rialto-CA-92376,894 Hardt St--San Bernardino-CA-92408,04:30:00,00:00:00,8,Pending
+Joe Q,A,,2505 W. Foothill--San Bernardino-CA-,1850 N Riverside Ave--Rialto-CA-92376,11:30:00,00:00:00,4,Pending
+Carmen S,A,,626 N Hancock St--San Bernardino-CA-92411,17590 E Foothill Blvd--Fontana-CA-92335,05:30:00,00:00:00,6,Pending
+Mitsuo Q,A,,2111 N Garey Ave--Pomona-CA-91767,219 E Foothill Blvd--Pomona-CA-,13:30:00,00:00:00,2,Pending
+Jacqueline G,A,,530 Alpine St #410--Upland-CA-91786,4445 Riverside Dr--Chino-CA-91710,08:45:00,00:00:00,10,Pending
+Rogelio V,A,,2130 Primrose St--Upland-CA-91786,17590 E Foothill Blvd--Fontana-CA-92335,04:30:00,00:00:00,2,Pending
+Mario N,A,,5106 Benito St.--Montclair-CA-,600 N 13th Ave--Upland-CA-91786,08:30:00,00:00:00,6,Pending
+Marie L,A,,1618 Laurel Ave--Redlands-CA-92373,1210 Indiana Court--Redlands-CA-92374,12:30:00,00:00:00,3,Pending
+John H,A,,1500 N Waterman--San Bernardino-CA-92404,4190 Sepulveda Ave # 3--San Bernardino-CA-,08:30:00,00:00:00,6,Pending
+Estelle P,A,,894 Hardt St--San Bernardino-CA-92408,1308 Blackstone Ave--San Bernardino-CA-92411,17:15:00,00:00:00,7,Pending
+Peter H,A,,6860 Sunriver Street--Chino-CA-91710,4445 Riverside Dr--Chino-CA-91710,06:30:00,00:00:00,4,Pending
+Dennis F,A,,1618 Laurel Ave.--Redlands-CA-,4041 North University Parkway--San Bernardino-CA-92407,14:00:00,00:00:00,15,Pending
+Karl H,A,,9142 Monte Vista Ave--Montclair-CA-91763,1680 Finecroft Dr--Claremont-CA-91711,23:59:59,00:00:00,4,Pending
+Nawab Q,A,,1210 Indiana Court--Redlands-CA-92374,814 Woodcrest st CODE #1040--Bloomington-CA-92316,06:10:00,00:00:00,12,Pending
+Jose I,A,,1071 N Western Ave--San Bernardino-CA-92411,894 Hardt St--San Bernardino-CA-92408,05:00:00,00:00:00,8,Pending
+Javier Barrera V,A,,600 N 13th Ave--Upland-CA-91786,909 S Vine St--Ontario-CA-,07:30:00,00:00:00,5,Pending
+Fermina C,A,,215 W Pearl St--Pomona-CA-91768,9142 Monte Vista Ave--Montclair-CA-91763,09:30:00,00:00:00,15,Pending
+Martha W,A,,600 N 13th Ave--Upland-CA-91786,867 E. 11th St--Upland-CA-,13:45:00,00:00:00,1,Pending
+Hilda A,A,,2703 S Towne Ave--Pomona-CA-91766,595 E. 11th street--Pomona-CA-91766,09:15:00,00:00:00,,Pending
+Frank E,A,,359 E N. St--Colton-CA-92324,1275 West C Street--Colton-CA-92324,03:45:00,00:00:00,3,Pending
+Alicia D,A,,1132 Belleview St--San Bernardino-CA-,1275 West C Street--Colton-CA-92324,13:00:00,00:00:00,7,Pending
+Jason F,A,,1950 S Grove Ave Suite 101--Ontario-CA-91761,1730 W. Arrow--Upland-CA-,18:30:00,00:00:00,2,Pending
+Carmen Y,A,,17590 E Foothill Blvd--Fontana-CA-92335,626 N Hancock St--San Bernardino-CA-92411,09:30:00,00:00:00,6,Pending
+Antonio H,A,,410 W Maitland St--Ontario-CA-91762,1950 S Grove Ave Suite 101--Ontario-CA-91761,09:45:00,00:00:00,3,Pending
+Francisco N,A,,182 Randall Alley--San Bernardino-CA-,1405 W Valley Blvd Ste 100--Colton-CA-92324,08:45:00,00:00:00,9,Pending
+Adam P,A,,1210 Indiana Court--Redlands-CA-92374,Assistencia Villa 1875 Barton Rd.--Redlands-CA-92373,15:00:00,00:00:00,,Pending
+Lewis D,A,,269 E Caroline St Ste A--San Bernardino-CA-92408,22491 De Berry Street--Grand Terrace-CA-,23:59:59,00:00:00,4,Pending
+Robert E,A,,16055 Pebble Beach--Chino Hills-CA-,4445 Riverside Dr--Chino-CA-91710,10:30:00,00:00:00,5,Pending
+Ricardo I,A,,1221 W. E st.--Ontario-CA-91762,1950 S Grove Ave Suite 101--Ontario-CA-91761,15:00:00,00:00:00,5,Pending
+Jose Fernandez Y,A,,1850 N Riverside Ave--Rialto-CA-92376,250 N. Linden Ave. Spc 36--Rialto-CA-,07:00:00,00:00:00,4,Pending
+Juan D,A,,2225 Pumalo St # 211--San Bernardino-CA-,4041 North University Parkway--San Bernardino-CA-92407,23:59:59,00:00:00,7,Pending
+Mauricio F,A,,7372 Peppertree Ln--Fontana-CA-92336,10557 Juniper Ave--Fontana-CA-92337,04:20:00,00:00:00,6,Pending
+Nora A,A,,17590 E Foothill Blvd--Fontana-CA-92335,18325 Evening Primrose Ln--San Bernardino-CA-92407,16:50:00,00:00:00,9,Pending
+Victor De Leon C,A,,1850 N Riverside Ave--Rialto-CA-92376,257 W Pleasant View Ave--Colton-CA-,06:45:00,00:00:00,7,Pending
+Mary G,A,,1673 N D St--San Bernardino-CA-92405,4041 North University Parkway--San Bernardino-CA-92407,13:00:00,00:00:00,4,Pending
+Julie F,A,,7223 Church St A14--Highland-CA-92346,5984 McKinley Ave.--San Bernardino-CA-,17:30:00,00:00:00,5,Pending
+Yolanda G,A,,1275 West C Street--Colton-CA-92324,819 S Berry St--Colton-CA-92324 ‎,23:59:59,00:00:00,3,Pending
+Jesus X,A,,1850 N Riverside Ave--Rialto-CA-92376,9170 Pine Ave--Fontana-CA-92335,11:35:00,00:00:00,7,Pending
+Darwin R,A,,1275 W. Bohnert--Rialto-CA-,17590 E Foothill Blvd--Fontana-CA-92335,05:00:00,00:00:00,9,Pending
+Natalia E,A,,1850 N Riverside Ave--Rialto-CA-92376,7360 Poplar Dr--. Fontana-CA-92336,12:00:00,00:00:00,7,Pending
+Semisi P,A,,1950 S Grove Ave Suite 101--Ontario-CA-91761,1001 N. Archibald Ave. Apt H--Ontario-CA-91764,12:45:00,00:00:00,5,Pending
+Ernest V,A,,1850 N Riverside Ave--Rialto-CA-92376,890 W 3rd St--Rialto-CA-92376,07:45:00,00:00:00,5,Pending
+Mabel O,A,,250 W. Artestia--Pomona-CA-91768,600 N 13th Ave--Upland-CA-91786,09:45:00,00:00:00,8,Pending
+Eneliko W,A,,1405 W Valley Blvd Ste 100--Colton-CA-92324,1595 N Hancock St--San Bernardino-CA-92411,12:30:00,00:00:00,6,Pending
+Sandra K,A,,4041 North University Parkway--San Bernardino-CA-92407,7348 Elm St--San Bernardino-CA-92410,23:59:59,00:00:00,8,Pending
+Darlene A,A,,26265 23rd St--Highland-CA-92346,7223 Church St A14--Highland-CA-92346,05:00:00,00:00:00,5,Pending
+Lamont W,A,,4495 N. D. St--San Bernardino-CA-92407,7223 Church St A14--Highland-CA-92346,08:00:00,00:00:00,10,Pending
+Aureliano D,A,,7223 Church St A14--Highland-CA-92346,1019 N. Pershing Ave Apt 3--San Bernardino-CA-,08:30:00,00:00:00,8,Pending
+Hazel B,A,,1850 N Riverside Ave--Rialto-CA-92376,2196 Medical Center Dr. Apt 329--San Bernardino-CA-92411,10:45:00,00:00:00,3,Pending
+Rosie M,A,,250 W Artesia St--Pomona-CA-91768,2111 N Garey Ave--Pomona-CA-91767,13:00:00,00:00:00,1,Pending
+Bettie Y,A,,7153 Archibald Apt 175--Rancho Cucamonga-CA-,10532 Acacia Street--Rancho Cucamonga-CA-91730,14:00:00,00:00:00,4,Pending
+Javier R,A,,894 Hardt St--San Bernardino-CA-92408,26120 9th St--Highland-CA-92346,08:45:00,00:00:00,5,Pending
+Carlos Gomez S,A,,1405 W Valley Blvd Ste 100--Colton-CA-92324,2689 Rosedale Ave.--Colton-CA-,17:30:00,00:00:00,5,Pending
+Joseph T,A,,172 E. 11th street--San Bernardino-CA-,4041 North University Parkway--San Bernardino-CA-92407,09:00:00,00:00:00,5,Pending
+Andres Y,A,,1618 Laurel Ave.--Redlands-CA-,7223 Church St A14--Highland-CA-92346,23:59:59,00:00:00,,Pending
+Magdy B,A,,13641 Kings Canyon Ct--Fontana-CA-92336,400 N Pepper Ave--Colton-CA-92324,08:30:00,00:00:00,13,Pending
+Julia S,A,,1850 N Riverside Ave--Rialto-CA-92376,9440 Citrus Ave--Fontana-CA-92335,15:30:00,00:00:00,9,Pending
+Ramiro V,A,,3641 Grizzley Creek--Ontario-CA-,2703 S Towne Ave--Pomona-CA-91766,10:15:00,00:00:00,9,Pending
+Maria X,A,,8560 Oleander Ave--Fontana-CA-,1850 N Riverside Ave--Rialto-CA-92376,03:45:00,00:00:00,7,Pending
+Robert L,A,,1506 W Jess St.--Pomona-CA-,2111 N Garey Ave--Pomona-CA-91767,23:59:59,00:00:00,4,Pending
+Maria G,A,,1500 N Waterman--San Bernardino-CA-92404,2673 N. Carlo Ave.--San Bernardino-CA-,16:00:00,00:00:00,6,Pending
+Alberto G,A,,5098 Troth St--Mira Loma-CA-,10557 Juniper Ave--Fontana-CA-92337,07:00:00,00:00:00,,Pending
+Stan A,A,,16683 Mallory Drive--Fontana-CA-92335,400 N Pepper Ave--Colton-CA-92324,13:00:00,00:00:00,2,Pending
+Mary U,A,,--7109 Archibald Ave apt 79-Alta Loma-CA,DaVita  Upland--600 N 13th Ave-Upland-CA,23:59:59,00:00:00,,Pending
+Teresa D,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--8191 Calabash St.-Fontana-CA,23:59:59,00:00:00,,Pending
+Angelica Otiz W,A,,--1419 N. Edelberry Ave-Ontario-CA,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,23:59:59,00:00:00,,Pending
+Lonzetta Q,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--1459 W Wabash St-Rialto-CA,23:59:59,00:00:00,,Pending
+Alphonso V,A,,--1400 W 13th St. Spc. 20-Upland-CA,DaVita  Upland Colonies--587 N Mountain Ave--,23:59:59,00:00:00,,Pending
+Steven X,A,,--364 S Eucalyptus Ave-Rialto-CA,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,23:59:59,00:00:00,,Pending
+Maria R,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--2526 W 2nd Ave-Muscoy-CA,23:59:59,00:00:00,,Pending
+Maria W,A,,--3556 Novak St.-Riverside-CA,DaVita Colton--1405 W Valley Blvd Ste 100-Colton-CA,23:59:59,00:00:00,,Pending
+Maria Y,A,,--7794 Kempster Ave-Fontana-CA,DaVita  Fontana--17590 E Foothill Blvd-Fontana-CA,23:59:59,00:00:00,,Pending
+Maria De Jesus G S,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--14996 Athol St-Fontana-CA,23:59:59,00:00:00,,Pending
+Samuel X,A,,--9630 BOLTON AVE-MONTCLAIR-CA,DaVita Montclair--9142 Monte Vista Ave-Montclair-CA,23:59:59,00:00:00,,Pending
+Felicidad F,A,,--14722 Burgundy Pl-Chino Hills-CA,DaVita  Chino--4445 Riverside Dr-Chino-CA,23:59:59,00:00:00,,Pending
+Jorge Z,A,,--26838 9th St-Highland-CA,DaVita  Highland--7223 Church St A14-Highland-CA,23:59:59,00:00:00,,Pending
+Esther T,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--2469 Etiwanda Ave-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Jaime Y,A,,--787 Penmar Lane-Pomona-CA,Dialysis Center of Ontario--2850 Inland Empire Blvd-Ontario-CA,23:59:59,00:00:00,,Pending
+Isabel E,A,,--1675 Industrial Park Ave-Redlands-CA,Arrowhead Colton--400 N Pepper Ave-Colton-CA,23:59:59,00:00:00,,Pending
+Antonia A,A,,--1661 S Euclid Ave-Ontario-CA,DaVita  Montclair--9142 Monte Vista Ave-Montclair-CA,23:59:59,00:00:00,,Pending
+Esther U,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--7756 Palmetto Ave.-Fontana-CA,23:59:59,00:00:00,,Pending
+Joseph L,A,,--2466 Norte Vista Dr-Chino Hills-CA,DaVita  Chino--4445 Riverside Dr-Chino-CA,23:59:59,00:00:00,,Pending
+Hayes Z,A,,--11171 Oakwood Dr APT 203-Loma Linda-CA,FMC Loma Linda--269 E Caroline St Ste A-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Jacqueline B,A,,--800 E 5th Street Room 212B-Ontario-CA,DaVita  Montclair--9142 Monte Vista Ave-Montclair-CA,23:59:59,00:00:00,,Pending
+Araceli M,A,,--1850 N. Waterman Ave.-San Bernardino-CA,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Tyron A,A,,--1247 W 7th St-San Bernardino-CA,FMC Loma Linda--269 E Caroline St Ste A-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Robert C,A,,--233 E. 17th St. Apt. 20-San Bernardino-CA,DaVita  Mt. Vista--4041 North University Parkway-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Edelmira N,A,,--1679 W. 27th st-San Bernardino-CA,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Belen B,A,,--Inland Valley Healthcare Center- 250 W Artesia St-Pomona-CA,Garey Dialysis--150 E Arrow Hwy-Pomona-CA,23:59:59,00:00:00,,Pending
+Makaryous G,A,,--5926 Notre Dame Ave. Suite 322-Chino-CA,DaVita  Chino--4445 Riverside Dr-Chino-CA,23:59:59,00:00:00,,Pending
+Gustavo D,A,,--25376 Los Flores Dr-San Bernardino-CA,DaVita  Mt. Vista--4041 North University Parkway-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Constantino E,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--2858 N Duffy St-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Alejandro E,A,,--345 W Wabash Street-San Bernardino-CA,DaVita  Mt. Vista--4041 North University Parkway-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Belen B,B,,Garey Dialysis--150 E Arrow Hwy-Pomona-CA,--Inland Valley Healthcare Center- 250 W Artesia St-Pomona-CA,23:59:59,00:00:00,,Pending
+Patricia I,A,,--12843 9th Street-Chino-CA,DaVita  Chino--4445 Riverside Dr-Chino-CA,23:59:59,00:00:00,,Pending
+Ann F,B,,RAI Waterman--1500 N Waterman-San Bernardino-CA,--7454 Cunningham St.-Highland-CA,23:59:59,00:00:00,,Pending
+Josefina F,A,,--2466 Ogden St.-San Bernardino-CA,DaVita  Mt. Vista--4041 North University Parkway-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Refugio C,B,,Mohan Dialysis--638 Glendora Ave-Glendora-CA,--Claremont Care Center- 219 E Foothill Blvd-Pomona-CA,23:59:59,00:00:00,,Pending
+Mario H,A,,--12803 Conifer Ave-Chino-CA,DaVita  Chino--4445 Riverside Dr-Chino-CA,23:59:59,00:00:00,,Pending
+Benjamin G,B,,RAI Waterman--1500 N Waterman-San Bernardino-CA,--3957 N. Genevieve St.-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Terri G,A,,--1265 Kendall Dr-San Bernardino-CA,DaVita  Mt. Vista--4041 North University Parkway-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Christopher D,B,,Ontario Dialysis--1950 S Grove Ave Suite 101-Ontario-CA,--12961 Grape Harvest Dr-Rancho Cucamonga-CA,23:59:59,00:00:00,,Pending
+Arturo A,A,,--804 Spruce Ave-Rialto-CA,Arrowhead Colton--400 N Pepper Ave-Colton-CA,23:59:59,00:00:00,,Pending
+Alfonso Barbosa H,B,,RAI Waterman--1500 N Waterman-San Bernardino-CA,--648 N. Crescent Ave.-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Maria Sanchez H,A,,--545 East E st.-Ontario-CA,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,23:59:59,00:00:00,,Pending
+Billy E,B,,Ontario Dialysis--1950 S Grove Ave Suite 101-Ontario-CA,--10350 baseline rd-Alta Loma-CA,23:59:59,00:00:00,,Pending
+Jose B,A,,--1235 W 6th St.-San Bernardino-CA,Arrowhead Colton--400 N Pepper Ave-Colton-CA,23:59:59,00:00:00,,Pending
+Antonio Avalos I,A,,--458 W Philadelphia Street-Ontario-CA,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,23:59:59,00:00:00,,Pending
+Jose F,B,,Ontario Dialysis--1950 S Grove Ave Suite 101-Ontario-CA,--3668 Grizzley Creek Ct-Ontario-CA,23:59:59,00:00:00,,Pending
+Saucedo C,A,,--16964 San Bernardino Avenue-Fontana-CA,Arrowhead Colton--400 N Pepper Ave-Colton-CA,23:59:59,00:00:00,,Pending
+Peter J,A,,--9576 Central Ave-Montclair-CA,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,23:59:59,00:00:00,,Pending
+Darnell G,B,,Ontario Dialysis--1950 S Grove Ave Suite 101-Ontario-CA,--8458 Autumn Leaf Dr.-Rancho Cucamonga-CA,23:59:59,00:00:00,,Pending
+Maria D,A,,--2575 Mimosa drive-San Bernardino-CA,Arrowhead Colton--400 N Pepper Ave-Colton-CA,23:59:59,00:00:00,,Pending
+Sergio K,A,,--407 E. Philips St-Ontario-CA,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,23:59:59,00:00:00,,Pending
+Frits O,A,,--1142 Gould St Apt 1142-San Bernardino-CA,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Jorge H,B,,Ontario Dialysis--1950 S Grove Ave Suite 101-Ontario-CA,--8560 Buckeye Drive-Fontana-CA,23:59:59,00:00:00,,Pending
+Augustina L,A,,--250 W Artesia St-Pomona-CA,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,23:59:59,00:00:00,,Pending
+Guadalupe K,B,,DaVita  Chino--4445 Riverside Dr-Chino-CA,--2139 4th st.-Ontario-CA,23:59:59,00:00:00,,Pending
+Karen P,A,,--1875 Barton Rd-Redlands-CA,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Rafael I,B,,RAI Colton--1275 West C Street-Colton-CA,--334 E Randall Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Angelina M,A,,--1132 N. Cucamonga-Ontario-CA,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,23:59:59,00:00:00,,Pending
+Steven W,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--26809 13th St.-Highland-CA,23:59:59,00:00:00,,Pending
+Maria Q,A,,--7699 Cole Ave-Highland-CA,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Jose Dela J,B,,RAI Colton--1275 West C Street-Colton-CA,--1471 S. Riverside Ave.-Rialto-CA,23:59:59,00:00:00,,Pending
+Bertha N,A,,--9797 Alton Drive-Rancho Cucamonga-CA,DaVita  Pomona Valley--2703 S Towne Ave-Pomona-CA,23:59:59,00:00:00,,Pending
+Rosario X,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--1311 E Date St-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Gabino R,A,,--560 N. F St.-San Bernardino-CA,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Mary K,B,,RAI Colton--1275 West C Street-Colton-CA,--16427 Strong Wood Ln-Fontana-CA,23:59:59,00:00:00,,Pending
+Lilly O,A,,--215 W Pearl St Room 18C-Pomona-CA,DaVita  Pomona Valley--2703 S Towne Ave-Pomona-CA,23:59:59,00:00:00,,Pending
+Manuel Y,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--966 N. Magnolia Ave.-Rialto-CA,23:59:59,00:00:00,,Pending
+Jose S,A,,--1471 S Riverside Ave-Rialto-CA,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,23:59:59,00:00:00,,Pending
+Augusta L,B,,RAI Colton--1275 West C Street-Colton-CA,--1424 Walnut Ave-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Robert P,A,,--2703 S Towne Ave-Pomona-CA,DaVita  Pomona Valley--2703 S Towne Ave-Pomona-CA,23:59:59,00:00:00,,Pending
+Ruthann Z,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--692 E. G St.-Colton-CA,23:59:59,00:00:00,,Pending
+Jose S,C,,--1405 W Valley Blvd Ste 100-Colton-CA,--600 N 13th Ave-Upland-CA,23:59:59,00:00:00,,Pending
+Felipa M,B,,RAI Colton--1275 West C Street-Colton-CA,--706 S 8th St.-Colton-CA,23:59:59,00:00:00,,Pending
+Larry J,A,,--10381 Boston Ave-Chino-CA,DaVita  Chino--4445 Riverside Dr-Chino-CA,23:59:59,00:00:00,,Pending
+Robert Q,A,,--1296 W 3rd St.-Pomona-CA,DaVita  Pomona Valley--2703 S Towne Ave-Pomona-CA,23:59:59,00:00:00,,Pending
+Margarita A,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--1693 W. Valencia-Rialto-CA,23:59:59,00:00:00,,Pending
+Ernest T,A,,--3409 N E St APT B-San Bernardino-CA,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,23:59:59,00:00:00,,Pending
+Mikelangelo N,B,,RAI Fontana--10557 Juniper Ave-Fontana-CA,--10850 Church St Rancho-Cucamonga-CA,23:59:59,00:00:00,,Pending
+Jose V,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--3390 Duffy-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Joseph R,A,,--511 N Palmetto Ave Apt 135-Ontario-CA,DaVita  Upland--600 N 13th Ave-Upland-CA,23:59:59,00:00:00,,Pending
+Juan B,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--1519 W. 8th St.-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Danny U,A,,--1700 E Washington St Level B-Colton-CA,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,23:59:59,00:00:00,,Pending
+Richard O,B,,RAI Fontana--10557 Juniper Ave-Fontana-CA,--14134 Chapparral Ave.-Fontana-CA,23:59:59,00:00:00,,Pending
+Angelica T,A,,--9345 Greenbelt Place-Rancho Cucamonga-CA,DaVita  Upland--600 N 13th Ave-Upland-CA,23:59:59,00:00:00,,Pending
+Francisco C,B,,RAI Rialto--1850 N Riverside Ave-Rialto-CA,--16065 Ramona Dr-Fontana-CA,23:59:59,00:00:00,,Pending
+Coraza V,A,,--1825 S. Raintree Place-San Bernardino-CA,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,23:59:59,00:00:00,,Pending
+Leasher P,B,,RAI Redlands--1210 Indiana Court-Redlands-CA,--862 Pine Ave. APT D-Redlands-CA,23:59:59,00:00:00,,Pending
+Mary U,B,,DaVita  Upland--600 N 13th Ave-Upland-CA,--7109 Archibald Ave apt 79-Alta Loma-CA,23:59:59,00:00:00,,Pending
+Angelica Otiz W,B,,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,--1419 N. Edelberry Ave-Ontario-CA,23:59:59,00:00:00,,Pending
+Maria R,A,,--2526 W 2nd Ave-Muscoy-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Alphonso V,B,,DaVita  Upland Colonies--587 N Mountain Ave--,--1400 W 13th St. Spc. 20-Upland-CA,23:59:59,00:00:00,,Pending
+Steven X,B,,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,--364 S Eucalyptus Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Maria De Jesus G S,A,,--14996 Athol St-Fontana-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Maria W,B,,DaVita Colton--1405 W Valley Blvd Ste 100-Colton-CA,--3556 Novak St.-Riverside-CA,23:59:59,00:00:00,,Pending
+Maria Y,B,,DaVita  Fontana--17590 E Foothill Blvd-Fontana-CA,--7794 Kempster Ave-Fontana-CA,23:59:59,00:00:00,,Pending
+Esther T,A,,--2469 Etiwanda Ave-San Bernardino-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Samuel X,B,,DaVita Montclair--9142 Monte Vista Ave-Montclair-CA,--9630 BOLTON AVE-MONTCLAIR-CA,23:59:59,00:00:00,,Pending
+Felicidad F,B,,DaVita  Chino--4445 Riverside Dr-Chino-CA,--14722 Burgundy Pl-Chino Hills-CA,23:59:59,00:00:00,,Pending
+Jorge Z,B,,DaVita  Highland--7223 Church St A14-Highland-CA,--26838 9th St-Highland-CA,23:59:59,00:00:00,,Pending
+Esther U,A,,--7756 Palmetto Ave.-Fontana-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Jaime Y,B,,Dialysis Center of Ontario--2850 Inland Empire Blvd-Ontario-CA,--787 Penmar Lane-Pomona-CA,23:59:59,00:00:00,,Pending
+Isabel E,B,,Arrowhead Colton--400 N Pepper Ave-Colton-CA,--1675 Industrial Park Ave-Redlands-CA,23:59:59,00:00:00,,Pending
+Antonia A,B,,DaVita  Montclair--9142 Monte Vista Ave-Montclair-CA,--1661 S Euclid Ave-Ontario-CA,23:59:59,00:00:00,,Pending
+Jose V,A,,--3390 Duffy-San Bernardino-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Joseph L,B,,DaVita  Chino--4445 Riverside Dr-Chino-CA,--2466 Norte Vista Dr-Chino Hills-CA,23:59:59,00:00:00,,Pending
+Hayes Z,B,,FMC Loma Linda--269 E Caroline St Ste A-San Bernardino-CA,--11171 Oakwood Dr APT 203-Loma Linda-CA,23:59:59,00:00:00,,Pending
+Jacqueline B,B,,DaVita  Montclair--9142 Monte Vista Ave-Montclair-CA,--800 E 5th Street Room 212B-Ontario-CA,23:59:59,00:00:00,,Pending
+Araceli M,B,,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,--1850 N. Waterman Ave.-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Tyron A,B,,FMC Loma Linda--269 E Caroline St Ste A-San Bernardino-CA,--1247 W 7th St-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Robert C,B,,DaVita  Mt. Vista--4041 North University Parkway-San Bernardino-CA,--233 E. 17th St. Apt. 20-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Edelmira N,B,,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,--1679 W. 27th st-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Makaryous G,B,,DaVita  Chino--4445 Riverside Dr-Chino-CA,--5926 Notre Dame Ave. Suite 322-Chino-CA,23:59:59,00:00:00,,Pending
+Constantino E,A,,--2858 N Duffy St-San Bernardino-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Gustavo D,B,,DaVita  Mt. Vista--4041 North University Parkway-San Bernardino-CA,--25376 Los Flores Dr-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Ann F,A,,--7454 Cunningham St.-Highland-CA,RAI Waterman--1500 N Waterman-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Alejandro E,B,,DaVita  Mt. Vista--4041 North University Parkway-San Bernardino-CA,--345 W Wabash Street-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Refugio C,A,,--Claremont Care Center- 219 E Foothill Blvd-Pomona-CA,Mohan Dialysis--638 Glendora Ave-Glendora-CA,23:59:59,00:00:00,,Pending
+Patricia I,B,,DaVita  Chino--4445 Riverside Dr-Chino-CA,--12843 9th Street-Chino-CA,23:59:59,00:00:00,,Pending
+Benjamin G,A,,--3957 N. Genevieve St.-San Bernardino-CA,RAI Waterman--1500 N Waterman-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Josefina F,B,,DaVita  Mt. Vista--4041 North University Parkway-San Bernardino-CA,--2466 Ogden St.-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Christopher D,A,,--12961 Grape Harvest Dr-Rancho Cucamonga-CA,Ontario Dialysis--1950 S Grove Ave Suite 101-Ontario-CA,23:59:59,00:00:00,,Pending
+Mario H,B,,DaVita  Chino--4445 Riverside Dr-Chino-CA,--12803 Conifer Ave-Chino-CA,23:59:59,00:00:00,,Pending
+Alfonso Barbosa H,A,,--648 N. Crescent Ave.-San Bernardino-CA,RAI Waterman--1500 N Waterman-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Terri G,B,,DaVita  Mt. Vista--4041 North University Parkway-San Bernardino-CA,--1265 Kendall Dr-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Billy E,A,,--10350 baseline rd-Alta Loma-CA,Ontario Dialysis--1950 S Grove Ave Suite 101-Ontario-CA,23:59:59,00:00:00,,Pending
+Arturo A,B,,Arrowhead Colton--400 N Pepper Ave-Colton-CA,--804 Spruce Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+,A,,----,----,23:59:59,00:00:00,,Pending
+Maria Sanchez H,B,,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,--545 East E st.-Ontario-CA,23:59:59,00:00:00,,Pending
+Jose F,A,,--3668 Grizzley Creek Ct-Ontario-CA,Ontario Dialysis--1950 S Grove Ave Suite 101-Ontario-CA,23:59:59,00:00:00,,Pending
+Jose B,B,,Arrowhead Colton--400 N Pepper Ave-Colton-CA,--1235 W 6th St.-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Antonio Avalos I,B,,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,--458 W Philadelphia Street-Ontario-CA,23:59:59,00:00:00,,Pending
+Darnell G,A,,--8458 Autumn Leaf Dr.-Rancho Cucamonga-CA,Ontario Dialysis--1950 S Grove Ave Suite 101-Ontario-CA,23:59:59,00:00:00,,Pending
+Saucedo C,B,,Arrowhead Colton--400 N Pepper Ave-Colton-CA,--16964 San Bernardino Avenue-Fontana-CA,23:59:59,00:00:00,,Pending
+Peter J,B,,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,--9576 Central Ave-Montclair-CA,23:59:59,00:00:00,,Pending
+Jorge H,A,,--8560 Buckeye Drive-Fontana-CA,Ontario Dialysis--1950 S Grove Ave Suite 101-Ontario-CA,23:59:59,00:00:00,,Pending
+Maria D,B,,Arrowhead Colton--400 N Pepper Ave-Colton-CA,--2575 Mimosa drive-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Sergio K,B,,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,--407 E. Philips St-Ontario-CA,23:59:59,00:00:00,,Pending
+Frits O,B,,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,--1142 Gould St Apt 1142-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Rafael I,A,,--334 E Randall Ave-Rialto-CA,RAI Colton--1275 West C Street-Colton-CA,23:59:59,00:00:00,,Pending
+Augustina L,B,,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,--250 W Artesia St-Pomona-CA,23:59:59,00:00:00,,Pending
+Guadalupe K,A,,--2139 4th st.-Ontario-CA,DaVita  Chino--4445 Riverside Dr-Chino-CA,23:59:59,00:00:00,,Pending
+Karen P,B,,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,--1875 Barton Rd-Redlands-CA,23:59:59,00:00:00,,Pending
+Jose Dela J,A,,--1471 S. Riverside Ave.-Rialto-CA,RAI Colton--1275 West C Street-Colton-CA,23:59:59,00:00:00,,Pending
+Angelina M,B,,DaVita  Ontario--1950 S Grove Ave Suite 101-Ontario-CA,--1132 N. Cucamonga-Ontario-CA,23:59:59,00:00:00,,Pending
+Rosario X,A,,--1311 E Date St-San Bernardino-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Maria Q,B,,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,--7699 Cole Ave-Highland-CA,23:59:59,00:00:00,,Pending
+Mary K,A,,--16427 Strong Wood Ln-Fontana-CA,RAI Colton--1275 West C Street-Colton-CA,23:59:59,00:00:00,,Pending
+Bertha N,B,,DaVita  Pomona Valley--2703 S Towne Ave-Pomona-CA,--9797 Alton Drive-Rancho Cucamonga-CA,23:59:59,00:00:00,,Pending
+Manuel Y,A,,--966 N. Magnolia Ave.-Rialto-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Gabino R,B,,DaVita  Citrus Valley--894 Hardt St-San Bernardino-CA,--560 N. F St.-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Augusta L,A,,--1424 Walnut Ave-San Bernardino-CA,RAI Colton--1275 West C Street-Colton-CA,23:59:59,00:00:00,,Pending
+Lilly O,B,,DaVita  Pomona Valley--2703 S Towne Ave-Pomona-CA,--215 W Pearl St Room 18C-Pomona-CA,23:59:59,00:00:00,,Pending
+Ruthann Z,A,,--692 E. G St.-Colton-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Jose S,B,,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,--1405 W Valley Blvd Ste 100-Colton-CA,23:59:59,00:00:00,,Pending
+Felipa M,A,,--706 S 8th St.-Colton-CA,RAI Colton--1275 West C Street-Colton-CA,23:59:59,00:00:00,,Pending
+Robert P,B,,DaVita  Pomona Valley--2703 S Towne Ave-Pomona-CA,--2703 S Towne Ave-Pomona-CA,23:59:59,00:00:00,,Pending
+Margarita A,A,,--1693 W. Valencia-Rialto-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Jose S,D,,--600 N 13th Ave-Upland-CA,--1509 N Corona Ave-Ontario-CA,23:59:59,00:00:00,,Pending
+Mikelangelo N,A,,--10850 Church St Rancho-Cucamonga-CA,RAI Fontana--10557 Juniper Ave-Fontana-CA,23:59:59,00:00:00,,Pending
+Larry J,B,,DaVita  Chino--4445 Riverside Dr-Chino-CA,--10381 Boston Ave-Chino-CA,23:59:59,00:00:00,,Pending
+Robert Q,B,,DaVita  Pomona Valley--2703 S Towne Ave-Pomona-CA,--1296 W 3rd St.-Pomona-CA,23:59:59,00:00:00,,Pending
+Juan B,A,,--1519 W. 8th St.-San Bernardino-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Ernest T,B,,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,--3409 N E St APT B-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Richard O,A,,--14134 Chapparral Ave.-Fontana-CA,RAI Fontana--10557 Juniper Ave-Fontana-CA,23:59:59,00:00:00,,Pending
+Steven W,A,,--26809 13th St.-Highland-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Joseph R,B,,DaVita  Upland--600 N 13th Ave-Upland-CA,--511 N Palmetto Ave Apt 135-Ontario-CA,23:59:59,00:00:00,,Pending
+Francisco C,A,,--16065 Ramona Dr-Fontana-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Danny U,B,,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,--1700 E Washington St Level B-Colton-CA,23:59:59,00:00:00,,Pending
+Leasher P,A,,--862 Pine Ave. APT D-Redlands-CA,RAI Redlands--1210 Indiana Court-Redlands-CA,23:59:59,00:00:00,,Pending
+Angelica T,B,,DaVita  Upland--600 N 13th Ave-Upland-CA,--9345 Greenbelt Place-Rancho Cucamonga-CA,23:59:59,00:00:00,,Pending
+Teresa D,A,,--8191 Calabash St.-Fontana-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Coraza V,B,,DaVita  Colton--1405 W Valley Blvd Ste 100-Colton-CA,--1825 S. Raintree Place-San Bernardino-CA,23:59:59,00:00:00,,Pending
+Lonzetta Q,A,,--1459 W Wabash St-Rialto-CA,RAI Rialto--1850 N Riverside Ave-Rialto-CA,23:59:59,00:00:00,,Pending
+Test,A,Kelli  Swedenske,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,00:00:00,13.65,Pending
+Test,A,Gail  Searfoss,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,15:47:33,13.65,Completed
+Test,A,Gail  Searfoss,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,15:43:28,13.65,Completed
+Test,A,Gail  Searfoss,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,00:00:00,13.65,Pending
+AMBER IRISH,B,,1324 11th Avenue-east wing- Lewiston- ID- United States,2350 Nez Perce Drive-360- Lewiston- ID- United States,13:00:00,00:00:00,1.43,Pending
+AMBER IRISH,A,,2350 Nez Perce Drive-360- Lewiston- ID- United States,1324 11th Avenue-east wing- Lewiston- ID- United States,10:00:00,00:00:00,1.43,Pending

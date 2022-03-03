@@ -1,0 +1,100 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+John Wawrzyszuk,A,,119 N Indiana Ave--Crown Point- IN 46307- USA,851 W Burrell Dr--IN 46307,11:30:00,00:00:00,3.13,Cancelled
+Patricia Porter,A,Rodolfo Pancubila,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,3290 Grant St--IN 46408,09:45:00,11:05:28,11.95,Completed
+Levern Swain,A,,1555 S Main St--Crown Point- IN 46307- USA,4802 Broadway Gary-,10:45:00,00:00:00,14.26,Cancelled
+GWENDOLYN THOMPSON,A,Nicodemus Nombre,2140 Woodhollow Ln-Apt 2B- Hammond- IN 46323- USA,7905 Calumet Ave-- Munster- IN 46321- USA,11:00:00,12:17:01,3.59,Completed
+Felix Vasquez,A,Nicodemus Nombre,7733 Jefferson Ave-- Hammond- IN- USA,9100 Calumet Avenue-- Munster- IN- USA,11:30:00,13:05:06,2.1,Completed
+Patricia Porter,B,Nicodemus Nombre,3290 Grant St--IN 46408,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,14:45:00,16:00:56,11.22,Completed
+ELizabeth Golon,B,Nicodemus Nombre,314 Ridge Road-- Munster- IN- USA,1532 Calumet Avenue-- Dyer- IN- USA,16:00:00,17:28:10,4.89,Completed
+ELLA HARRIS,B,Billy Jenkins,550 W 84th Dr--MERRILLVILLE IN 46410,4364 Lincoln St--GARY IN 46408,13:00:00,14:18:19,5.73,Completed
+Darian Williams,B,Jason  Pancubila,550 West 84th Drive--Merrillville- IN- USA,1555 South Main Street--Crown Point- IN- USA,16:00:00,17:55:28,6.15,Completed
+ELizabeth Golon,A,Billy Jenkins,1532 Calumet Avenue-- Dyer- IN- USA,314 Ridge Road-- Munster- IN- USA,10:15:00,11:28:57,5.3,Completed
+John Wawrzyszuk,B,,851 W Burrell Dr--IN 46307,119 N Indiana Ave--Crown Point- IN 46307- USA,17:00:00,00:00:00,3.13,Cancelled
+Levern Swain,B,,4802 Broadway Gary-,1555 S Main St--Crown Point- IN 46307- USA,16:30:00,00:00:00,14.06,Cancelled
+Darian Williams,A,Rodolfo Pancubila,1555 South Main Street--Crown Point- IN- USA,550 West 84th Drive--Merrillville- IN- USA,11:00:00,11:55:41,6.14,Completed
+GWENDOLYN THOMPSON,B,Nicodemus Nombre,7905 Calumet Ave-- Munster- IN 46321- USA,2140 Woodhollow Ln-Apt 2B- Hammond- IN 46323- USA,23:59:59,13:16:38,3.71,Completed
+Felix Vasquez,B,Nicodemus Nombre,9100 Calumet Avenue-- Munster- IN- USA,7733 Jefferson Ave-- Hammond- IN- USA,16:30:00,17:53:14,2.1,Completed
+Earleen Leonard,A,Nicodemus Nombre,101 West 87th Avenue-- Merrillville- IN- USA,3641 Ridge Rd-- Highland- IN- USA,10:00:00,10:51:04,17.01,Completed
+Eric Brady,A,Nicodemus Nombre,13025 Oakdale Place--Cedar Lake- IN- USA,909 Joliet Street--Dyer- IN- USA,08:00:00,09:11:58,9.61,Completed
+Earleen Leonard,B,Billy Jenkins,3641 Ridge Rd-- Highland- IN- USA,101 West 87th Avenue-- Merrillville- IN- USA,23:59:59,13:02:33,16.01,Completed
+ELLA HARRIS,A,Rodolfo Pancubila,4364 Lincoln St--GARY IN 46408,550 W 84th Dr--MERRILLVILLE IN 46410,07:30:00,09:20:37,5.9,Completed
+June Mastey,B,Rodolfo Pancubila,1630 45th St-- Munster- IN- USA,401 U.S. 30-- Schererville- IN- USA,23:59:59,13:43:59,5.85,Completed
+Kathy Yelkish,A,Brian Powers,620   Joe Martin Rd--   Lowell Indiana 46356,114 East Commercial Avenue-- Lowell- IN- USA,10:45:00,12:04:15,1.66,Completed
+JUANITA SANCHEZ,B,Brian Powers,4321 Fir Street-- East Chicago- IN- USA,119 N Indiana Ave--  Crown Point- IN 46307- USA,23:59:59,16:10:02,24,Completed
+Curtis McCrutcheon,B,Brian Powers,4016 Main St--East Chicago- IN 46312- USA,1000 East 114th Street--Whiting- IN- USA,16:30:00,18:06:33,5.69,Completed
+James Miller,B,Brian Powers,114 E Commercial Ave-- Lowell- Indiana- USA,3572 W State Rd 10 Lake Village IN ,13:30:00,14:42:46,13.56,Completed
+John Wawrzyszuk,B,Brian Powers,851 W Burrell Dr--IN 46307,119 N Indiana Ave--Crown Point- IN 46307- USA,12:30:00,14:07:36,3.13,Completed
+Aurelia Fedor,B,Eric Velasquez,951 Transport Dr Suite 2--  IN 46383,1000 East 114th Street-- Whiting- IN- USA,12:00:00,15:11:57,40.59,Completed
+Eric Brady,A,Eric Velasquez,13025 Oakdale Place-- Cedar Lake- IN- USA,909 Joliet Street-- Dyer- IN- USA,08:00:00,00:00:00,9.61,Cancelled
+Curtis McCrutcheon,A,Eric Velasquez,1000 East 114th Street--Whiting- IN- USA,4016 Main St--East Chicago- IN 46312- USA,12:30:00,13:19:24,5.84,Completed
+Julio Ramos,B,Eric Velasquez,951 Transport Dr Suite 2--  IN 46383,5025 McCook Ave-- East Chicago- IN 46312- USA,23:59:59,18:56:34,33.64,Completed
+Ray Hampton,B,Billy Jenkins,3290 Grant St--IN 46408,673 Harrison Street--Gary- IN- USA,15:00:00,16:43:21,3.3,Completed
+Gwendolyn Thompson,B,Billy Jenkins,7905 Calumet Ave--Munster- IN 46321- USA,2140 Woodhollow Ln-Apt 2B-Hammond- IN 46323- USA,14:00:00,15:30:30,3.71,Completed
+LOUIS ROGERS,A,Billy Jenkins,349 West 80th Place-- Merrillville- IN- USA,3636 West 15th Avenue-- Gary- IN- USA,16:00:00,17:55:37,13.07,Completed
+Stanley Penkala,A,Rodolfo Pancubila,1555 South Main Street-- Crown Point- IN- USA,400 W 84th Merrillville IN ,11:30:00,00:00:00,6.19,Cancelled
+Gertrude Lessner,B,Rodolfo Pancubila,70 W 90th Pl Crown Point IN ,101 West 87th Avenue-Door A- Merrillville- IN- USA,23:59:59,15:22:42,6.34,Completed
+David Perdue,B,,951 Transport Drive-- Valparaiso- IN- USA,133 North Cavender Street-- Hobart- IN- USA,23:59:59,00:00:00,15.94,Cancelled
+Amber Test,A,,101 W 87th Ave--  Merrillville- IN 46410- USA, 8701 Broadway--  IN 46410,12:00:00,00:00:00,0.4,Cancelled
+Aurelia Fedor,A,Brian Powers,1000 East 114th Street-- Whiting- IN- USA,951 Transport Dr Suite 2--  IN 46383,07:15:00,08:42:38,39.76,Completed
+Kathy Yelkish,B,Brian Powers,114 East Commercial Avenue-- Lowell- IN- USA,620   Joe Martin Rd--   Lowell Indiana 46356,12:00:00,13:24:02,1.66,Completed
+David Perdue,A,Brian Powers,133 North Cavender Street-- Hobart- IN- USA,951 Transport Drive-- Valparaiso- IN- USA,10:00:00,00:00:00,15.93,Cancelled
+James Miller,A,Brian Powers,3572 W State Rd 10 Lake Village IN ,114 E Commercial Ave-- Lowell- Indiana- USA,11:50:00,13:23:20,13.56,Completed
+June Mastey,A,Brian Powers,401 U.S. 30-- Schererville- IN- USA,1630 45th St-- Munster- IN- USA,09:40:00,10:52:32,5.84,Completed
+Gwendolyn Thompson,A,Eric Velasquez,2140 Woodhollow Ln-Apt 2B-Hammond- IN 46323- USA,7905 Calumet Ave--Munster- IN 46321- USA,12:00:00,13:42:35,3.59,Completed
+Donald Pierce,B,Eric Velasquez,951 Transport Drive-- Valparaiso- IN- USA,,23:59:59,16:45:55,,Completed
+Julio Ramos,A,Eric Velasquez,5025 McCook Ave-- East Chicago- IN 46312- USA,951 Transport Dr Suite 2--  IN 46383,09:30:00,11:21:50,33.27,Completed
+John Wawrzyszuk,A,Eric Velasquez,119 N Indiana Ave--Crown Point- IN 46307- USA,851 W Burrell Dr--IN 46307,07:30:00,10:54:21,3.13,Completed
+Ray Hampton,A,Billy Jenkins,673 Harrison Street--Gary- IN- USA,3290 Grant St--IN 46408,10:00:00,11:38:56,3.49,Completed
+HORACE TAYLOR,A,Billy Jenkins,3520 Polk Street-- Gary- IN- USA,90 West 86th Avenue-- Merrillville- IN- USA,11:15:00,12:24:09,9.09,Completed
+JUANITA SANCHEZ,A,Billy Jenkins,119 N Indiana Ave--  Crown Point- IN 46307- USA,4321 Fir Street-- East Chicago- IN- USA,12:00:00,13:21:53,24.26,Completed
+HORACE TAYLOR,B,Rodolfo Pancubila,90 West 86th Avenue-- Merrillville- IN- USA,3520 Polk Street-- Gary- IN- USA,12:45:00,14:10:10,7.25,Completed
+Gertrude Lessner,A,Rodolfo Pancubila,101 West 87th Avenue-Door A- Merrillville- IN- USA,70 W 90th Pl Crown Point IN ,09:40:00,11:48:51,6.51,Completed
+Stanley Penkala,B,,400 W 84th Merrillville IN ,1555 South Main Street-- Crown Point- IN- USA,23:59:59,00:00:00,6.2,Cancelled
+Donald Pierce,A,Rodolfo Pancubila,601 Sheffield Avenue-- Dyer- IN- USA,951 Transport Drive-- Valparaiso- IN- USA,07:00:00,09:19:12,38.49,Completed
+ella  harris,A,Nicodemus Nombre,4364 Lincoln Street-- Gary- IN- USA,550 West 84th Drive-- Merrillville- IN- USA,07:30:00,11:32:19,5.9,Completed
+Darian Williams,B,Joyce Gaa,550 W 84th Dr--  IN 46410,1555 S Main St--  Crown Point- IN 46307- USA,16:00:00,17:28:53,6.15,Completed
+Harold Griffith,B,Joyce Gaa,4016 Main Street-- East Chicago- IN- USA,1553 Harrison Street--  Gary- IN- USA,14:30:00,15:41:19,7.13,Completed
+Patricia Porter,A,Joyce Gaa,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,3290 Grant St--IN 46408,09:45:00,11:08:31,11.95,Completed
+Darian Williams,A,Rodolfo Pancubila,1555 South Main Street-- Crown Point- IN- USA,550 W 84th Dr--  IN 46410,11:00:00,12:07:01,6.14,Completed
+John Wawrzyszuk,A,Rodolfo Pancubila,119 N Indiana Ave--Crown Point- IN 46307- USA,851 W Burrell Dr--IN 46307,11:30:00,12:36:16,3.13,Cancelled
+Harold Griffith,A,Nicodemus Nombre,1553 Harrison Street-- Gary- IN- USA,4016 Main Street-- East Chicago- IN- USA,08:00:00,11:32:28,7.41,Completed
+ella  harris,B,Joyce Gaa,550 West 84th Drive-- Merrillville- IN- USA,4364 Lincoln St--  Gary- IN- USA,13:00:00,13:58:52,5.73,Completed
+John Wawrzyszuk,B,Joyce Gaa,851 W Burrell Dr--IN 46307,119 N Indiana Ave--Crown Point- IN 46307- USA,17:00:00,00:00:00,3.13,Cancelled
+Patricia Porter,B,Joyce Gaa,3290 Grant St--IN 46408,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,14:45:00,16:26:02,11.22,Completed
+Ray Hampton,A,Jason  Pancubila,673 Harrison Street--  Gary- IN- USA, 3290 Grant St--  IN 46408,10:10:00,15:18:41,3.49,Completed
+Curtis McCrutcheon,A,Jason  Pancubila,1000 East 114th Street--  Whiting- IN- USA,4016 Main St-- East Chicago- IN 46312- USA,12:00:00,15:21:26,5.84,Completed
+Ray Hampton,B,Jason  Pancubila, 3290 Grant St--  IN 46408,673 Harrison Street--  Gary- IN- USA,15:30:00,16:16:12,3.3,Completed
+Curtis McCrutcheon,B,Jason  Pancubila,4016 Main St-- East Chicago- IN 46312- USA,1000 East 114th Street--  Whiting- IN- USA,16:30:00,17:08:58,5.69,Completed
+Laverne Swain,B,Brian Powers,4802 Broadway Gary-- ,1555 S Main St--  Crown Point- IN 46307- USA,16:00:00,17:04:49,14.06,Picked
+John Wawrzyszuk,B,Brian Powers, 851 W Burrell Dr--  IN 46307,119 N Indiana Ave--  Crown Point- IN 46307- USA,17:00:00,17:05:02,3.13,Picked
+Willie Coleman,B,Brian Powers,8500 Broadway-- Merrillville- IN 46410- USA,101 W 87th Ave--  Merrillville- IN 46410- USA,23:59:59,17:05:07,0.48,Picked
+Janice Steve,A,Nicodemus Nombre,119 N Indiana Ave-- Crown Point- IN 46307- USA,1201 S Main St-- Crown Point- IN 46307- USA,08:30:00,10:49:03,2.34,Completed
+Ella Harris,A,Nicodemus Nombre,4364 Lincoln St--GARY IN 46408,550 W 84th Dr--MERRILLVILLE IN 46410,07:30:00,10:27:00,5.9,Completed
+Darian Williams,A,Nicodemus Nombre,1555 S Main St--  Crown Point- IN 46307- USA,550 W 84th Dr--  IN 46410,11:00:00,12:29:23,6.14,Completed
+Gertrude Lessner,B,Nicodemus Nombre,70 W 94th Pl-- Crown Point- IN 46307- USA,101 W 87th Ave-Door A- Merrillville- IN 46410- USA,23:59:59,11:34:01,1.16,Completed
+Gwendolyn Thompson,A,Nicodemus Nombre,2140 Woodhollow Ln-Apt 2B-Hammond- IN 46323- USA,7905 Calumet Ave--Munster- IN 46321- USA,12:30:00,14:05:57,3.59,Completed
+Richard Brown,B,Nicodemus Nombre,1201 S Main St--  Crown Point- IN 46307- USA,1532 Calumet Ave--  Dyer- IN- USA,23:59:59,16:31:42,13.77,Completed
+Laverne Swain,A,Eric Velasquez,1555 S Main St--  Crown Point- IN 46307- USA,4802 Broadway Gary-- ,10:45:00,11:43:23,14.26,Completed
+Felix Vazquez,A,Eric Velasquez,7233 Jefferson Ave-- Hammond- IN- USA,9100 Calumet Ave Munster-- ,11:30:00,12:51:07,2.27,Completed
+Patricia Porter,A,Rodolfo Pancubila,101 W 87th Ave-Room 1106 Door B-  Merrillville- IN 46410- USA, 3290 Grant St--  IN 46408,09:45:00,11:18:50,11.95,Completed
+Loretta Johnson Golden,B,,101 East 87th Avenue-- Merrillville- IN 46410,1555 S Main St-- Crown Point- IN 46307- USA,23:59:59,00:00:00,6.71,Cancelled
+Ella Harris,B,Brian Powers,550 W 84th Dr--MERRILLVILLE IN 46410,4364 Lincoln St--GARY IN 46408,13:00:00,14:49:39,5.73,Completed
+Rebecca Ponce-Ruiz,A,Brian Powers,1532 Calumet Ave-- Dyer- IN- USA,7214 Calumet Avenue-- Hammond- IN- USA,09:45:00,11:30:38,6.04,Completed
+Darian Williams,B,Brian Powers,550 W 84th Dr--  IN 46410,1555 S Main St--  Crown Point- IN 46307- USA,16:15:00,17:04:55,6.15,Picked
+Willie Coleman,A,Brian Powers,101 W 87th Ave--  Merrillville- IN 46410- USA,8500 Broadway-- Merrillville- IN 46410- USA,15:00:00,16:05:07,0.46,Completed
+Janice Steve,B,Nicodemus Nombre,1201 S Main St-- Crown Point- IN 46307- USA,119 N Indiana Ave-- Crown Point- IN 46307- USA,23:59:59,15:46:10,2.34,Completed
+Rebecca Ponce-Ruiz,B,Nicodemus Nombre,7214 Calumet Avenue-- Hammond- IN- USA,1532 Calumet Ave-- Dyer- IN- USA,23:59:59,17:40:44,5.63,Completed
+Gertrude Lessner,A,Nicodemus Nombre,101 W 87th Ave-Door A- Merrillville- IN 46410- USA,70 W 94th Pl-- Crown Point- IN 46307- USA,09:30:00,11:25:24,0.99,Completed
+Felix Vazquez,B,Nicodemus Nombre,9100 Calumet Ave Munster-- ,7233 Jefferson Ave-- Hammond- IN- USA,16:30:00,18:10:32,2.27,Completed
+Gwendolyn Thompson,B,Nicodemus Nombre,7905 Calumet Ave--Munster- IN 46321- USA,2140 Woodhollow Ln-Apt 2B-Hammond- IN 46323- USA,23:59:59,15:19:19,3.71,Completed
+Loretta Johnson Golden,A,Eric Velasquez,1555 S Main St-101 W 87th Ave- Crown Point- IN 46307- USA,101 East 87th Avenue-- Merrillville- IN 46410,10:00:00,00:00:00,6.71,No Show
+Stella Jimenez,A,Nicodemus Nombre,4943 White Oak Ave-- East Chicago- IN- USA,4150 Ellsworth Street-- Gary- IN- USA,13:00:00,14:28:28,11.47,Completed
+Patricia Porter,B,Eric Velasquez, 3290 Grant St--  IN 46408,101 W 87th Ave-Room 1106 Door B-  Merrillville- IN 46410- USA,14:30:00,16:52:37,11.22,Completed
+Richard Brown,A,Eric Velasquez,1532 Calumet Ave--  Dyer- IN- USA,1201 S Main St--  Crown Point- IN 46307- USA,12:30:00,14:18:36,14.65,Completed
+John Wawrzyszuk,A,Rodolfo Pancubila,119 N Indiana Ave--  Crown Point- IN 46307- USA, 851 W Burrell Dr--  IN 46307,11:45:00,14:19:36,3.13,Completed
+Ella Harris,B,,550 W 84th Dr--  IN 46410,4364 Lincoln St-- Gary- IN- USA,13:00:00,00:00:00,5,Pending
+Eric Brady,A,,13025 Oakdale Place--Cedar Lake- IN- USA,909 Joliet St--Dyer- IN 46311- USA,08:00:00,00:00:00,9.61,Completed
+Ella Harris,A,,4364 Lincoln St-- Gary- IN- USA,550 W 84th Dr--  IN 46410,07:15:00,00:00:00,5,Pending
+Eric Brady,A,,13025 Oakdale Place-- Cedar Lake- IN- USA,909 Joliet St-- Dyer- IN 46311- USA,08:00:00,00:00:00,9.61,Pending
+test bryan,A,Test Bryan,1201 South Alma School Road--Mesa- AZ- USA,1300 South Chandler Village Drive--Chandler- AZ- USA,02:00:00,14:57:22,9.35,Completed
+test bryan,B,Test Bryan,1300 South Chandler Village Drive--Chandler- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,23:59:59,00:00:00,9.38,Pending

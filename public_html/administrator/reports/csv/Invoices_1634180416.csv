@@ -1,0 +1,7 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Oct. 13 2021
+,,,Invoice From: Oct. 12 2021 To: Oct. 13 2021
+,,,Total Amount Billed: 985.30
+1,1509,Oct-13 2021[Access2care],Beaver A Hunter, ,Leg B,608 Geneseo St--Storm Lake-IA-50588,511 3rd St N--Swea City-IA-50590,22:37,Ambulatory - Pickup Charges: 10 - Price Per Miles: 5,96.53,0,96.53,,492.65
+ 2,1509,Oct-13 2021[Access2care],Beaver A Hunter, ,Leg A,511 3rd St N--Swea City-IA-50590,608 Geneseo St--Storm Lake-IA-50588,21:35,Ambulatory - Pickup Charges: 10 - Price Per Miles: 5,96.53,0,96.53,,492.65
+

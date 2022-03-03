@@ -1,0 +1,8 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+amber,B,Jason Walker,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,13:32:54,0,Completed
+amber,B,Jason Walker,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,18:27:07,0,Completed
+amber,B,Jason Walker,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,Jason Walker,222 Station Plaza North--Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,18:26:55,2673.08,Completed
+Amanda Willey,A,Jason Walker,1770 Chestnut Pl-- Denver- CO 80202- United States,700 Delaware St-- Denver- CO 80204- United States,17:45:00,00:00:00,2.39,In Progress
+amber,B,Jason Walker,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,12:32:16,0,Completed
+amber,A,Jason Walker,222 St Paul Pl--Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,Pending

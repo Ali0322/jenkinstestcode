@@ -1,0 +1,19 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+adam smith,A,,2211 Lomas Boulevard Northeast-- Albuquerque- NM- USA,1101 Medical Arts Avenue Northeast-- Albuquerque- NM- USA,12:30:00,00:00:00,1.28,Pending
+adam smith,B,,1101 Medical Arts Avenue Northeast-- Albuquerque- NM- USA,2211 Lomas Boulevard Northeast-- Albuquerque- NM- USA,13:45:00,00:00:00,1.37,Pending
+adam smith,A,marlene rosado,2424 Franklin St--Denver- CO- USA,24 Franklin St--Denver- CO- USA,12:30:00,16:40:00,3.28,Picked
+adam smith,B,many e,24 Franklin St--Denver- CO- USA,2424 Franklin St--Denver- CO- USA,11:00:00,16:39:52,3.5,Picked
+adam smith,A,JAMIE INMAN,2424 Franklin St--Denver- CO- USA,24 Franklin St--Denver- CO- USA,10:00:00,00:00:00,3.28,Picked
+AMBER IRISH,A,JAMIE INMAN,2346 Nez Perce Drive-360-Lewiston- ID- USA,3458 Syringa Drive-east wing-Lewiston- ID- USA,16:00:00,00:00:00,3.82,In Progress
+AMBER IRISH,B,JAMIE INMAN,3458 Syringa Drive-east wing-Lewiston- ID- USA,2346 Nez Perce Drive-360-Lewiston- ID- USA,18:00:00,00:00:00,3.79,In Progress
+adam smith,B,mayra R,24 Franklin St--Denver- CO- USA,2424 Franklin St--Denver- CO- USA,13:45:00,00:00:00,3.5,In Progress
+Adam P,A,marlene rosado,1210 Indiana Court--Redlands-CA-92374,Assistencia Villa 1875 Barton Rd.--Redlands-CA-92373,15:00:00,00:00:00,2.38,In Progress
+Adam N,B,JAMIE INMAN,92373--RAI Redlands-1210 Indiana Court-Redlands,92374---Assistencia Villa 1875 Barton Rd.-Redlands,15:00:00,11:08:18,2.37,Picked
+Adam J,B,marlene rosado,1210 Indiana Court--Redlands-CA-92374,Assistencia Villa 1875 Barton Rd.--Redlands-CA-92373,12:30:00,00:00:00,2.38,Picked
+Adam N,A,many e,---Assistencia Villa 1875 Barton Rd.-Redlands,92373--RAI Redlands-1210 Indiana Court-Redlands,10:00:00,00:00:00,2.37,Picked
+Adam P,B,JAMIE INMAN,Assistencia Villa 1875 Barton Rd.--Redlands-CA-92373,1210 Indiana Court--Redlands-CA-92374,17:30:00,00:00:00,2.38,In Progress
+Adam J,A,JAMIE INMAN,Assistencia Villa 1875 Barton Rd.--Redlands-CA-92373,1210 Indiana Court--Redlands-CA-92374,10:00:00,11:08:02,2.38,Picked
+AMBER IRISH,A,,2346 Nez Perce Drive-360-Lewiston- ID- USA,3458 Syringa Drive-east wing-Lewiston- ID- USA,12:00:00,00:00:00,3.82,Completed
+AMBER IRISH,A,,2346 Nez Perce Drive-360- Lewiston- ID- USA,3458 Syringa Drive-east wing- Lewiston- ID- USA,12:00:00,00:00:00,3.82,Pending
+AMBER IRISH,B,,3458 Syringa Drive-east wing-Lewiston- ID- USA,2346 Nez Perce Drive-360-Lewiston- ID- USA,14:00:00,00:00:00,3.79,Completed
+AMBER IRISH,B,,3458 Syringa Drive-east wing- Lewiston- ID- USA,2346 Nez Perce Drive-360- Lewiston- ID- USA,14:00:00,00:00:00,3.79,Pending

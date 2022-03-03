@@ -1,0 +1,84 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+AMBER tEST,B,Steve Anderson,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,Steve Anderson,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,11:52:38,184.14,Completed
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.65,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,Steve Anderson,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,11:30:33,322.66,Picked
+AMBER tEST,A,Steve Anderson,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.65,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+ANDREW DAY,B,,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24,Pending
+JOYCESTINE NEBLETT,B,,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.65,Completed
+Test Steve,A,Test Test,11 Chopin Ct-- Jersey City- NJ- USA,Canal Circle-- Jersey City- NJ- USA,17:00:00,19:20:56,1.09,Completed
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+BRADLEY MATTHEWS JR,A,JOEL YERBO,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+JOYCESTINE NEBLETT,A,Steve Anderson,218 Kent Dr--Martinsville-VA-24112,33 Bridge St--Martinsville-VA-24112,05:00:00,00:00:00,3,Pending
+ANDREW DAY,A,,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Pending
+AARON R HOBACK,A,,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Pending
+BRADLEY MATTHEWS JR,B,,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Completed
+JOYCESTINE NEBLETT,B,JOEL YERBO,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,Pending
+ANDREW DAY,A,JOEL YERBO,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Pending
+BRADLEY MATTHEWS JR,A,Steve Anderson,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Pending
+ANDREW DAY,B,,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24,Pending
+BRADLEY MATTHEWS JR,B,JOEL YERBO,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Pending
+JOYCESTINE NEBLETT,A,Steve Anderson,218 Kent Dr--Martinsville-VA-24112,33 Bridge St--Martinsville-VA-24112,05:00:00,00:00:00,3,Pending
+AARON R HOBACK,A,,1300 Mulberry Rd--Martinsville-VA-24112,600 Northside Dr--Martinsville-VA-24112,07:45:00,00:00:00,4,Pending
+AARON R HOBACK,B,EUEL KASAYE,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Pending
+AMBER tEST,B,Steve Anderson,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,EUEL KASAYE,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.65,Completed
+AMBER tEST,A,Steve Anderson,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,In Progress
+AMBER tEST,A,Steve Anderson,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Completed
+AMBER tEST,A,Test Test,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+Kevin,A,,121st St-212-Largo- FL- USA,122 St Thomas--Largo- Florida- USA,12:22:00,00:00:00,2.15,Completed
+AMBER tEST,A,EUEL KASAYE,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,JOEL YERBO,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,23:59:59,00:00:00,0,Pending
+AMBER tEST,A,EUEL KASAYE,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,EUEL KASAYE,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,SAM Cooper,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St-- Orlando- FL- USA,113 St Marys St W--St. Marys- GA- USA,12:00:00,00:00:00,184.97,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,JOEL YERBO,113 St Marys St W--St. Marys- GA- USA,33rd St-- Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,Steve Anderson,33rd St--Orlando- FL- USA,-,23:59:59,00:00:00,0,Pending
+AMBER tEST,A,Steve Anderson,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St-- Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,B,,33rd St-- Orlando- FL- USA,113 St Marys St W--St. Marys- GA- USA,12:00:00,00:00:00,184.97,Pending
+AMBER tEST,A,,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St-- Orlando- FL- USA,113 St Marys St W--St. Marys- GA- USA,12:00:00,00:00:00,184.97,Pending
+AMBER tEST,A,,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St-- Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St-- Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St-- Orlando- FL- USA,113 St Marys St W--St. Marys- GA- USA,12:00:00,00:00:00,184.97,Pending

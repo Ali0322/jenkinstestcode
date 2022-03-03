@@ -1,0 +1,154 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,A,,2809 hilliard rd apt D-,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,A,,222 State Street-- Ludlow- MA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2835.64,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,222 State Hwy 1-- El Segundo- CA- USA,02:00:00,00:00:00,1828.42,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D-,02:00:00,00:00:00,2374.95,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+Ronnie Coleman,A,Ronnie Coleman,170 William St-- New York- NY 10038- United States,19 Dutch St-- New York- NY 10038- United States,13:20:00,13:34:54,0.55,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,2809 hilliard rd apt D-,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+Test1,A,,1201 s alma school road Mesa--AZ,1202 South Chandler Village Drive--Chandler- AZ- USA,15:30:00,00:00:00,9.63,Pending
+Michael Rafferty,A,,Budapest-2 Unit- Phone Firm Zrt- Révay köz- 1065 Hungary,Connecticut Post Mall-- Boston Post Road- Milford- CT- USA,13:20:00,00:00:00,0,Completed
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+John Cena,A,,5120 E Hampton Ave-- Mesa- AZ 85206- United States,9130e East Elliot Road-- Mesa- AZ 85212- United States,19:10:00,00:00:00,7.44,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,222 State Hwy 1-- El Segundo- CA- USA,02:00:00,00:00:00,1828.42,Pending
+amber,A,,222 State Street-- Ludlow- MA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2835.64,Pending
+Test1,B,abcdef mass,1202 South Chandler Village Drive--Chandler- AZ- USA,1201 s alma school road Mesa--AZ,00:00:00,13:48:42,9.09,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D-,02:00:00,00:00:00,2374.95,Pending
+Rampage Jackson,A,,17689 17th Street East-,491 State Highway 100-- Ludlow- VT- USA,15:40:00,00:00:00,0,Completed
+Shawn Jewel,A,,567 S Alma Rd-- Alma Center- WI- USA,14567 Street Avenue Lane TX 77912,17:20:00,17:46:33,1182.4,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+John Cena,B,,9130e East Elliot Road-- Mesa- AZ 85212- United States,5120 E Hampton Ave-- Mesa- AZ 85206- United States,21:00:00,19:28:40,7.38,Completed
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,A,,2809 hilliard rd apt D-,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+Test Bryan,A,Test Driver Five,7797 N 3rd St--Fresno- California- USA,4944 East Clinton Way--Fresno- CA- USA,04:30:00,00:00:00,7.85,Pending
+amber,A,,222 State Street-- Ludlow- MA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2835.64,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,B,Josh  Callihan,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,222 State Hwy 1-- El Segundo- CA- USA,02:00:00,00:00:00,1828.42,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+Test Bryan,B,Test Driver Five,4944 East Clinton Way--Fresno- CA- USA,7797 N 3rd St--Fresno- California- USA,06:30:00,00:00:00,11.04,Pending
+amber,B,abcdef mass,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D-,02:00:00,00:00:00,2374.95,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+Test Bryan,A,Test Driver Five,7797 N 3rd St--Fresno- California- USA,4944 East Clinton Way--Fresno- CA- USA,04:30:00,00:00:00,7.85,Pending
+Test Bryan,B,Test Driver Five,4944 East Clinton Way--Fresno- CA- USA,7797 N 3rd St--Fresno- California- USA,06:30:00,00:00:00,11.04,Pending
+amber,A,,2809 hilliard rd apt D-,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+Test Bryan,A,Test Driver Five,7797 N 3rd St--Fresno- California- USA,4944 East Clinton Way--Fresno- CA- USA,04:30:00,00:00:00,7.85,Pending
+amber,A,,222 State Street-- Ludlow- MA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2835.64,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,222 State Hwy 1-- El Segundo- CA- USA,02:00:00,00:00:00,1828.42,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+Test Bryan,B,,14709 Olive Boulevard-- Chesterfield- MO- USA,232 South Woods Mill Road-- Chesterfield- MO- USA,06:30:00,00:00:00,2.99,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D-,02:00:00,00:00:00,2374.95,Pending
+Test Bryan,A,Test Driver Three,232 South Woods Mill Road-- Chesterfield- MO- USA,14709 Olive Boulevard-- Chesterfield- MO- USA,04:30:00,15:08:46,3.06,Picked
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+Test Bryan,B,Test Driver Five,4944 East Clinton Way--Fresno- CA- USA,7797 N 3rd St--Fresno- California- USA,06:30:00,00:00:00,11.04,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+Test1,A,,1201 s alma school road Mesa-- AZ,1202 South Chandler Village Drive-- Chandler- AZ- USA,15:30:00,00:00:00,9.63,Pending
+Test Bryan,B,,3440 OAKWOOD HILLS PKWY--EAU CLAIRE-WI-54701,3636 E MELBY ST--CHIPPEWA FALLS-WI-54729,05:30:00,00:00:00,7.81,Pending
+Test Bryan,B,,4944 East Clinton Way-- Fresno- CA- USA,7797 N 3rd St-- Fresno- California- USA,05:30:00,00:00:00,11.04,Pending
+Shawn M5,A,,1201 s alma school road Mesa--AZ,1202 South Chandler Village Drive--Chandler- AZ- USA,15:30:00,00:00:00,9.63,Completed
+Test1,B,abcdef mass,1202 South Chandler Village Drive--Chandler- AZ- USA,1201 s alma school road Mesa--AZ,00:00:00,13:10:25,9.09,Completed
+Test Shawn,B,abcdef mass,1202 South Chandler Village Drive--Chandler- AZ- USA,1201 s alma school road Mesa--AZ,00:00:00,13:25:06,9.09,Completed
+Test1,A,,1201 s alma school road Mesa--AZ,1202 South Chandler Village Drive--Chandler- AZ- USA,15:30:00,00:00:00,9.63,Pending
+Test Bryan,A,Test Driver Two,7797 N 3rd St-- Fresno- California- USA,4944 East Clinton Way-- Fresno- CA- USA,04:30:00,18:54:30,7.85,Picked
+Test Shawn,A,,1201 s alma school road Mesa--AZ,1202 South Chandler Village Drive--Chandler- AZ- USA,15:30:00,00:00:00,9.63,Pending
+Test1,B,Test Driver Five,1202 South Chandler Village Drive-- Chandler- AZ- USA,1201 s alma school road Mesa-- AZ,00:00:00,11:36:49,9.09,Completed
+Test Shawn,A,abcdef mass,1201 s alma school road Mesa--AZ,1202 South Chandler Village Drive--Chandler- AZ- USA,15:30:00,16:34:54,9.63,Completed
+Test Bryan,A,abcdef mass,5203 STONEWOOD DR--EAU CLAIRE-WI-54703,3440 OAKWOOD HILLS PKWY--EAU CLAIRE-WI-54701,04:30:00,15:24:22,11.24,Completed
+Test1,A,,1201 s alma school road Mesa--AZ,Tempe--AZ 85281- USA,08:30:00,00:00:00,8.29,Pending
+amber,A,,2809 hilliard rd apt D-,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+Test1,B,Test Driver Three,Tempe-- AZ 85281- USA,2757 E Guadalupe Rd-- Gilbert- AZ 85234- United States,23:59:59,13:51:04,17.19,In Progress
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+Test1,D,Test Driver Three,Camp Verde-- Arizona 86322- USA,Peach Springs-- AZ 86434- USA,10:30:00,13:21:59,165.93,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,222 State Hwy 1-- El Segundo- CA- USA,02:00:00,00:00:00,1828.42,Pending
+amber,A,,222 State Street-- Ludlow- MA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2835.64,Pending
+amber,B,abcdef mass,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D,02:00:00,19:25:40,2324.8,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+Test1,B,,Tempe--AZ 85281- USA,Peach Springs--AZ 86434- USA,10:30:00,00:00:00,213.31,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D-,02:00:00,00:00:00,2374.95,Pending
+Test1,A,Test Driver Three,1201 s alma school road Mesa-- AZ,Tempe-- AZ 85281- USA,08:30:00,13:12:01,9.11,Completed
+Test1,C,Test Driver Three,2757 E Guadalupe Rd-- Gilbert- AZ 85234- United States,Camp Verde-- Arizona 86322- USA,23:59:59,16:24:13,115.2,Picked
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,2809 hilliard rd apt D,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+Test1,A,Test Driver Five,1201 s alma school road Mesa-- AZ,1202 South Chandler Village Drive-- Chandler- AZ- USA,12:39:00,19:47:28,9.63,Picked
+amber,A,,2809 hilliard rd apt D-,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+,D,,1640 ANDERSON RD--EAU CLAIRE-WI-54703,3636 E MELBY ST--CHIPPEWA FALLS-WI-54729,05:30:00,00:00:00,12.62,Completed
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+,B,,3440 OAKWOOD HILLS PKWY--EAU CLAIRE-WI-54701,1036 5TH ST E--ALTOONA-WI-54720,23:59:59,00:00:00,9.65,Completed
+amber,A,,2809 hilliard rd apt D-,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+amber,B,Test Driver Five,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D-,02:00:00,13:54:00,2374.95,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Street-- Ludlow- MA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2835.64,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,222 State Hwy 1-- El Segundo- CA- USA,02:00:00,00:00:00,1828.42,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+,C,,1036 5TH ST E--ALTOONA-WI-54720,1640 ANDERSON RD--EAU CLAIRE-WI-54703,05:15:00,00:00:00,3.21,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+,A,,5203 STONEWOOD DR--EAU CLAIRE-WI-54703,3440 OAKWOOD HILLS PKWY--EAU CLAIRE-WI-54701,04:30:00,00:00:00,9.65,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D-,02:00:00,00:00:00,2374.95,Pending
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,Test Driver Five,222 State Street-- Ludlow- MA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,15:24:56,2835.64,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,B,Josh  Callihan,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D,02:00:00,00:00:00,2324.8,Pending
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Completed
+amber,A,,2809 hilliard rd apt D-,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,222 State Hwy 1-- El Segundo- CA- USA,02:00:00,00:00:00,1828.42,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D-,02:00:00,00:00:00,2374.95,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,A,,2809 hilliard rd apt D,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+amber,B,Test Driver Two,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,,Pending
+amber,B,Test Driver Three,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D-,02:00:00,00:00:00,2374.95,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+amber,A,,2809 hilliard rd apt D,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+amber,A,,2809 hilliard rd apt D-,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+amber,B,Test Driver Five,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D,02:00:00,17:44:55,2324.8,Picked
+amber,B,abcdef mass,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,222 State Hwy 1-- El Segundo- CA- USA,02:00:00,00:00:00,1828.42,Pending
+amber,B,abcdef mass,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,222 State Hwy 1-- El Segundo- CA- USA,02:00:00,19:29:03,1828.42,Completed
+amber,A,,2809 hilliard rd apt D,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D,02:00:00,00:00:00,2324.8,Pending
+amber,A,,222 State Hwy 1-- El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1839.21,Pending
+NANCY WILLISON,B,Josh  Callihan,8410 W Thomas Rd--PHOENIX AZ 85037,4343 W Thomas Rd Apt 1001--PHOENIX AZ 85031,12:29:59,00:00:00,5,Pending
+JACQUELYN STEFANI,A,Josh  Callihan,1441 W 2nd Ave--APACHE JUNCTION AZ 85120,6750 E Baywood Ave Null--MESA AZ 85206,12:31:00,00:00:00,8,Pending
+amber,A,,2809 hilliard rd apt D-,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+NANCY WILLISON,A,Test Driver Five,4343 W Thomas Rd Apt 1001--PHOENIX AZ 85031,8410 W Thomas Rd--PHOENIX AZ 85037,09:00:00,00:00:00,5,Pending
+GERALD SPRALEY,B,,1717 W Chandler Blvd Pcp--CHANDLER AZ 85224,6903 S Lake Forest Ct--CHANDLER AZ 85249,23:59:59,00:00:00,10,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D,02:00:00,00:00:00,2324.8,Pending
+GERALD SPRALEY,A,Josh  Callihan,6903 S Lake Forest Ct--CHANDLER AZ 85249,1717 W Chandler Blvd Pcp--CHANDLER AZ 85224,10:30:00,00:00:00,10,Pending
+amber,A,Josh  Callihan,2809 hilliard rd apt D,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D-,02:00:00,00:00:00,2374.95,Pending
+JACQUELYN STEFANI,B,,6750 E Baywood Ave Null--MESA AZ 85206,1441 W 2nd Ave--APACHE JUNCTION AZ 85120,23:59:59,00:00:00,8,Pending
+amber,B,Test Driver Five,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D,02:00:00,12:13:34,2324.8,Completed
+amber,B,Test Driver Five,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,2809 hilliard rd apt D-,02:00:00,19:55:37,2374.95,Completed
+amber,A,Test Driver Five,2809 hilliard rd apt D,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,20:04:49,2379.5,Completed
+amber,A,Test Driver Five,2809 hilliard rd apt D-,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2379.5,Pending

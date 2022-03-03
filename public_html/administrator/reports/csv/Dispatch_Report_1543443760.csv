@@ -1,0 +1,34 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+amber Irish,A,,2323 Juniper Drive-- Lewiston- ID- USA,45 Down River Road-- Lewiston- ID- USA,13:00:00,00:00:00,2.78,Pending
+amber Irish,B,,45 Down River Road-- Lewiston- ID- USA,2323 Juniper Drive-- Lewiston- ID- USA,15:00:00,00:00:00,2.75,Pending
+fiu,B,Bobby  Turney,non,hospital,23:59:59,00:00:00,23.27,Pending
+fiu,A,Ashley Ashley,hospital,non,08:00:00,00:00:00,23.01,In Progress
+JACQUELINE SMITH,B,,,,23:59:59,00:00:00,0,Pending
+JACQUELINE SMITH,A,,,,12:00:00,00:00:00,0,Pending
+amber Irish,B,,,,16:00:00,00:00:00,0,Pending
+DEBRA SMITH,A,Elvis Presley,8265 SW Canyon Ln--PORTLAND-OR-60637,3181 SW Sam Jackson Park Rd--PORTLAND-OR-60629,13:00:00,00:00:00,5.97,Pending
+DEBRA SMITH,B,,3181 SW Sam Jackson Park Rd--PORTLAND-OR-60629,8265 SW Canyon Ln--PORTLAND-OR-60637,23:59:59,00:00:00,6.12,Pending
+amber Irish,A,,,,15:00:00,00:00:00,0,Pending
+john doe,B,Otis Otis,1 Boyd Street-- Cornwall- PA- USA,111 Fern Circle-- Lebanon- PA- USA,23:59:59,00:00:00,2,Pending
+adam,B,Otis Otis,1 Boyd Street-- Cornwall- PA- USA,111 Fern Circle-12- Lebanon- PA- USA,13:45:00,00:00:00,2,Pending
+Adam N,B,Otis Otis,92373--RAI Redlands-1210 Indiana Court-Redlands,---Assistencia Villa 1875 Barton Rd.-Redlands,23:59:59,00:00:00,2.37,Pending
+john doe,A,Otis Otis,111 Fern Circle-- Lebanon- PA- USA,1 Boyd Street-- Cornwall- PA- USA,13:00:00,00:00:00,2,Pending
+adam,A,Otis Otis,111 Fern Circle-12- Lebanon- PA- USA,1 Boyd Street-- Cornwall- PA- USA,12:30:00,00:00:00,2,Pending
+Adam N,A,Otis Otis,---Assistencia Villa 1875 Barton Rd.-Redlands,92373--RAI Redlands-1210 Indiana Court-Redlands,10:00:00,00:00:00,2.37,Pending
+amber Irish,B,,2323 Juniper Drive-- Lewiston- ID- USA,2381 Highline Drive-- Clarkston- WA- USA,16:00:00,00:00:00,5.97,Pending
+amber Irish,A,Eric  Hamilton,2381 Highline Drive-- Clarkston- WA- USA,2323 Juniper Drive-- Lewiston- ID- USA,13:00:00,00:00:00,6.25,Completed
+RICHARD BROWN,A,Bobby  Turney,117 E EUCLID AVE--DELAND-FL-32724,1061 MEDICAL CENTER DR STE 101--ORANGE CITY-FL-32763,14:30:00,00:00:00,8.6,Cancelled
+ROBYN PARKER,A,Bobby  Turney,2430 ORIOLE LN--SOUTH DAYTONA-FL-32119,1944 CARR ST--DELAND-FL-32720,07:30:00,00:00:00,27.04,Cancelled
+adam smith,A,Bobby  Turney,1620 Northwest 4th Street-12- Miami- FL- USA,Front Door Lane-33-St. Augustine- FL- USA,14:00:00,10:28:28,321.75,Completed
+SARAH MERTZ,A,Bobby  Turney,1586 BONVIEW AVE--DELTONA-FL-32738,1133 SAXON BLVD--ORANGE CITY-FL-32763,10:00:00,17:39:39,7.97,Completed
+ROBYN PARKER,A,Bobby  Turney,2430 ORIOLE LN--SOUTH DAYTONA-FL-32119,1944 CARR ST--DELAND-FL-32720,07:30:00,17:29:50,27.04,Completed
+ROBYN PARKER,A,,2430 ORIOLE LN--SOUTH DAYTONA-FL-32119,1944 CARR ST--DELAND-FL-32720,07:30:00,00:00:00,27.04,Completed
+CANDY MURFITT,A,,920 HUNTERS CREEK DRIVE APT 5106--DELAND-FL-32720,1555 SAXON BLVD STE 502--DELTONA-FL-32725,09:00:00,00:00:00,13.28,Completed
+adam smith,A,Bobby  Turney,1620 Northwest 4th Street-12- Miami- FL- USA,Front Door Lane-33-St. Augustine- FL- USA,14:00:00,13:19:58,321.75,Completed
+ROBYN PARKER,A,,2430 ORIOLE LN--SOUTH DAYTONA-FL-32119,1944 CARR ST--DELAND-FL-32720,07:30:00,00:00:00,27.04,Completed
+GAYNELL WYLIE,A,,2600 GEORGIA AVE APT 1501--SANFORD-FL-32773,1200 LEXINGTON GREEN LN--SANFORD-FL-32771,09:30:00,00:00:00,2.76,Completed
+ROBYN PARKER,A,,2430 ORIOLE LN--SOUTH DAYTONA-FL-32119,1944 CARR ST--DELAND-FL-32720,07:30:00,00:00:00,27.04,Completed
+DORIS GRAY,A,,293 DEELEY ST--DAYTONA BEACH-FL-32114,557 HEALTH BLVD--DAYTONA BEACH-FL-32114,14:45:00,00:00:00,1.26,Completed
+JAMIE BRANTLY,A,,924 HUNTERS CREEK DRIVE APT 108--DELAND-FL-32720,750 W PLYMOUTH AVE--DELAND-FL-32720,12:45:00,00:00:00,0.68,Completed
+amber Irish,A,findlee odili obi,1211 7th street-360- clarkston- wa,3458 Syringa Drive-east wing-Lewiston- ID- USA,15:00:00,00:00:00,2.56,Pending
+amber Irish,B,,3458 Syringa Drive-east wing-Lewiston- ID- USA,1211 7th street-360- clarkston- wa,16:00:00,00:00:00,2.46,Pending

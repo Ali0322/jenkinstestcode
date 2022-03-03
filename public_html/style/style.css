@@ -1,0 +1,224 @@
+@charset "utf-8";
+/* CSS Document */
+body{ margin:0; padding:0; font-family:"Verdana", Geneva, sans-serif; background:url(../images/upper_bar.png) repeat-x;}
+#main_container{ width:100%; float:left;}
+#main_inner_container{ width:1004px; margin:auto; margin-top:6px;}
+#inner_container{ width:1004px; float:left; }
+.header { float:left; width:990px; height:230px; background:url(../images/header.png) no-repeat; }
+.logo{ float:left; width:628px; height:66px; padding-left:13px; padding-top:5px;}
+.van{ float:right; width:300px; height:205px; padding-top:15px;}
+.main_menu{ float:left; width:640px; padding-top:40px;}
+.menu_nav{width:640px; float:right;}
+.menu_nav ul{width:640px; float:lef; list-style-type:none; margin:0px; padding:0}
+.menu_nav ul li{float:left;  padding-left:30px; display:inline; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; color:#FFFFFF;}
+.menu_nav a{text-decoration:none; color:#FFFFFF;}
+.icons_three{ float:left; width:333px; height:81px; background:url(../images/icons_three.png) no-repeat; margin-top:6px;}
+.bottom_menu{ float:left; width:310px; padding-top:18px; padding-left:15px;} 
+.bottom_menu ul{ float:left; width:270px; margin:0; padding:0 0 0 0; list-style-type:none;}
+.bottom_menu ul li{float:left;  text-align:center; display:inline; padding-left:33px;}
+.bottom_menu ul li img{ height:32px;}
+.bottom_menu ul li a{ color:#ffffff; font-weight:bold; font-size:11px; text-decoration:none;}
+.feature_main{width:333px; float:left; margin-top:6px;}
+.feature_top{width:333px; float:left; height:57px;}
+.feature_cen{width:333px; float:left; background-image:url(../images/feature_cen.png); background-repeat:repeat-y;}
+.featr_txt{width:305px; margin-left:13px; float:left; margin-top:4px;}
+.featr_txt ul{width:285px; float:left; margin:0px; padding-left:20px; display:block; list-style-image:url(../images/feature_arrow.png);}
+.featr_txt ul li{ width:300px; float:left; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#FFFFFF;line-height:16px; padding: 3px 0 0 0;}
+.featr_txt ul li a{color:#FFFFFF; text-decoration:none;}
+.feature_bottom{width:333px; float:left; height:10px;}
+.login_panels{ float:left; width:650px; margin-top:25px;}
+.login_panels ul{ float:left;  margin:0; padding:0; list-style-type:none; padding-left:10px;}
+.login_panels ul li{ width:190px; height:70px; display:inline; padding-left:8px;}
+#body_content{ float:left; width:1004px; padding-top:0px;}
+.left_panel{ float:left; width:630px; padding-left:10px;}
+.right_panel{ float:left; width:333px; margin-left:12px;}
+.welcome_panel{ float:left; width:100%;}
+.heading{ float:left; width: 100%; font-family:"Tahoma", Geneva, sans-serif; color:#0f63ac; font-size:20px; border-bottom: #0f63ac 1px solid; font-weight:bold; padding-bottom:5px;}
+.text{ float:left; font-size:11px; color:#3a4040; text-align:justify; padding-top: 8px; width:100%;}
+.more{ float:right; width:75px;}
+.more a{ color:#0f63ac; font-size:11px;}
+.testimonial{ float:left; width:333px; height:156px; background:url(../images/testi_panel.png) no-repeat;}
+.testi_txt{ float:left; width:300px; font-size:10px;  color:#ffffff; text-align:justify; padding-left:15px; padding-top:65px;}
+.name{ float:left; width:315px; color:#ffffff; font-size:11px; text-align:right; padding-right:10px; padding-top:4px; font-weight:bold;}
+.footer{ float:left; width:100%; background:url(../images/footer.png) repeat-x; height:83px; margin-top:10px;}
+.copyright{ color:#000000; font-size:11px; padding-left:10px; padding-top:30px; width:400px; float:left; }
+.copyright a{ color:#000000;}
+.hits_logo{ float:right; width:59px; height:52px; margin-top:18px; margin-right:10px;}
+/*
+New added classess by usmania */
+.form_baground {background-color:#CCC; height:auto;}
+.label{ color:#202020; font-size:11px; font-weight:bold; padding-left:15px;}
+.txt_box{ width:180px; border:#999 1px solid; height:20px; background:#f4f4f4;}
+.txt_box2{ width:220px; border:#999 1px solid; height:20px; background:#f4f4f4;}
+.txt_area{ width:220px; border:#999 1px solid; background:#f4f4f4;}
+.SmallnoteTxt { font-family:Arial, Helvetica, sans-serif; color:#666; font-size:12px; font-weight:bold; }
+.btn{  background:url(../images/proceed_btn.png) no-repeat; text-align:center; border:none; width:114px; height:38px;  font-weight:bold; color:#FFF; padding:8px 0 8px 0;}
+.btn a{  text-decoration:none;}
+.btn:hover{ color:#D91344; text-decoration:none; cursor:pointer;}
+.contact_labels{ color:#666; font-weight:bold; width:200px;}
+.address{ padding-top:3px; font-family:Verdana, Geneva, sans-serif; font-size:11px; }
+.label_ph{ color:#666; font-weight:bold; padding-top:8px;}
+.form_table{ float:left; padding-top: 20px; vertical-align:top; padding-left:25px;}
+.form_labels{ font-weight:bold; font-size:11px; width:100px;}
+.contact_labels{ color:#666; font-weight:bold; width:283px;}
+.form_heading1{ background:#404347; color:#fff; height:20px; font-size:12px; font-weight:bold; padding-left:8px; width:600px; padding-top:5px;}
+.form_heading{ background:#404347; color:#fff; height:20px; font-size:12px; font-weight:bold; padding-left:8px; padding-top:5px;}
+.form_heading2{ background:#404347; color:#fff; height:20px; font-size:12px; font-weight:bold; padding-left:8px; padding-top:5px; width:300px;}
+.icon_panel{ width: 650px; float:left;}
+.SmallgreenTxt { color:#CC6600; font-size:11px; font-weight:bold; }
+.SmallgridTxt { color:#666666; font-size:11px; }
+.SignUp { text-decoration:none;}
+/*-------- Dashboard -------- */
+.gallery_main{  float:left; width:610px; margin-left:20px;	 }
+
+ul.gallery {
+
+
+
+	float:left;
+
+
+
+	width: 650px; /*--Adjust width according to your scenario--*/
+
+
+
+	list-style: none;
+
+
+
+	margin: 0; padding: 0; 
+
+	margin-left: 10px;
+
+}
+ul.gallery li {
+
+
+
+	float: left;
+
+
+
+	margin: 8px; padding: 0;
+
+
+
+	text-align: center;
+
+
+
+	border: 1px solid #ccc;
+
+
+
+	-moz-border-radius: 3px; /*--CSS3 Rounded Corners--*/
+
+
+
+	-khtml-border-radius: 3px; /*--CSS3 Rounded Corners--*/
+
+
+
+	-webkit-border-radius: 3px; /*--CSS3 Rounded Corners--*/
+
+
+
+	display: inline; /*--Gimp Fix aka IE6 Fix - Fixes double margin bug--*/
+
+
+
+}
+ul.gallery li a.thumb {
+
+
+
+	width: 135px; /*--Width of image--*/
+
+
+
+	height: 60px; /*--Height of image--*/
+
+
+
+	padding: 3px 3px 4px 3px;
+
+
+
+	
+
+
+
+	cursor: pointer;
+
+
+
+}
+ul.gallery li span { /*--Used to crop image--*/
+
+
+
+	width: 135px;
+
+
+
+	height:60px;	
+
+
+
+	overflow: hidden;
+
+
+
+	display: block;
+
+
+
+	
+
+
+
+}
+ul.gallery li a.thumb:hover {
+
+
+
+	background: #333; /*--Hover effect for browser with js turned off--*/
+
+
+
+}
+ul.gallery li h2 {
+
+
+
+	font-size: 12px;
+
+
+
+	font-weight: normal;
+
+
+
+	margin: 0; padding: 2px;
+
+
+
+	
+
+
+
+	
+
+
+
+}
+ul.gallery li a {text-decoration: none; color: #777; display: block;}
+
+/*Clinic trips classes*/
+.tabs{ width: 100%;}
+.tabs ul{ list-style: none; display: inline;}
+.tabs ul li{  display:block; float:left; background: url(../images/tabs.png) no-repeat; width:95px; height:20px; padding-left: 0px; padding-top: 5px; text-align:center; color:082e58; font-size:11px; font-weight:bold;}
+.tabs ul li a{ font-family: Verdana; color:#fff; font-weight:bold; text-decoration:none;}
+.tabs ul li a:hover{ color:#fff;}
+.selected1 a{ color:#FFFFFF; }

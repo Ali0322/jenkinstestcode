@@ -1,0 +1,3 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+adam smith,A,mayra R,7334 Park City Drive-12- Sacramento- CA- USA,6000 J Street-- Sacramento- CA- USA,12:30:00,14:04:02,12.02,Completed
+adam smith,B,,6000 J Street-- Sacramento- CA- USA,7334 Park City Drive-12- Sacramento- CA- USA,13:45:00,00:00:00,14.33,Pending

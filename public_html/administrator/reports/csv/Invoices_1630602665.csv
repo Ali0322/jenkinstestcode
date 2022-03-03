@@ -1,0 +1,18 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Sep. 02 2021
+,,,Invoice From: Aug. 02 2021 To: Sep. 02 2021
+,,,Total Amount Billed: 36413.02
+1,1309,Aug-05 2021[Modiv Care],Alex Test, ,Leg A,1112 St Nicholas Ave--New York- NY- USA,2223 State Highway 54--Durham- NC- USA,03:00,Stretcher Van - Pickup Charges: 275 - Price Per Miles: 4.25,500.66,0,500.66,,2402.81
+ 2,1309,Aug-05 2021[Modiv Care],Alex Test, ,Leg B,2223 State Highway 54--Durham- NC- USA,-,Will ,Stretcher Van - Pickup Charges: 275 - Price Per Miles: 4.25,674.79,0,674.79,,3142.86
+ 3,857,Aug-05 2021[],test, ,Leg B,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 10 - Price Per Miles: 10,11.14,0,11.14,Oxygen. Charges: 0  ,121.40
+ 4,1311,Aug-06 2021[MTM],JAMES COUTCHER, Z0QQ2BL9D0AA,Leg A,67 PROSPECT HILL AVE--WEST WARWICK-RI-02893,600 PAWTUCKET AVE--PAWTUCKET-RI-02860,05:00,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 0 - Price Per Miles: 0,13.03,0,13.03,,0.00
+ 5,468,Aug-16 2021[],test, ,Leg B,Calmar--IA- USA,-,09:00,AMBULATORY VAN - Pickup Charges: 12 - Price Per Miles: 1.5,410.98,0,410.98,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,628.47
+ 6,1073,Aug-16 2021[],test, ,Leg A,Calmar-- IA- USA,Decorah--IA- USA,16:00,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 10 - Price Per Miles: 10,10.97,0,10.97,,119.70
+ 7,1393,Aug-25 2021[georgia],phillip, ,Leg A,Texas 8 Beltway-- Houston- TX- USA,12323 Texas Avenue-- Los Angeles- CA- USA,03:50,Stretcher Van - Pickup Charges: 30 - Price Per Miles: 10,1570.54,10,1560.54,,15635.40
+ 8,66,Aug-25 2021[],Test bryan, ,Leg A,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00,Stretcher Van - Pickup Charges: 20 - Price Per Miles: 1.5,999.87,0,999.87,,1519.81
+ 9,1338,Aug-25 2021[Private Pay],Test Kevin, ,Leg B,1125 Corporation Pkwy STE 131--- NC 27610- USA,-,,Stretcher Van - Pickup Charges: 20 - Price Per Miles: 1.5,697.64,5,692.64,,1058.96
+ 10,1338,Aug-25 2021[Private Pay],Test Kevin, ,Leg A,2645 N Cole Rd-,1125 Corporation Pkwy STE 131--- NC 27610- USA,04:00,Stretcher Van - Pickup Charges: 20 - Price Per Miles: 1.5,2447.4,5,2442.4,,3683.60
+ 11,1395,Aug-26 2021[Modiv Care],Alex Test, ,Leg A,112 State Street--Albany- NY- USA,2223 State Highway 54--Durham- NC- USA,03:00,Extra-Wide Wheel Chair Van - Pickup Charges: 85 - Price Per Miles: 3.25,629.87,0,629.87,,2132.08
+ 12,1395,Aug-26 2021[Modiv Care],Alex Test, ,Leg B,2223 State Highway 54--Durham- NC- USA,-,__:__,Extra-Wide Wheel Chair Van - Pickup Charges: 85 - Price Per Miles: 3.25,674.79,0,674.79,,2278.07
+ 13,1401,Aug-30 2021[Private Pay],Test Kevin, ,Leg A,2645 N Cole Rd-,1125 Corporation Pkwy STE 131--- NC 27610- USA,03:00,AMBULATORY VAN - Pickup Charges: 20 - Price Per Miles: 1.5,2451.57,5,2446.57,,3689.86
+

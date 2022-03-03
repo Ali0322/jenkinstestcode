@@ -1,0 +1,152 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Bryan adam,A,,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Pending
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,16:00:00,00:00:00,14.26,Pending
+Bryan adam,A,,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Pending
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,16:00:00,00:00:00,14.26,Pending
+Bryan adam,A,,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Pending
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,16:00:00,00:00:00,14.26,Pending
+Bryan adam,B,Alex ccc,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,16:00:00,00:00:00,14.26,Pending
+Bryan adam,A,Cherinet Cherinet,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Pending
+Bryan adam,A,John  Doe,11430 Clifton Boulevard-- Cleveland- OH- USA,9500 Euclid Avenue-- Cleveland- OH- USA,14:00:00,15:05:56,9.67,Completed
+Bryan adam,A,Paul Goodwin,11430 Clifton Boulevard--Cleveland- OH- USA,9500 Euclid Avenue--Cleveland- OH- USA,14:00:00,17:03:28,9.67,Completed
+Bryan adam,A,Amber Test,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Cancelled
+Bryan adam,B,Paul Goodwin,9500 Euclid Avenue-- Cleveland- OH- USA,11430 Clifton Boulevard-- Cleveland- OH- USA,16:00:00,17:04:21,9.86,Completed
+Bryan adam,A,Paul Goodwin,11430 Clifton Boulevard--Cleveland- OH- USA,9500 Euclid Avenue--Cleveland- OH- USA,14:00:00,20:59:15,9.67,Completed
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,16:00:00,00:00:00,14.26,Cancelled
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,16:00:00,00:00:00,14.26,Pending
+Bryan adam,A,John  Doe,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,12:51:37,14.31,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,23:59:59,10:53:08,14.26,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,16:00:00,16:38:32,14.26,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,10:51:10,14.31,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,16:36:22,14.31,Completed
+BLANCA Test,A,John  Doe,1201 South Alma School Road--Mesa- AZ- USA,1201 South Chandler Village Drive--Chandler- AZ- USA,15:00:00,14:30:00,9.49,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,12:34:07,14.26,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,12:27:55,14.31,Completed
+,A,,WHSF1983870A--20190320,N--0,07:26:23,00:00:00,5203 STONEWOOD DR,Pending
+19870130,A,,WHSF1988006A--20190320,N--0,22:04:47,00:00:00,405 19TH AVE W APT 5,Pending
+19940203,A,,WHSF1979709A--20190320,N--0,07:26:24,00:00:00,103 TERRESA ST,Pending
+19910613,A,,WHSF1989483A--20190320,N--0,14:38:24,00:00:00,910 WORDEN AVE E,Pending
+19771007,A,,WHSF1978985A--20190320,N--0,12:00:00,00:00:00,1036 5TH ST E,Pending
+19690122,A,,WHSF1986872A--20190320,N--0,05:31:11,00:00:00,2113 HILLVIEW DR,Pending
+19620423,A,,WHSF1995384A--20190320,N--0,12:00:00,00:00:00,507 CEDAR CT APT 19,Pending
+19601013,A,,WHSG1962683A--20190320,Y--0,14:52:48,00:00:00,61382 WEISTER RD,Pending
+19590715,A,Alex ccc,WHSF1981817A--20190320,N--0,04:48:00,00:00:00,1752 DORSET LN,Pending
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:30:00,00:00:00,14.26,Pending
+Bryan adam,A,Amber Test,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,13:46:29,14.31,Completed
+Bryan adam,A,John  Doe,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Cancelled
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:30:00,00:00:00,14.26,Pending
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,11:44:37,14.26,Completed
+Test,A,John  Doe,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,12:21:26,13.65,Completed
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:30:00,00:00:00,14.26,Cancelled
+Bryan adam,A,Elvis Presley,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,19:11:03,14.31,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,11:44:03,14.31,Completed
+A Test,A,John  Doe,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,16:43:54,15.16,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,17:06:34,14.31,Completed
+Bryan adam,A,Alex ccc,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Pending
+AMBER IRISH,B,Alex ccc,11,,23:59:59,00:00:00,0,Pending
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,12:37:21,14.31,Completed
+Bryan adam,B,John  Doe,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:30:00,14:07:13,14.26,Picked
+AMBER IRISH,A,Alex ccc,1201 South Alma School Road--Mesa- AZ- USA,11,13:00:00,00:00:00,1127.03,Pending
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,12:41:10,14.26,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,16:18:07,14.31,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,16:18:52,14.26,Completed
+AMBER IRISH,B,,456 Thain Road--Lewiston- ID- USA,,15:00:00,00:00:00,0,Pending
+AMBER IRISH,A,Amber Test,1201 South Alma School Road-- Mesa- AZ- USA,456 Thain Road--Lewiston- ID- USA,13:00:00,00:00:00,1205.24,Pending
+Test,B,,296 North Carnegie Avenue--Claremont- CA- United States,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,13:00:00,00:00:00,13.68,Pending
+Test,A,John  Doe,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,00:00:00,13.65,In Progress
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,14:39:29,14.31,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,14:43:08,14.26,Picked
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,16:32:02,14.31,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,14:37:34,14.26,Completed
+AMBER IRISH,A,Amber Test,1234 Main St--Clarkston- WA- USA,456 Thain Road--Lewiston- ID- USA,13:00:00,13:00:00,4.08,In Progress
+AMBER IRISH,B,Amber Test,456 Thain Road--Lewiston- ID- USA,1234 Main St--Clarkston- WA- USA,15:00:00,00:00:00,4.07,In Progress
+AMBER IRISH,A,,1201 South Alma School Road--Mesa- AZ- USA,456 Thain Road--Lewiston- ID- USA,01:00:00,00:00:00,1205.24,Pending
+AMBER IRISH,B,,456 Thain Road--Lewiston- ID- USA,,15:00:00,00:00:00,0,Pending
+Bryan adam,B,Elvis Presley,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,00:00:00,14.26,In Progress
+AMBER IRISH,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,456 Thain Road--Lewiston- ID- USA,01:00:00,00:00:00,1205.24,In Progress
+Bryan adam,A,John  Doe,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,In Progress
+AMBER IRISH,B,Paul Goodwin,456 Thain Road--Lewiston- ID- USA,,15:00:00,00:00:00,0,In Progress
+A Test,A,John  Doe,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,15.16,In Progress
+AMBER IRISH,A,Elvis Presley,1201 South Alma School Road--Mesa- AZ- USA,456 Thain Road--Lewiston- ID- USA,01:00:00,00:00:00,1205.24,Pending
+AMBER IRISH,B,,456 Thain Road--Lewiston- ID- USA,,15:00:00,00:00:00,0,Pending
+A Test,A,Elvis Presley,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,15.16,In Progress
+adam 16 test 16,A,,17200 ST LUKES WAY--THE WOODLANDS-TX-77384,4545 S PANTHER CREEK DR--SPRING-TX-77381,23:59:59,00:00:00,16.32,Pending
+adam 22 test 22,A,,17270 RED OAK--SPRING-TX-77389,21911 CRICKET DR--SPRING-TX-77388,23:59:59,00:00:00,14.75,Pending
+adam 32 test 32,A,,6110 PINEMONT DR STE 106--HOUSTON-TX-77092,233 NORVIEW DR--HOUSTON-TX-77022,12:00:00,00:00:00,1.73,Pending
+adam 34 test 34,A,,700 N SAM HOUSTON PKWY W--HOUSTON-TX-77067,3030 HIRSCHFIELD RD APT 47C--SPRING-TX-77373,23:59:59,00:00:00,44.34,Pending
+adam 10 test 10,A,,17270 RED OAK DR STE 200--HOUSTON-TX-77090,4407 S PANTHER CREEK DR APT 227--SPRING-TX-77381,23:59:59,00:00:00,14.9,Completed
+adam 18 test 18,A,Elvis Presley,2506 W MOUNT HOUSTON RD--HOUSTON-TX-77038,11502 CANYON TRAIL DR--HOUSTON-TX-77066,14:30:00,00:00:00,16.32,Pending
+adam 21 test 21,A,Elvis Presley,21911 CRICKET DR--SPRING-TX-77388,17270 RED OAK--SPRING-TX-77389,09:30:00,00:00:00,14.75,Pending
+adam 27 test 27,A,Cherinet Cherinet,25411 RAYFORD CREST DR--SPRING-TX-77386,26407 OAK RIDGE DR--THE WOODLANDS-TX-77380,09:30:00,00:00:00,5.73,Pending
+adam 5 test 5,A,Cherinet Cherinet,315 ROSAMOND ST APT 1035--HOUSTON-TX-77076,2925 W T C JESTER BLVD STE 1--HOUSTON-TX-77018,08:15:00,00:00:00,6.75,Pending
+adam 31 test 31,A,Cherinet Cherinet,233 NORVIEW DR--HOUSTON-TX-77022,6110 PINEMONT DR STE 106--HOUSTON-TX-77092,10:00:00,00:00:00,1.73,Pending
+adam 36 test 36,A,Chris Lamontagne,4100 N SAM HOUSTON PKWY W STE 240--HOUSTON-TX-77086,1130 BLACKWOOD AVE--HOUSTON-TX-77032,12:30:00,00:00:00,4.3,Pending
+adam 7 test 7,A,Paul Goodwin,4522 SYLVANFIELD DR APT 213--HOUSTON-TX-77014,920 MEDICAL PLAZA DR STE 500--SHENANDOAH-TX-77380,08:30:00,00:00:00,5.92,Pending
+adam 24 test 24,A,Paul Goodwin,13145 VETERANS MEMORIAL DR--HOUSTON-TX-77014,12905A BLACKPOOL LN--HOUSTON-TX-77066,10:30:00,00:00:00,4.33,Pending
+adam 38 test 38,A,,2950 FM 2920 RD STE 100--SPRING-TX-77388,5015 LOUETTA RD APT 121--SPRING-TX-77379,23:59:59,00:00:00,2.7,Pending
+adam 37 test 37,A,,5015 LOUETTA RD APT 121--SPRING-TX-77379,2950 FM 2920 RD STE 100--SPRING-TX-77388,10:30:00,00:00:00,2.7,Pending
+adam 25 test 25,A,,505 CYPRESS STATION DR APT 5211--HOUSTON-TX-77090,383 GREENS RD STE A--HOUSTON-TX-77060,09:30:00,00:00:00,19.72,Pending
+adam 26 test 26,A,John  Doe,383 GREENS RD STE A--HOUSTON-TX-77060,505 CYPRESS STATION DR APT 5211--HOUSTON-TX-77090,11:30:00,00:00:00,19.72,Pending
+adam 4 test 4,A,,7007 NORTH FWY STE 305--HOUSTON-TX-77076,11618 TOWNSHIP DALE CT--HOUSTON-TX-77038,23:59:59,00:00:00,0.82,Pending
+adam 15 test 15,A,John  Doe,4545 S PANTHER CREEK DR--SPRING-TX-77381,17200 ST LUKES WAY--THE WOODLANDS-TX-77384,09:00:00,00:00:00,16.32,Pending
+adam 8 test 8,A,,920 MEDICAL PLAZA DR STE 500--SHENANDOAH-TX-77380,4522 SYLVANFIELD DR APT 213--HOUSTON-TX-77014,23:59:59,00:00:00,5.92,Pending
+adam 11 test 11,A,,5419 CACTUS FOREST DR--HOUSTON-TX-77088,5206 AIRLINE DR UNIT D--HOUSTON-TX-77022,08:30:00,00:00:00,36.36,Pending
+adam 20 test 20,A,,1733 WOODSTEAD CT STE 100--THE WOODLANDS-TX-77380,9921 LACE FLOWER WAY--CONROE-TX-77385,23:59:59,00:00:00,27.17,Pending
+adam 23 test 23,A,,12905A BLACKPOOL LN--HOUSTON-TX-77066,13145 VETERANS MEMORIAL DR--HOUSTON-TX-77014,09:30:00,00:00:00,4.33,Pending
+adam 33 test 33,A,,3030 HIRSCHFIELD RD APT 47C--SPRING-TX-77373,700 N SAM HOUSTON PKWY W--HOUSTON-TX-77067,10:00:00,00:00:00,44.34,Pending
+AMBER IRISH,B,,456 Thain Road--Lewiston- ID- USA,1234 Main St--Clarkston- WA- USA,15:00:00,00:00:00,4.07,Pending
+adam 9 test 9,A,Elvis Presley,4407 S PANTHER CREEK DR APT 227--SPRING-TX-77381,17270 RED OAK DR STE 200--HOUSTON-TX-77090,08:30:00,00:00:00,5.74,Pending
+adam 19 test 19,A,Elvis Presley,9921 LACE FLOWER WAY--CONROE-TX-77385,1733 WOODSTEAD CT STE 100--THE WOODLANDS-TX-77380,09:15:00,00:00:00,27.17,Pending
+adam 1 test 1,A,Cherinet Cherinet,10419 TIMBERLOCH DR--HOUSTON-TX-77070,13802 CENTERFIELD DR STE 185--HOUSTON-TX-77070,06:30:00,00:00:00,12.34,Pending
+adam 17 test 17,A,Cherinet Cherinet,11502 CANYON TRAIL DR--HOUSTON-TX-77066,2506 W MOUNT HOUSTON RD--HOUSTON-TX-77038,09:15:00,00:00:00,16.32,Pending
+adam 35 test 35,A,Cherinet Cherinet,1130 BLACKWOOD AVE--HOUSTON-TX-77032,4100 N SAM HOUSTON PKWY W STE 240--HOUSTON-TX-77086,10:30:00,00:00:00,4.3,Pending
+adam 3 test 3,A,Chris Lamontagne,11618 TOWNSHIP DALE CT--HOUSTON-TX-77038,7007 NORTH FWY STE 305--HOUSTON-TX-77076,08:15:00,00:00:00,0.82,Pending
+adam 29 test 29,A,Paul Goodwin,3002 BEECHAM CIR--HOUSTON-TX-77068,6110 PINEMONT DR STE 106--HOUSTON-TX-77092,10:00:00,00:00:00,28.01,Pending
+adam 13 test 13,A,Paul Goodwin,19426 REMINGTON WICK DR--HOUSTON-TX-77073,1120 MEDICAL PLAZA DR STE 200--SPRING-TX-77380,09:00:00,00:00:00,36.36,Pending
+adam 30 test 30,A,Paul Goodwin,6110 PINEMONT DR STE 106--HOUSTON-TX-77092,3002 BEECHAM CIR--HOUSTON-TX-77068,12:00:00,00:00:00,28.01,Pending
+adam 40 test 40,A,,245 W GREENS RD--HOUSTON-TX-77067,5621 ALDINE BENDER RD APT 4302--HOUSTON-TX-77032,23:59:59,00:00:00,2.7,Pending
+AMBER IRISH,A,,1234 Main St--Clarkston- WA- USA,456 Thain Road--Lewiston- ID- USA,13:00:00,00:00:00,4.08,Pending
+adam 28 test 28,A,,26407 OAK RIDGE DR--THE WOODLANDS-TX-77380,25411 RAYFORD CREST DR--SPRING-TX-77386,23:59:59,00:00:00,5.73,Pending
+adam 39 test 39,A,John  Doe,5621 ALDINE BENDER RD APT 4302--HOUSTON-TX-77032,245 W GREENS RD--HOUSTON-TX-77067,10:30:00,00:00:00,2.7,Pending
+adam 2 test 2,A,,13802 CENTERFIELD DR STE 185--HOUSTON-TX-77070,10419 TIMBERLOCH DR--HOUSTON-TX-77070,23:59:59,00:00:00,12.34,Pending
+adam 14 test 14,A,John  Doe,1120 MEDICAL PLAZA DR STE 200--SPRING-TX-77380,19426 REMINGTON WICK DR--HOUSTON-TX-77073,09:30:00,00:00:00,36.36,Pending
+adam 6 test 6,A,,2925 W T C JESTER BLVD STE 1--HOUSTON-TX-77018,315 ROSAMOND ST APT 1035--HOUSTON-TX-77076,23:59:59,00:00:00,6.75,Pending
+adam 10 test 10,A,,17270 RED OAK DR STE 200--HOUSTON-TX-77090,4407 S PANTHER CREEK DR APT 227--SPRING-TX-77381,23:59:59,00:00:00,5.74,Pending
+adam 12 test 12,A,,5206 AIRLINE DR UNIT D--HOUSTON-TX-77022,5419 CACTUS FOREST DR--HOUSTON-TX-77088,10:30:00,00:00:00,36.36,Pending
+AMBER IRISH,A,,1201 South Alma School Road--Mesa- AZ- USA,456 Thain Road--Lewiston- ID- USA,01:00:00,00:00:00,1205.24,Pending
+,A,,5203 STONEWOOD DR--EAU CLAIRE-WI-54703,3440 OAKWOOD HILLS PKWY--EAU CLAIRE-WI-54701,04:30:00,00:00:00,9.65,Completed
+,C,,1036 5TH ST E--ALTOONA-WI-54720,1640 ANDERSON RD--EAU CLAIRE-WI-54703,05:15:00,00:00:00,3.21,Completed
+AMBER IRISH,B,,456 Thain Road--Lewiston- ID- USA,,15:00:00,00:00:00,0,Pending
+,B,,3440 OAKWOOD HILLS PKWY--EAU CLAIRE-WI-54701,1036 5TH ST E--ALTOONA-WI-54720,23:59:59,00:00:00,9.65,Completed
+,D,,1640 ANDERSON RD--EAU CLAIRE-WI-54703,3636 E MELBY ST--CHIPPEWA FALLS-WI-54729,05:30:00,00:00:00,12.62,Completed
+AMBER IRISH,A,,1201 South Alma School Road--Mesa- AZ- USA,456 Thain Road--Lewiston- ID- USA,01:00:00,00:00:00,1205.24,Pending
+AMBER IRISH,B,,456 Thain Road--Lewiston- ID- USA,,15:00:00,00:00:00,0,Pending
+BLANCA Test,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,1201 South Chandler Village Drive--Chandler- AZ- USA,15:00:00,10:04:13,9.49,Completed
+ASHLEY Test,A,John  Doe,165 Madison Avenue--New York- NY- USA,1201 South Chandler Village Drive--Chandler- AZ- USA,12:00:00,00:00:00,2408.05,Pending
+ASHLEY Test,A,John  Doe,165 Madison Avenue--New York- NY- USA,1201 South Chandler Village Drive--Chandler- AZ- USA,12:00:00,09:36:35,2408.05,Completed
+AMBER IRISH,A,tomm EX,1201 South Alma School Road--Mesa- AZ- USA,456 Thain Road--Lewiston- ID- USA,01:00:00,14:31:42,1205.24,No Show
+AMBER IRISH,B,Bobby  Turney,456 Thain Road--Lewiston- ID- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:00:00,15:55:30,1204.78,Completed
+Test,B,Elvis Presley,296 North Carnegie Avenue--Claremont- CA- United States,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,13:00:00,00:00:00,13.68,Pending
+ASHLEY Test,B,Paul Goodwin,1201 South Chandler Village Drive--Chandler- AZ- USA,165 Madison Avenue--New York- NY- USA,13:30:00,00:00:00,2408.06,In Progress
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,In Progress
+DARLENE Test,A,John  Doe,18.81--8701 TALL PINE LN-ORLANDO-FL,-LAKESIDE BEHAVIOR--1800 MERCY DR-ORLANDO-FL,02:00:00,15:56:03,14.82,Completed
+Test,A,Elvis Presley,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,14:35:59,13.65,Completed
+DARLENE Test,B,Paul Goodwin,-LAKESIDE BEHAVIOR--1800 MERCY DR-ORLANDO-FL,18.81--8701 TALL PINE LN-ORLANDO-FL,04:00:00,00:00:00,15.44,In Progress
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,00:00:00,14.26,In Progress
+ASHLEY Test,A,John  Doe,165 Madison Avenue--New York- NY- USA,1201 South Chandler Village Drive--Chandler- AZ- USA,12:00:00,14:35:08,2408.05,Completed
+AMBER IRISH,A,Ambera Irisha,1201 South Alma School Road--Mesa- AZ- USA,456 Thain Road--Lewiston- ID- USA,01:00:00,00:00:00,1205.24,Pending
+AMBER IRISH,A,Ambera Irisha,1234 Main St-- Clarkston- WA- USA,456 Thain Road--Lewiston- ID- USA,13:00:00,00:00:00,4.08,Pending
+Bryan adam,B,John  Doe,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,16:28:23,14.26,Completed
+adam smith,B,John  Doe,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,19:00:00,16:28:50,0,Completed
+AMBER IRISH,B,Ambera Irisha,456 Thain Road--Lewiston- ID- USA,,15:00:00,00:00:00,0,Pending
+AMBER IRISH,B,Ambera Irisha,456 Thain Road--Lewiston- ID- USA,1234 Main St-- Clarkston- WA- USA,15:00:00,00:00:00,4.07,Pending
+Bryan adam,A,John  Doe,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,16:27:09,14.31,Completed
+adam smith,A,John  Doe,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,14:00:00,16:27:52,0,Completed
+AMBER IRISH,B,Bobby  Turney,456 Thain Road--Lewiston- ID- USA,-,23:59:59,00:00:00,0,Pending
+AMBER IRISH,A,Amber Smith,1201 South Alma School Road--Mesa- AZ- USA,456 Thain Road--Lewiston- ID- USA,01:30:00,00:00:00,1205.24,Pending
+AMBER IRISH,B,Amber Smith,456 Thain Road--Lewiston- ID- USA,1234 Main St-- Clarkston- WA- USA,15:00:00,15:00:00,4.07,Completed
+A Test,A,,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,12.34,Pending
+AMBER IRISH,A,Amber Smith,1234 Main St-- Clarkston- WA- USA,456 Thain Road--Lewiston- ID- USA,12:00:00,12:00:00,4.08,Completed
+Ridge Test,A,,60 N YELLOWSTONE HWY--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,06:30:00,00:00:00,12.34,Pending
+B Test,A,,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,60 N YELLOWSTONE HWY--RIGBY-ID-83442,09:30:00,00:00:00,12.34,Pending
+adam smith,A,Amber Smith,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,14:00:00,12:59:13,0,Completed

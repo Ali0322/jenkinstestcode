@@ -1,0 +1,55 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: May. 17 2019
+,,,Invoice From: Apr. 02 2019 To: May. 17 2019
+,,,Total Amount Billed: 72202.86
+1,9458,Apr-02 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,14.26,5,9.26,Wheel Chair Rental Charges: 0  ,107.60
+ 2,9458,Apr-02 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,14.31,5,9.31,Wheel Chair Rental Charges: 0  ,108.10
+ 3,9465,Apr-09 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,Wheel Chair Rental Charges: 0  ,20.62
+ 4,9465,Apr-09 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,Wheel Chair Rental Charges: 0  ,20.52
+ 5,9466,Apr-10 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,Wheel Chair Rental Charges: 0  ,20.52
+ 6,9466,Apr-10 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,Wheel Chair Rental Charges: 0  ,20.62
+ 7,9468,Apr-10 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,14.26,5,9.26,Wheel Chair Rental Charges: 0  ,107.60
+ 8,9470,Apr-11 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,Wheel Chair Rental Charges: 0  ,20.62
+ 9,9609,Apr-12 2019[MTM],A Test, ,Leg A,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,15.16,5,10.16,,116.60
+ 10,9471,Apr-12 2019[MTM],A Test, ,Leg A,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,15.16,5,10.16,,22.32
+ 11,9617,Apr-13 2019[MTM],A Test, ,Leg A,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,15.16,5,10.16,,116.60
+ 12,9610,Apr-15 2019[MTM],A Test, ,Leg A,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,15.16,5,10.16,,116.60
+ 13,9473,Apr-16 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,,20.62
+ 14,9472,Apr-16 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,Wheel Chair Rental Charges: 0  ,20.62
+ 15,9473,Apr-16 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,,20.52
+ 16,9475,Apr-16 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,14.31,5,9.31,,108.10
+ 17,9474,Apr-16 2019[Logistic Care],Test, ,Leg A,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,13.65,0,13.65,,73.25
+ 18,9613,Apr-18 2019[MTM],A Test, ,Leg A,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,15.16,5,10.16,,116.60
+ 19,9476,Apr-18 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,14.31,5,9.31,,108.10
+ 20,9618,Apr-20 2019[MTM],A Test, ,Leg A,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,15.16,5,10.16,,116.60
+ 21,9611,Apr-22 2019[MTM],A Test, ,Leg A,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,15.16,5,10.16,,116.60
+ 22,9489,Apr-23 2019[],BLANCA Test, ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,1201 South Chandler Village Drive--Chandler- AZ- USA,15:00,Wheel Chair - Pickup Charges: 5 - Price Per Miles: 5,9.49,6,3.49,,22.45
+ 23,9486,Apr-23 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,,20.62
+ 24,9486,Apr-23 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,,20.52
+ 25,9614,Apr-25 2019[MTM],A Test, ,Leg A,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,15.16,5,10.16,,116.60
+ 26,9488,Apr-26 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,16:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,,20.52
+ 27,9487,Apr-26 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,,20.62
+ 28,9487,Apr-26 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,Will ,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,,20.52
+ 29,9488,Apr-26 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,,20.62
+ 30,9619,Apr-27 2019[MTM],A Test, ,Leg A,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,15.16,5,10.16,,116.60
+ 31,9490,Apr-27 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,14.31,5,9.31,,108.10
+ 32,9612,Apr-29 2019[MTM],A Test, ,Leg A,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,15.16,5,10.16,,116.60
+ 33,9597,Apr-30 2019[MTM],Bryan adam,1288 ,Leg A,11430 Clifton Boulevard-- Cleveland- OH- USA,9500 Euclid Avenue-- Cleveland- OH- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,9.67,5,4.67,,11.34
+ 34,9597,Apr-30 2019[MTM],Bryan adam,1288 ,Leg B,9500 Euclid Avenue-- Cleveland- OH- USA,11430 Clifton Boulevard-- Cleveland- OH- USA,16:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,9.86,5,4.86,,11.72
+ 35,9598,Apr-30 2019[MTM],Bryan adam,1288 ,Leg A,11430 Clifton Boulevard--Cleveland- OH- USA,9500 Euclid Avenue--Cleveland- OH- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,9.67,5,4.67,,11.34
+ 36,9599,Apr-30 2019[MTM],Bryan adam,1288 ,Leg A,11430 Clifton Boulevard--Cleveland- OH- USA,9500 Euclid Avenue--Cleveland- OH- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,9.67,5,4.67,,11.34
+ 37,9601,May-01 2019[MTM],AMBER IRISH,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,11-,13:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,1127.03,5,1122.03,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,11235.30
+ 38,9601,May-01 2019[MTM],AMBER IRISH,1288 ,Leg B,11-,-,Will ,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,0,5,0,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,27.00
+ 39,9615,May-02 2019[MTM],A Test, ,Leg A,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,15.16,5,10.16,,116.60
+ 40,9608,May-04 2019[MTM],AMBER IRISH,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,11-,13:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,1127.03,5,1122.03,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,11235.30
+ 41,9608,May-04 2019[MTM],AMBER IRISH,1288 ,Leg B,11-,-,11:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,0,5,0,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,15.00
+ 42,9620,May-06 2019[],A Test, ,Leg B,1201 South Chandler Village Drive-- Chandler- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,11:11,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,9.02,6,3.02,,8.04
+ 43,9620,May-06 2019[],A Test, ,Leg A,1201 South Alma School Road-- Mesa- AZ- USA,1201 South Chandler Village Drive-- Chandler- AZ- USA,08:30,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,9.49,6,3.49,,8.98
+ 44,9623,May-06 2019[MTM],AMBER IRISH,1288 ,Leg B,11-,,11:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,0,5,0,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,15.00
+ 45,9623,May-06 2019[MTM],AMBER IRISH,1288 ,Leg A,425 87th St #1-12- Daly City- CA 94015,11-,13:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,1808.71,5,1803.71,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,18052.10
+ 46,9606,May-08 2019[MTM],AMBER IRISH,1288 ,Leg B,11-,-,02:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,0,5,0,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,15.00
+ 47,9627,May-08 2019[MTM],AMBER IRISH,1288 ,Leg A,425 87th St #1-12- Daly City- CA 94015,11-,13:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,1808.71,5,1803.71,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,18052.10
+ 48,9627,May-08 2019[MTM],AMBER IRISH,1288 ,Leg B,11-,,11:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,0,5,0,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,15.00
+ 49,9606,May-08 2019[MTM],AMBER IRISH,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,11-,13:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,1127.03,5,1122.03,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,11235.30
+ 50,9641,May-11 2019[MTM],Bryan adam,1288 ,Leg A,8515 Milton Morris Drive-- Charlotte- NC- USA,5810 Monroe Road-- Charlotte- NC- USA,14:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,5.83,5,0.83,,23.30
+

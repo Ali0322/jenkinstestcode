@@ -1,0 +1,62 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Test Bryan,A,Test Driver Four,9090 Birch Street--Spring Valley- CA- USA,1301 Pepper Drive--El Cajon- CA- USA,04:30:00,11:06:03,11.81,Picked
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,,Pending
+Test Bryan,B,Test Driver Four,1301 Pepper Drive--El Cajon- CA- USA,9090 Birch Street--Spring Valley- CA- USA,06:30:00,11:03:07,11.97,Completed
+amber,A,Jason Walker,222 Station Plaza North--Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,18:26:55,2673.08,Completed
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1841.18,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,,222 Station Plaza North-- Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+amber,A,,222 Station Plaza North--Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+amber,A,,222 Station Plaza North--Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,,222 St Paul Pl-- Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,Pending
+amber,A,,222 St Paul Pl--Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,Pending
+amber,A,,222 St Paul Pl-- Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1841.19,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,,222 St Paul Pl-- Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,Pending
+amber,A,,222 Station Plaza North-- Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1841.19,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,,222 St Paul Pl-- Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,Pending
+amber,A,,222 Station Plaza North--Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+amber,B,Josh  Callihan,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,,222 Station Plaza North--Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+amber,B,Jason Walker,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,12:32:16,0,Completed
+Amanda Willey,A,Jason Walker,1770 Chestnut Pl-- Denver- CO 80202- United States,700 Delaware St-- Denver- CO 80204- United States,17:45:00,00:00:00,2.39,In Progress
+Bill Adam,A,Ronald Jackson,1776 North Broadway-- Denver- CO 80202- United States,2525 S-- N Downing St- Denver- CO 80205- United States,13:00:00,00:00:00,1.53,In Progress
+amber,A,Josh  Callihan,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1841.18,Pending
+Tom Smith,A,,444 E 19th Ave--Denver- CO 80203- United States,2001 N High St--Denver- CO 80205- United States,15:40:00,00:00:00,1.34,Cancelled
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,Jason Walker,222 St Paul Pl--Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,Pending
+Tom Smith,A,Michael Blond,444 E 19th Ave-- Denver- CO 80203- United States,2001 N High St-- Denver- CO 80205- United States,15:40:00,00:00:00,1.34,In Progress
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+Test Bryan,B,Ronald Jackson,1301 Pepper Drive--El Cajon- CA- USA,9090 Birch Street--Spring Valley- CA- USA,06:30:00,18:12:00,11.97,Completed
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1841.19,Pending
+amber,A,,222 St Paul Pl--Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,Pending
+amber,A,,222 Station Plaza North-- Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+Test Bryan,A,Ronald Jackson,9090 Birch Street--Spring Valley- CA- USA,1301 Pepper Drive--El Cajon- CA- USA,04:30:00,18:11:06,11.81,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1841.18,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,23:59:59,00:00:00,0,Pending
+amber,B,Josh  Callihan,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,14:09:58,0,Completed
+amber,A,Josh  Callihan,222 St Paul Pl-- Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,16:27:21,2461.51,Completed
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,222 Station Plaza North-- Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+amber,A,Josh  Callihan,222 St Paul Pl--Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,In Progress
+amber,A,Josh  Callihan,222 St Paul Pl-- Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,In Progress
+amber,A,Josh  Callihan,222 St Paul Pl-- Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,15:57:25,2461.51,Completed
+amber,B,Josh  Callihan,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,14:08:48,,Completed
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1841.18,Pending
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1841.19,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1841.19,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,A,Josh  Callihan,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1841.18,Pending
+amber,B,Josh  Callihan,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,11:42:11,0,Completed

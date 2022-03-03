@@ -1,0 +1,26 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Completed
+test 1,B,,Tampa International Airport-- Tampa- FL- USA,4810 North Hale Avenue-- Tampa- FL- USA,15:20:00,00:00:00,7.57,Completed
+test 2,B,,8842 West Hillsborough Avenue-- Town 'n' Country- FL- USA,5212 North Hale Avenue-- Tampa- FL- USA,23:59:59,00:00:00,4.83,Completed
+test 3,B,,7214 North Hale Avenue-- Tampa- FL- USA,8995 West Hillsborough Avenue-- Town 'n' Country- FL- USA,23:59:59,00:00:00,6.02,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Completed
+test 1,A,,4810 North Hale Avenue-- Tampa- FL- USA,Tampa International Airport-- Tampa- FL- USA,13:20:00,00:00:00,6.7,Completed
+test 2,A,,5212 North Hale Avenue-- Tampa- FL- USA,8842 West Hillsborough Avenue-- Town 'n' Country- FL- USA,12:55:00,00:00:00,4.83,Completed
+test 3,A,,8995 West Hillsborough Avenue-- Town 'n' Country- FL- USA,7214 North Hale Avenue-- Tampa- FL- USA,11:40:00,00:00:00,6.7,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+adam smith,A,Alan C k,8847 Harlem Avenue--Bridgeview- IL- USA,8897 Harlem Avenue--Bridgeview- IL- USA,04:00:00,10:49:07,0.11,Completed
+adam smith,B,,8897 Harlem Avenue--Bridgeview- IL- USA,8847 Harlem Avenue--Bridgeview- IL- USA,06:00:00,00:00:00,0.02,Pending
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+Sean parker,A,,14250 Vernon Street-oak park-Oak Park- MI- USA,18680 8 Mile Rd--Southfield- MI 48075,12:50:00,00:00:00,5.09,Pending
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed

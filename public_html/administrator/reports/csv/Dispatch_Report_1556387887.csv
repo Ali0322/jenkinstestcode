@@ -1,0 +1,3 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Bryan adam,A,John  Doe,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,12:51:37,14.31,Completed
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,16:00:00,00:00:00,14.26,Pending

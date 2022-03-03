@@ -1,0 +1,27 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Mar. 23 2021
+,,,Invoice From: Mar. 01 2021 To: Mar. 23 2021
+,,,Total Amount Billed: 7791.04
+1,441,Mar-02 2021[Logistic Care],AARON R HOBACK, 1-28531-A,Leg A,1300 Mulberry Rd--Martinsville-VA-24112,600 Northside Dr--Martinsville-VA-24112,07:45, - Pickup Charges: 0 - Price Per Miles: 0,4,0,4,,0.00
+ 2,441,Mar-02 2021[Logistic Care],AARON R HOBACK, 1-28531-B,Leg B,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00, - Pickup Charges: 0 - Price Per Miles: 0,4,0,4,,0.00
+ 3,442,Mar-02 2021[Logistic Care],ANDREW DAY, 1-26857-B,Leg B,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30, - Pickup Charges: 0 - Price Per Miles: 0,23,0,23,,0.00
+ 4,442,Mar-02 2021[Logistic Care],ANDREW DAY, 1-26857-A,Leg A,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00, - Pickup Charges: 0 - Price Per Miles: 0,24,0,24,,0.00
+ 5,440,Mar-02 2021[Logistic Care],BRADLEY MATTHEWS JR, 1-31223-B,Leg B,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00, - Pickup Charges: 0 - Price Per Miles: 0,24,0,24,,0.00
+ 6,440,Mar-02 2021[Logistic Care],BRADLEY MATTHEWS JR, 1-31223-A,Leg A,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00, - Pickup Charges: 0 - Price Per Miles: 0,24,0,24,,0.00
+ 7,443,Mar-02 2021[],test, ,Leg A,Decorah-- IA- USA,Calmar-- IA- USA,23:00,Stretcher Van - Pickup Charges: 275 - Price Per Miles: 4.25,11.01,0,11.01,2 Man Team Charges: 0  Wheel Chair Rental Charges: 0  ,321.79
+ 8,444,Mar-03 2021[ABC Hospital],test, ,Leg B,Calmar--IA- USA,-,09:00,AMBULATORY VAN - Pickup Charges: 0 - Price Per Miles: 0,410.98,0,410.98,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,0.00
+ 9,444,Mar-03 2021[ABC Hospital],test, ,Leg A,Decorah--IA- USA,Calmar--IA- USA,23:00,AMBULATORY VAN - Pickup Charges: 0 - Price Per Miles: 0,11.01,0,11.01,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,0.00
+ 10,515,Mar-10 2021[test account],test patient 1, ,Leg B,Decorah--IA- USA,-,09:00,Stretcher Van - Pickup Charges: 275 - Price Per Miles: 4.25,410.24,1,409.24,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,2014.27
+ 11,515,Mar-10 2021[test account],test patient 1, ,Leg A,Calmar--IA- USA,Decorah--IA- USA,21:00,Stretcher Van - Pickup Charges: 275 - Price Per Miles: 4.25,10.97,1,9.97,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,317.37
+ 12,518,Mar-11 2021[test account],test patient 1, ,Leg B,Decorah--IA- USA,-,09:00,Stretcher Van - Pickup Charges: 275 - Price Per Miles: 4.25,410.24,1,409.24,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,2014.27
+ 13,518,Mar-11 2021[test account],test patient 1, ,Leg A,Calmar--IA- USA,Decorah--IA- USA,21:00,Stretcher Van - Pickup Charges: 275 - Price Per Miles: 4.25,10.97,1,9.97,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,317.37
+ 14,519,Mar-18 2021[test account],test patient 1, ,Leg B,Decorah--IA- USA,-,09:00,Stretcher Van - Pickup Charges: 275 - Price Per Miles: 4.25,410.24,1,409.24,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,2014.27
+ 15,730,Mar-19 2021[private pay],test, ,Leg B,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 10 - Price Per Miles: 10,11.14,0,11.14,Oxygen. Charges: 0  ,121.40
+ 16,730,Mar-19 2021[private pay],test, ,Leg A,Calmar-- IA- USA,Decorah-- IA- USA,23:00,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 10 - Price Per Miles: 10,10.97,0,10.97,Oxygen. Charges: 0  ,119.70
+ 17,721,Mar-19 2021[private pay],test, ,Leg A,Calmar--IA- USA,Decorah--IA- USA,23:00,AMBULATORY VAN - Pickup Charges: 30 - Price Per Miles: 3.5,10.97,0,10.97,,68.40
+ 18,944,Mar-21 2021[private pay],test, ,Leg B,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 10 - Price Per Miles: 10,11.14,0,11.14,Oxygen. Charges: 0  ,121.40
+ 19,944,Mar-21 2021[private pay],test, ,Leg A,Calmar-- IA- USA,Decorah-- IA- USA,23:00,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 10 - Price Per Miles: 10,10.97,0,10.97,Oxygen. Charges: 0  ,119.70
+ 20,447,Mar-22 2021[ABC Hospital],test, ,Leg B,Calmar--IA- USA,-,09:00,AMBULATORY VAN - Pickup Charges: 0 - Price Per Miles: 0,410.98,0,410.98,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,0.00
+ 21,731,Mar-22 2021[private pay],test, ,Leg A,Calmar-- IA- USA,Decorah-- IA- USA,23:00,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 10 - Price Per Miles: 10,10.97,0,10.97,Oxygen. Charges: 0  ,119.70
+ 22,731,Mar-22 2021[private pay],test, ,Leg B,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30,ELECTRIC WHEELCHAIR VAN - Pickup Charges: 10 - Price Per Miles: 10,11.14,0,11.14,Oxygen. Charges: 0  ,121.40
+

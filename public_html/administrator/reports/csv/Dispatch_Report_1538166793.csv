@@ -1,0 +1,17 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+ASHLEY Test,A,Elvis Presley,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00:00,16:47:50,20.84,Completed
+ASHLEY Test,B,Elvis Presley,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,4743 NORTHERN DANCER WAY--ORLANDO-FL,13:30:00,13:30:00,20.42,Completed
+AMBER IRISH,A,Briana Wolfe,346 Shiloh Court-360- Lewiston- ID- USA,3458 Syringa Drive-east wing-Lewiston- ID- USA,12:00:00,00:00:00,0.14,Pending
+AMBER IRISH,B,,3458 Syringa Drive-east wing-Lewiston- ID- USA,346 Shiloh Court-360- Lewiston- ID- USA,14:00:00,00:00:00,0.14,Pending
+ASHLEY Test,A,Elvis Presley,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00:00,16:03:42,20.84,Completed
+ASHLEY Test,B,Elvis Presley,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,4743 NORTHERN DANCER WAY--ORLANDO-FL,13:30:00,00:00:00,20.42,Pending
+AMBER IRISH,A,,1275 Highland Avenue-360- Clarkston- WA- USA,3458 Syringa Drive-east wing-Lewiston- ID- USA,12:00:00,00:00:00,2.73,Pending
+AMBER IRISH,B,,3458 Syringa Drive-east wing-Lewiston- ID- USA,1275 Highland Avenue-360- Clarkston- WA- USA,14:00:00,00:00:00,2.57,Pending
+AMBER IRISH,A,Bobby  Turney,1245 Chestnut Street-360- Clarkston- WA- USA,3458 Syringa Drive-east wing- Lewiston- ID- USA,11:00:00,00:00:00,3.31,Pending
+AMBER IRISH,B,,3458 Syringa Drive-east wing- Lewiston- ID- USA,1245 Chestnut Street-360- Clarkston- WA- USA,13:00:00,00:00:00,3.15,Pending
+KEVIN LAIRD KROPIK,A,Cherinet Cherinet,407 Lamar--San Antonio-TX-78202,8300 Floyd Curl Dr--San Antonio-TX-78229,12:00:00,12:59:16,13.5,Pending
+Adam P,B,Briana Wolfe,Assistencia Villa 1875 Barton Rd.--Redlands-CA-92373,1210 Indiana Court--Redlands-CA-92374,17:30:00,00:00:00,2.38,Pending
+Adam P,A,Bobby  Turney,1210 Indiana Court--Redlands-CA-92374,Assistencia Villa 1875 Barton Rd.--Redlands-CA-92373,15:00:00,00:00:00,2.38,Pending
+adam smith,B,Bobby  Turney,Front Door Lane-33- St. Augustine- FL- USA,,23:59:59,12:32:31,0,Completed
+Donald Betts,A,Eric  Hamilton,1280 Massachusetts Avenue-12- Cambridge- MA- USA,Massachusetts Avenue Northwest-- Washington- DC- USA,12:30:00,19:42:50,0,Completed
+adam smith,A,Briana Wolfe,1620 Northwest 4th Street-12- Miami- FL- USA,Front Door Lane-33- St. Augustine- FL- USA,14:00:00,00:00:00,0,Pending

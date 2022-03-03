@@ -1,0 +1,124 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Pending
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Pending
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Pending
+Sean parker,A,,14250 Vernon Street-oak park-Oak Park- MI- USA,18680 8 Mile Rd--Southfield- MI 48075,12:50:00,00:00:00,5.09,Pending
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Pending
+AMBER IRISH,A,Joel i,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,In Progress
+MRS Davidson,A,Frank C,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,07:00:00,13:05:56,4.65,In Progress
+AMBER IRISH,B,Frank C,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Cancelled
+AMBER IRISH,B,Kelli  Swedenske,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,In Progress
+AMBER IRISH,A,Gerry e,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,13:18:11,157.38,Completed
+adam smith,B,Gerry e,8897 Harlem Avenue--Bridgeview- IL- USA,8847 Harlem Avenue--Bridgeview- IL- USA,23:59:59,00:00:00,0.02,In Progress
+MRS Davidson,B,Leah R,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,In Progress
+adam smith,A,Kelli  Swedenske,8847 Harlem Avenue--Bridgeview- IL- USA,8897 Harlem Avenue--Bridgeview- IL- USA,10:00:00,13:18:17,0.11,Picked
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Pending
+adam smith,B,Leah R,8897 Harlem Avenue--Bridgeview- IL- USA,8847 Harlem Avenue--Bridgeview- IL- USA,12:00:00,18:45:30,0.02,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Pending
+adam smith,A,,8847 Harlem Avenue--Bridgeview- IL- USA,8897 Harlem Avenue--Bridgeview- IL- USA,10:00:00,00:00:00,0.11,Pending
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Pending
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Pending
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Pending
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Pending
+adam smith,B,,8897 Harlem Avenue--Bridgeview- IL- USA,8847 Harlem Avenue-- Bridgeview- IL- USA,12:00:00,00:00:00,0.02,Pending
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Pending
+adam smith,A,Leah R,8847 Harlem Avenue-- Bridgeview- IL- USA,8897 Harlem Avenue--Bridgeview- IL- USA,10:00:00,16:54:29,0.11,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Pending
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Pending
+Sean parker,A,,14250 Vernon Street-oak park-Oak Park- MI- USA,18680 8 Mile Rd--Southfield- MI 48075,12:50:00,00:00:00,5.09,Pending
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Pending
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Pending
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Pending
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Pending
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Pending
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Pending
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Pending
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Pending
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Pending
+ELVA WARD,A,Joel i,5700 N Sheridan Rd-608-Chicago-IL-60660,4700 N Marine Dr--Chicago-IL-60640,05:00:00,00:00:00,1,Pending
+MARGARITO RODRIGUEZ,A,Joel i,1813 N Kildare Ave--Chicago-IL-60639,3520 W Grand Ave--Chicago-IL-60651,05:30:00,00:00:00,2,Pending
+TRACY MORRISON,A,Joel i,5870 W Lake St-533-Chicago-IL-60644,4132 W Madison St-533-Chicago-IL-60624,06:15:00,00:00:00,3,Pending
+ANTHONY HUGGIS,A,Frank C,5007 W Gladys Ave-E-Chicago-IL-60644,733 Madison St--Oak Park-IL-60302,05:30:00,00:00:00,2.66,Pending
+adam smith,A,,8847 Harlem Avenue--Bridgeview- IL- USA,8897 Harlem Avenue--Bridgeview- IL- USA,10:00:00,00:00:00,0.11,Pending
+MATVEY ZATULOVSKY,A,,1250 W Morse Ave-413-Chicago-IL-60626,9669 Kenton Ave--Skokie-IL-60076,07:15:00,00:00:00,7,Pending
+,A,,----,----,23:59:59,00:00:00,,Pending
+,C,,----,----,23:59:59,00:00:00,,Pending
+MOHAMMED MUNIN,A,Leah R,1511 Greenwood Rd--Glenview-IL-60026,2601 Compass Rd-145-Glenview-IL-60026,06:00:00,00:00:00,2,Pending
+AMBER IRISH,A,Leah R,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Pending
+TWANA COVINGTON,A,Kelli  Swedenske,5315 W Adams St--Chicago-IL-60644,1201 Roosevelt Rd--Maywood-IL-60153,05:15:00,00:00:00,6,Pending
+REBECCA PETERSON,A,Kelli  Swedenske,932 W Washington Blvd--Chicago-IL-60607,4132 W Madison St--Chicago-IL-60624,06:15:00,00:00:00,5,Pending
+CYNTHIA LEE,A,Kelli  Swedenske,618 S WABASH AVE-APT 604-CHICAGO-IL-60605,1330 S Kostner Ave--Chicago-IL-60623,06:45:00,00:00:00,5,Pending
+MARIA TORRES,A,Gerry e,1600 W Jonquil Ter-108-Chicago-IL-60626,2233 W Division St--Chicago-IL-60622,06:45:00,00:00:00,12,Pending
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Cancelled
+DOLAN BELL,A,Joel i,1421 S 18th Ave--Maywood-IL-60153,610 S Maple Ave-4100-Oak Park-IL-60304,05:00:00,00:00:00,3,Pending
+LEONARD BARTON,A,Joel i,6640 W Belden Ave-318 - B-Chicago-IL-60707,4800 N Kilpatrick Ave--Chicago-IL-60630,05:00:00,00:00:00,6,Pending
+REBECCA PETERSON,B,Joel i,4132 W Madison St--Chicago-IL-60624,932 W Washington Blvd--Chicago-IL-60607,07:30:00,00:00:00,5,Pending
+AMBER IRISH,B,Joel i,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Pending
+YOLANDA THORNE,A,Frank C,7722 N Marshfield Ave-BSMT-Chicago-IL-60626,2277 W HOWARD ST--CHICAGO-IL-60645,05:00:00,00:00:00,1,Pending
+CARTER FLEMING,A,Frank C,512 South Blvd--Evanston-IL-60202,1400 W Greenleaf Ave--Chicago-IL-60626,07:00:00,00:00:00,2,Pending
+KRISTIN KASTNER,A,,7445 N Sheridan Rd--Chicago-IL-60626,4646 N Marine Dr--Chicago-IL-60640,07:00:00,00:00:00,4,Pending
+adam smith,B,,8897 Harlem Avenue--Bridgeview- IL- USA,8847 Harlem Avenue--Bridgeview- IL- USA,12:00:00,00:00:00,0.02,Pending
+DIANE SIMS,A,,4828 W Cornelia Ave--Chicago-IL-60641,5547 N Ravenswood Ave--Chicago-IL-60640,07:45:00,00:00:00,7,Pending
+,B,,----,----,23:59:59,00:00:00,,Pending
+,D,,----,----,23:59:59,00:00:00,,Pending
+OSCAR MARCOS,A,Leah R,5121 W Wellington Ave--Chicago-IL-60641,345 E Superior St--Chicago-IL-60611,07:15:00,00:00:00,9,Pending
+JOSE A RIVERA,A,Kelli  Swedenske,2945 N Kedzie Ave--Chicago-IL-60618,2838 N Kimball Ave--Chicago-IL-60618,05:20:00,00:00:00,1,Pending
+TRACY MORRISON,B,Kelli  Swedenske,4132 W Madison St-533-Chicago-IL-60624,5870 W Lake St-533-Chicago-IL-60644,07:30:00,00:00:00,3,Pending
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Cancelled
+adam smith,A,Frank C,8847 Harlem Avenue--Bridgeview- IL- USA,8897 Harlem Avenue--Bridgeview- IL- USA,05:00:00,17:54:48,0.11,Picked
+adam smith,A,Frank C,8847 Harlem Avenue--Bridgeview- IL- USA,8897 Harlem Avenue--Bridgeview- IL- USA,07:00:00,00:00:00,0.11,In Progress
+adam smith,B,Gerry e,8897 Harlem Avenue--Bridgeview- IL- USA,8847 Harlem Avenue--Bridgeview- IL- USA,12:00:00,00:00:00,0.02,In Progress
+C Test,B,,DR ELIZABETH JARRON---10967 LAKE UNDERHILL RD STE 122-ORLANDO-FL,C ROSADO--1640 RIVER REACH DR APT 3-ORLANDO-FL,09:00:00,00:00:00,0,Pending
+adam smith,B,Frank C,8897 Harlem Avenue--Bridgeview- IL- USA,8847 Harlem Avenue--Bridgeview- IL- USA,08:00:00,00:00:00,0.02,In Progress
+adam smith,B,Frank C,8897 Harlem Avenue--Bridgeview- IL- USA,8847 Harlem Avenue--Bridgeview- IL- USA,09:00:00,00:00:00,0.02,In Progress
+AMBER IRISH,B,Kelli  Swedenske,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,In Progress
+adam smith,A,Gerry e,8847 Harlem Avenue--Bridgeview- IL- USA,8897 Harlem Avenue--Bridgeview- IL- USA,10:00:00,00:00:00,0.11,In Progress
+AMBER IRISH,A,Gerry e,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,In Progress
+C Test,A,Gerry e,15--1640 RIVER REACH DR APT 3-ORLANDO-FL,DR ELIZABETH JARRON---10967 LAKE UNDERHILL RD STE 122-ORLANDO-FL,23:59:59,00:00:00,0,Pending
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+Sean parker,A,,14250 Vernon Street-oak park-Oak Park- MI- USA,18680 8 Mile Rd--Southfield- MI 48075,12:50:00,00:00:00,5.09,Pending
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Completed
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Completed
+test 1,B,,Tampa International Airport-- Tampa- FL- USA,4810 North Hale Avenue-- Tampa- FL- USA,15:20:00,00:00:00,7.57,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+test 2,B,,8842 West Hillsborough Avenue-- Town 'n' Country- FL- USA,5212 North Hale Avenue-- Tampa- FL- USA,23:59:59,00:00:00,4.83,Completed
+test 3,B,,7214 North Hale Avenue-- Tampa- FL- USA,8995 West Hillsborough Avenue-- Town 'n' Country- FL- USA,23:59:59,00:00:00,6.02,Completed
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Completed
+test 1,A,,4810 North Hale Avenue-- Tampa- FL- USA,Tampa International Airport-- Tampa- FL- USA,13:20:00,00:00:00,6.7,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+test 2,A,,5212 North Hale Avenue-- Tampa- FL- USA,8842 West Hillsborough Avenue-- Town 'n' Country- FL- USA,12:55:00,00:00:00,4.83,Completed
+test 3,A,,8995 West Hillsborough Avenue-- Town 'n' Country- FL- USA,7214 North Hale Avenue-- Tampa- FL- USA,11:40:00,00:00:00,6.7,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+adam smith,B,,8897 Harlem Avenue--Bridgeview- IL- USA,8847 Harlem Avenue--Bridgeview- IL- USA,06:00:00,00:00:00,0.02,Pending
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Completed
+adam smith,A,Alan C k,8847 Harlem Avenue--Bridgeview- IL- USA,8897 Harlem Avenue--Bridgeview- IL- USA,04:00:00,10:49:07,0.11,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+Sean parker,A,,14250 Vernon Street-oak park-Oak Park- MI- USA,18680 8 Mile Rd--Southfield- MI 48075,12:50:00,00:00:00,5.09,Pending
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Completed
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+AMBER IRISH,A,,2358 University Avenue-360-San Diego- CA- USA,234 Bluebird-east wing-Indio- CA- USA,10:00:00,00:00:00,157.38,Completed
+MRS Davidson,B,,17800 Northland Park Ct-105- Southfield- MI 48075- USA,14250 Vernon St-- Oak Park- MI- USA,12:30:00,00:00:00,4.26,Completed
+AMBER IRISH,B,,234 Bluebird-east wing-Indio- CA- USA,2358 University Avenue-360-San Diego- CA- USA,12:00:00,00:00:00,158.15,Completed
+Sean parker,A,,14250 Vernon Street-oak park-Oak Park- MI- USA,18680 8 Mile Rd--Southfield- MI 48075,12:50:00,00:00:00,5.09,Pending
+MRS Davidson,A,,14250 Vernon St-- Oak Park- MI- USA,17800 Northland Park Ct-105- Southfield- MI 48075- USA,09:30:00,00:00:00,4.65,Completed

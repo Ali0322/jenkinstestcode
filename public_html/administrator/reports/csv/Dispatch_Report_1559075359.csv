@@ -1,0 +1,59 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,16:00:00,00:00:00,14.26,Cancelled
+Bryan adam,A,Paul Goodwin,11430 Clifton Boulevard--Cleveland- OH- USA,9500 Euclid Avenue--Cleveland- OH- USA,14:00:00,17:03:28,9.67,Completed
+Bryan adam,A,John  Doe,11430 Clifton Boulevard-- Cleveland- OH- USA,9500 Euclid Avenue-- Cleveland- OH- USA,14:00:00,15:05:56,9.67,Completed
+Bryan adam,B,Paul Goodwin,9500 Euclid Avenue-- Cleveland- OH- USA,11430 Clifton Boulevard-- Cleveland- OH- USA,16:00:00,17:04:21,9.86,Completed
+Bryan adam,A,Paul Goodwin,11430 Clifton Boulevard--Cleveland- OH- USA,9500 Euclid Avenue--Cleveland- OH- USA,14:00:00,20:59:15,9.67,Completed
+Bryan adam,A,Amber Test,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Cancelled
+A Test,A,,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,15.16,Completed
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,16:00:00,00:00:00,14.26,Pending
+A Test,A,,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,15.16,Completed
+Bryan adam,A,John  Doe,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,12:51:37,14.31,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,23:59:59,10:53:08,14.26,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,16:00:00,16:38:32,14.26,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,10:51:10,14.31,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,16:36:22,14.31,Completed
+A Test,A,,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,15.16,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,12:34:07,14.26,Completed
+BLANCA Test,A,John  Doe,1201 South Alma School Road--Mesa- AZ- USA,1201 South Chandler Village Drive--Chandler- AZ- USA,15:00:00,14:30:00,9.49,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,12:27:55,14.31,Completed
+A Test,A,,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,15.16,Completed
+A Test,A,,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,15.16,Completed
+19771007,A,,WHSF1978985A--20190320,N--0,12:00:00,00:00:00,1036 5TH ST E,Pending
+19690122,A,,WHSF1986872A--20190320,N--0,05:31:11,00:00:00,2113 HILLVIEW DR,Pending
+19620423,A,,WHSF1995384A--20190320,N--0,12:00:00,00:00:00,507 CEDAR CT APT 19,Pending
+19601013,A,,WHSG1962683A--20190320,Y--0,14:52:48,00:00:00,61382 WEISTER RD,Pending
+19590715,A,Alex ccc,WHSF1981817A--20190320,N--0,04:48:00,00:00:00,1752 DORSET LN,Pending
+,A,,WHSF1983870A--20190320,N--0,07:26:23,00:00:00,5203 STONEWOOD DR,Pending
+19870130,A,,WHSF1988006A--20190320,N--0,22:04:47,00:00:00,405 19TH AVE W APT 5,Pending
+19940203,A,,WHSF1979709A--20190320,N--0,07:26:24,00:00:00,103 TERRESA ST,Pending
+19910613,A,,WHSF1989483A--20190320,N--0,14:38:24,00:00:00,910 WORDEN AVE E,Pending
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:30:00,00:00:00,14.26,Pending
+Bryan adam,A,Amber Test,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,13:46:29,14.31,Completed
+A Test,A,,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,15.16,Completed
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:30:00,00:00:00,14.26,Cancelled
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,11:44:37,14.26,Completed
+Bryan adam,A,Elvis Presley,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,19:11:03,14.31,Completed
+Bryan adam,A,John  Doe,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Cancelled
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:30:00,00:00:00,14.26,Pending
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,11:44:03,14.31,Completed
+Test,A,John  Doe,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,12:21:26,13.65,Completed
+A Test,A,,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,15.16,Completed
+A Test,A,,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,15.16,Completed
+A Test,A,,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,00:00:00,15.16,Completed
+A Test,A,John  Doe,66 N 4000 E--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,08:30:00,16:43:54,15.16,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,17:06:34,14.31,Completed
+AMBER IRISH,A,Alex ccc,1201 South Alma School Road--Mesa- AZ- USA,11,13:00:00,00:00:00,1127.03,Pending
+AMBER IRISH,B,Alex ccc,11,,23:59:59,00:00:00,0,Pending
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,12:37:21,14.31,Completed
+Bryan adam,B,John  Doe,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:30:00,14:07:13,14.26,Picked
+Bryan adam,A,Alex ccc,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Pending
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,12:41:10,14.26,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,16:18:07,14.31,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,16:18:52,14.26,Completed
+AMBER IRISH,B,,456 Thain Road--Lewiston- ID- USA,,15:00:00,00:00:00,0,Pending
+AMBER IRISH,A,Amber Test,1201 South Alma School Road-- Mesa- AZ- USA,456 Thain Road--Lewiston- ID- USA,13:00:00,00:00:00,1205.24,Pending
+Test,B,,296 North Carnegie Avenue--Claremont- CA- United States,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,13:00:00,00:00:00,13.68,Pending
+Test,A,John  Doe,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,00:00:00,13.65,In Progress
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,14:39:29,14.31,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,14:43:08,14.26,Picked

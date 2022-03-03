@@ -1,0 +1,15 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Pending
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,12:41:10,14.26,Completed
+Bryan adam,B,John  Doe,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:30:00,00:00:00,14.26,Pending
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,12:37:21,14.31,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,16:18:52,14.26,Completed
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,16:18:07,14.31,Completed
+AMBER IRISH,A,Amber Test,1201 South Alma School Road-- Mesa- AZ- USA,456 Thain Road--Lewiston- ID- USA,13:00:00,00:00:00,1205.24,Pending
+AMBER IRISH,B,,456 Thain Road--Lewiston- ID- USA,,15:00:00,00:00:00,0,Pending
+Test,B,,296 North Carnegie Avenue--Claremont- CA- United States,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,13:00:00,00:00:00,13.68,Pending
+Test,A,John  Doe,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00:00,00:00:00,13.65,In Progress
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,14:39:29,14.31,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,14:43:08,14.26,Picked
+Bryan adam,A,Paul Goodwin,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,16:32:02,14.31,Completed
+Bryan adam,B,Paul Goodwin,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30:00,14:37:34,14.26,Completed

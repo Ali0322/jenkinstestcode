@@ -1,0 +1,7 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Bryan adam,B,,746 W Main St-- Morehead- KY- USA,100 Horizon Way-- Morehead- KY- USA,16:00:00,00:00:00,3.06,Pending
+Bryan adam,A,Alex ccc,100 Horizon Way-- Morehead- KY- USA,746 W Main St-- Morehead- KY- USA,14:00:00,08:43:28,3.06,Completed
+Bryan adam,A,,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,00:00:00,14.31,Pending
+Bryan adam,A,Alex ccc,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00:00,11:10:43,14.31,Completed
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,16:00:00,00:00:00,14.26,Pending
+Bryan adam,B,,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,16:00:00,00:00:00,14.26,Pending

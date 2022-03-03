@@ -1,0 +1,59 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,15:03:10,710.65,Picked
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+SEHDARI POWERS,A,Greg Smith,11904 W NORTH AVE--MILWAUKEE-WI-53226,3835 N 57TH ST--MILWAUKEE-WI-53216,03:25:00,00:00:00,6.51,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,13:31:10,710.65,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,10:22:45,710.65,Completed
+hybrid Tester,A,,1201 South Alma School Road-,2645 N Cole Rd-,12:00:00,00:00:00,944.72,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,14:35:37,710.65,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,Dayne  Titus,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,Jonathan Amissa,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+RAEANITA HUNT,A,Greg Smith,5225 N 29TH ST--MILWAUKEE-WI-53209,1610 MILLER PARK WAY--MILWAUKEE-WI-53214,04:30:00,17:18:00,20.06,Completed
+Test bryan,A,Barry Williams,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,01:00:00,00:00:00,999.87,Completed
+RAEANITA HUNT,B,,1610 MILLER PARK WAY--MILWAUKEE-WI-53214,5225 N 29TH ST--MILWAUKEE-WI-53209,05:15:00,00:00:00,20.06,Pending
+KAREN DEMANT,B,,5735 DURAND AVE--RACINE-WI-53406,4915 SCHOEN RD LOT 75--UNION GROVE-WI-53182,05:15:00,00:00:00,12.43,Pending
+JENNIFER DUNLAP,A,,6814B 25TH AVE--KENOSHA-WI-53143,4800 S 10TH ST--MILWAUKEE-WI-53221,04:30:00,00:00:00,30.21,Pending
+hybrid Tester,A,,1201 South Alma School Road,2645 N Cole Rd,12:00:00,00:00:00,944.72,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,13:06:25,710.65,Completed
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,13:33:37,710.65,Completed
+SEHDARI POWERS,A,Greg Smith,11904 W NORTH AVE--MILWAUKEE-WI-53226,3835 N 57TH ST--MILWAUKEE-WI-53216,03:25:00,17:15:11,5.76,Completed
+MALISSA NATION,A,Barry Williams,8845 41ST AVE--KENOSHA-WI-53142,5735 DURAND AVE--RACINE-WI-53406,04:30:00,00:00:00,11.85,Pending
+KAREN DEMANT,A,,4915 SCHOEN RD LOT 75--UNION GROVE-WI-53182,5735 DURAND AVE--RACINE-WI-53406,04:30:00,00:00:00,12.43,Pending
+MALISSA NATION,B,,5735 DURAND AVE--RACINE-WI-53406,8845 41ST AVE--KENOSHA-WI-53142,06:00:00,00:00:00,11.85,Pending
+JENNIFER DUNLAP,B,,4800 S 10TH ST--MILWAUKEE-WI-53221,6814B 25TH AVE--KENOSHA-WI-53143,05:15:00,00:00:00,30.21,Pending
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,23:59:59,00:00:00,145.84,Pending
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,12:19:32,1000.37,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,16:31:17,710.65,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,1000.37,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,18:19:58,710.65,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,11:58:55,999.87,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending

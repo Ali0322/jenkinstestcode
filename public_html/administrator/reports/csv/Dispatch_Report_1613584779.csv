@@ -1,0 +1,143 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+Test bryan,A,test test,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+JOYCESTINE NEBLETT,A,test test,218 Kent Dr--Martinsville-VA-24112,33 Bridge St--Martinsville-VA-24112,05:00:00,00:00:00,3,Pending
+test,A,test test,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,10:46:34,10.97,Completed
+Test bryan,A,Shiraz Hassan,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,14:56:22,999.87,In Progress
+CAMERON FALLER,A,Shiraz Hassan,5956 S KINGAN AVE--CUDAHY-WI-53110,1610 MILLER PARK WAY--MILWAUKEE-WI-53221,16:15:00,15:25:35,13.38,Completed
+NURJAN YUSUF,A,Shiraz Hassan,2202 W VAN BECK AVE--MILWAUKEE-WI-53221,3522 W LISBON AVE--MILWAUKEE-WI-53208,16:00:00,15:23:36,8.64,Completed
+CAMERON FALLER,B,Shiraz Hassan,1610 MILLER PARK WAY--MILWAUKEE-WI-53221,5956 S KINGAN AVE--CUDAHY-WI-53110,17:15:00,15:30:01,13.03,Completed
+NURJAN YUSUF,B,Shiraz Hassan,3522 W LISBON AVE--MILWAUKEE-WI-53208,2202 W VAN BECK AVE--MILWAUKEE-WI-53221,17:00:00,15:27:50,8.69,Completed
+RAEANITA HUNT,A,Greg Smith,5225 N 29TH ST--MILWAUKEE-WI-53209,1610 MILLER PARK WAY--MILWAUKEE-WI-53214,04:30:00,00:00:00,10.85,Pending
+test,B,Greg Smith,114 South State Street--Chicago- IL- USA,Calmar-- IA- USA,09:00:00,00:00:00,288.57,Pending
+RAEANITA HUNT,B,,1610 MILLER PARK WAY--MILWAUKEE-WI-53214,5225 N 29TH ST--MILWAUKEE-WI-53209,05:15:00,00:00:00,10.25,Pending
+SEHDARI POWERS,A,Greg Smith,11904 W NORTH AVE--MILWAUKEE-WI-53226,3835 N 57TH ST--MILWAUKEE-WI-53216,03:25:00,14:36:25,6.51,Completed
+test,A,Jonathan Amissa,Calmar-- IA- USA,114 South State Street--Chicago- IL- USA,19:00:00,00:00:00,287.61,Pending
+AARON R HOBACK,A,Greg Smith,1300 Mulberry Rd--Martinsville-VA-24112,600 Northside Dr--Martinsville-VA-24112,07:45:00,09:26:55,4.09,Cancelled
+AARON R HOBACK,B,Greg Smith,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4.09,Cancelled
+BRADLEY MATTHEWS JR,B,,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Cancelled
+Elaine Breitweiser,A,Dominic Pelfrey  ,7171 South 51st Avenue-ER Bed 1- Laveen Village- AZ- USA,5612 West Eudblid Ave Laveen-- Arizona- usa,14:30:00,16:46:45,2.12,Completed
+BRADLEY MATTHEWS JR,A,,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Cancelled
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,23:59:59,00:00:00,406.36,Pending
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,09:24:01,1000.37,Completed
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,1000.37,Pending
+Test bryan,A,ORVIS SLACK,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+test,A,ORVIS SLACK,2645 N Cole Rd,1125 Corporation Parkway-- Unit 131,09:00:00,00:00:00,2448.04,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,23:59:59,00:00:00,406.36,In Progress
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,1000.37,In Progress
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,15:03:10,710.65,Completed
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,09:12:01,710.65,Completed
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,13:31:10,710.65,Completed
+SEHDARI POWERS,A,Greg Smith,11904 W NORTH AVE--MILWAUKEE-WI-53226,3835 N 57TH ST--MILWAUKEE-WI-53216,03:25:00,00:00:00,6.51,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,10:22:45,710.65,Completed
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,14:35:37,710.65,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+hybrid Tester,A,,1201 South Alma School Road-,2645 N Cole Rd-,12:00:00,00:00:00,944.72,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,Jonathan Amissa,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,ORVIS SLACK,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+MALISSA NATION,A,Nicole Smith,8845 41ST AVE--KENOSHA-WI-53142,5735 DURAND AVE--RACINE-WI-53406,04:30:00,00:00:00,11.85,Pending
+RAEANITA HUNT,B,,1610 MILLER PARK WAY--MILWAUKEE-WI-53214,5225 N 29TH ST--MILWAUKEE-WI-53209,05:15:00,00:00:00,20.06,Pending
+KAREN DEMANT,B,,5735 DURAND AVE--RACINE-WI-53406,4915 SCHOEN RD LOT 75--UNION GROVE-WI-53182,05:15:00,00:00:00,12.43,Pending
+JENNIFER DUNLAP,A,,6814B 25TH AVE--KENOSHA-WI-53143,4800 S 10TH ST--MILWAUKEE-WI-53221,04:30:00,00:00:00,30.21,Pending
+hybrid Tester,A,,1201 South Alma School Road,2645 N Cole Rd,12:00:00,00:00:00,944.72,Pending
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+SEHDARI POWERS,A,Greg Smith,11904 W NORTH AVE--MILWAUKEE-WI-53226,3835 N 57TH ST--MILWAUKEE-WI-53216,03:25:00,17:15:11,5.76,Completed
+Test bryan,A,Nicole Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,01:00:00,00:00:00,999.87,Completed
+KAREN DEMANT,A,,4915 SCHOEN RD LOT 75--UNION GROVE-WI-53182,5735 DURAND AVE--RACINE-WI-53406,04:30:00,00:00:00,12.43,Pending
+MALISSA NATION,B,,5735 DURAND AVE--RACINE-WI-53406,8845 41ST AVE--KENOSHA-WI-53142,06:00:00,00:00:00,11.85,Pending
+JENNIFER DUNLAP,B,,4800 S 10TH ST--MILWAUKEE-WI-53221,6814B 25TH AVE--KENOSHA-WI-53143,05:15:00,00:00:00,30.21,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,13:06:25,710.65,Completed
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,13:33:37,710.65,Completed
+RAEANITA HUNT,A,Greg Smith,5225 N 29TH ST--MILWAUKEE-WI-53209,1610 MILLER PARK WAY--MILWAUKEE-WI-53214,04:30:00,17:18:00,20.06,Completed
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,12:19:32,1000.37,Completed
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,23:59:59,00:00:00,145.84,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,1000.37,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,16:31:17,710.65,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,02:00:00,18:19:58,710.65,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,02:00:00,00:00:00,710.65,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,11:58:55,999.87,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Z Test,B,,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,60 N YELLOWSTONE HWY--RIGBY-ID-83442,10:30:00,00:00:00,13.48,Pending
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,00:00:00,17:02:10,4.39,Picked
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Z Test,A,,60 N YELLOWSTONE HWY--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,05:30:00,00:00:00,12.47,Pending
+Z Test,A,,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,60 N YELLOWSTONE HWY--RIGBY-ID-83442,10:00:00,00:00:00,12.34,Completed
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,15:49:38,999.87,Completed
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,12:00:00,00:00:00,4.39,Pending
+Z Test,B,Greg Smith,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,60 N YELLOWSTONE HWY--RIGBY-ID-83442,10:30:00,00:00:00,12.34,In Progress
+Z Test,A,Jonathan Amissa,60 N YELLOWSTONE HWY--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,06:30:00,18:42:24,12.34,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,00:00:00,00:00:00,4.39,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,00:00:00,00:00:00,4.39,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,12:00:00,00:00:00,4.39,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,00:00:00,00:00:00,4.39,Pending
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,16:30:08,999.87,Completed
+Test bryan,B,Greg Smith,114 South State Street--Chicago- IL- USA,-,23:59:59,00:00:00,4.39,Pending
+Test bryan,B,,114 South State Street--Chicago- IL- USA,-,00:00:00,00:00:00,4.39,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,B,Nicole Smith,114 South State Street--Chicago- IL- USA,-,23:59:59,00:00:00,4.39,Pending
+Test bryan,A,Greg Smith,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test bryan,A,ORVIS SLACK,379 Amherst St PMB 270 N Nashua-- New Hampshire 03063,114 South State Street-- Chicago- IL- USA,12:00:00,00:00:00,999.87,Completed
+Test bryan,B,kevin Williams,114 South State Street-- Chicago- IL- USA,,00:00:00,00:00:00,0,Completed
+Z Test,A,,60 N YELLOWSTONE HWY--RIGBY-ID-83442,2381 E SUNNYSIDE RD--IDAHO FALLS-ID-83404,05:30:00,00:00:00,12.34,Completed
+DARRYL MARABLE,B,Troy Turner,3899 Longview Drive-- Douglasville- GA- USA,2765 Elkmont Ridge Southwest-- Atlanta- GA- USA,23:59:59,17:16:26,8.69,Completed
+DARRYL MARABLE,A,Troy Turner,2765 Elkmont Ridge Southwest-- Atlanta- GA- USA,3899 Longview Drive-- Douglasville- GA- USA,06:30:00,17:04:27,8.71,Completed
+ANDREW DAY,A,,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Completed
+AARON R HOBACK,A,,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Completed
+BRADLEY MATTHEWS JR,A,,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Completed
+JOYCESTINE NEBLETT,A,,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,Completed
+ANDREW DAY,B,,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24,Completed
+AARON R HOBACK,B,,1300 Mulberry Rd--Martinsville-VA-24112,600 Northside Dr--Martinsville-VA-24112,07:45:00,00:00:00,4,Completed
+BRADLEY MATTHEWS JR,B,,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Completed
+JOYCESTINE NEBLETT,A,,218 Kent Dr--Martinsville-VA-24112,33 Bridge St--Martinsville-VA-24112,05:00:00,00:00:00,3,Completed
+AARON R HOBACK,A,,1300 Mulberry Rd--Martinsville-VA-24112,600 Northside Dr--Martinsville-VA-24112,07:45:00,00:00:00,4,Completed
+BRADLEY MATTHEWS JR,A,,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Completed
+ANDREW DAY,A,,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24,Completed
+VENITA BATCHER,A,,6540 N 70TH ST--MILWAUKEE-WI-53223,2422 N GRANDVIEW BLVD--WAUKESHA-WI-53188,04:45:00,00:00:00,18.96,Completed
+JOSE CORNEJO,A,,2153 S 5TH PL--MILWAUKEE-WI-53207,3267 S 16TH ST--MILWAUKEE-WI-53215,04:45:00,00:00:00,2.09,Completed
+APRIL FOREMAN,A,,141 MAIN ST UNIT 237--RACINE-WI-53403,3113 WASHINGTON AVE--RACINE-WI-53405,05:00:00,00:00:00,2.3,Completed
+DIANN ORTIZ,A,,1407 RAWSON AVE--SOUTH MILWAUKEE-WI-53172,9420 S 22ND ST--OAK CREEK-WI-53154,05:15:00,00:00:00,6.67,Completed
+ANGELA JEFFERSON,A,,1927 60TH ST APT 1--KENOSHA-WI-53140,6308 8TH AVE--KENOSHA-WI-53143,05:30:00,00:00:00,0.92,Completed
+MICHAEL BEALS,A,,10630 S SOMMERS CIR--OAK CREEK-WI-53154,5735 DURAND AVE--RACINE-WI-53406,05:30:00,00:00:00,12.77,Completed
+JOHNNY POLK,A,,2718 S 12TH ST--MILWAUKEE-WI-53215,9420 S 22ND ST--OAK CREEK-WI-53154,05:40:00,00:00:00,9.14,Completed
+KATHLEEN ZIMMERMAN,A,,4209 S 90TH ST--MILWAUKEE-WI-53228,11340 W THEODORE TRECKER WAY--MILWAUKEE-WI-53214,05:45:00,00:00:00,5.22,Completed
+VENITA BATCHER,B,,2422 N GRANDVIEW BLVD--WAUKESHA-WI-53188,6540 N 70TH ST--MILWAUKEE-WI-53223,23:59:59,00:00:00,18.96,Completed
+JOSE CORNEJO,B,,3267 S 16TH ST--MILWAUKEE-WI-53215,2153 S 5TH PL--MILWAUKEE-WI-53207,10:00:00,00:00:00,2.09,Completed
+APRIL FOREMAN,B,,3113 WASHINGTON AVE--RACINE-WI-53405,141 MAIN ST UNIT 237--RACINE-WI-53403,10:00:00,00:00:00,2.3,Completed
+DIANN ORTIZ,B,,9420 S 22ND ST--OAK CREEK-WI-53154,1407 RAWSON AVE--SOUTH MILWAUKEE-WI-53172,09:15:00,00:00:00,6.67,Completed
+ANGELA JEFFERSON,B,,6308 8TH AVE--KENOSHA-WI-53143,1927 60TH ST APT 1--KENOSHA-WI-53140,23:59:59,00:00:00,0.92,Completed
+MICHAEL BEALS,B,,5735 DURAND AVE--RACINE-WI-53406,10630 S SOMMERS CIR--OAK CREEK-WI-53154,06:15:00,00:00:00,12.77,Completed
+JOHNNY POLK,B,,9420 S 22ND ST--OAK CREEK-WI-53154,2718 S 12TH ST--MILWAUKEE-WI-53215,10:00:00,00:00:00,9.14,Completed
+KATHLEEN ZIMMERMAN,B,,11340 W THEODORE TRECKER WAY--MILWAUKEE-WI-53214,4209 S 90TH ST--MILWAUKEE-WI-53228,10:00:00,00:00:00,5.22,Completed

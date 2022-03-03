@@ -1,0 +1,17 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Patricia Porter,A,Brian Powers,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,8701 Broadway-4th floor- Merrillville- IN- USA,09:30:00,09:30:51,0.4,Completed
+Mike Davich,A,Brian Powers,6926 Marshall Avenue--Hammond- IN- USA,7905 Calumet Ave-- MUNSTER IN 46321,11:00:00,10:59:46,3.87,Completed
+Julia Robinson,B,Brian Powers,70 W 94th Pl-- Crown Point- IN 46307- USA,6685 East 117th Avenue-- Crown Point- IN- USA,14:00:00,14:28:08,6.86,Completed
+Betty Hodge,B,Brian Powers,919 Main Street-- Dyer- IN- USA,820 West Arlington Lane-- Crete- IL- USA,12:15:00,12:32:10,13.6,Completed
+Julia Robinson,A,Brian Powers,6685 East 117th Avenue-- Crown Point- IN- USA,70 W 94th Pl-- Crown Point- IN 46307- USA,13:40:00,13:50:44,6.85,Completed
+Ray Hampton,A,Brian Powers,673 Harrison St-- Gary- IN 46402- USA, 3290 Grant St--  IN 46408,10:00:00,10:08:43,3.49,Completed
+Irene Monberg,A,Brian Powers,7039 Forest Avenue-- Hammond- IN- USA,801 Macarthur Boulevard-- Munster- IN- USA,14:15:00,14:40:59,3.24,Completed
+Daniel Patterson,A,Brian Powers,811 Alice St--Crown Point- IN- USA,1201 South Main Street-- Crown Point- IN- USA,10:30:00,10:23:28,1.16,Completed
+Patricia Porter,B,Brian Powers,3290 Grant St--IN 46408,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,14:45:00,15:35:21,11.22,Completed
+James Miller,B,Brian Powers,114 E Commercial Ave--Lowell- Indiana- USA,3572 W State Rd 10 Lake Village IN-,13:30:00,11:30:48,13.56,Completed
+ELLA HARRIS,A,Brian Powers,4364 Lincoln St--GARY IN 46408,550 W 84th Dr--MERRILLVILLE IN 46410,07:30:00,07:20:07,5.9,Completed
+Earl Grady,B,Brian Powers,951 Transport Dr Suite 2--  IN 46383,5331 Aspen Ave-- Portage- Indiana- USA,23:59:59,00:00:00,16.18,Cancelled
+John Wawrzyszuk,B,Brian Powers,851 W Burrell Dr--IN 46307,119 N Indiana Ave--Crown Point- IN 46307- USA,16:30:00,16:20:06,3.13,Completed
+James Miller,A,Brian Powers,3572 W State Rd 10 Lake Village IN-,114 E Commercial Ave--Lowell- Indiana- USA,11:30:00,13:18:40,13.56,Completed
+Norman Lance,A,Brian Powers,515 Lake St-- Hobart- IN- USA,951 Transport Dr Suite 2--  IN 46383,08:30:00,08:26:33,14.74,Completed
+Amber Test,A,Brian Powers,101 W 87th Ave--Merrillville- IN 46410- USA,8701 Broadway--IN 46410,12:00:00,14:01:39,0.4,Cancelled

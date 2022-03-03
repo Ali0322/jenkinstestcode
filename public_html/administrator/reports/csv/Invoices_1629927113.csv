@@ -1,0 +1,6 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Aug. 25 2021
+,,,Invoice From: Aug. 25 2021 To: Aug. 25 2021
+,,,Total Amount Billed: 3683.60
+1,1338,Aug-25 2021[Private Pay],Test Kevin, ,Leg A,2645 N Cole Rd-,1125 Corporation Pkwy STE 131--- NC 27610- USA,04:00,Stretcher Van - Pickup Charges: 20 - Price Per Miles: 1.5,2447.4,5,2442.4,,3683.60
+

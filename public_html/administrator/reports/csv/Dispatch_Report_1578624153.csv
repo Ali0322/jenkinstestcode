@@ -1,0 +1,74 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Mike Davich,A,Brian Powers,6926 Marshall Avenue--Hammond- IN- USA,7905 Calumet Ave-- MUNSTER IN 46321,11:00:00,10:59:46,3.87,Completed
+Name,A,,Pickup Address--Pickup Address 2,Destination Address--Destination Address 2,23:59:59,00:00:00,Mileage,Cancelled
+Julia Robinson,B,Brian Powers,70 W 94th Pl-- Crown Point- IN 46307- USA,6685 East 117th Avenue-- Crown Point- IN- USA,14:00:00,14:28:08,6.86,Completed
+Ray Hampton,A,,673 Harrison St--GARY IN 46402,3290 Grant St--GARY IN 46408,10:00:00,00:00:00,3.49,Cancelled
+Daniel Patterson,B,,123 North Court Street-- Crown Point- IN- USA,833 Lincoln Highway-- Schererville- IN- USA,13:00:00,00:00:00,10.93,Cancelled
+Daniel Patterson,C,Eric Velasquez,833 Lincoln Highway-- Schererville- IN- USA,811 Alice St--Crown Point- IN- USA,23:59:59,13:28:27,11.31,Completed
+Joseph Lebryk,B,,951 Transport Drive--Valparaiso- IN- USA,3047 Hess Drive--Highland- IN,23:59:59,00:00:00,33.31,Cancelled
+Patricia Porter,B,Eric Velasquez,8701 Broadway-4th floor- Merrillville- IN- USA,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,11:10:00,11:42:54,0.43,Completed
+Charles McDowell,B,Eric Velasquez,8679 Connecticut Street-- Merrillville- IN- USA,101 W 87th Ave--  Merrillville- IN 46410- USA,14:30:00,14:35:36,0.58,Completed
+Ray Hampton,B,Eric Velasquez, 3290 Grant St--  IN 46408,673 Harrison St-- Gary- IN 46402- USA,15:00:00,15:07:22,3.3,Completed
+JEANETTE MENDEZ,A,Rudy Pancubila,3768 Worthington St--PORTAGE IN 46368,7875 Grand Blvd--HOBART IN 46342,13:00:00,00:00:00,8,Cancelled
+Michael Bonds,B,Rudy Pancubila,951 Transport Drive-- Valparaiso- IN- USA,650 Jackson St-- Apt 311- Gary,23:59:59,00:00:00,26.28,Cancelled
+Joseph Lebryk,B,Nico Nombre,951 Transport Drive-- Valparaiso- IN- USA,3047 Hess Drive-- Highland- IN,15:00:00,15:18:04,33.31,Completed
+Joseph Lebryk,A,Nico Nombre,3047 Hess Drive--Highland- IN,951 Transport Drive--Valparaiso- IN- USA,08:45:00,09:39:50,33.25,Completed
+Daniel Patterson,B,Nico Nombre,123 North Court Street--Crown Point- IN- USA,833 Lincoln Highway-Suite 110- Schererville- IN- USA,00:00:00,11:18:38,10.93,Completed
+James Hale,B,Cat McDaniel,951 Transport Drive-- Valparaiso- IN- USA,708 Beverly Drive-- Hebron- IN- USA,23:59:59,00:00:00,17.87,Cancelled
+Jeanette Mendez,B,Purity Cruz,7875 Grand Blvd-- Hobart- IN- USA,3240 Willowcreek Road-- Portage- IN- USA,23:59:59,14:52:08,9.89,Completed
+Patricia Porter,A,Brian Powers,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,8701 Broadway-4th floor- Merrillville- IN- USA,09:30:00,09:30:51,0.4,Completed
+RAY HAMPTON,A,,673 Harrison St--GARY IN 46402,3290 Grant St--GARY IN 46408,10:00:00,00:00:00,3.49,Cancelled
+RAY HAMPTON,B,,3290 Grant St--GARY IN 46408,673 Harrison St--GARY IN 46402,23:59:59,00:00:00,3.3,Cancelled
+Julia Robinson,A,Brian Powers,6685 East 117th Avenue-- Crown Point- IN- USA,70 W 94th Pl-- Crown Point- IN 46307- USA,13:40:00,13:50:44,6.85,Completed
+Ray Hampton,A,Brian Powers,673 Harrison St-- Gary- IN 46402- USA, 3290 Grant St--  IN 46408,10:00:00,10:08:43,3.49,Completed
+Eric Brady,A,,13025 Oakdale Place--Cedar Lake- IN- USA,909 Joliet Street--Dyer- IN- USA,08:00:00,00:00:00,9.61,Cancelled
+Ray Hampton,B,,3290 Grant St--GARY IN 46408,673 Harrison St--GARY IN 46402,14:45:00,00:00:00,3.3,Cancelled
+Daniel Patterson,A,,811 Alice St--Crown Point- IN- USA,123 North Court Street-- Crown Point- IN- USA,09:15:00,00:00:00,1.82,Cancelled
+Joseph Lebryk,A,,3047 Hess Drive-- Highland- IN,951 Transport Drive-- Valparaiso- IN- USA,09:00:00,00:00:00,33.25,Cancelled
+Betty Hodge,A,Eric Velasquez,820 West Arlington Lane-- Crete- IL- USA,919 Main Street-- Dyer- IN- USA,10:30:00,10:28:02,13.32,Completed
+Charles McDowell,A,Eric Velasquez,101 W 87th Ave--  Merrillville- IN 46410- USA,8679 Connecticut Street-- Merrillville- IN- USA,12:30:00,12:30:42,0.57,Completed
+Daniel Patterson,A,Eric Velasquez,811 Alice St--Crown Point- IN- USA,123 North Court Street--Crown Point- IN- USA,09:15:00,09:09:33,1.82,Completed
+JEANETTE MENDEZ,B,Rudy Pancubila,7875 Grand Blvd--HOBART IN 46342,3768 Worthington St--PORTAGE IN 46368,23:59:59,00:00:00,7.87,Cancelled
+Michael Bonds,A,Rudy Pancubila,650 Jackson St-- Apt 311- Gary,951 Transport Drive-- Valparaiso- IN- USA,10:00:00,00:00:00,26.4,Cancelled
+Eric Brady,A,Rudy Pancubila,13025 Oakdale Place--Cedar Lake- IN- USA,909 Joliet Street--Dyer- IN- USA,08:00:00,07:58:22,9.61,Completed
+James Hale,A,Nico Nombre,708 Beverly Drive-- Hebron- IN- USA,951 Transport Drive-- Valparaiso- IN- USA,11:15:00,00:00:00,18.34,Cancelled
+Mike Davich,B,Nico Nombre,7905 Calumet Ave-- MUNSTER IN 46321,6926 Marshall Avenue--Hammond- IN- USA,12:30:00,12:48:35,3.92,Completed
+Daniel Patterson,C,Nico Nombre,833 Lincoln Highway-Suite 110- Schererville- IN- USA,811 Alice St--Crown Point- IN- USA,11:00:00,00:00:00,11.31,Cancelled
+Jeanette Mendez,A,Purity Cruz,3768 Worthington St-- Portage- IN 46368- USA,7875 Grand Blvd-- Hobart- IN- USA,13:15:00,13:10:35,8,Completed
+Jeanette Mendez,C,Purity Cruz,3240 Willowcreek Road-- Portage- IN- USA,3768 Worthington St-- Portage- IN 46368- USA,23:59:59,14:53:04,3.36,Completed
+Betty Hodge,B,Brian Powers,919 Main Street-- Dyer- IN- USA,820 West Arlington Lane-- Crete- IL- USA,12:15:00,12:32:10,13.6,Completed
+John Wawrzyszuk,A,,119 N Indiana Ave--Crown Point- IN 46307- USA,851 W Burrell Dr--IN 46307,11:45:00,00:00:00,3.13,Cancelled
+Irene Monberg,B,Eric Velasquez,801 Macarthur Boulevard-- Munster- IN- USA,7039 Forest Avenue-- Hammond- IN- USA,16:15:00,17:29:41,3.24,Completed
+FELIX VAZQUEZ,B,Eric Velasquez,9100 Calumet Ave--MUNSTER IN 46321,7233 Jefferson Ave--HAMMOND IN 46324,16:30:00,17:25:06,2.27,Completed
+John Wawrzyszuk,B,,851 W Burrell Dr--IN 46307,119 N Indiana Ave--Crown Point- IN 46307- USA,16:30:00,00:00:00,3.13,Cancelled
+GWENDOLYN THOMPSON,B,Eric Velasquez,7905 Calumet Ave--MUNSTER IN 46321,2140 Woodhollow Ln Apt 2B--HAMMOND IN 46323,14:00:00,14:25:40,3.71,Completed
+Patricia Porter,A,Eric Velasquez,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,3290 Grant St--IN 46408,09:45:00,10:12:59,11.95,Completed
+JEANETTE MENDEZ,B,,1500 S Lake Park Ave-- Hobart- IN- USA,3768 Worthington St--PORTAGE IN 46368,23:59:59,00:00:00,5.43,Cancelled
+Aurelia Fedor,A,Rudy Pancubila,1000 East 114th Street--Whiting- IN- USA,951 Transport Dr Suite 2--IN 46383,07:00:00,07:05:10,39.76,Completed
+Norman Lance,B,Rudy Pancubila,951 Transport Dr Suite 2--  IN 46383,515 Lake St-- Hobart- IN- USA,13:00:00,12:43:05,14.75,Completed
+Darian Williams,A,Rudy Pancubila,1555 South Main Street--Crown Point- IN- USA,550 West 84th Drive--Merrillville- IN- USA,11:00:00,11:05:58,6.14,Completed
+JEANETTE MENDEZ,A,Rudy Pancubila,3768 Worthington St--PORTAGE IN 46368,1500 S Lake Park Ave--Hobart- IN- USA,15:20:00,00:00:00,5.57,No Show
+JEANETTE MENDEZ,C,Rudy Pancubila,CVS 3240 willowcreek rd -- Portage In,3768 Worthington St--PORTAGE IN 46368,23:59:59,00:00:00,3.36,No Show
+Irene Monberg,A,Brian Powers,7039 Forest Avenue-- Hammond- IN- USA,801 Macarthur Boulevard-- Munster- IN- USA,14:15:00,14:40:59,3.24,Completed
+Daniel Patterson,A,Brian Powers,811 Alice St--Crown Point- IN- USA,1201 South Main Street-- Crown Point- IN- USA,10:30:00,10:23:28,1.16,Completed
+Patricia Porter,B,Brian Powers,3290 Grant St--IN 46408,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,14:45:00,15:35:21,11.22,Completed
+ELLA HARRIS,B,Jason  Pancubila,550 W 84th Dr--MERRILLVILLE IN 46410,4364 Lincoln St--GARY IN 46408,13:00:00,14:24:03,5.73,Completed
+James Miller,B,Brian Powers,114 E Commercial Ave--Lowell- Indiana- USA,3572 W State Rd 10 Lake Village IN-,13:30:00,11:30:48,13.56,Completed
+ELLA HARRIS,A,Brian Powers,4364 Lincoln St--GARY IN 46408,550 W 84th Dr--MERRILLVILLE IN 46410,07:30:00,07:20:07,5.9,Completed
+Eric Brady,A,,13025 Oakdale Place--Cedar Lake- IN- USA,909 Joliet Street--Dyer- IN- USA,08:00:00,00:00:00,9.61,Cancelled
+FELIX VAZQUEZ,A,Eric Velasquez,7233 Jefferson Ave--HAMMOND IN 46324,9100 Calumet Ave--MUNSTER IN 46321,11:30:00,11:38:04,2.27,Completed
+GWENDOLYN THOMPSON,A,Eric Velasquez,2140 Woodhollow Ln Apt 2B--HAMMOND IN 46323,7905 Calumet Ave--MUNSTER IN 46321,12:30:00,12:34:50,3.59,Completed
+Daniel Patterson,B,Eric Velasquez,1201 South Main Street-- Crown Point- IN- USA,811 Alice St--Crown Point- IN- USA,13:30:00,13:49:42,1.25,Completed
+JEANETTE MENDEZ,A,,3768 Worthington St--PORTAGE IN 46368,1500 S Lake Park Ave-- Hobart- IN- USA,15:00:00,00:00:00,5.57,Cancelled
+Eric Brady,A,Eric Velasquez,13025 Oakdale Place--Cedar Lake- IN- USA,909 Joliet Street--Dyer- IN- USA,08:00:00,08:02:17,9.61,Completed
+Earl Grady,A,Rudy Pancubila,5331 Aspen Ave-- Portage- Indiana- USA,951 Transport Dr Suite 2--  IN 46383,07:15:00,00:00:00,16.25,Cancelled
+Aurelia Fedor,B,Rudy Pancubila,951 Transport Dr Suite 2--IN 46383,1000 East 114th Street--Whiting- IN- USA,09:00:00,09:05:05,40.59,Completed
+John Wawrzyszuk,A,Rudy Pancubila,119 N Indiana Ave--Crown Point- IN 46307- USA,851 W Burrell Dr--IN 46307,11:45:00,11:44:27,3.13,Completed
+Darian Williams,B,Rudy Pancubila,550 West 84th Drive--Merrillville- IN- USA,1555 South Main Street--Crown Point- IN- USA,16:00:00,16:18:42,6.15,Completed
+JEANETTE MENDEZ,B,Rudy Pancubila,1500 S Lake Park Ave--Hobart- IN- USA,CVS 3240 willowcreek rd -- Portage In,23:59:59,00:00:00,7.46,No Show
+Earl Grady,B,Brian Powers,951 Transport Dr Suite 2--  IN 46383,5331 Aspen Ave-- Portage- Indiana- USA,23:59:59,00:00:00,16.18,Cancelled
+John Wawrzyszuk,B,Brian Powers,851 W Burrell Dr--IN 46307,119 N Indiana Ave--Crown Point- IN 46307- USA,16:30:00,16:20:06,3.13,Completed
+James Miller,A,Brian Powers,3572 W State Rd 10 Lake Village IN-,114 E Commercial Ave--Lowell- Indiana- USA,11:30:00,13:18:40,13.56,Completed
+LOUIS ROGERS,A,Cat McDaniel,349 West 80th Place--Merrillville- IN- USA,3636 West 15th Avenue--Gary- IN- USA,16:00:00,16:08:06,13.07,Completed
+Norman Lance,A,Brian Powers,515 Lake St-- Hobart- IN- USA,951 Transport Dr Suite 2--  IN 46383,08:30:00,08:26:33,14.74,Completed
+Amber Test,A,Brian Powers,101 W 87th Ave--Merrillville- IN 46410- USA,8701 Broadway--IN 46410,12:00:00,14:01:39,0.4,Cancelled

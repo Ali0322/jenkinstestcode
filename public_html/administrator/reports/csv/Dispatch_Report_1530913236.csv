@@ -1,0 +1,18 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+adam smith,B,,24 Franklin St--Denver- CO- USA,2424 Franklin St-- Denver- CO- USA,11:00:00,00:00:00,3.5,Pending
+adam smith,A,JAMIE INMAN,2424 Franklin St-- Denver- CO- USA,24 Franklin St--Denver- CO- USA,10:00:00,11:58:11,3.28,Completed
+AMBER IRISH,A,mayra R,123 North 14th Street-360-Phoenix- AZ- USA,2340 West Bell Road-east wing-Phoenix- AZ- USA,18:00:00,00:00:00,3.48,In Progress
+adam smith,B,marlene rosado,24 Franklin St--Denver- CO- USA,2424 Franklin St--Denver- CO- USA,11:00:00,00:00:00,3.5,In Progress
+Adam J,A,many e,Assistencia Villa 1875 Barton Rd.--Redlands-CA-92373,1210 Indiana Court--Redlands-CA-92374,10:00:00,00:00:00,2.38,In Progress
+AMBER IRISH,B,mayra R,2340 West Bell Road-east wing-Phoenix- AZ- USA,123 North 14th Street-360-Phoenix- AZ- USA,20:00:00,00:00:00,3.53,In Progress
+adam smith,A,marlene rosado,2424 Franklin St--Denver- CO- USA,24 Franklin St--Denver- CO- USA,10:00:00,00:00:00,3.28,No Show
+adam smith,A,many e,2424 Franklin St-- Denver- CO- USA,24 Franklin St-- Denver- CO- USA,10:00:00,13:37:59,3.28,Completed
+adam smith,B,many e,24 Franklin St-- Denver- CO- USA,2424 Franklin St-- Denver- CO- USA,11:00:00,00:00:00,3.5,Pending
+CHRISTINE BRETT,A,many e,1719 24TH ST--DES MOINES-IA-50310,1801 HICKMAN RD--DES MOINES-IA-50314,14:00:00,00:00:00,0.92,In Progress
+adam smith,B,JAMIE INMAN,8897 Harlem Avenue--Bridgeview- IL- USA,2424 Franklin St--Denver- CO- USA,11:00:00,00:00:00,1000.22,In Progress
+AMBER IRISH,A,mayra R,123 North 14th Street-360-Phoenix- AZ- USA,2340 West Bell Road-east wing-Phoenix- AZ- USA,18:00:00,00:00:00,3.48,In Progress
+CHRISTINE BRETT,B,marlene rosado,1801 HICKMAN RD--DES MOINES-IA-50314,1719 24TH ST--DES MOINES-IA-50310,14:45:00,00:00:00,0.81,In Progress
+adam smith,A,many e,2424 Franklin St--Denver- CO- USA,8897 Harlem Avenue--Bridgeview- IL- USA,10:00:00,00:00:00,1001.05,In Progress
+AMBER IRISH,B,mayra R,2340 West Bell Road-east wing-Phoenix- AZ- USA,123 North 14th Street-360-Phoenix- AZ- USA,20:00:00,00:00:00,3.53,In Progress
+ASHLEY Test,B,mayra R,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,ASHLEY LOFLIN--4743 NORTHERN DANCER WAY-ORLANDO-FL,13:30:00,00:00:00,20.42,Cancelled
+ASHLEY Test,A,marlene rosado,25.9--4743 NORTHERN DANCER WAY-ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00:00,00:00:00,20.84,In Progress

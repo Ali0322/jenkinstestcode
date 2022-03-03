@@ -1,0 +1,35 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Janice Sobieraj,A,Nicodemus Nombre,1532 Calumet Ave--  Dyer- IN- USA,8735 South Merrion Lane-- Hometown- IL- USA,09:20:00,09:53:42,28.14,Completed
+ELLA HARRIS,B,Nicodemus Nombre,550 W 84th Dr--MERRILLVILLE IN 46410,4364 Lincoln St--GARY IN 46408,23:59:59,08:55:07,5.73,Completed
+LOUIS ROGERS,A,Nicodemus Nombre,349 West 80th Place-- Merrillville- IN- USA,3636 West 15th Avenue-- Gary- IN- USA,16:00:00,00:00:00,13.07,In Progress
+Janice Sobieraj,B,Nicodemus Nombre,8735 South Merrion Lane-- Hometown- IL- USA,1532 Calumet Ave--  Dyer- IN- USA,23:59:59,00:00:00,26.46,In Progress
+Ray Hampton,A,Nicodemus Nombre,673 Harrison Street--Gary- IN- USA,3290 Grant St--IN 46408,10:00:00,11:51:48,3.49,Completed
+HORACE TAYLOR,A,Nicodemus Nombre,3520 Polk Street--Gary- IN- USA,9120 Columbia Avenue-- Munster- IN- USA,10:45:00,00:00:00,11.79,Cancelled
+Mike Davich,A,Nicodemus Nombre,1532 Calumet Ave-,6926 Marshall Avenue-- Hammond- IN- USA,14:00:00,14:49:23,8.66,Completed
+Curtis McCrutcheon,B,Nicodemus Nombre,4016 Main St--East Chicago- IN 46312- USA,1000 East 114th Street--Whiting- IN- USA,23:59:59,16:46:28,5.69,Completed
+Gwendolyn Thompson,A,Nicodemus Nombre,2140 Woodhollow Ln-- Hammond- IN 46323- USA,7905 Calumet Ave--MUNSTER IN 46321,11:30:00,13:14:33,3.59,Completed
+Ray Hampton,B,Nicodemus Nombre,3290 Grant St--IN 46408,673 Harrison Street--Gary- IN- USA,15:00:00,17:58:23,3.3,Completed
+Juanita Carter,A,Nicodemus Nombre,2435 Lincoln St-- Gary- IN- USA,200 East 89th Avenue-- Merrillville- IN- USA,12:45:00,13:29:49,11.57,Completed
+LOUIS ROGERS,A,Nicodemus Nombre,3636 West 15th Avenue--Gary- IN- USA,349 West 80th Place-- Merrillville- IN- USA,10:30:00,00:00:00,12.96,Cancelled
+GWENDOLYN THOMPSON,A,Nicodemus Nombre,2140 Woodhollow Ln-Apt 2B- Hammond- IN 46323- USA,7905 Calumet Ave-- Munster- IN 46321- USA,11:00:00,12:17:01,3.59,Completed
+Felix Vasquez,A,Nicodemus Nombre,7733 Jefferson Ave-- Hammond- IN- USA,9100 Calumet Avenue-- Munster- IN- USA,11:30:00,13:05:06,2.1,Completed
+Patricia Porter,B,Nicodemus Nombre,3290 Grant St--IN 46408,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,14:45:00,16:00:56,11.22,Completed
+ELizabeth Golon,B,Nicodemus Nombre,314 Ridge Road-- Munster- IN- USA,1532 Calumet Avenue-- Dyer- IN- USA,16:00:00,17:28:10,4.89,Completed
+GWENDOLYN THOMPSON,B,Nicodemus Nombre,7905 Calumet Ave-- Munster- IN 46321- USA,2140 Woodhollow Ln-Apt 2B- Hammond- IN 46323- USA,23:59:59,13:16:38,3.71,Completed
+Felix Vasquez,B,Nicodemus Nombre,9100 Calumet Avenue-- Munster- IN- USA,7733 Jefferson Ave-- Hammond- IN- USA,16:30:00,17:53:14,2.1,Completed
+Earleen Leonard,A,Nicodemus Nombre,101 West 87th Avenue-- Merrillville- IN- USA,3641 Ridge Rd-- Highland- IN- USA,10:00:00,10:51:04,17.01,Completed
+Eric Brady,A,Nicodemus Nombre,13025 Oakdale Place--Cedar Lake- IN- USA,909 Joliet Street--Dyer- IN- USA,08:00:00,09:11:58,9.61,Completed
+ella  harris,A,Nicodemus Nombre,4364 Lincoln Street-- Gary- IN- USA,550 West 84th Drive-- Merrillville- IN- USA,07:30:00,11:32:19,5.9,Completed
+Harold Griffith,A,Nicodemus Nombre,1553 Harrison Street-- Gary- IN- USA,4016 Main Street-- East Chicago- IN- USA,08:00:00,11:32:28,7.41,Completed
+Janice Steve,A,Nicodemus Nombre,119 N Indiana Ave-- Crown Point- IN 46307- USA,1201 S Main St-- Crown Point- IN 46307- USA,08:30:00,10:49:03,2.34,Completed
+Ella Harris,A,Nicodemus Nombre,4364 Lincoln St--GARY IN 46408,550 W 84th Dr--MERRILLVILLE IN 46410,07:30:00,10:27:00,5.9,Completed
+Darian Williams,A,Nicodemus Nombre,1555 S Main St--  Crown Point- IN 46307- USA,550 W 84th Dr--  IN 46410,11:00:00,12:29:23,6.14,Completed
+Gertrude Lessner,B,Nicodemus Nombre,70 W 94th Pl-- Crown Point- IN 46307- USA,101 W 87th Ave-Door A- Merrillville- IN 46410- USA,23:59:59,11:34:01,1.16,Completed
+Gwendolyn Thompson,A,Nicodemus Nombre,2140 Woodhollow Ln-Apt 2B-Hammond- IN 46323- USA,7905 Calumet Ave--Munster- IN 46321- USA,12:30:00,14:05:57,3.59,Completed
+Richard Brown,B,Nicodemus Nombre,1201 S Main St--  Crown Point- IN 46307- USA,1532 Calumet Ave--  Dyer- IN- USA,23:59:59,16:31:42,13.77,Completed
+Janice Steve,B,Nicodemus Nombre,1201 S Main St-- Crown Point- IN 46307- USA,119 N Indiana Ave-- Crown Point- IN 46307- USA,23:59:59,15:46:10,2.34,Completed
+Rebecca Ponce-Ruiz,B,Nicodemus Nombre,7214 Calumet Avenue-- Hammond- IN- USA,1532 Calumet Ave-- Dyer- IN- USA,23:59:59,17:40:44,5.63,Completed
+Gertrude Lessner,A,Nicodemus Nombre,101 W 87th Ave-Door A- Merrillville- IN 46410- USA,70 W 94th Pl-- Crown Point- IN 46307- USA,09:30:00,11:25:24,0.99,Completed
+Felix Vazquez,B,Nicodemus Nombre,9100 Calumet Ave Munster-- ,7233 Jefferson Ave-- Hammond- IN- USA,16:30:00,18:10:32,2.27,Completed
+Gwendolyn Thompson,B,Nicodemus Nombre,7905 Calumet Ave--Munster- IN 46321- USA,2140 Woodhollow Ln-Apt 2B-Hammond- IN 46323- USA,23:59:59,15:19:19,3.71,Completed
+Stella Jimenez,A,Nicodemus Nombre,4943 White Oak Ave-- East Chicago- IN- USA,4150 Ellsworth Street-- Gary- IN- USA,13:00:00,14:28:28,11.47,Completed

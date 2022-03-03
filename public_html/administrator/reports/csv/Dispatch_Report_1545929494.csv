@@ -1,0 +1,361 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+amber Irish,A,Ashley Ashley,3455 U.S. 95-- Moscow- ID- USA,456 Thain Road--Lewiston- ID- USA,12:00:00,00:00:00,28.3,Pending
+amber Irish,B,Eric  Hamilton,456 Thain Road--Lewiston- ID- USA,3455 U.S. 95-- Moscow- ID- USA,15:00:00,00:00:00,28.3,Pending
+adam smith,A,Paul Goodwin,1201 South Alma School Road-12-Mesa- AZ- USA,120 South Alma School Road-33-Mesa- AZ- USA,14:00:00,18:21:15,1.42,Completed
+adam smith,A,,1201 South Alma School Road-12-Mesa- AZ- USA,120 South Alma School Road-33-Mesa- AZ- USA,14:00:00,00:00:00,1.42,Completed
+amber Irish,A,Amber irish,348 Shiloh Drive-- Lewiston- ID- USA,456 Thain Road--Lewiston- ID- USA,12:00:00,12:00:00,4.68,Completed
+amber Irish,A,Amber irish,437 8th Street-- Clarkston- WA- USA,456 Thain Road-- Lewiston- ID- USA,12:00:00,00:00:00,6.1,Pending
+adam smith,A,Paul Goodwin,1201 South Alma School Road-12-Mesa- AZ- USA,120 South Alma School Road-33-Mesa- AZ- USA,14:00:00,13:54:57,1.42,Completed
+amber Irish,B,Amber irish,456 Thain Road--Lewiston- ID- USA,348 Shiloh Drive-- Lewiston- ID- USA,15:00:00,00:00:00,4.74,Cancelled
+amber Irish,B,Amber irish,456 Thain Road-- Lewiston- ID- USA,437 8th Street-- Clarkston- WA- USA,15:00:00,00:00:00,5.9,Pending
+amber Irish,A,Amber irish,348 Shiloh Drive-- Lewiston- ID- USA,456 Thain Road--Lewiston- ID- USA,12:00:00,00:00:00,4.68,Pending
+amber Irish,B,Amber irish,456 Thain Road--Lewiston- ID- USA,348 Shiloh Drive-- Lewiston- ID- USA,15:00:00,00:00:00,4.74,Pending
+Mikelangelo N,A,Paul Goodwin,10850 Church St Rancho--Cucamonga-CA-91730,10557 Juniper Ave--Fontana-CA-92337,12:30:00,16:13:16,12.01,Completed
+Mikelangelo N,B,,10557 Juniper Ave--Fontana-CA-92337,10850 Church St Rancho--Cucamonga-CA-91730,14:00:00,00:00:00,12.28,Pending
+adam smith,A,,1201 South Alma School Road-12-Mesa- AZ- USA,120 South Alma School Road-33-Mesa- AZ- USA,14:00:00,00:00:00,1.42,Pending
+amber Irish,B,,456 Thain Road--Lewiston- ID- USA,-,15:00:00,00:00:00,0,Pending
+amber Irish,A,Bobby  Turney,116 8th Avenue-- New York- NY- USA,456 Thain Road--Lewiston- ID- USA,12:00:00,00:00:00,2584.04,Cancelled
+adam smith,A,Paul Goodwin,1201 South Alma School Road-12-Mesa- AZ- USA,120 South Alma School Road-33-Mesa- AZ- USA,14:00:00,16:37:45,1.42,Completed
+Minnie 33 Mouse 69,A,,3626 NW 22nd Ct--Miami-FL-33142,2550 Douglas Rd--Coral Gables-FL-33134,01:00:00,00:00:00,10.26,Pending
+Donald 2 Mouse 23,A,,2731 NW 18TH AVE PLAZA B--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,1.06,Pending
+Minnie 35 Mouse 71,A,,4925 E 9th Ct--Hialeah-FL-33013,1251 NW 36 Street--Miami-FL-33142,11:00:00,00:00:00,7.1,Pending
+Donald 4 Mouse 25,A,,3206 NW 5 Ave--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.13,Pending
+Minnie 37 Mouse 73,A,,5600 NW 9TH AVE--MIAMI-FL-33127,1444 Biscayne Blvd #214--Miami-FL-33132,02:30:00,00:00:00,4.95,Pending
+Donald 6 Mouse 27,A,,1151 NW 40th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.36,Pending
+Minnie 39 Mouse 75,A,,750 NW 18TH TER APT 1014--MIAMI-FL-33136,3659 S Miami Ave--Miami-FL-33133,09:00:00,00:00:00,4.81,Pending
+Donald 8 Mouse 29,A,,3005 NW 29th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,2.16,Pending
+Minnie 41 Mouse 77,A,,820 NW 70TH ST APT 4--MIAMI-FL-33150,4776 SW 8TH ST--GABLES-FL-33134-2564,09:00:00,00:00:00,9.23,Pending
+Donald 10 Mouse 31,A,,853 NW 29th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.85,Pending
+Donald 12 Mouse 33,A,,2870 NW 18th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1,Pending
+Donald 14 Mouse 35,A,,3760 NW 15th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.36,Pending
+Minnie 1 Mouse 37,A,,16750 NE 10TH AVE APT 122--MIAMI-FL-331622667,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,10.65,Pending
+Minnie 3 Mouse 39,A,,1600 NW 112TH TER--MIAMI-FL-33167,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,7.3,Pending
+Minnie 5 Mouse 41,A,,1597 NW 82nd St--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.26,Pending
+Minnie 7 Mouse 43,A,,1100 NE 136TH ST--NORTH MIAMI-FL-33161,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,10.11,Pending
+Minnie 9 Mouse 45,A,,1360 NW 99TH ST--MIAMI-FL-33147,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,6.1,Pending
+Mickey 2 Mouse 2,A,,1929 NW Flagler Terrace--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.59,Pending
+Minnie 11 Mouse 47,A,,1044 NW 33RD AVE--MIAMI-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.89,Pending
+Mickey 4 Mouse 4,A,,1601 NW 17th St--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.81,Pending
+Minnie 13 Mouse 49,A,,107 NW 9th Ave #4--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,3.21,Pending
+Minnie 15 Mouse 51,A,,1251 NE 108th St APT 407--Miami-FL-33161,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,8.68,Pending
+Mickey 5 Mouse 5,A,,750 NW 18th Terrace--Miami-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.83,Pending
+Minnie 17 Mouse 53,A,,1380 NW 43rd St--Miami-FL-33142,5331 SW 8th St--Coral Gables-FL-33134,08:00:00,00:00:00,7.12,Pending
+Mickey 7 Mouse 7,A,,1929 NW 6 St--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.01,Pending
+Minnie 19 Mouse 55,A,,1965 NW 23rd St--Miami-FL-33142,3288 NW 36th St--Miami-FL-33142,09:00:00,00:00:00,2.11,Pending
+Mickey 9 Mouse 9,A,,1122 NW 3rd St--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.68,Pending
+Minnie 21 Mouse 57,A,,2043 NW 41ST ST--MIAMI-FL-33142,1385 Coral Way 3 floor--Miami-FL-33145,09:30:00,00:00:00,7.1,Pending
+Mickey 11 Mouse 11,A,,945 SW 3rd St--Miami-FL-33130,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.08,Pending
+Minnie 23 Mouse 59,A,,2260 SW 29th Ave--Miami-FL-33145,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,9.09,Pending
+Mickey 13 Mouse 13,A,,2024 NW 1st St #2--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.5,Pending
+Minnie 25 Mouse 61,A,,2403 NW 18th Terrace--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,10:00:00,00:00:00,2.57,Pending
+Mickey 15 Mouse 15,A,,4200 SW 15th St--Miami-FL-33134,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,6.76,Pending
+Minnie 27 Mouse 63,A,,2971 NW 30TH ST REAR--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,10:30:00,00:00:00,2.04,Pending
+Mickey 17 Mouse 17,A,,4387 NW 10th St--Miami-FL-33126,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.31,Pending
+Minnie 29 Mouse 65,A,,3120 NW 19th Ave--Miami-FL-33142,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,6.39,Pending
+Mickey 19 Mouse 19,A,,750 NW 18TH TER APT 605--MIAMI-FL-33136,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,1.83,Pending
+Minnie 31 Mouse 67,A,,3460 NW 11 TH PL--MIAMI-FL-,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,7.24,Pending
+Mickey 21 Mouse 21,A,,1146 NW 7TH CT APT 408--MIAMI-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.38,Pending
+Minnie 34 Mouse 70,A,,445 NW 4th St #615--Miami-FL-33128,1401 E 4th Ave #104--Hialeah-FL-33010,08:30:00,00:00:00,8.26,Pending
+Donald 3 Mouse 24,A,,2920 NW 18th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.99,Pending
+Minnie 36 Mouse 72,A,,560 SW 13TH AVE APT 2--MIAMI-FL-33135,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,10:30:00,00:00:00,3.98,Pending
+Donald 5 Mouse 26,A,,2971 NW 30th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.04,Pending
+Minnie 38 Mouse 74,A,,60 NW 68 TER--MIAMI-FL-33150,3320 Palm Ave--Hialeah-FL-33012,08:00:00,00:00:00,8.38,Pending
+Donald 7 Mouse 28,A,,2780 NW 15th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:00:00,00:00:00,0.82,Pending
+Minnie 40 Mouse 76,A,,750 NW 18TH TER APT 1014--MIAMI-FL-33136,3659 S MIAMI AVE STE 3003A--MIAMI-FL-33133-4225,08:30:00,00:00:00,4.81,Pending
+Donald 9 Mouse 30,A,,2920 NW 18th Ave #7d--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:00:00,00:00:00,0.99,Pending
+Minnie 42 Mouse 78,A,,9050 NW 5TH AVE APT 2--EL PORTAL-FL-33150,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.57,Pending
+Donald 11 Mouse 32,A,,1040 NW 28th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.8,Pending
+Donald 13 Mouse 34,A,,3625 NW 20th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.75,Pending
+Donald 15 Mouse 36,A,,375 S ROYAL POINCIANA BLVD APT 6B--MIAMI SPRINGS-FL-33166,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4.33,Pending
+Minnie 2 Mouse 38,A,,9745 NW 20th Ave--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4.51,Pending
+Minnie 4 Mouse 40,A,,3515 NW 95th St--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,5.98,Pending
+Minnie 6 Mouse 42,A,,1321 NW 101ST ST--MIAMI-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,6.4,Pending
+Minnie 8 Mouse 44,A,,9547 NW 5th Ave--Miami-FL-33150,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,5.33,Pending
+Mickey 1 Mouse 1,A,,1845 SW 11th St #4--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4,Pending
+Minnie 10 Mouse 46,A,,9050 NW 5th Ave #2--El Portal-FL-33150,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.57,Pending
+Mickey 3 Mouse 3,A,,50 NW 14th Ave--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.91,Pending
+Minnie 12 Mouse 48,A,,107 NW 9th Ave #4--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,3.21,Pending
+Minnie 14 Mouse 50,A,,11324 SW 32nd Pl--Miami-FL-33186,3659 S Miami Ave #2007--Miami-FL-33133,12:00:00,00:00:00,3.76,Pending
+Minnie 16 Mouse 52,A,,1380 NW 43RD ST--MIAMI-FL-0000-33142,5331 SW 8th St--Coral Gables-FL-33134,08:00:00,00:00:00,7.12,Pending
+Mickey 6 Mouse 6,A,,1685 SW 2nd St--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.27,Pending
+Minnie 18 Mouse 54,A,,1551 NW 36TH ST APT 307--MIAMI-FL-33142,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,12:00:00,00:00:00,6.46,Pending
+Mickey 8 Mouse 8,A,,219 NW 16th St--Miami-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.45,Pending
+Minnie 20 Mouse 56,A,,2020 NW 1ST AVE--MIAMI-FL-33127,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,8.03,Pending
+Mickey 10 Mouse 10,A,,949 NW 5th St--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.63,Pending
+Minnie 22 Mouse 58,A,,2053 NW 35TH ST--MIAMI-FL-33142,2140 W 68TH STSUITE 200--HIALEAH-FL-33016-1815,07:00:00,00:00:00,11.51,Pending
+Mickey 12 Mouse 12,A,,3110 NW 20TH ST APT 1--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.21,Pending
+Minnie 24 Mouse 60,A,,2285 NW 23rd St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,09:30:00,00:00:00,1.8,Pending
+Mickey 14 Mouse 14,A,,626 SW 15th Ave--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.36,Pending
+Minnie 26 Mouse 62,A,,2453 NW 34TH ST--MIAMI-FL-33142,1800 SW 27th Ave--Miami-FL-33145,09:30:00,00:00:00,3.83,Pending
+Mickey 16 Mouse 16,A,,615 NW 2nd St #107--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.21,Pending
+Minnie 28 Mouse 64,A,,2971 NW 30th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,2.04,Pending
+Mickey 18 Mouse 18,A,,1437 SW 5th St #1--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.2,Pending
+Minnie 30 Mouse 66,A,,3206 NW 5TH AVE--MIAMI-FL-33127,4306 ALTON RD3RD FLOOR--MIAMI BEACH-FL-33140-2840,01:00:00,00:00:00,5.21,Pending
+Mickey 20 Mouse 20,A,,945 SW 3rd St--Miami-FL-33130,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.08,Pending
+Minnie 32 Mouse 68,A,,3625 NW 20th Ave #712--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.75,Pending
+Donald 1 Mouse 22,A,,531 NW 34th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,1.06,Pending
+Minnie 17 Mouse 53,A,,1380 NW 43rd St--Miami-FL-33142,5331 SW 8th St--Coral Gables-FL-33134,08:00:00,00:00:00,7.12,Pending
+Mickey 7 Mouse 7,A,,1929 NW 6 St--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.01,Pending
+Minnie 19 Mouse 55,A,,1965 NW 23rd St--Miami-FL-33142,3288 NW 36th St--Miami-FL-33142,09:00:00,00:00:00,2.11,Pending
+Mickey 9 Mouse 9,A,,1122 NW 3rd St--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.68,Pending
+Minnie 21 Mouse 57,A,,2043 NW 41ST ST--MIAMI-FL-33142,1385 Coral Way 3 floor--Miami-FL-33145,09:30:00,00:00:00,7.1,Pending
+Mickey 11 Mouse 11,A,,945 SW 3rd St--Miami-FL-33130,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.08,Pending
+Minnie 23 Mouse 59,A,,2260 SW 29th Ave--Miami-FL-33145,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,9.09,Pending
+Mickey 13 Mouse 13,A,,2024 NW 1st St #2--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.5,Pending
+Minnie 25 Mouse 61,A,,2403 NW 18th Terrace--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,10:00:00,00:00:00,2.57,Pending
+Mickey 15 Mouse 15,A,,4200 SW 15th St--Miami-FL-33134,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,6.76,Pending
+adam smith,A,Joe Joe,1201 South Alma School Road-12- Mesa- AZ- USA,120 South Alma School Road-33- Mesa- AZ- USA,14:00:00,13:39:56,1.42,Completed
+Minnie 27 Mouse 63,A,,2971 NW 30TH ST REAR--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,10:30:00,00:00:00,2.04,Pending
+amber Irish,A,,128 Main Street-- Lewiston- ID- USA,456 Thain Road-- Lewiston- ID- USA,12:00:00,00:00:00,4.78,Pending
+Mickey 17 Mouse 17,A,,4387 NW 10th St--Miami-FL-33126,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.31,Pending
+Minnie 29 Mouse 65,A,,3120 NW 19th Ave--Miami-FL-33142,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,6.39,Pending
+Mickey 19 Mouse 19,A,,750 NW 18TH TER APT 605--MIAMI-FL-33136,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,1.83,Pending
+Minnie 32 Mouse 68,A,,3625 NW 20th Ave #712--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.75,Pending
+Mickey 21 Mouse 21,A,,1146 NW 7TH CT APT 408--MIAMI-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.38,Pending
+Minnie 35 Mouse 71,A,,4925 E 9th Ct--Hialeah-FL-33013,1251 NW 36 Street--Miami-FL-33142,11:00:00,00:00:00,7.1,Pending
+ASHLEY Test,A,,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00:00,00:00:00,20.78,Pending
+Donald 2 Mouse 23,A,,2731 NW 18TH AVE PLAZA B--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,1.06,Pending
+Minnie 38 Mouse 74,A,,60 NW 68 TER--MIAMI-FL-33150,3320 Palm Ave--Hialeah-FL-33012,08:00:00,00:00:00,8.38,Pending
+adam smith,A,,1620 Northwest 4th Street-12- Miami- FL- USA,Front Door Lane-33-St. Augustine- FL- USA,14:00:00,00:00:00,321.75,Pending
+Donald 4 Mouse 25,A,,3206 NW 5 Ave--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.13,Pending
+Minnie 40 Mouse 76,A,,750 NW 18TH TER APT 1014--MIAMI-FL-33136,3659 S MIAMI AVE STE 3003A--MIAMI-FL-33133-4225,08:30:00,00:00:00,4.81,Pending
+Donald 6 Mouse 27,A,,1151 NW 40th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.36,Pending
+Minnie 42 Mouse 78,A,,9050 NW 5TH AVE APT 2--EL PORTAL-FL-33150,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.57,Pending
+Donald 8 Mouse 29,A,,3005 NW 29th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,2.16,Pending
+Minnie 37 Mouse 73,A,Bobby  Turney,5600 NW 9TH AVE--MIAMI-FL-33127,1444 Biscayne Blvd #214--Miami-FL-33132,02:30:00,00:00:00,4.95,Pending
+Donald 10 Mouse 31,A,,853 NW 29th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.85,Pending
+Donald 12 Mouse 33,A,,2870 NW 18th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1,Pending
+Donald 14 Mouse 35,A,,3760 NW 15th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.36,Pending
+Minnie 1 Mouse 37,A,,16750 NE 10TH AVE APT 122--MIAMI-FL-331622667,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,10.65,Pending
+Minnie 3 Mouse 39,A,,1600 NW 112TH TER--MIAMI-FL-33167,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,7.3,Pending
+Minnie 5 Mouse 41,A,,1597 NW 82nd St--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.26,Pending
+Minnie 7 Mouse 43,A,,1100 NE 136TH ST--NORTH MIAMI-FL-33161,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,10.11,Pending
+Minnie 9 Mouse 45,A,,1360 NW 99TH ST--MIAMI-FL-33147,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,6.1,Pending
+Minnie 11 Mouse 47,A,,1044 NW 33RD AVE--MIAMI-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.89,Pending
+Mickey 1 Mouse 1,A,,1845 SW 11th St #4--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4,Pending
+Minnie 13 Mouse 49,A,,107 NW 9th Ave #4--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,3.21,Pending
+Mickey 3 Mouse 3,A,,50 NW 14th Ave--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.91,Pending
+Minnie 15 Mouse 51,A,,1251 NE 108th St APT 407--Miami-FL-33161,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,8.68,Pending
+Mickey 5 Mouse 5,A,,750 NW 18th Terrace--Miami-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.83,Pending
+Minnie 18 Mouse 54,A,,1551 NW 36TH ST APT 307--MIAMI-FL-33142,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,12:00:00,00:00:00,6.46,Pending
+Mickey 8 Mouse 8,A,,219 NW 16th St--Miami-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.45,Pending
+Minnie 20 Mouse 56,A,,2020 NW 1ST AVE--MIAMI-FL-33127,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,8.03,Pending
+Mickey 10 Mouse 10,A,,949 NW 5th St--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.63,Pending
+Minnie 22 Mouse 58,A,,2053 NW 35TH ST--MIAMI-FL-33142,2140 W 68TH STSUITE 200--HIALEAH-FL-33016-1815,07:00:00,00:00:00,11.51,Pending
+Mickey 12 Mouse 12,A,,3110 NW 20TH ST APT 1--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.21,Pending
+Minnie 24 Mouse 60,A,,2285 NW 23rd St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,09:30:00,00:00:00,1.8,Pending
+Mickey 14 Mouse 14,A,,626 SW 15th Ave--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.36,Pending
+Minnie 30 Mouse 66,A,Joe Joe,3206 NW 5TH AVE--MIAMI-FL-33127,4306 ALTON RD3RD FLOOR--MIAMI BEACH-FL-33140-2840,01:00:00,00:00:00,5.21,Cancelled
+Minnie 26 Mouse 62,A,,2453 NW 34TH ST--MIAMI-FL-33142,1800 SW 27th Ave--Miami-FL-33145,09:30:00,00:00:00,3.83,Pending
+Mickey 16 Mouse 16,A,,615 NW 2nd St #107--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.21,Pending
+Minnie 28 Mouse 64,A,,2971 NW 30th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,2.04,Pending
+amber Irish,B,,456 Thain Road-- Lewiston- ID- USA,128 Main Street-- Lewiston- ID- USA,15:00:00,00:00:00,5.72,Pending
+Mickey 18 Mouse 18,A,,1437 SW 5th St #1--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.2,Pending
+Minnie 31 Mouse 67,A,,3460 NW 11 TH PL--MIAMI-FL-,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,7.24,Pending
+Mickey 20 Mouse 20,A,,945 SW 3rd St--Miami-FL-33130,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.08,Pending
+Minnie 34 Mouse 70,A,,445 NW 4th St #615--Miami-FL-33128,1401 E 4th Ave #104--Hialeah-FL-33010,08:30:00,00:00:00,8.26,Pending
+Donald 1 Mouse 22,A,,531 NW 34th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,1.06,Pending
+Minnie 36 Mouse 72,A,,560 SW 13TH AVE APT 2--MIAMI-FL-33135,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,10:30:00,00:00:00,3.98,Pending
+ASHLEY Test,B,,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,4743 NORTHERN DANCER WAY--ORLANDO-FL,13:30:00,00:00:00,20.25,Pending
+Donald 3 Mouse 24,A,,2920 NW 18th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.99,Pending
+Minnie 39 Mouse 75,A,,750 NW 18TH TER APT 1014--MIAMI-FL-33136,3659 S Miami Ave--Miami-FL-33133,09:00:00,00:00:00,4.81,Pending
+Donald 5 Mouse 26,A,,2971 NW 30th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.04,Pending
+Minnie 41 Mouse 77,A,,820 NW 70TH ST APT 4--MIAMI-FL-33150,4776 SW 8TH ST--GABLES-FL-33134-2564,09:00:00,00:00:00,9.23,Pending
+Donald 7 Mouse 28,A,,2780 NW 15th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:00:00,00:00:00,0.82,Pending
+Donald 9 Mouse 30,A,,2920 NW 18th Ave #7d--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:00:00,00:00:00,0.99,Pending
+Donald 11 Mouse 32,A,,1040 NW 28th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.8,Pending
+Donald 13 Mouse 34,A,,3625 NW 20th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.75,Pending
+Donald 15 Mouse 36,A,,375 S ROYAL POINCIANA BLVD APT 6B--MIAMI SPRINGS-FL-33166,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4.33,Pending
+Minnie 2 Mouse 38,A,,9745 NW 20th Ave--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4.51,Pending
+Minnie 33 Mouse 69,A,Amber irish,3626 NW 22nd Ct--Miami-FL-33142,2550 Douglas Rd--Coral Gables-FL-33134,01:00:00,00:00:00,10.26,Pending
+Minnie 4 Mouse 40,A,,3515 NW 95th St--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,5.98,Pending
+Minnie 6 Mouse 42,A,,1321 NW 101ST ST--MIAMI-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,6.4,Pending
+Minnie 8 Mouse 44,A,,9547 NW 5th Ave--Miami-FL-33150,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,5.33,Pending
+Minnie 10 Mouse 46,A,,9050 NW 5th Ave #2--El Portal-FL-33150,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.57,Pending
+Minnie 12 Mouse 48,A,,107 NW 9th Ave #4--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,3.21,Pending
+Mickey 2 Mouse 2,A,,1929 NW Flagler Terrace--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.59,Pending
+Minnie 14 Mouse 50,A,,11324 SW 32nd Pl--Miami-FL-33186,3659 S Miami Ave #2007--Miami-FL-33133,12:00:00,00:00:00,3.76,Pending
+Mickey 4 Mouse 4,A,,1601 NW 17th St--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.81,Pending
+Minnie 16 Mouse 52,A,,1380 NW 43RD ST--MIAMI-FL-0000-33142,5331 SW 8th St--Coral Gables-FL-33134,08:00:00,00:00:00,7.12,Pending
+Mickey 6 Mouse 6,A,,1685 SW 2nd St--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.27,Pending
+Donald 10 Mouse 31,A,,853 NW 29th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.85,Pending
+Donald 8 Mouse 29,A,,3005 NW 29th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,2.16,Pending
+Mickey 10 Mouse 10,A,,949 NW 5th St--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.63,Pending
+Mickey 12 Mouse 12,A,,3110 NW 20TH ST APT 1--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.21,Pending
+Mickey 14 Mouse 14,A,,626 SW 15th Ave--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.36,Pending
+Mickey 16 Mouse 16,A,,615 NW 2nd St #107--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.21,Pending
+Mickey 18 Mouse 18,A,,1437 SW 5th St #1--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.2,Pending
+Minnie 12 Mouse 48,A,,107 NW 9th Ave #4--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,3.21,Pending
+ASHLEY Test,A,,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00:00,00:00:00,20.78,Completed
+Mickey 20 Mouse 20,A,,945 SW 3rd St--Miami-FL-33130,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.08,Pending
+Minnie 31 Mouse 67,A,,3460 NW 11 TH PL--MIAMI-FL-,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,7.24,Pending
+Minnie 10 Mouse 46,A,,9050 NW 5th Ave #2--El Portal-FL-33150,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.57,Pending
+Donald 1 Mouse 22,A,,531 NW 34th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,1.06,Pending
+Minnie 29 Mouse 65,A,,3120 NW 19th Ave--Miami-FL-33142,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,6.39,Pending
+Mickey 7 Mouse 7,A,,1929 NW 6 St--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.01,Pending
+Donald 3 Mouse 24,A,,2920 NW 18th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.99,Pending
+Minnie 27 Mouse 63,A,,2971 NW 30TH ST REAR--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,10:30:00,00:00:00,2.04,Pending
+Mickey 5 Mouse 5,A,,750 NW 18th Terrace--Miami-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.83,Pending
+Donald 5 Mouse 26,A,,2971 NW 30th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.04,Pending
+Minnie 25 Mouse 61,A,,2403 NW 18th Terrace--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,10:00:00,00:00:00,2.57,Pending
+Mickey 3 Mouse 3,A,,50 NW 14th Ave--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.91,Pending
+Minnie 23 Mouse 59,A,,2260 SW 29th Ave--Miami-FL-33145,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,9.09,Pending
+Mickey 1 Mouse 1,A,,1845 SW 11th St #4--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4,Pending
+Donald 6 Mouse 27,A,,1151 NW 40th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.36,Pending
+Minnie 21 Mouse 57,A,,2043 NW 41ST ST--MIAMI-FL-33142,1385 Coral Way 3 floor--Miami-FL-33145,09:30:00,00:00:00,7.1,Pending
+Minnie 19 Mouse 55,A,,1965 NW 23rd St--Miami-FL-33142,3288 NW 36th St--Miami-FL-33142,09:00:00,00:00:00,2.11,Pending
+Minnie 17 Mouse 53,A,,1380 NW 43rd St--Miami-FL-33142,5331 SW 8th St--Coral Gables-FL-33134,08:00:00,00:00:00,7.12,Pending
+Minnie 15 Mouse 51,A,,1251 NE 108th St APT 407--Miami-FL-33161,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,8.68,Pending
+Minnie 33 Mouse 69,A,,3626 NW 22nd Ct--Miami-FL-33142,2550 Douglas Rd--Coral Gables-FL-33134,01:00:00,00:00:00,10.26,Pending
+Minnie 9 Mouse 45,A,,1360 NW 99TH ST--MIAMI-FL-33147,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,6.1,Pending
+Minnie 35 Mouse 71,A,,4925 E 9th Ct--Hialeah-FL-33013,1251 NW 36 Street--Miami-FL-33142,11:00:00,00:00:00,7.1,Pending
+Minnie 7 Mouse 43,A,,1100 NE 136TH ST--NORTH MIAMI-FL-33161,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,10.11,Pending
+Minnie 37 Mouse 73,A,,5600 NW 9TH AVE--MIAMI-FL-33127,1444 Biscayne Blvd #214--Miami-FL-33132,02:30:00,00:00:00,4.95,Pending
+Minnie 5 Mouse 41,A,,1597 NW 82nd St--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.26,Pending
+Minnie 39 Mouse 75,A,,750 NW 18TH TER APT 1014--MIAMI-FL-33136,3659 S Miami Ave--Miami-FL-33133,09:00:00,00:00:00,4.81,Pending
+Minnie 3 Mouse 39,A,,1600 NW 112TH TER--MIAMI-FL-33167,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,7.3,Pending
+Minnie 41 Mouse 77,A,,820 NW 70TH ST APT 4--MIAMI-FL-33150,4776 SW 8TH ST--GABLES-FL-33134-2564,09:00:00,00:00:00,9.23,Pending
+Minnie 1 Mouse 37,A,,16750 NE 10TH AVE APT 122--MIAMI-FL-331622667,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,10.65,Pending
+Donald 14 Mouse 35,A,,3760 NW 15th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.36,Pending
+Donald 12 Mouse 33,A,,2870 NW 18th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1,Pending
+Donald 9 Mouse 30,A,,2920 NW 18th Ave #7d--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:00:00,00:00:00,0.99,Pending
+Mickey 9 Mouse 9,A,,1122 NW 3rd St--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.68,Pending
+Mickey 11 Mouse 11,A,,945 SW 3rd St--Miami-FL-33130,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.08,Pending
+Mickey 13 Mouse 13,A,,2024 NW 1st St #2--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.5,Pending
+Mickey 15 Mouse 15,A,,4200 SW 15th St--Miami-FL-33134,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,6.76,Pending
+Mickey 17 Mouse 17,A,,4387 NW 10th St--Miami-FL-33126,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.31,Pending
+Minnie 13 Mouse 49,A,,107 NW 9th Ave #4--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,3.21,Pending
+Mickey 19 Mouse 19,A,,750 NW 18TH TER APT 605--MIAMI-FL-33136,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,1.83,Pending
+Minnie 11 Mouse 47,A,,1044 NW 33RD AVE--MIAMI-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.89,Pending
+ASHLEY Test,B,,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,4743 NORTHERN DANCER WAY--ORLANDO-FL,13:30:00,00:00:00,20.25,Completed
+Mickey 21 Mouse 21,A,,1146 NW 7TH CT APT 408--MIAMI-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.38,Pending
+Minnie 30 Mouse 66,A,,3206 NW 5TH AVE--MIAMI-FL-33127,4306 ALTON RD3RD FLOOR--MIAMI BEACH-FL-33140-2840,01:00:00,00:00:00,5.21,Pending
+Mickey 8 Mouse 8,A,,219 NW 16th St--Miami-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.45,Pending
+Donald 2 Mouse 23,A,,2731 NW 18TH AVE PLAZA B--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,1.06,Pending
+Minnie 28 Mouse 64,A,,2971 NW 30th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,2.04,Pending
+Mickey 6 Mouse 6,A,,1685 SW 2nd St--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.27,Pending
+Donald 4 Mouse 25,A,,3206 NW 5 Ave--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.13,Pending
+Minnie 26 Mouse 62,A,,2453 NW 34TH ST--MIAMI-FL-33142,1800 SW 27th Ave--Miami-FL-33145,09:30:00,00:00:00,3.83,Pending
+Mickey 4 Mouse 4,A,,1601 NW 17th St--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.81,Pending
+Minnie 24 Mouse 60,A,,2285 NW 23rd St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,09:30:00,00:00:00,1.8,Pending
+Mickey 2 Mouse 2,A,,1929 NW Flagler Terrace--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.59,Pending
+Minnie 22 Mouse 58,A,,2053 NW 35TH ST--MIAMI-FL-33142,2140 W 68TH STSUITE 200--HIALEAH-FL-33016-1815,07:00:00,00:00:00,11.51,Pending
+Donald 7 Mouse 28,A,,2780 NW 15th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:00:00,00:00:00,0.82,Pending
+Minnie 20 Mouse 56,A,,2020 NW 1ST AVE--MIAMI-FL-33127,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,8.03,Pending
+Minnie 18 Mouse 54,A,,1551 NW 36TH ST APT 307--MIAMI-FL-33142,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,12:00:00,00:00:00,6.46,Pending
+Minnie 16 Mouse 52,A,,1380 NW 43RD ST--MIAMI-FL-0000-33142,5331 SW 8th St--Coral Gables-FL-33134,08:00:00,00:00:00,7.12,Pending
+Minnie 32 Mouse 68,A,,3625 NW 20th Ave #712--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.75,Pending
+Minnie 14 Mouse 50,A,,11324 SW 32nd Pl--Miami-FL-33186,3659 S Miami Ave #2007--Miami-FL-33133,12:00:00,00:00:00,3.76,Pending
+Minnie 34 Mouse 70,A,,445 NW 4th St #615--Miami-FL-33128,1401 E 4th Ave #104--Hialeah-FL-33010,08:30:00,00:00:00,8.26,Pending
+Minnie 8 Mouse 44,A,,9547 NW 5th Ave--Miami-FL-33150,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,5.33,Pending
+Minnie 36 Mouse 72,A,,560 SW 13TH AVE APT 2--MIAMI-FL-33135,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,10:30:00,00:00:00,3.98,Pending
+Minnie 6 Mouse 42,A,,1321 NW 101ST ST--MIAMI-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,6.4,Pending
+Minnie 38 Mouse 74,A,,60 NW 68 TER--MIAMI-FL-33150,3320 Palm Ave--Hialeah-FL-33012,08:00:00,00:00:00,8.38,Pending
+Minnie 4 Mouse 40,A,,3515 NW 95th St--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,5.98,Pending
+Minnie 40 Mouse 76,A,,750 NW 18TH TER APT 1014--MIAMI-FL-33136,3659 S MIAMI AVE STE 3003A--MIAMI-FL-33133-4225,08:30:00,00:00:00,4.81,Pending
+Minnie 2 Mouse 38,A,,9745 NW 20th Ave--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4.51,Pending
+Minnie 42 Mouse 78,A,,9050 NW 5TH AVE APT 2--EL PORTAL-FL-33150,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.57,Pending
+Donald 15 Mouse 36,A,,375 S ROYAL POINCIANA BLVD APT 6B--MIAMI SPRINGS-FL-33166,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4.33,Pending
+Donald 13 Mouse 34,A,,3625 NW 20th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.75,Pending
+Donald 11 Mouse 32,A,,1040 NW 28th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.8,Pending
+Minnie 28 Mouse 64,A,,2971 NW 30th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,2.04,Pending
+Mickey 21 Mouse 21,A,,1146 NW 7TH CT APT 408--MIAMI-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.38,Pending
+Minnie 30 Mouse 66,A,,3206 NW 5TH AVE--MIAMI-FL-33127,4306 ALTON RD3RD FLOOR--MIAMI BEACH-FL-33140-2840,01:00:00,00:00:00,5.21,Pending
+Donald 2 Mouse 23,A,,2731 NW 18TH AVE PLAZA B--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,1.06,Pending
+ASHLEY Test,A,Elvis Presley,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00:00,00:00:00,20.78,Pending
+Minnie 32 Mouse 68,A,,3625 NW 20th Ave #712--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.75,Pending
+Donald 4 Mouse 25,A,,3206 NW 5 Ave--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.13,Pending
+Mickey 16 Mouse 16,A,,615 NW 2nd St #107--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.21,Pending
+Donald 6 Mouse 27,A,,1151 NW 40th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.36,Pending
+Mickey 14 Mouse 14,A,,626 SW 15th Ave--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.36,Pending
+Donald 8 Mouse 29,A,,3005 NW 29th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,2.16,Pending
+Mickey 12 Mouse 12,A,,3110 NW 20TH ST APT 1--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.21,Pending
+Donald 10 Mouse 31,A,,853 NW 29th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.85,Pending
+Mickey 10 Mouse 10,A,,949 NW 5th St--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.63,Pending
+Mickey 8 Mouse 8,A,,219 NW 16th St--Miami-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.45,Pending
+Mickey 6 Mouse 6,A,,1685 SW 2nd St--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.27,Pending
+Mickey 4 Mouse 4,A,,1601 NW 17th St--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.81,Pending
+Mickey 2 Mouse 2,A,,1929 NW Flagler Terrace--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.59,Pending
+Minnie 41 Mouse 77,A,,820 NW 70TH ST APT 4--MIAMI-FL-33150,4776 SW 8TH ST--GABLES-FL-33134-2564,09:00:00,00:00:00,9.23,Pending
+Minnie 13 Mouse 49,A,,107 NW 9th Ave #4--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,3.21,Pending
+Minnie 39 Mouse 75,A,,750 NW 18TH TER APT 1014--MIAMI-FL-33136,3659 S Miami Ave--Miami-FL-33133,09:00:00,00:00:00,4.81,Pending
+Minnie 11 Mouse 47,A,,1044 NW 33RD AVE--MIAMI-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.89,Pending
+Mickey 1 Mouse 1,A,,1845 SW 11th St #4--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4,Pending
+Minnie 37 Mouse 73,A,,5600 NW 9TH AVE--MIAMI-FL-33127,1444 Biscayne Blvd #214--Miami-FL-33132,02:30:00,00:00:00,4.95,Pending
+Minnie 9 Mouse 45,A,,1360 NW 99TH ST--MIAMI-FL-33147,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,6.1,Pending
+Minnie 35 Mouse 71,A,,4925 E 9th Ct--Hialeah-FL-33013,1251 NW 36 Street--Miami-FL-33142,11:00:00,00:00:00,7.1,Pending
+Minnie 7 Mouse 43,A,,1100 NE 136TH ST--NORTH MIAMI-FL-33161,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,10.11,Pending
+Minnie 14 Mouse 50,A,,11324 SW 32nd Pl--Miami-FL-33186,3659 S Miami Ave #2007--Miami-FL-33133,12:00:00,00:00:00,3.76,Pending
+Minnie 5 Mouse 41,A,,1597 NW 82nd St--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.26,Pending
+Minnie 16 Mouse 52,A,,1380 NW 43RD ST--MIAMI-FL-0000-33142,5331 SW 8th St--Coral Gables-FL-33134,08:00:00,00:00:00,7.12,Pending
+Minnie 3 Mouse 39,A,,1600 NW 112TH TER--MIAMI-FL-33167,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,7.3,Pending
+Minnie 18 Mouse 54,A,,1551 NW 36TH ST APT 307--MIAMI-FL-33142,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,12:00:00,00:00:00,6.46,Pending
+Minnie 1 Mouse 37,A,,16750 NE 10TH AVE APT 122--MIAMI-FL-331622667,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,10.65,Pending
+Minnie 20 Mouse 56,A,,2020 NW 1ST AVE--MIAMI-FL-33127,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,8.03,Pending
+Donald 14 Mouse 35,A,,3760 NW 15th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.36,Pending
+Minnie 22 Mouse 58,A,,2053 NW 35TH ST--MIAMI-FL-33142,2140 W 68TH STSUITE 200--HIALEAH-FL-33016-1815,07:00:00,00:00:00,11.51,Pending
+Donald 12 Mouse 33,A,,2870 NW 18th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1,Pending
+Minnie 24 Mouse 60,A,,2285 NW 23rd St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,09:30:00,00:00:00,1.8,Pending
+Mickey 17 Mouse 17,A,,4387 NW 10th St--Miami-FL-33126,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.31,Pending
+Minnie 26 Mouse 62,A,,2453 NW 34TH ST--MIAMI-FL-33142,1800 SW 27th Ave--Miami-FL-33145,09:30:00,00:00:00,3.83,Pending
+Mickey 19 Mouse 19,A,,750 NW 18TH TER APT 605--MIAMI-FL-33136,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,1.83,Pending
+Mickey 20 Mouse 20,A,,945 SW 3rd St--Miami-FL-33130,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.08,Pending
+Minnie 29 Mouse 65,A,,3120 NW 19th Ave--Miami-FL-33142,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,6.39,Pending
+Donald 1 Mouse 22,A,,531 NW 34th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,1.06,Pending
+Minnie 31 Mouse 67,A,,3460 NW 11 TH PL--MIAMI-FL-,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,09:30:00,00:00:00,7.24,Pending
+Donald 3 Mouse 24,A,,2920 NW 18th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.99,Pending
+ASHLEY Test,B,Elvis Presley,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,4743 NORTHERN DANCER WAY--ORLANDO-FL,13:30:00,00:00:00,20.25,Pending
+Minnie 33 Mouse 69,A,,3626 NW 22nd Ct--Miami-FL-33142,2550 Douglas Rd--Coral Gables-FL-33134,01:00:00,00:00:00,10.26,Pending
+Donald 5 Mouse 26,A,,2971 NW 30th St--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.04,Pending
+Mickey 15 Mouse 15,A,,4200 SW 15th St--Miami-FL-33134,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,6.76,Pending
+Donald 7 Mouse 28,A,,2780 NW 15th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:00:00,00:00:00,0.82,Pending
+Mickey 13 Mouse 13,A,,2024 NW 1st St #2--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.5,Pending
+Donald 9 Mouse 30,A,,2920 NW 18th Ave #7d--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,08:00:00,00:00:00,0.99,Pending
+Mickey 11 Mouse 11,A,,945 SW 3rd St--Miami-FL-33130,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.08,Pending
+Mickey 9 Mouse 9,A,,1122 NW 3rd St--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.68,Pending
+Mickey 7 Mouse 7,A,,1929 NW 6 St--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,3.01,Pending
+Mickey 5 Mouse 5,A,,750 NW 18th Terrace--Miami-FL-33136,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,1.83,Pending
+Mickey 3 Mouse 3,A,,50 NW 14th Ave--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,2.91,Pending
+Minnie 42 Mouse 78,A,,9050 NW 5TH AVE APT 2--EL PORTAL-FL-33150,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.57,Pending
+Minnie 40 Mouse 76,A,,750 NW 18TH TER APT 1014--MIAMI-FL-33136,3659 S MIAMI AVE STE 3003A--MIAMI-FL-33133-4225,08:30:00,00:00:00,4.81,Pending
+Minnie 12 Mouse 48,A,,107 NW 9th Ave #4--Miami-FL-33128,1251 NW 36 Street--Miami-FL-33142,09:00:00,00:00:00,3.21,Pending
+Minnie 38 Mouse 74,A,,60 NW 68 TER--MIAMI-FL-33150,3320 Palm Ave--Hialeah-FL-33012,08:00:00,00:00:00,8.38,Pending
+Minnie 10 Mouse 46,A,,9050 NW 5th Ave #2--El Portal-FL-33150,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,5.57,Pending
+Minnie 36 Mouse 72,A,,560 SW 13TH AVE APT 2--MIAMI-FL-33135,4776 SW 8TH ST--CORAL GABLES-FL-33134-2564,10:30:00,00:00:00,3.98,Pending
+Minnie 8 Mouse 44,A,,9547 NW 5th Ave--Miami-FL-33150,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,5.33,Pending
+Minnie 34 Mouse 70,A,,445 NW 4th St #615--Miami-FL-33128,1401 E 4th Ave #104--Hialeah-FL-33010,08:30:00,00:00:00,8.26,Pending
+Minnie 6 Mouse 42,A,,1321 NW 101ST ST--MIAMI-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,6.4,Pending
+Minnie 15 Mouse 51,A,,1251 NE 108th St APT 407--Miami-FL-33161,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,8.68,Pending
+Minnie 4 Mouse 40,A,,3515 NW 95th St--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,5.98,Pending
+Minnie 17 Mouse 53,A,,1380 NW 43rd St--Miami-FL-33142,5331 SW 8th St--Coral Gables-FL-33134,08:00:00,00:00:00,7.12,Pending
+Minnie 2 Mouse 38,A,,9745 NW 20th Ave--Miami-FL-33147,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4.51,Pending
+Minnie 19 Mouse 55,A,,1965 NW 23rd St--Miami-FL-33142,3288 NW 36th St--Miami-FL-33142,09:00:00,00:00:00,2.11,Pending
+Donald 15 Mouse 36,A,,375 S ROYAL POINCIANA BLVD APT 6B--MIAMI SPRINGS-FL-33166,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,4.33,Pending
+Minnie 21 Mouse 57,A,,2043 NW 41ST ST--MIAMI-FL-33142,1385 Coral Way 3 floor--Miami-FL-33145,09:30:00,00:00:00,7.1,Pending
+Donald 13 Mouse 34,A,,3625 NW 20th Ave--Miami-FL-33142,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.75,Pending
+Minnie 23 Mouse 59,A,,2260 SW 29th Ave--Miami-FL-33145,1251 NW 36 Street--Miami-FL-33142,08:30:00,00:00:00,9.09,Pending
+Donald 11 Mouse 32,A,,1040 NW 28th St--Miami-FL-33127,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,0.8,Pending
+Minnie 25 Mouse 61,A,,2403 NW 18th Terrace--Miami-FL-33125,1251 NW 36 Street--Miami-FL-33142,10:00:00,00:00:00,2.57,Pending
+Mickey 18 Mouse 18,A,,1437 SW 5th St #1--Miami-FL-33135,1251 NW 36 Street--Miami-FL-33142,07:30:00,00:00:00,3.2,Pending
+Minnie 27 Mouse 63,A,,2971 NW 30TH ST REAR--MIAMI-FL-33142,1251 NW 36 Street--Miami-FL-33142,10:30:00,00:00:00,2.04,Pending
+ASHLEY Test,A,Elvis Presley,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00:00,00:00:00,20.78,Pending
+Bryan adam,A,,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,10:00:00,00:00:00,0,Completed
+ASHLEY Test,B,Elvis Presley,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,4743 NORTHERN DANCER WAY--ORLANDO-FL,13:30:00,00:00:00,20.25,Pending
+Bryan adam,B,,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,12:00:00,00:00:00,0,Completed
+Bryan adam,A,Elvis Presley,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,10:00:00,00:00:00,0,Pending
+Bryan adam,B,Elvis Presley,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,12:00:00,00:00:00,,Pending
+Bryan adam,A,Elvis Presley,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,10:00:00,00:00:00,0,Pending
+Bryan adam,B,Elvis Presley,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,12:00:00,00:00:00,,Pending
+ASHLEY Test,A,Amber irish,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00:00,15:12:30,20.84,Completed
+adam smith,A,Amber irish,1620 Northwest 4th Street-12-Miami- FL- USA,Front Door Lane-33-St. Augustine- FL- USA,14:00:00,10:25:55,321.75,Completed
+BLANCA Test,A,Amber irish,15.21--10215 EASTMAR COMMONS BLVD APT 1831-ORLANDO-FL,-MAGRUDER EYE INSTITUDE--1911 N MILLS AVE-ORLANDO-FL,15:00:00,15:15:30,12.3,Completed
+ASHLEY Test,A,Elvis Presley,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00:00,10:56:28,20.84,Completed
+Bryan adam,A,Elvis Presley,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,10:00:00,00:00:00,0,Pending
+ASHLEY Test,B,Amber irish,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,4743 NORTHERN DANCER WAY--ORLANDO-FL,13:30:00,15:13:01,20.42,Completed
+ASHLEY Test,A,Amber irish,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00:00,14:27:23,20.84,Completed
+Bryan adam,A,Elvis Presley,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,10:00:00,15:25:26,0,Completed
+Bryan adam,B,Elvis Presley,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,12:00:00,00:00:00,,Pending
+ASHLEY Test,A,Elvis Presley,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00:00,18:54:43,20.84,Completed
+ASHLEY Test,B,Elvis Presley,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,4743 NORTHERN DANCER WAY--ORLANDO-FL,13:30:00,18:44:57,20.42,Completed
+amber Irish,B,,456 Thain Road-- Lewiston- ID- USA,1242 Highland Avenue-- Clarkston- WA- USA,15:00:00,00:00:00,5.15,Pending
+amber Irish,A,Amber irish,1242 Highland Avenue-- Clarkston- WA- USA,456 Thain Road-- Lewiston- ID- USA,12:00:00,00:00:00,5.32,Pending

@@ -1,0 +1,53 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+amber,A,,tttt,Mexico City International Airport (MEX)-- Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,0,Pending
+amber,A,,111 North State Street-111- Chicago- IL- USA,Avenida Paseo de la Reforma 222-- Juárez- Mexico City- CDMX- Mexico,12:00:00,00:00:00,2092.64,Pending
+amber,B,,Mexico City International Airport (MEX)-- Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,tttt,Mexico City International Airport (MEX)-- Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,0,Pending
+amber,A,Test Driver Three,111 North State Street-111- Chicago- IL- USA,Avenida Paseo de la Reforma 222-- Juárez- Mexico City- CDMX- Mexico,12:00:00,19:31:45,2092.64,Picked
+amber,B,,Mexico City International Airport (MEX)-- Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,111 North State Street-111- Chicago- IL- USA,Avenida Paseo de la Reforma 222-- Juárez- Mexico City- CDMX- Mexico,12:00:00,00:00:00,2092.64,Cancelled
+amber,A,,111 North State Street-111- Chicago- IL- USA,Avenida Paseo de la Reforma 222-- Juárez- Mexico City- CDMX- Mexico,12:00:00,00:00:00,2092.64,Pending
+amber,A,Test Driver Five,111 North State Street-111- Chicago- IL- USA,Avenida Paseo de la Reforma 222-- Juárez- Mexico City- CDMX- Mexico,04:00:00,19:11:40,2092.64,In Progress
+amber,A,Test Driver Five,111 North State Street-111-Chicago- IL- USA,Avenida Paseo de la Reforma 222--Juárez- Mexico City- CDMX- Mexico,04:00:00,19:11:52,2092.64,In Progress
+amber,A,,111 North State Street-111-Chicago- IL- USA,Avenida Paseo de la Reforma 222--Juárez- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2092.64,Pending
+CURTIS STEWART,A,,2936 MONROE--Ashland-KY-41102,211 KY 59--Vanceburg-KY-41179,07:30:00,00:00:00,49.29,Pending
+DARRELL TIPTON,A,,438 Heritage Pl--Morehead-KY-40351,746 W Main St--Morehead-KY-40351,07:30:00,00:00:00,0.41,Pending
+CARRIE TOPPINGS,A,,100 Horizon Way room 3--Morehead-KY-40351,746 W Main St--Morehead-KY-40351,07:30:00,00:00:00,3.06,Pending
+RAYMOND DANNY DOYLE,A,,100 Horizon Way APT B-4--Morehead-KY-40351,325 E MAIN ST--Morehead-KY-40351,08:00:00,00:00:00,3.32,Pending
+JOETTA SPURLOCK,B,,225 FALCON DR--Mt Sterling-KY-40353,440 MAIN ST LOT 8--Salt Lick-KY-40371,10:45:00,00:00:00,20.75,Pending
+MICHAEL PELFREY,B,,303 Old Flemingsburg Rd--Morehead-KY-40351,2867 Day Rd--Owingsville-KY-40360,14:00:00,00:00:00,32.66,Pending
+BRIAN THOMPSON,A,,548 Old Lick Creek Rd--Louisa-KY-41230,2225 CENTER AVE--ASHLAND-KY-41101,08:40:00,00:00:00,27.02,Pending
+BETTY GIBBS,B,,746 W Main St--Morehead-KY-40351,111 MAHER DR--MOREHEAD-KY-40351,13:30:00,00:00:00,2.8,Pending
+DEANNA SARGENT,B,Josh  Callihan,840 INTERSTATE DR--Grayson-KY-41143,985 Canoe Run--Grayson-KY-41143,15:00:00,00:00:00,4.14,Pending
+NANCY MARKS,B,Test Driver Two,2826 Holt St--Ashland-KY-41101,101 Kenview Dr--Ashland-KY-41102,16:00:00,00:00:00,4.37,Pending
+JONATHAN CAUDILL,B,Test Driver Four,746 W Main St--Morehead-KY-40351,702 S Willow Dr--Morehead-KY-40351,15:00:00,00:00:00,0.97,Pending
+BRANDY HUFF,B,Test Driver Four,2550 CARTER AVE--Ashland-KY-41101,133 BARRETTS CREEK--Grayson-KY-41143,10:00:00,00:00:00,26.72,Pending
+SARAH THURMAN,B,Test Driver Four,840 INTERSTATE DR--Grayson-KY-41143,18273 W  HWY 60--Olive Hill-KY-41164,13:00:00,00:00:00,13.38,Pending
+JONNIE CREMEANS,A,,250 MCDAVID BLVD--Grayson-KY-41143,286 HWY 1947--Grayson-KY-41143,06:00:00,00:00:00,2.72,Pending
+JONATHAN CAUDILL,A,,702 S Willow Dr--Morehead-KY-40351,746 W Main St--Morehead-KY-40351,07:30:00,00:00:00,0.87,Pending
+JONATHAN REYNOLDS,A,,2115 MOORE ST--ASHLAND-KY-41101,29501 MAYO TRAIL RD--Catlettsburg-KY-41129,07:30:00,00:00:00,7.21,Pending
+BRANDY HUFF,A,,133 BARRETTS CREEK--Grayson-KY-41143,2550 CARTER AVE--Ashland-KY-41101,07:30:00,00:00:00,23.12,Pending
+JAMES LEWIS,B,,746 W Main St--Morehead-KY-40351,209 Heritage Place--Morehead-KY-40351,15:00:00,00:00:00,0.44,Pending
+PAULA PROVENCE,A,,100 Horizon Way--Morehead-KY-40351,746 W Main St--Morehead-KY-40351,07:30:00,00:00:00,3.06,Pending
+ERICA ROBERTS,A,,100 Horizon Way--Morehead-KY-40351,746 W Main St--Morehead-KY-40351,07:30:00,00:00:00,3.06,Pending
+ERICA ROBERTS,B,,746 W Main St--Morehead-KY-40351,100 Horizon Way--Morehead-KY-40351,15:00:00,00:00:00,3.06,Pending
+CURTIS STEWART,B,,211 KY 59--Vanceburg-KY-41179,2936 MONROE--Ashland-KY-41102,10:00:00,00:00:00,49.37,Pending
+DARRELL TIPTON,B,,746 W Main St--Morehead-KY-40351,438 Heritage Pl--Morehead-KY-40351,13:00:00,00:00:00,0.41,Pending
+CARRIE TOPPINGS,B,,746 W Main St--Morehead-KY-40351,100 Horizon Way room 3--Morehead-KY-40351,15:00:00,00:00:00,3.06,Pending
+JOETTA SPURLOCK,A,,440 MAIN ST LOT 8--Salt Lick-KY-40371,225 FALCON DR--Mt Sterling-KY-40353,08:15:00,00:00:00,21,Pending
+MICHAEL PELFREY,A,,2867 Day Rd--Owingsville-KY-40360,303 Old Flemingsburg Rd--Morehead-KY-40351,08:30:00,00:00:00,26.25,Pending
+DEANNA SARGENT,A,,985 Canoe Run--Grayson-KY-41143,840 INTERSTATE DR--Grayson-KY-41143,08:30:00,00:00:00,4.14,Pending
+BETTY GIBBS,A,,111 MAHER DR--MOREHEAD-KY-40351,746 W Main St--Morehead-KY-40351,09:00:00,00:00:00,2.8,Pending
+SARAH THURMAN,A,,18273 W  HWY 60--Olive Hill-KY-41164,840 INTERSTATE DR--Grayson-KY-41143,09:30:00,00:00:00,13.02,Pending
+JONATHAN REYNOLDS,B,Test Driver Two,29501 MAYO TRAIL RD--Catlettsburg-KY-41129,2115 MOORE ST--ASHLAND-KY-41101,15:30:00,00:00:00,7.88,Pending
+BRIAN THOMPSON,B,Test Driver Three,2225 CENTER AVE--ASHLAND-KY-41101,548 Old Lick Creek Rd--Louisa-KY-41230,11:10:00,00:00:00,27.12,Pending
+JONNIE CREMEANS,B,Test Driver Four,286 HWY 1947--Grayson-KY-41143,250 MCDAVID BLVD--Grayson-KY-41143,11:30:00,00:00:00,2.72,Pending
+GREGORY GROSS,B,Test Driver Four,746 W Main St--Morehead-KY-40351,140 Redwood Ln--Morehead-KY-40351,15:30:00,00:00:00,7.4,Pending
+RAYMOND DANNY DOYLE,B,Test Driver Four,325 E MAIN ST--Morehead-KY-40351,100 Horizon Way APT B-4--Morehead-KY-40351,14:00:00,00:00:00,3.59,Pending
+SAVANAH DAVIS,B,Test Driver Five,3655 Winchester Ave--Ashland-KY-41101,201 Fleming Ct APT 1H--Ashland-KY-41101,10:00:00,00:00:00,3.2,Pending
+LILLIAN BLEVINS,A,,100 Horizon Way APT B-4--Morehead-KY-40351,746 W Main St--Morehead-KY-40351,07:30:00,00:00:00,3.06,Pending
+SAVANAH DAVIS,A,,201 Fleming Ct APT 1H--Ashland-KY-41101,3655 Winchester Ave--Ashland-KY-41101,07:30:00,00:00:00,4.67,Pending
+GREGORY GROSS,A,,140 Redwood Ln--Morehead-KY-40351,746 W Main St--Morehead-KY-40351,07:30:00,00:00:00,7.4,Pending
+JAMES LEWIS,A,,209 Heritage Place--Morehead-KY-40351,746 W Main St--Morehead-KY-40351,07:30:00,00:00:00,0.44,Pending
+NANCY MARKS,A,,101 Kenview Dr--Ashland-KY-41102,2826 Holt St--Ashland-KY-41101,07:30:00,00:00:00,4.4,Pending
+PAULA PROVENCE,B,,746 W Main St--Morehead-KY-40351,100 Horizon Way--Morehead-KY-40351,13:00:00,00:00:00,3.06,Pending

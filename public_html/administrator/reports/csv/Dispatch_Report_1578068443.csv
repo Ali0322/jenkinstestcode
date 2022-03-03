@@ -1,0 +1,17 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Ray Hampton,A,Nicodemus Nombre,673 Harrison Street--Gary- IN- USA,3290 Grant St--IN 46408,10:00:00,11:51:48,3.49,Completed
+HORACE TAYLOR,A,Nicodemus Nombre,3520 Polk Street--Gary- IN- USA,9120 Columbia Avenue-- Munster- IN- USA,10:45:00,00:00:00,11.79,Cancelled
+Mike Davich,A,Nicodemus Nombre,1532 Calumet Ave-,6926 Marshall Avenue-- Hammond- IN- USA,14:00:00,14:49:23,8.66,Completed
+Curtis McCrutcheon,B,Nicodemus Nombre,4016 Main St--East Chicago- IN 46312- USA,1000 East 114th Street--Whiting- IN- USA,23:59:59,16:46:28,5.69,Completed
+Ray Hampton,B,Nicodemus Nombre,3290 Grant St--IN 46408,673 Harrison Street--Gary- IN- USA,15:00:00,17:58:23,3.3,Completed
+Juanita Carter,A,Nicodemus Nombre,2435 Lincoln St-- Gary- IN- USA,200 East 89th Avenue-- Merrillville- IN- USA,12:45:00,13:29:49,11.57,Completed
+LOUIS ROGERS,A,Nicodemus Nombre,3636 West 15th Avenue--Gary- IN- USA,349 West 80th Place-- Merrillville- IN- USA,10:30:00,00:00:00,12.96,Cancelled
+Gwendolyn Thompson,A,Nicodemus Nombre,2140 Woodhollow Ln-- Hammond- IN 46323- USA,7905 Calumet Ave--MUNSTER IN 46321,11:30:00,13:14:33,3.59,Completed
+GWENDOLYN THOMPSON,A,Nicodemus Nombre,2140 Woodhollow Ln-Apt 2B- Hammond- IN 46323- USA,7905 Calumet Ave-- Munster- IN 46321- USA,11:00:00,12:17:01,3.59,Completed
+Felix Vasquez,A,Nicodemus Nombre,7733 Jefferson Ave-- Hammond- IN- USA,9100 Calumet Avenue-- Munster- IN- USA,11:30:00,13:05:06,2.1,Completed
+Patricia Porter,B,Nicodemus Nombre,3290 Grant St--IN 46408,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,14:45:00,16:00:56,11.22,Completed
+ELizabeth Golon,B,Nicodemus Nombre,314 Ridge Road-- Munster- IN- USA,1532 Calumet Avenue-- Dyer- IN- USA,16:00:00,17:28:10,4.89,Completed
+GWENDOLYN THOMPSON,B,Nicodemus Nombre,7905 Calumet Ave-- Munster- IN 46321- USA,2140 Woodhollow Ln-Apt 2B- Hammond- IN 46323- USA,23:59:59,13:16:38,3.71,Completed
+Felix Vasquez,B,Nicodemus Nombre,9100 Calumet Avenue-- Munster- IN- USA,7733 Jefferson Ave-- Hammond- IN- USA,16:30:00,17:53:14,2.1,Completed
+Earleen Leonard,A,Nicodemus Nombre,101 West 87th Avenue-- Merrillville- IN- USA,3641 Ridge Rd-- Highland- IN- USA,10:00:00,10:51:04,17.01,Completed
+Eric Brady,A,Nicodemus Nombre,13025 Oakdale Place--Cedar Lake- IN- USA,909 Joliet Street--Dyer- IN- USA,08:00:00,09:11:58,9.61,Completed

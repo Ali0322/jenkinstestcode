@@ -1,0 +1,28 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Katherine Yelkich,A,Brian Powers,620 Joe Martin Rd-- Lowell- Indiana 46356- USA,114 East Commercial Avenue--  Lowell- IN- USA,10:40:00,12:14:43,1.66,Completed
+James Miller,A,Brian Powers,3572 W State Rd 10 Lake Village IN-,114 E Commercial Ave--Lowell- Indiana- USA,11:30:00,00:00:00,13.56,In Progress
+Rebecca Ponce-Ruiz,A,Brian Powers,1532 Calumet Ave--Dyer- IN- USA,7214 Calumet Avenue--Hammond- IN- USA,09:45:00,10:43:26,6.04,Completed
+Katherine Yelkich,B,Brian Powers,114 East Commercial Avenue--  Lowell- IN- USA,620 Joe Martin Rd-- Lowell- Indiana 46356- USA,12:00:00,00:00:00,1.66,In Progress
+James Miller,B,Brian Powers,114 E Commercial Ave--Lowell- Indiana- USA,3572 W State Rd 10 Lake Village IN-,13:00:00,00:00:00,13.56,In Progress
+John Wawrzyszuk,B,Brian Powers,851 W Burrell Dr--IN 46307,119 N Indiana Ave--Crown Point- IN 46307- USA,13:00:00,14:39:34,3.13,Completed
+Daniel Patterson,A,Brian Powers,811 Alice St-- Crown Point- IN- USA,833 W Lincoln Hwy-- Schererville- IN- USA,12:30:00,13:17:00,12.11,Completed
+Juanita Carter,B,Brian Powers,200 East 89th Avenue-- Merrillville- IN- USA,2435 Lincoln St-- Gary- IN- USA,23:59:59,15:09:05,11.62,Completed
+Donald Suhr,A,Brian Powers,9223 Highland Pl Highland -,951 Transport Drive-- Valparaiso- IN- USA,10:00:00,11:03:19,33.16,Completed
+Daniel Patterson,B,Brian Powers,833 W Lincoln Hwy-- Schererville- IN- USA,811 Alice St-- Crown Point- IN- USA,23:59:59,16:18:07,11.38,Completed
+Kathy Yelkish,A,Brian Powers,620   Joe Martin Rd--   Lowell Indiana 46356,114 East Commercial Avenue-- Lowell- IN- USA,10:45:00,12:04:15,1.66,Completed
+JUANITA SANCHEZ,B,Brian Powers,4321 Fir Street-- East Chicago- IN- USA,119 N Indiana Ave--  Crown Point- IN 46307- USA,23:59:59,16:10:02,24,Completed
+Curtis McCrutcheon,B,Brian Powers,4016 Main St--East Chicago- IN 46312- USA,1000 East 114th Street--Whiting- IN- USA,16:30:00,18:06:33,5.69,Completed
+James Miller,B,Brian Powers,114 E Commercial Ave-- Lowell- Indiana- USA,3572 W State Rd 10 Lake Village IN ,13:30:00,14:42:46,13.56,Completed
+John Wawrzyszuk,B,Brian Powers,851 W Burrell Dr--IN 46307,119 N Indiana Ave--Crown Point- IN 46307- USA,12:30:00,14:07:36,3.13,Completed
+Aurelia Fedor,A,Brian Powers,1000 East 114th Street-- Whiting- IN- USA,951 Transport Dr Suite 2--  IN 46383,07:15:00,08:42:38,39.76,Completed
+Kathy Yelkish,B,Brian Powers,114 East Commercial Avenue-- Lowell- IN- USA,620   Joe Martin Rd--   Lowell Indiana 46356,12:00:00,13:24:02,1.66,Completed
+David Perdue,A,Brian Powers,133 North Cavender Street-- Hobart- IN- USA,951 Transport Drive-- Valparaiso- IN- USA,10:00:00,00:00:00,15.93,Cancelled
+James Miller,A,Brian Powers,3572 W State Rd 10 Lake Village IN ,114 E Commercial Ave-- Lowell- Indiana- USA,11:50:00,13:23:20,13.56,Completed
+June Mastey,A,Brian Powers,401 U.S. 30-- Schererville- IN- USA,1630 45th St-- Munster- IN- USA,09:40:00,10:52:32,5.84,Completed
+Ella Harris,B,Brian Powers,550 W 84th Dr--MERRILLVILLE IN 46410,4364 Lincoln St--GARY IN 46408,13:00:00,14:49:39,5.73,Completed
+Laverne Swain,B,Brian Powers,4802 Broadway Gary-- ,1555 S Main St--  Crown Point- IN 46307- USA,16:00:00,17:04:49,14.06,Picked
+John Wawrzyszuk,B,Brian Powers, 851 W Burrell Dr--  IN 46307,119 N Indiana Ave--  Crown Point- IN 46307- USA,17:00:00,17:05:02,3.13,Picked
+Willie Coleman,B,Brian Powers,8500 Broadway-- Merrillville- IN 46410- USA,101 W 87th Ave--  Merrillville- IN 46410- USA,23:59:59,17:05:07,0.48,Picked
+Rebecca Ponce-Ruiz,A,Brian Powers,1532 Calumet Ave-- Dyer- IN- USA,7214 Calumet Avenue-- Hammond- IN- USA,09:45:00,11:30:38,6.04,Completed
+Darian Williams,B,Brian Powers,550 W 84th Dr--  IN 46410,1555 S Main St--  Crown Point- IN 46307- USA,16:15:00,17:04:55,6.15,Picked
+Willie Coleman,A,Brian Powers,101 W 87th Ave--  Merrillville- IN 46410- USA,8500 Broadway-- Merrillville- IN 46410- USA,15:00:00,16:05:07,0.46,Completed

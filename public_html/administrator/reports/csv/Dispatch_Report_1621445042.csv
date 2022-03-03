@@ -1,0 +1,499 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+Test KEvin,B,,Decorah--IA- USA,Calmar--IA- USA,15:00:00,00:00:00,11.01,Pending
+Test bryan,A,Kenny Johnson,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,In Progress
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+Test KEvin,A,Kenny Johnson,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test KEvin,B,,Decorah--IA- USA,Calmar--IA- USA,15:00:00,00:00:00,11.01,Pending
+Test KEvin,B,,Decorah--IA- USA,Calmar--IA- USA,15:00:00,00:00:00,11.01,Completed
+Test KEvin,B,Mike Miller,Decorah--IA- USA,Calmar--IA- USA,15:00:00,00:00:00,11.01,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Completed
+Test KEvin,A,Mike Miller,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Calmar-- IA- USA,Decorah--IA- USA,16:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+test,B,,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,09:00:00,00:00:00,1881.4,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+Test KEvin,B,,Decorah--IA- USA,Calmar--IA- USA,15:00:00,00:00:00,11.01,Pending
+test,B,,Decorah--IA- USA,,23:30:00,00:00:00,0,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test KEvin,B,,Decorah--IA- USA,Calmar--IA- USA,15:00:00,00:00:00,11.01,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test test,A,,3709 Alabama Ave Se-102-Washington-DC-20020,1140 Varnum St Ne--Washington-DC-20017,09:15:00,00:00:00,10,Pending
+test TAYLOR,A,,6323 Luzon Ave Nw-106-Washington-DC-20011,102 Irving St Nw--Washington-DC-20010,15:15:00,00:00:00,4,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+Test KEvin,B,,Decorah--IA- USA,Calmar--IA- USA,15:00:00,00:00:00,11.01,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+Test test,B,,1140 Varnum St Ne--Washington-DC-20017,3709 Alabama Ave Se-102-Washington-DC-20020,23:59:59,00:00:00,9,Pending
+test TAYLOR,B,,102 Irving St Nw--Washington-DC-20010,6323 Luzon Ave Nw-106-Washington-DC-20011,23:59:59,00:00:00,4,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Weiner, Harriet,A,Wendell Bernier,261 Mitchell Avenue-1st Floor- East Meadow- NY- USA,95 Old Country Rd-1st Floor- Carle Place- NY- USA,10:45:00,00:00:00,4.44,Pending
+Cooker, Oyedele,A,Wendell Bernier,180 Lena Ave-- Freeport,351 S Main St-- Freeport- NY- USA,08:30:00,00:00:00,1.84,Pending
+Cooker, Oyedele,B,Wendell Bernier,351 S Main St-- Freeport- NY- USA,180 Lena Ave-- Freeport,00:00:00,00:00:00,1.68,Pending
+Test KEvin,B,,Decorah--IA- USA,Calmar--IA- USA,15:00:00,00:00:00,11.01,Pending
+Weiner, Harriet,B,Wendell Bernier,95 Old Country Rd-1st Floor- Carle Place- NY- USA,261 Mitchell Avenue-- East Meadow- NY- USA,23:59:59,00:00:00,4.84,Pending
+test,B,Kenny Johnson,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,09:00:00,00:00:00,1881.4,Pending
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+Test KEvin,A,Kenny Johnson,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+Test KEvin,B,,Decorah--IA- USA,Calmar--IA- USA,15:00:00,00:00:00,11.01,Pending
+test,B,,Decorah--IA- USA,,23:30:00,00:00:00,0,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,Dominic Pelfrey  ,Calmar-- IA- USA,Decorah--IA- USA,16:00:00,00:00:00,10.97,Pending
+test,A,Wendell Bernier,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,00:00:00,10.97,Pending
+test,B,Mike Miller,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Cooker,A,,180 Lena Ave-- Freeport ,DaVita Freeport Kidney Center-- 351 S Main St- Freeport- NY- USA,08:30:00,00:00:00,1.84,Completed
+Test KEvin,B,,Decorah--IA- USA,Calmar--IA- USA,15:00:00,00:00:00,11.01,Pending
+Cooker,B,,DaVita Freeport Kidney Center-- 351 S Main St- Freeport- NY- USA,,12:30:00,00:00:00,0,Completed
+Test KEvin,A,Kenny Johnson,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test patient 1,A,Kenny Johnson,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+Test KEvin,A,Mike Miller,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test KEvin,B,,Decorah--IA- USA,Calmar--IA- USA,15:00:00,00:00:00,11.01,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+SHAYAN NAEINI,B,,820 North McClintock Drive-- Tempe- AZ- USA,1119 S Bonnie Ln-- Tempe- AZ- USA,17:00:00,00:00:00,1.77,Pending
+Test KEvin,A,Greg Smith,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test bryan,A,Ben Stonnis,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+SHAYAN NAEINI,A,,1119 S Bonnie Ln-- Tempe- AZ- USA,820 North McClintock Drive-- Tempe- AZ- USA,15:00:00,00:00:00,1.77,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,B,,Decorah--IA- USA,,23:30:00,00:00:00,0,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+test,B,,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,09:00:00,00:00:00,1881.4,Pending
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah--IA- USA,16:00:00,00:00:00,10.97,Pending
+test,B,,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+Test dave,B,Kenny Johnson,1112 Staffordshire Road-- Stafford- TX- USA,,09:00:00,00:00:00,0,Pending
+Test dave,A,,Texas 114-- Decatur- TX- USA,1112 Staffordshire Road-- Stafford- TX- USA,17:00:00,00:00:00,311.41,Pending
+Test dave,B,Dominic Pelfrey  ,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+Test KEvin,A,Dominic Pelfrey  ,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test KEvin,A,Wendell Bernier,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test dave,A,,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+Test KEvin,A,Wendell Bernier,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test dave,B,,1112 Staffordshire Road--Stafford- TX- USA,-,09:00:00,00:00:00,1057.2,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+Test dave,A,,Texas 114--Decatur- TX- USA,1112 Staffordshire Road--Stafford- TX- USA,17:00:00,00:00:00,311.41,Pending
+test patient 1,A,Greg Smith,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+Test KEvin,A,Greg Smith,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test patient 1,A,Greg Smith,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test dave,A,,Texas 114-- Decatur- TX- USA,1112 Staffordshire Road-- Stafford- TX- USA,17:00:00,00:00:00,311.41,Pending
+Test dave,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test dave,B,,1112 Staffordshire Road-- Stafford- TX- USA,,09:00:00,00:00:00,0,Pending
+Test dave,A,,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+Test dave,B,,1112 Staffordshire Road-- Stafford- TX- USA,,09:00:00,00:00:00,0,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,B,,Decorah--IA- USA,,23:30:00,00:00:00,0,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+Test dave,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+test,B,,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,09:00:00,00:00:00,1881.4,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test dave,A,,Texas 114-- Decatur- TX- USA,1112 Staffordshire Road-- Stafford- TX- USA,17:00:00,00:00:00,311.41,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah--IA- USA,16:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+Test dave,A,,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+Test dave,A,,Texas 114-- Decatur- TX- USA,1112 Staffordshire Road-- Stafford- TX- USA,17:00:00,00:00:00,311.41,Pending
+Test dave,A,,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test dave,B,,1112 Staffordshire Road-- Stafford- TX- USA,,09:00:00,00:00:00,0,Pending
+Test dave,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test dave,B,Greg Smith,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+Test dave,A,,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test dave,A,,Texas 114-- Decatur- TX- USA,1112 Staffordshire Road-- Stafford- TX- USA,17:00:00,00:00:00,311.41,Pending
+Test dave,B,Dominic Pelfrey  ,1112 Staffordshire Road-- Stafford- TX- USA,,09:00:00,00:00:00,0,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+VERNON W BENT,B,,2727 W Martin Luther King Jr B-250-Tampa-FL-33607,813 E New Orleans Ave--Tampa-FL-33603,23:59:59,00:00:00,2,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+THEKKEKARA C JOSEPH,B,,10770 N 46th St-A100-Tampa-FL-33617,750 Hayes Rd--Lutz-FL-33549,23:59:59,00:00:00,6,Pending
+WILLIE WASHINGTON,B,,3633 W Waters Ave-700-Tampa-FL-33614,818 W Linebaugh Ave-317A-Tampa-FL-33612,14:00:00,00:00:00,3,Pending
+MARIAN RIVERA,B,,6224 Harney Rd--Tampa-FL-33610,2928 Angela Ct--Tampa-FL-33610,12:10:00,00:00:00,4,Pending
+VERNON W BENT,A,,813 E New Orleans Ave--Tampa-FL-33603,2727 W Martin Luther King Jr B-250-Tampa-FL-33607,11:05:00,00:00:00,3,Pending
+TIFFANY L COX,A,Kenny Johnson,4422 E Columbus Dr--Tampa-FL-33605,12214 Glenshire Dr--Riverview-FL-33579,06:15:00,00:00:00,16,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+Test dave,B,,1112 Staffordshire Road-- Stafford- TX- USA,,09:00:00,00:00:00,0,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah--IA- USA,,23:30:00,00:00:00,0,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+ROBERT M ROSENBERG,C,,21314 Snook Cir--Land O Lakes-FL-34639,6919 N Dale Mabry Hwy--Tampa-FL-33614,09:45:00,00:00:00,14,Pending
+MATTIE M SMITH,A,,7106 Kingsbury Cir--Tampa-FL-33610,4160 N Armenia Ave-A-Tampa-FL-33607,07:35:00,00:00:00,7,Pending
+DONNA M LUCIER,A,,8800 49th St N--Pinellas Park-FL-33782,5816 Connell Rd--Plant City-FL-33567,07:45:00,00:00:00,39,Pending
+ANDRES A MENDOZA,B,,10500 University Center Dr--Tampa-FL-33612,3410 Monarch Breeze Dr-211-Riverview-FL-33578,13:00:00,00:00:00,13,Pending
+Test dave,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+ANNA EUART,B,,304 W Waters Ave--Tampa-FL-33604,14864 Shady Knoll Ct-201-Tampa-FL-33613,11:30:00,00:00:00,4,Pending
+MICHAEL WALSH,A,,8720 Jackson Spring Rd--Tampa-FL-33615,3003 W Dr Martin Luther King J--Tampa-FL-33607,09:00:00,00:00:00,7,Pending
+EVELYN E TAGUCHI,A,,14712 N 42nd St--Tampa-FL-33613,14358 N Dale Mabry Hwy--Tampa-FL-33618,09:05:00,00:00:00,7,Pending
+GERALDA ORTIZ,A,,8805 Crestview Dr--Tampa-FL-33604,4321 N MacDill Ave-305-Tampa-FL-33607,09:10:00,00:00:00,4,Pending
+test,B,,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,09:00:00,00:00:00,1881.4,Pending
+Leslie H Scotland,A,,14358 N Dale Mabry Hwy--Tampa-FL-33618,15002 Hutchison Rd--Tampa-FL-33625,09:45:00,00:00:00,3,Pending
+JOY L KILROY,B,,10770 N 46th St-A100-Tampa-FL-33617,13806 N 46th St--Tampa-FL-33613,14:00:00,00:00:00,3,Pending
+ORALINE L PAUL IVEY,B,,10770 N 46th St--Tampa-FL-33617,518 W Fletcher Ave--Tampa-FL-33612,15:30:00,00:00:00,5,Pending
+THEKKEKARA C JOSEPH,A,,750 Hayes Rd--Lutz-FL-33549,10770 N 46th St-A100-Tampa-FL-33617,10:20:00,00:00:00,6,Pending
+WILLIE WASHINGTON,A,,818 W Linebaugh Ave-317A-Tampa-FL-33612,3633 W Waters Ave-700-Tampa-FL-33614,12:20:00,00:00:00,3,Pending
+MARIAN RIVERA,A,,2928 Angela Ct--Tampa-FL-33610,6224 Harney Rd--Tampa-FL-33610,10:20:00,00:00:00,4,Pending
+STEVEN L ALVAREZ,A,,7207 N Nebraska Ave--Tampa-FL-33604,515 Robin Hill Cir--Brandon-FL-33510,23:59:59,00:00:00,17,Pending
+ANTONE I WEBB,A,,8720 Jackson Spring Rd--Tampa-FL-33615,4715 Land O Lakes Blvd--Land O Lakes-FL-34639,11:00:00,00:00:00,21,Pending
+ROBERT M ROSENBERG,A,Kenny Johnson,6124 S Tamiami Trail--Sarasota-FL-34231,21314 Snook Cir--Land O Lakes-FL-34639,05:45:00,00:00:00,82,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+Test dave,A,,Texas 114-- Decatur- TX- USA,1112 Staffordshire Road-- Stafford- TX- USA,17:00:00,00:00:00,311.41,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah--IA- USA,16:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,B,,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+ROBERT M ROSENBERG,B,,21314 Snook Cir--Land O Lakes-FL-34639,21314 Snook Cir--Land O Lakes-FL-34639,06:40:00,00:00:00,82,Pending
+CARMEN L REYES,A,,4422 E Columbus Dr--Tampa-FL-33605,507 4th Ave SE--Ruskin-FL-33570,07:15:00,00:00:00,20,Pending
+MATTIE M SMITH,B,,4160 N Armenia Ave-A-Tampa-FL-33607,7106 Kingsbury Cir--Tampa-FL-33610,23:59:59,00:00:00,7,Pending
+ANDRES A MENDOZA,A,,3410 Monarch Breeze Dr-211-Riverview-FL-33578,10500 University Center Dr--Tampa-FL-33612,07:45:00,00:00:00,13,Pending
+Test dave,A,,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+ANNA EUART,A,,14864 Shady Knoll Ct-201-Tampa-FL-33613,304 W Waters Ave--Tampa-FL-33604,07:54:59,00:00:00,4,Pending
+HARVEY R PURCELL,A,,6253 14th St W--Bradenton-FL-34207,4908 Dhanmandi Cir--Tampa-FL-33619,08:15:00,00:00:00,43,Pending
+MICHAEL WALSH,B,,3003 W Dr Martin Luther King J--Tampa-FL-33607,8720 Jackson Spring Rd--Tampa-FL-33615,11:00:00,00:00:00,7,Pending
+EVELYN E TAGUCHI,B,,14358 N Dale Mabry Hwy--Tampa-FL-33618,14712 N 42nd St--Tampa-FL-33613,14:00:00,00:00:00,7,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+GERALDA ORTIZ,B,,4321 N MacDill Ave-305-Tampa-FL-33607,8805 Crestview Dr--Tampa-FL-33604,10:00:00,00:00:00,4,Pending
+JOY L KILROY,A,,13806 N 46th St--Tampa-FL-33613,10770 N 46th St-A100-Tampa-FL-33617,10:00:00,00:00:00,3,Pending
+ORALINE L PAUL IVEY,A,,518 W Fletcher Ave--Tampa-FL-33612,10770 N 46th St--Tampa-FL-33617,10:20:00,00:00:00,5,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test dave,A,,Texas 114-- Decatur- TX- USA,1112 Staffordshire Road-- Stafford- TX- USA,17:00:00,00:00:00,311.41,Pending
+Test dave,B,,1112 Staffordshire Road-- Stafford- TX- USA,,09:00:00,00:00:00,0,Pending
+Test dave,B,Dominic Pelfrey  ,Decorah--IA- USA,8550 N 91st Ave-- Ste 49,09:00:00,00:00:00,1644.84,Pending
+Test dave,A,,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test dave,B,,1112 Staffordshire Road-- Stafford- TX- USA,,09:00:00,00:00:00,0,Pending
+Test dave,B,Dominic Pelfrey  ,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test dave,A,,Texas 114-- Decatur- TX- USA,1112 Staffordshire Road-- Stafford- TX- USA,17:00:00,00:00:00,311.41,Pending
+Test dave,A,,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+Test dave,B,Greg Smith,1112 Staffordshire Road-- Stafford- TX- USA,,09:00:00,00:00:00,0,Pending
+Test dave,A,Greg Smith,Texas 114-- Decatur- TX- USA,1112 Staffordshire Road-- Stafford- TX- USA,17:00:00,00:00:00,311.41,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah--IA- USA,,23:30:00,00:00:00,0,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+Test dave,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+test,B,,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,09:00:00,00:00:00,1881.4,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah--IA- USA,16:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+Test dave,A,,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+Test dave,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test dave,A,,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Calmar--IA- USA,Decorah--IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,Dominic Pelfrey  ,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,B,Greg Smith,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+Test bryan,A,Kenny Johnson,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+Test dave,A,Greg Smith,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+Test dave,B,Greg Smith,Decorah--IA- USA,-,09:00:00,16:33:23,410.24,Completed
+Test KEvin,A,Dominic Pelfrey  ,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Completed
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,B,Greg Smith,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,09:00:00,00:00:00,1881.4,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah--IA- USA,,23:30:00,00:00:00,0,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,Dominic Pelfrey  ,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,16:32:15,10.97,Completed
+Test dave,B,,Decorah--IA- USA,-,23:59:59,00:00:00,410.24,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah--IA- USA,16:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+test,B,Dominic Pelfrey  ,Calmar--IA- USA,-,09:00:00,17:52:55,410.98,Completed
+Test dave,A,,Calmar--IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+Test KEvin,A,Kenny Johnson,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+Jane Doe,A,,10700 World Trade Blvd,4021Stirrup Creek Drive Suite 400,09:30:00,00:00:00,3.82,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,B,,Decorah--IA- USA,,23:30:00,00:00:00,0,Pending
+test,A,Greg Smith,Calmar-- IA- USA,Decorah--IA- USA,16:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,00:00:00,10.97,Pending
+test,B,,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,09:00:00,00:00:00,1881.4,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test patient 1,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Pending
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+Test dave,A,Shiraz Hassan,Calmar-- IA- USA,Decorah--IA- USA,17:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Completed
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+test,B,Nigel Benjumin,Calmar--IA- USA,-,09:00:00,17:55:41,410.98,Completed
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Completed
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,B,,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,09:00:00,00:00:00,1881.4,Pending
+test patient 1,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+test patient 1,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Completed
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Completed
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar City Clerk-- Washington Street- Calmar- IA- USA,23:30:00,00:00:00,11.14,Completed
+Test Mike,A,Greg Smith,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,A,,Calmar--IA- USA,Decorah--IA- USA,23:00:00,12:32:50,10.97,Completed
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Completed
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test patient 1,B,Greg Smith,Decorah--IA- USA,-,09:00:00,15:25:31,410.24,Completed
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+Test KEvin,A,Greg Smith,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,00:00:00,10.97,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+BRADLEY MATTHEWS JR,A,,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,B,,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+test,B,,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,09:00:00,00:00:00,1881.4,Pending
+test patient 1,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test patient 1,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Pending
+,A,,----,----,23:59:59,00:00:00,,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,09:00:00,00:00:00,11.1,Pending
+Test KEvin,A,,Calmar--IA- USA,Decorah--IA- USA,12:00:00,00:00:00,10.97,Pending
+AARON R HOBACK,A,,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,23:59:59,00:00:00,11.1,Pending
+,A,Nigel Benjumin,----,----,23:59:59,00:00:00,,Pending
+test,A,Nigel Benjumin,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test,B,,Decorah-- IA- USA,Calmar Shop-- E Lewis- Calmar- IA- USA,23:59:59,00:00:00,11.1,Pending
+,A,,----,----,23:59:59,00:00:00,,Pending
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Completed
+test,A,Greg Smith,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+test patient 1,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Completed
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Pending
+test,A,,Calmar-- IA- USA,Decorah-- IA- USA,23:00:00,00:00:00,10.97,Pending
+JOYCESTINE NEBLETT,A,Nigel Benjumin,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,In Progress
+test patient 1,A,,Calmar--IA- USA,Decorah--IA- USA,21:00:00,00:00:00,10.97,Completed
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+test patient 1,A,,Calmar-- IA- USA,Decorah-- IA- USA,21:00:00,00:00:00,10.97,Pending
+test patient 1,B,,Decorah--IA- USA,-,09:00:00,00:00:00,410.24,Completed
+,A,,----,----,23:59:59,00:00:00,,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+test patient 1,B,Greg Smith,Calmar--IA- USA,1201 South Alma School Road-- Mesa- AZ- USA,09:00:00,00:00:00,1564.91,Pending
+test,A,,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+test,B,,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+ANDREW DAY,A,Wendell Bernier,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24,Pending
+test,A,,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,00:00:00,10.97,Pending
+test patient 1,A,,Decorah--IA- USA,Calmar--IA- USA,12:00:00,00:00:00,11.01,Pending
+test,B,,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+test patient 1,A,Greg Smith,1201 South Alma School Road,1502-A-- Central Parkway,12:00:00,00:00:00,1602.78,Pending
+test,B,,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,09:00:00,00:00:00,1881.4,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+,A,,----,----,23:59:59,00:00:00,,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+AARON R HOBACK,A,,1300 Mulberry Rd--Martinsville-VA-24112,600 Northside Dr--Martinsville-VA-24112,07:45:00,00:00:00,4,Pending
+,A,,----,----,23:59:59,00:00:00,,Pending
+ANDREW DAY,B,,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23.26,Pending
+test Patient 2,A,Greg Smith,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+ANDREW DAY,A,Alex Test,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24.52,Pending
+test patient 1,A,Greg Smith,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Pending
+test Patient 2,B,Greg Smith,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+test patient 1,B,Nigel Benjumin,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Pending
+test,A,,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+BRADLEY MATTHEWS JR,A,,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Pending
+Test bryan,A,,379 Amherst St PMB 270 N Nashua--New Hampshire 03063,114 South State Street--Chicago- IL- USA,12:00:00,00:00:00,999.87,Pending
+test,A,,Decorah--IA- USA,Calmar--IA- USA,23:00:00,00:00:00,11.01,Completed
+test,B,,Calmar--IA- USA,-,09:00:00,00:00:00,410.98,Completed
+test,A,Nigel Benjumin,Calmar-- Iowa- USA,Decorah-- IA- USA,19:00:00,00:00:00,10.97,Completed
+BRADLEY MATTHEWS JR,A,,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Completed
+AARON R HOBACK,A,,1300 Mulberry Rd--Martinsville-VA-24112,600 Northside Dr--Martinsville-VA-24112,07:45:00,00:00:00,4,Completed
+ANDREW DAY,A,,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24,Completed
+test,A,Nigel Benjumin,Decorah-- IA- USA,Calmar-- IA- USA,23:00:00,16:57:46,11.01,Completed
+JOYCESTINE NEBLETT,A,,218 Kent Dr--Martinsville-VA-24112,33 Bridge St--Martinsville-VA-24112,05:00:00,00:00:00,3,Pending
+BRADLEY MATTHEWS JR,B,,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Completed
+AARON R HOBACK,B,,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Completed
+ANDREW DAY,B,,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Completed
+test,A,Wendell Bernier,Calmar-- Iowa- USA,Decorah-- IA- USA,09:00:00,00:00:00,10.97,In Progress
+test,A,Wendell Bernier,Greenhills--OH- USA,Decorah--IA- USA,23:00:00,00:00:00,583.18,Pending
+test,A,Wendell Bernier,Greenhills-- OH- USA,Decorah--IA- USA,19:00:00,00:00:00,583.18,Pending
+test,B,Wendell Bernier,Decorah--IA- USA,1438 S Euclid St-- Anaheim- CA- USA,23:59:59,00:00:00,1881.4,Pending

@@ -1,0 +1,13 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Aug. 09 2018
+,,,Invoice From: Aug. 06 2018 To: Aug. 09 2018
+,,,Total Amount Billed: 156.00
+1,6709,Aug-06 2018[Logistic Care],ALAN CHAVEZ, 1-54507-A,Leg A,13545 Monterey Hwy-113-San Martin-CA-95046,275 Di Salvo Ave--San Jose-CA-95128,13:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,30,0,30,,62.00
+ 2,6688,Aug-06 2018[Logistic Care],ERIC E HAMILTON, 1-85081-B,Leg B,1825 4th St--San Francisco-CA-94158,1414 62nd St--Emeryville-CA-94608,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,10,0,10,,22.00
+ 3,6735,Aug-06 2018[Logistic Care],FELISE T FINAU, 1-101570-B,Leg B,700 Adeline St--Oakland-CA-94607,1154 73rd Ave--Oakland-CA-94621,16:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,7,0,7,,16.00
+ 4,6640,Aug-06 2018[Logistic Care],LETICIA F GIRON, 1-50835-B,Leg B,1620 E Capitol Exwy--San Jose-CA-95121,2811 Deerwood Dr--San Jose-CA-95148,13:30,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,2,0,2,,6.00
+ 5,6741,Aug-06 2018[Logistic Care],MALALAY SHINWARI, 1-106712-B,Leg B,6955 Foothill Blvd--Oakland-CA-94605,457 Buena Vista Ave-101-Alameda-CA-94501,17:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,11,0,11,,24.00
+ 6,6694,Aug-06 2018[Logistic Care],TERESITA O GABRIEL, 1-103677-A,Leg A,33965 10th St--Union City-CA-94587,39500 Liberty St--Fremont-CA-94538,12:15,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,5,0,5,,12.00
+ 7,6913,Aug-07 2018[Logistic Care],TESFAZION G WOLDEMICHAEL, 1-49413-A,Leg A,529 45th St--Oakland-CA-94609,5354 Claremont Ave--Oakland-CA-94618,04:15,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,1,0,1,,4.00
+ 8,7082,Aug-08 2018[Logistic Care],PETE LOPES, 1-5906-A,Leg A,4129 Apostolo Cir-1-Sacramento-CA-95824,7225 E Southgate Dr-D-Sacramento-CA-95823,07:15,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,4,0,4,,10.00
+

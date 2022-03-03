@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather>
+        <Say>
+            Press 1 for confirm and 2 for Cancel  3 for cancel
+        </Say>
+    </Gather>
+    <Say>We didn't receive any input. Goodbye!</Say>
+</Response>

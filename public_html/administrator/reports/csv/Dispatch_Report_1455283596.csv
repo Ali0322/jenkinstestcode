@@ -1,0 +1,4 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+GERTRUDE MOORE,A,,10305 Melmont Rd--MELBA ID 83641,210 Holly St--NAMPA ID 83686,09:14:00,00:00:00,12,Completed
+ EMILY WHEELER,A,,13853 Willis Rd--CALDWELL ID 83607,157 Caldwell Blvd--NAMPA ID 83651,08:31:00,00:00:00,13,Completed
+

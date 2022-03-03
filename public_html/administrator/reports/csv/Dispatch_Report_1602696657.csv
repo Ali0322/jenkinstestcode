@@ -1,0 +1,330 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+AMBER tEST,A,JOEL YERBO,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.16,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.13,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+JOYCESTINE NEBLETT,A,SAM Cooper,218 Kent Dr--Martinsville-VA-24112,33 Bridge St--Martinsville-VA-24112,05:00:00,13:49:17,3,Completed
+BRADLEY MATTHEWS JR,B,,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Pending
+AARON R HOBACK,B,,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Pending
+ANDREW DAY,B,JOEL YERBO,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24,Pending
+BRADLEY MATTHEWS JR,A,SAM Cooper,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Pending
+AARON R HOBACK,A,SAM Cooper,1300 Mulberry Rd--Martinsville-VA-24112,600 Northside Dr--Martinsville-VA-24112,07:45:00,00:00:00,4,Pending
+JOYCESTINE NEBLETT,B,,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,Pending
+ANDREW DAY,A,,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,SAM Cooper,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.16,Pending
+AMBER tEST,A,SAM Cooper,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,11:27:17,184.13,Completed
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.13,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+JOSE CORNEJO,B,Test Test,3267 S 16TH ST--MILWAUKEE-WI-53215,2153 S 5TH PL--MILWAUKEE-WI-53207,10:00:00,00:00:00,2.09,Pending
+VENITA BATCHER,B,,2422 N GRANDVIEW BLVD--WAUKESHA-WI-53188,6540 N 70TH ST--MILWAUKEE-WI-53223,23:59:59,00:00:00,18.96,Pending
+JOSE CORNEJO,A,,2153 S 5TH PL--MILWAUKEE-WI-53207,3267 S 16TH ST--MILWAUKEE-WI-53215,04:45:00,00:00:00,2.09,Pending
+JOHNNY POLK,B,JOEL YERBO,9420 S 22ND ST--OAK CREEK-WI-53154,2718 S 12TH ST--MILWAUKEE-WI-53215,10:00:00,00:00:00,9.14,Pending
+DIANN ORTIZ,A,,1407 RAWSON AVE--SOUTH MILWAUKEE-WI-53172,9420 S 22ND ST--OAK CREEK-WI-53154,05:15:00,00:00:00,6.67,Pending
+DIANN ORTIZ,B,EUEL KASAYE,9420 S 22ND ST--OAK CREEK-WI-53154,1407 RAWSON AVE--SOUTH MILWAUKEE-WI-53172,09:15:00,00:00:00,6.67,Pending
+ANGELA JEFFERSON,B,,6308 8TH AVE--KENOSHA-WI-53143,1927 60TH ST APT 1--KENOSHA-WI-53140,23:59:59,00:00:00,0.92,Pending
+MICHAEL BEALS,B,,5735 DURAND AVE--RACINE-WI-53406,10630 S SOMMERS CIR--OAK CREEK-WI-53154,06:15:00,00:00:00,12.77,Pending
+KATHLEEN ZIMMERMAN,A,,4209 S 90TH ST--MILWAUKEE-WI-53228,11340 W THEODORE TRECKER WAY--MILWAUKEE-WI-53214,05:45:00,00:00:00,5.22,Pending
+KATHLEEN ZIMMERMAN,B,Tom Wilson,11340 W THEODORE TRECKER WAY--MILWAUKEE-WI-53214,4209 S 90TH ST--MILWAUKEE-WI-53228,10:00:00,00:00:00,5.22,Pending
+APRIL FOREMAN,B,Steve Anderson,3113 WASHINGTON AVE--RACINE-WI-53405,141 MAIN ST UNIT 237--RACINE-WI-53403,10:00:00,00:00:00,2.3,Pending
+VENITA BATCHER,A,,6540 N 70TH ST--MILWAUKEE-WI-53223,2422 N GRANDVIEW BLVD--WAUKESHA-WI-53188,04:45:00,00:00:00,18.96,Pending
+APRIL FOREMAN,A,,141 MAIN ST UNIT 237--RACINE-WI-53403,3113 WASHINGTON AVE--RACINE-WI-53405,05:00:00,00:00:00,2.3,Pending
+ANGELA JEFFERSON,A,,1927 60TH ST APT 1--KENOSHA-WI-53140,6308 8TH AVE--KENOSHA-WI-53143,05:30:00,00:00:00,0.92,Pending
+MICHAEL BEALS,A,,10630 S SOMMERS CIR--OAK CREEK-WI-53154,5735 DURAND AVE--RACINE-WI-53406,05:30:00,00:00:00,12.77,Pending
+JOHNNY POLK,A,,2718 S 12TH ST--MILWAUKEE-WI-53215,9420 S 22ND ST--OAK CREEK-WI-53154,05:40:00,00:00:00,9.14,Pending
+AMBER tEST,A,SAM Cooper,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.13,Pending
+AMBER tEST,A,SAM Cooper,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,23:59:59,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+VENITA BATCHER,A,,6540 N 70TH ST--MILWAUKEE-WI-53223,2422 N GRANDVIEW BLVD--WAUKESHA-WI-53188,04:45:00,00:00:00,18.96,Pending
+JOSE CORNEJO,A,,2153 S 5TH PL--MILWAUKEE-WI-53207,3267 S 16TH ST--MILWAUKEE-WI-53215,04:45:00,00:00:00,2.09,Pending
+DIANN ORTIZ,A,,1407 RAWSON AVE--SOUTH MILWAUKEE-WI-53172,9420 S 22ND ST--OAK CREEK-WI-53154,05:15:00,00:00:00,6.67,Pending
+ANGELA JEFFERSON,A,,1927 60TH ST APT 1--KENOSHA-WI-53140,6308 8TH AVE--KENOSHA-WI-53143,05:30:00,00:00:00,0.92,Pending
+SEHDARI POWERS,A,Steve Anderson,11904 W NORTH AVE--MILWAUKEE-WI-53226,3835 N 57TH ST--MILWAUKEE-WI-53216,03:25:00,00:00:00,5.76,Pending
+MICHAEL BEALS,A,,10630 S SOMMERS CIR--OAK CREEK-WI-53154,5735 DURAND AVE--RACINE-WI-53406,05:30:00,00:00:00,12.77,Pending
+JOHNNY POLK,A,,2718 S 12TH ST--MILWAUKEE-WI-53215,9420 S 22ND ST--OAK CREEK-WI-53154,05:40:00,00:00:00,9.14,Pending
+KATHLEEN ZIMMERMAN,A,,4209 S 90TH ST--MILWAUKEE-WI-53228,11340 W THEODORE TRECKER WAY--MILWAUKEE-WI-53214,05:45:00,00:00:00,5.22,Pending
+RAEANITA HUNT,A,JOEL YERBO,5225 N 29TH ST--MILWAUKEE-WI-53209,1610 MILLER PARK WAY--MILWAUKEE-WI-53214,04:30:00,00:00:00,20.06,Pending
+KAREN DEMANT,A,,4915 SCHOEN RD LOT 75--UNION GROVE-WI-53182,5735 DURAND AVE--RACINE-WI-53406,04:30:00,00:00:00,12.43,Pending
+MALISSA NATION,A,,8845 41ST AVE--KENOSHA-WI-53142,5735 DURAND AVE--RACINE-WI-53406,04:30:00,00:00:00,11.85,Pending
+JENNIFER DUNLAP,A,,6814B 25TH AVE--KENOSHA-WI-53143,4800 S 10TH ST--MILWAUKEE-WI-53221,04:30:00,00:00:00,30.21,Pending
+JUAN GUTIERREZ,A,,3470 E OAKWOOD RD--OAK CREEK-WI-53154,4800 S 10TH ST--MILWAUKEE-WI-53221,04:30:00,00:00:00,9.73,Pending
+CORRINA PEREZ,A,,511 14TH ST APT 2--RACINE-WI-53403,5735 DURAND AVE--RACINE-WI-53406,04:30:00,00:00:00,3.91,Pending
+TANIA POTTER,A,,27612 114TH ST--TREVOR-WI-53179,4800 S 10TH ST--MILWAUKEE-WI-53221,04:30:00,00:00:00,38.84,Pending
+VENITA BATCHER,B,,2422 N GRANDVIEW BLVD--WAUKESHA-WI-53188,6540 N 70TH ST--MILWAUKEE-WI-53223,23:59:59,00:00:00,18.96,Pending
+APRIL FOREMAN,A,,141 MAIN ST UNIT 237--RACINE-WI-53403,3113 WASHINGTON AVE--RACINE-WI-53405,05:00:00,00:00:00,2.3,Pending
+DIANN ORTIZ,B,,9420 S 22ND ST--OAK CREEK-WI-53154,1407 RAWSON AVE--SOUTH MILWAUKEE-WI-53172,09:15:00,00:00:00,6.67,Pending
+ANGELA JEFFERSON,B,,6308 8TH AVE--KENOSHA-WI-53143,1927 60TH ST APT 1--KENOSHA-WI-53140,23:59:59,00:00:00,0.92,Pending
+MICHAEL BEALS,B,,5735 DURAND AVE--RACINE-WI-53406,10630 S SOMMERS CIR--OAK CREEK-WI-53154,06:15:00,00:00:00,12.77,Pending
+JOHNNY POLK,B,,9420 S 22ND ST--OAK CREEK-WI-53154,2718 S 12TH ST--MILWAUKEE-WI-53215,10:00:00,00:00:00,9.14,Pending
+KATHLEEN ZIMMERMAN,B,,11340 W THEODORE TRECKER WAY--MILWAUKEE-WI-53214,4209 S 90TH ST--MILWAUKEE-WI-53228,10:00:00,00:00:00,5.22,Pending
+JOSE CORNEJO,B,JOEL YERBO,3267 S 16TH ST--MILWAUKEE-WI-53215,2153 S 5TH PL--MILWAUKEE-WI-53207,10:00:00,00:00:00,2.09,Pending
+APRIL FOREMAN,B,EUEL KASAYE,3113 WASHINGTON AVE--RACINE-WI-53405,141 MAIN ST UNIT 237--RACINE-WI-53403,10:00:00,00:00:00,2.3,Pending
+RAEANITA HUNT,B,,1610 MILLER PARK WAY--MILWAUKEE-WI-53214,5225 N 29TH ST--MILWAUKEE-WI-53209,05:15:00,00:00:00,20.06,Pending
+KAREN DEMANT,B,,5735 DURAND AVE--RACINE-WI-53406,4915 SCHOEN RD LOT 75--UNION GROVE-WI-53182,05:15:00,00:00:00,12.43,Pending
+MALISSA NATION,B,,5735 DURAND AVE--RACINE-WI-53406,8845 41ST AVE--KENOSHA-WI-53142,06:00:00,00:00:00,11.85,Pending
+JENNIFER DUNLAP,B,,4800 S 10TH ST--MILWAUKEE-WI-53221,6814B 25TH AVE--KENOSHA-WI-53143,05:15:00,00:00:00,30.21,Pending
+JUAN GUTIERREZ,B,,4800 S 10TH ST--MILWAUKEE-WI-53221,3470 E OAKWOOD RD--OAK CREEK-WI-53154,05:45:00,00:00:00,9.73,Pending
+CORRINA PEREZ,B,,5735 DURAND AVE--RACINE-WI-53406,511 14TH ST APT 2--RACINE-WI-53403,05:15:00,00:00:00,3.91,Pending
+TANIA POTTER,B,,4800 S 10TH ST--MILWAUKEE-WI-53221,27612 114TH ST--TREVOR-WI-53179,05:30:00,00:00:00,38.84,Pending
+AMBER tEST,B,SAM Cooper,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AARON R HOBACK,A,Steve Anderson,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Pending
+AMBER tEST,A,JOEL YERBO,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+ANDREW DAY,A,JOEL YERBO,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Pending
+JOYCESTINE NEBLETT,A,SHAUN DAVIDSON,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,Pending
+JOYCESTINE NEBLETT,A,Steve Anderson,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,Pending
+AMBER tEST,B,EUEL KASAYE,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+ANDREW DAY,A,,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Pending
+BRADLEY MATTHEWS JR,A,,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Pending
+AARON R HOBACK,A,,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Cancelled
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Cancelled
+AARON R HOBACK,A,,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.65,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Cancelled
+ANDREW DAY,A,,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+JOYCESTINE NEBLETT,A,Steve Anderson,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,Cancelled
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+BRADLEY MATTHEWS JR,A,,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Cancelled
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,B,Steve Anderson,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,Steve Anderson,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,11:52:38,184.14,Completed
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.65,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,Steve Anderson,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.65,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,Steve Anderson,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,11:30:33,322.66,Picked
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+BRADLEY MATTHEWS JR,A,JOEL YERBO,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Pending
+ANDREW DAY,B,,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24,Pending
+JOYCESTINE NEBLETT,B,,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.65,Completed
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+Test Steve,A,Test Test,11 Chopin Ct-- Jersey City- NJ- USA,Canal Circle-- Jersey City- NJ- USA,17:00:00,19:20:56,1.09,Completed
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+ANDREW DAY,A,,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Pending
+AARON R HOBACK,A,,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Pending
+BRADLEY MATTHEWS JR,B,,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Completed
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+JOYCESTINE NEBLETT,A,Steve Anderson,218 Kent Dr--Martinsville-VA-24112,33 Bridge St--Martinsville-VA-24112,05:00:00,00:00:00,3,Pending
+BRADLEY MATTHEWS JR,B,JOEL YERBO,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Pending
+ANDREW DAY,B,,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24,Pending
+BRADLEY MATTHEWS JR,A,Steve Anderson,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Pending
+JOYCESTINE NEBLETT,B,JOEL YERBO,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,Pending
+ANDREW DAY,A,JOEL YERBO,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Pending
+AARON R HOBACK,B,EUEL KASAYE,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Pending
+AARON R HOBACK,A,,1300 Mulberry Rd--Martinsville-VA-24112,600 Northside Dr--Martinsville-VA-24112,07:45:00,00:00:00,4,Pending
+JOYCESTINE NEBLETT,A,Steve Anderson,218 Kent Dr--Martinsville-VA-24112,33 Bridge St--Martinsville-VA-24112,05:00:00,00:00:00,3,Pending
+AMBER tEST,B,EUEL KASAYE,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.65,Completed
+AMBER tEST,B,Steve Anderson,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Completed
+AMBER tEST,A,Steve Anderson,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,In Progress
+AMBER tEST,A,Steve Anderson,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,EUEL KASAYE,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+Kevin,A,,121st St-212-Largo- FL- USA,122 St Thomas--Largo- Florida- USA,12:22:00,00:00:00,2.15,Completed
+AMBER tEST,A,Test Test,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,23:59:59,00:00:00,0,Pending
+AMBER tEST,A,JOEL YERBO,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,EUEL KASAYE,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,EUEL KASAYE,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,JOEL YERBO,113 St Marys St W--St. Marys- GA- USA,33rd St-- Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,B,,33rd St-- Orlando- FL- USA,113 St Marys St W--St. Marys- GA- USA,12:00:00,00:00:00,184.97,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,SAM Cooper,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,-,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,Steve Anderson,33rd St--Orlando- FL- USA,-,23:59:59,00:00:00,0,Pending
+AMBER tEST,A,Steve Anderson,113 Shipyard Drive--Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St-- Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St-- Orlando- FL- USA,113 St Marys St W--St. Marys- GA- USA,12:00:00,00:00:00,184.97,Pending
+AMBER tEST,A,,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St-- Orlando- FL- USA,113 St Marys St W--St. Marys- GA- USA,12:00:00,00:00:00,184.97,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St-- Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St-- Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,33rd St-- Orlando- FL- USA,113 St Marys St W--St. Marys- GA- USA,12:00:00,00:00:00,184.97,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,2731.34,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St-- Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,A,,113 St Marys St W-- St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,B,,33rd St-- Orlando- FL- USA,113 St Marys St W--St. Marys- GA- USA,12:00:00,00:00:00,184.97,Pending
+AMBER tEST,A,,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,,02:00:00,00:00:00,0,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,A,SHAUN DAVIDSON,113 St Marys St W-- St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,B,,33rd St-- Orlando- FL- USA,113 St Marys St W--St. Marys- GA- USA,12:00:00,00:00:00,184.97,Pending
+AMBER tEST,B,,33rd St--Orlando- FL- USA,,12:00:00,00:00:00,0,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,JOEL YERBO,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,2731.34,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,33rd St-- Orlando- FL- USA,11:00:00,00:00:00,184.14,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 Shipyard Drive-- Hilton Head Island- SC- USA,33rd St--Orlando- FL- USA,11:00:00,00:00:00,322.66,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,2731.34,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,,02:00:00,00:00:00,0,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W-- St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,2731.34,Pending
+AMBER tEST,A,,113 St Marys St W-- St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+Test Steve,A,Tom Wilson,11 Chopin Ct-- Jersey City- NJ- USA,Canal St-- Paterson- New Jersey- USA,13:00:00,00:00:00,17.89,Pending
+Test Steve,A,Tom Wilson,11 Chopin Ct-- Jersey City- NJ- USA,Holland Tunnel-- Jersey City- NJ- USA,16:00:00,00:00:00,5.87,In Progress
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+Test Steve,B,,Holland Tunnel-- Jersey City- NJ- USA,11 Chopin Ct-- Jersey City- NJ- USA,23:59:59,00:00:00,2.55,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,,02:00:00,00:00:00,0,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+Test Steve,B,Tom Wilson,Canal St-- Paterson- New Jersey- USA,11 Chopin Ct-- Jersey City- NJ- USA,23:59:59,00:00:00,17.91,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,,02:00:00,00:00:00,0,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,2731.34,Pending
+AMBER tEST,A,,113 St Marys St W-- St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+BRADLEY MATTHEWS JR,A,,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Pending
+AARON R HOBACK,B,EUEL KASAYE,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Pending
+ANDREW DAY,A,,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24,Pending
+BRADLEY MATTHEWS JR,B,Tom Wilson,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Pending
+JOYCESTINE NEBLETT,A,,218 Kent Dr--Martinsville-VA-24112,33 Bridge St--Martinsville-VA-24112,05:00:00,00:00:00,3,Pending
+AARON R HOBACK,A,,1300 Mulberry Rd--Martinsville-VA-24112,600 Northside Dr--Martinsville-VA-24112,07:45:00,00:00:00,4,Pending
+JOYCESTINE NEBLETT,B,Tom Wilson,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,Pending
+ANDREW DAY,B,Tom Wilson,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Pending
+REGINA ARNOLD,A,,1168 Saint Claire Ave--Columbus-OH-43201,730 Taylor Ave--Columbus-OH-43219,06:30:00,00:00:00,2,Pending
+TAMARA GARDNER-WELLS,A,,2548 Brookwood Rd--Columbus-OH-43209,3015 E Main St--Columbus-OH-43209,07:45:00,00:00:00,1,Pending
+AMBER tEST,B,JOEL YERBO,22 St Paul Dr--Chambersburg- PA- USA,,02:00:00,00:00:00,0,Pending
+BRIAN TUCKER,A,,755 E Whittier St-201-Columbus-OH-43206,5965 E Broad St--Columbus-OH-43213,08:00:00,00:00:00,12,Pending
+ABBA GEBREHIWOT,A,,1145 College Ave-211-Columbus-OH-43209,85 Mcnaughten Rd-110-Columbus-OH-43213,08:15:00,00:00:00,10,Pending
+ABBA GEBREHIWOT,C,,299 Outerbelt St--Columbus-OH-43213,85 Mcnaughten Rd-110-Columbus-OH-43213,14:55:00,00:00:00,11,Pending
+CLAUDIA SHINE,A,,1234 E 24th Ave--Columbus-OH-43211,4041 N High St-101-Columbus-OH-43214,08:45:00,00:00:00,6,Pending
+IZYA KUPCHIK,A,,6200 Brenthurst Dr--Gahanna-OH-43230,6038 E Main St--Columbus-OH-43213,08:50:00,00:00:00,9,Pending
+CASSANDRA THOMAS,A,,1155 Noe Bixby Rd-112-Columbus-OH-43213,6038 E Main St--Columbus-OH-43213,09:00:00,00:00:00,1,Pending
+SHIRLEY HAYFORD,A,,5911 Little Brook Way-204-Columbus-OH-43232,358 S Hamilton Rd--Gahanna-OH-43230,09:15:00,00:00:00,5,Pending
+KAREN LEVINS,A,,2493 Eakin Rd--Columbus-OH-43204,730 Taylor Ave--Columbus-OH-43219,09:45:00,00:00:00,8,Pending
+AMBER tEST,A,SAM Cooper,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,2731.34,Pending
+DAWN KRAMER,A,,1425 Yorkland Rd--Columbus-OH-43232,6038 E Main St--Columbus-OH-43213,09:45:00,00:00:00,1,Pending
+DARLENE DANIELS,A,,305 N Gould Rd-10-Columbus-OH-43209,2489 Stelzer Rd-101-Columbus-OH-43219,10:00:00,00:00:00,4,Pending
+ARCHIE JONES,A,,1566 Koebel Rd--Columbus-OH-43207,415 E Mound St--Columbus-OH-43215,10:45:00,00:00:00,5,Pending
+ALICE HOLLINGSWORTH,A,,3920 Rivercreek Bay Way--Columbus-OH-43232,2355 S Hamilton Rd--Columbus-OH-43232,10:45:00,00:00:00,1,Pending
+WILDA LYONS,A,,73 Covenant Way-212-Canal Winchester-OH-43110,1310 Hill Rd N--Pickerington-OH-43147,12:00:00,00:00:00,7,Pending
+AMBER tEST,A,,113 St Marys St W-- St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+MARY JONES,A,,926 E Broad St-803-Columbus-OH-43205,358 S Hamilton Rd-B-Gahanna-OH-43230,12:30:00,00:00:00,8,Pending
+JALIYYA F ABDUR RAZZAQ,A,,140 Imperial Dr-428-Columbus-OH-43230,991 E Johnstown Rd--Columbus-OH-43230,14:00:00,00:00:00,4,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,A,,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+REGINA ARNOLD,B,,730 Taylor Ave--Columbus-OH-43219,1168 Saint Claire Ave--Columbus-OH-43201,11:20:00,00:00:00,2,Pending
+TAMARA GARDNER-WELLS,B,,3015 E Main St--Columbus-OH-43209,2548 Brookwood Rd--Columbus-OH-43209,09:30:00,00:00:00,1,Pending
+BRIAN TUCKER,B,,5965 E Broad St--Columbus-OH-43213,755 E Whittier St-201-Columbus-OH-43206,23:59:59,00:00:00,12,Pending
+ABBA GEBREHIWOT,B,,85 Mcnaughten Rd-110-Columbus-OH-43213,299 Outerbelt St--Columbus-OH-43213,10:15:00,00:00:00,8,Pending
+AMBER tEST,B,EUEL KASAYE,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+ABBA GEBREHIWOT,D,,85 Mcnaughten Rd-110-Columbus-OH-43213,1145 College Ave-211-Columbus-OH-43209,23:59:59,00:00:00,10,Pending
+CLAUDIA SHINE,B,,4041 N High St-101-Columbus-OH-43214,1234 E 24th Ave--Columbus-OH-43211,10:15:00,00:00:00,6,Pending
+IZYA KUPCHIK,B,,6038 E Main St--Columbus-OH-43213,6200 Brenthurst Dr--Gahanna-OH-43230,13:00:00,00:00:00,9,Pending
+CASSANDRA THOMAS,B,,6038 E Main St--Columbus-OH-43213,1155 Noe Bixby Rd-112-Columbus-OH-43213,14:30:00,00:00:00,2,Pending
+SHIRLEY HAYFORD,B,,358 S Hamilton Rd--Gahanna-OH-43230,5911 Little Brook Way-204-Columbus-OH-43232,11:00:00,00:00:00,6,Pending
+KAREN LEVINS,B,,730 Taylor Ave--Columbus-OH-43219,2493 Eakin Rd--Columbus-OH-43204,14:45:00,00:00:00,8,Pending
+DAWN KRAMER,B,,6038 E Main St--Columbus-OH-43213,1425 Yorkland Rd--Columbus-OH-43232,14:45:00,00:00:00,1,Pending
+DARLENE DANIELS,B,,2489 Stelzer Rd-101-Columbus-OH-43219,305 N Gould Rd-10-Columbus-OH-43209,23:59:59,00:00:00,4,Pending
+ARCHIE JONES,B,,415 E Mound St--Columbus-OH-43215,1566 Koebel Rd--Columbus-OH-43207,15:45:00,00:00:00,5,Pending
+ALICE HOLLINGSWORTH,B,,2355 S Hamilton Rd--Columbus-OH-43232,3920 Rivercreek Bay Way--Columbus-OH-43232,15:40:00,00:00:00,1,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending
+WILDA LYONS,B,,1310 Hill Rd N--Pickerington-OH-43147,73 Covenant Way-212-Canal Winchester-OH-43110,17:30:00,00:00:00,7,Pending
+MARY JONES,B,,358 S Hamilton Rd-B-Gahanna-OH-43230,926 E Broad St-803-Columbus-OH-43205,23:59:59,00:00:00,8,Pending
+JALIYYA F ABDUR RAZZAQ,B,,991 E Johnstown Rd--Columbus-OH-43230,140 Imperial Dr-428-Columbus-OH-43230,18:45:00,00:00:00,3,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,B,Tom Wilson,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,Tom Wilson,113 St Marys St W--St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,2731.34,Pending
+AMBER tEST,A,,113 St Marys St W-- St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,2731.34,Pending
+AMBER tEST,A,,113 St Marys St W-- St. Marys- GA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,772.36,Pending
+AMBER tEST,B,Steve Anderson,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,14:14:29,0,Completed
+AMBER tEST,B,Steve Anderson,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,,23:59:59,00:00:00,0,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,2731.34,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,23:59:59,00:00:00,0,Pending
+AMBER tEST,A,Steve Anderson,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,2731.34,Pending
+JOYCESTINE NEBLETT,B,,33 Bridge St--Martinsville-VA-24112,218 Kent Dr--Martinsville-VA-24112,09:30:00,00:00:00,3,Pending
+BRADLEY MATTHEWS JR,B,,213 E Main St--Martinsville-VA-24112,187 Penguin Dr--Rocky Mount-VA-24151,15:00:00,00:00:00,24,Pending
+AARON R HOBACK,B,,600 Northside Dr--Martinsville-VA-24112,1300 Mulberry Rd--Martinsville-VA-24112,15:00:00,00:00:00,4,Pending
+ANDREW DAY,B,,1005 Jordan St--Martinsville-VA-24112,2211 Union Bridge Rd--Stuart-VA-24171,14:30:00,00:00:00,23,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,B,Steve Anderson,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,18:57:33,0,Completed
+BRADLEY MATTHEWS JR,A,,187 Penguin Dr--Rocky Mount-VA-24151,213 E Main St--Martinsville-VA-24112,07:00:00,00:00:00,24,Pending
+AARON R HOBACK,A,,1300 Mulberry Rd--Martinsville-VA-24112,600 Northside Dr--Martinsville-VA-24112,07:45:00,00:00:00,4,Pending
+ANDREW DAY,A,,2211 Union Bridge Rd--Stuart-VA-24171,1005 Jordan St--Martinsville-VA-24112,08:00:00,00:00:00,24,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending
+AMBER tEST,A,Steve Anderson,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,18:58:05,2731.31,Completed
+JOYCESTINE NEBLETT,A,,218 Kent Dr--Martinsville-VA-24112,33 Bridge St--Martinsville-VA-24112,05:00:00,00:00:00,3,Pending
+ALONZO BURLEY,B,JOEL YERBO,4661 Karl Road-- Columbus- OH- USA,,00:00:00,00:00:00,,Pending
+ALONZO BURLEY,A,EUEL KASAYE,140 North State Street-100A- Westerville- OH- USA,4661 Karl Road-- Columbus- OH- USA,12:30:00,09:57:03,6.55,Completed
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending
+AMBER tEST,B,Steve Anderson,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,13:06:37,0,Picked
+AMBER tEST,A,Steve Anderson,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,03:00:00,00:00:00,2731.31,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,B,,22 St Paul Dr--Chambersburg- PA- USA,-,02:00:00,00:00:00,0,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending
+AMBER tEST,A,,25th St--San Francisco- CA- USA,22 St Paul Dr--Chambersburg- PA- USA,12:00:00,00:00:00,2734.65,Pending

@@ -1,0 +1,22 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+GWENDOLYN THOMPSON,B,Eric Velasquez,7905 Calumet Ave--MUNSTER IN 46321,2140 Woodhollow Ln Apt 2B--HAMMOND IN 46323,14:30:00,15:28:29,3.71,Completed
+Patricia Porter,A,Eric Velasquez,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,3290 Grant St--IN 46408,10:00:00,11:16:30,11.95,Completed
+Darian Williams,A,Eric Velasquez,1555 South Main Street--Crown Point- IN- USA,550 West 84th Drive--Merrillville- IN- USA,11:45:00,13:13:49,6.14,Completed
+FELIX VAZQUEZ,A,Eric Velasquez,7233 Jefferson Ave--HAMMOND IN 46324,9100 Calumet Ave--MUNSTER IN 46321,11:15:00,12:18:47,2.27,Completed
+GWENDOLYN THOMPSON,A,Eric Velasquez,2140 Woodhollow Ln Apt 2B--HAMMOND IN 46323,7905 Calumet Ave--MUNSTER IN 46321,12:30:00,14:13:21,3.59,Completed
+Patricia Porter,B,Eric Velasquez,3290 Grant St--IN 46408,101 W 87th Ave-Room 1106 Door B-Merrillville- IN 46410- USA,14:45:00,16:05:08,11.22,Completed
+Donald Suhr,B,Eric Velasquez,951 Transport Drive-- Valparaiso- IN- USA,9223 Highland Pl Highland -,14:45:00,16:06:02,33.18,Completed
+June Mastey,B,Eric Velasquez,1630 45th St--Munster- IN- USA,401 U.S. 30--Schererville- IN- USA,23:59:59,15:42:18,5.85,Completed
+Walter Cassoday,A,Eric Velasquez,4710 Oaklane Drive-- Griffith- IN- USA,9030 Columbia Avenue-- Munster- IN- USA,10:15:00,00:00:00,6.83,Cancelled
+Gwendolyn Thompson,B,Eric Velasquez,7905 Calumet Ave--MUNSTER IN 46321,2140 Woodhollow Ln-- Hammond- IN 46323- USA,23:59:59,13:58:12,3.71,Completed
+June Mastey,A,Eric Velasquez,401 U.S. 30--Schererville- IN- USA,1630 45th St--Munster- IN- USA,11:00:00,11:54:11,5.84,Completed
+LOUIS ROGERS,B,Eric Velasquez,349 West 80th Place-- Merrillville- IN- USA,3636 West 15th Avenue--Gary- IN- USA,23:59:59,17:29:53,13.07,Completed
+Curtis McCrutcheon,A,Eric Velasquez,1000 East 114th Street--Whiting- IN- USA,4016 Main St--East Chicago- IN 46312- USA,12:00:00,13:36:09,5.84,Completed
+Aurelia Fedor,B,Eric Velasquez,951 Transport Dr Suite 2--  IN 46383,1000 East 114th Street-- Whiting- IN- USA,12:00:00,15:11:57,40.59,Completed
+Eric Brady,A,Eric Velasquez,13025 Oakdale Place-- Cedar Lake- IN- USA,909 Joliet Street-- Dyer- IN- USA,08:00:00,00:00:00,9.61,Cancelled
+Curtis McCrutcheon,A,Eric Velasquez,1000 East 114th Street--Whiting- IN- USA,4016 Main St--East Chicago- IN 46312- USA,12:30:00,13:19:24,5.84,Completed
+Julio Ramos,B,Eric Velasquez,951 Transport Dr Suite 2--  IN 46383,5025 McCook Ave-- East Chicago- IN 46312- USA,23:59:59,18:56:34,33.64,Completed
+Gwendolyn Thompson,A,Eric Velasquez,2140 Woodhollow Ln-Apt 2B-Hammond- IN 46323- USA,7905 Calumet Ave--Munster- IN 46321- USA,12:00:00,13:42:35,3.59,Completed
+Donald Pierce,B,Eric Velasquez,951 Transport Drive-- Valparaiso- IN- USA,,23:59:59,16:45:55,,Completed
+Julio Ramos,A,Eric Velasquez,5025 McCook Ave-- East Chicago- IN 46312- USA,951 Transport Dr Suite 2--  IN 46383,09:30:00,11:21:50,33.27,Completed
+John Wawrzyszuk,A,Eric Velasquez,119 N Indiana Ave--Crown Point- IN 46307- USA,851 W Burrell Dr--IN 46307,07:30:00,10:54:21,3.13,Completed

@@ -1,0 +1,16 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+amber,B,Jason Walker,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,17:02:21,0,Completed
+amber,A,,222 St Paul Pl-- Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,Pending
+amber,A,,222 St Paul Pl-- Baltimore- MD- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2461.51,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,02:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,06:00:00,00:00:00,0,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,-,06:00:00,00:00:00,0,Pending
+amber,A,,222 State Hwy 1--El Segundo- CA- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,1841.18,Pending
+amber,B,,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,,02:00:00,00:00:00,0,Pending
+amber,A,,222 Station Plaza North--Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+amber,A,,222 Station Plaza North--Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+amber,A,,222 Station Plaza North--Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+amber,A,,222 Station Plaza North--Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending
+amber,A,,222 Station Plaza North--Mineola- NY- USA,Mexico City International Airport (MEX)--Avenida Capitán Carlos León- Peñón de los Baños- Mexico City- CDMX- Mexico,04:00:00,00:00:00,2673.08,Pending

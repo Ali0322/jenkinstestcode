@@ -1,0 +1,8 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Feb. 19 2019
+,,,Invoice From: Feb. 12 2019 To: Feb. 19 2019
+,,,Total Amount Billed: 234.65
+1,9236,Feb-13 2019[Logistic Care],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,14.31,0,14.31,,76.55
+ 2,9241,Feb-14 2019[Logistic Care],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,14.31,0,14.31,Wheel Chair Rental Charges: 5  ,81.55
+ 3,9237,Feb-14 2019[Logistic Care],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,14.31,0,14.31,,76.55
+

@@ -1,0 +1,269 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+KIM VU,A,Surjeet Singh,1620 E Capitol Exwy--San Jose-CA-95121,2309 Quail Bluff Pl--San Jose-CA-95121,11:00:00,00:00:00,2,Pending
+LEANDREA A KRAUSE,A,,34 W Beverly Pl--Tracy-CA-95376,15035 E 14th St--San Leandro-CA-94578,11:00:00,00:00:00,41,Pending
+BARRY LOVE,A,,7231 E Southgate Dr--Sacramento-CA-95823,1 Clauss Ct-9C-Sacramento-CA-95820,09:15:00,00:00:00,3,Pending
+RYAN HUGHES,A,Zee Johnson,3336 Arkansas St--Oakland-CA-94602,15555 E 14th St--San Leandro-CA-94578,17:00:00,00:00:00,10,Pending
+CHRISTINE AMARO,B,Surjeet Singh,1620 E Capitol Exwy--San Jose-CA-95121,152 Basch Ave--San Jose-CA-95116,18:30:00,00:00:00,4,Pending
+CARLOS I VIZCARRA,B,,1825 4th St--San Francisco-CA-94158,375 Industrial Pkwy--Hayward-CA-94544,14:39:59,00:00:00,30,Pending
+PETE LOPES,A,Gurjot Singh,4129 Apostolo Cir-1-Sacramento-CA-95824,7225 E Southgate Dr-D-Sacramento-CA-95823,07:15:00,00:00:00,4,Pending
+HERMAN CEGERS,A,,7000 Stockton Blvd--Sacramento-CA-95823,7312 Franklin Blvd-2-Sacramento-CA-95823,09:15:00,00:00:00,3,Pending
+GLENDA HUNTER,A,Sarbjot Singh,310 Harris Ave-A-Sacramento-CA-95838,1428 North Ave--Sacramento-CA-95838,07:19:59,00:00:00,2,Pending
+DENISE A MUNOZ,B,Elvis Presley,20094 Mission Blvd--Hayward-CA-94541,670 Hampton Rd--Hayward-CA-94541,08:15:00,00:00:00,1,Pending
+ANNETTE BAKER,B,Hakeem Ajadi,3100 Summit St--Oakland-CA-94609,3525 Lyon Ave-20 B-Oakland-CA-94601,11:00:00,00:00:00,5,Pending
+SUSAN W OJLA,A,,556 Utica Dr--Sunnyvale-CA-94087,155 N Wolfe Rd--Sunnyvale-CA-94086,12:00:00,00:00:00,3,Pending
+THOMAS MOINALFI,B,Gurjot Singh,7240 E Southgate Dr--Sacramento-CA-95823,4719 50th Ave-Apt 126-Sacramento-CA-95823,09:15:00,00:00:00,2,Pending
+JAMES B PITTS,A,,2624 Stockton Blvd--Sacramento-CA-95817,76 Seavey Cir-76-Sacramento-CA-95818,09:15:00,00:00:00,3,Pending
+ERLINDA G PUZON,A,Sarbjot Singh,30 Golden Land Ct--Sacramento-CA-95834,3221 Beretania Way--Sacramento-CA-95834,08:30:00,00:00:00,3,Pending
+VICTORIA G GUTIERREZ,A,Elvis Presley,3586 Pine St--Castro Valley-CA-94546,2450 Washington Ave-120-San Leandro-CA-94577,09:00:00,00:00:00,6,Pending
+DICKSON NGOWI,A,Hakeem Ajadi,2710 Telegraph Ave-200-Oakland-CA-94612,950 Adeline St--Oakland-CA-94607,10:00:00,00:00:00,2,Pending
+MAKAYLA R CORNELL,A,,326 Alice Way--Livermore-CA-94550,725 Welch Rd--Palo Alto-CA-94304,12:15:00,00:00:00,35,Pending
+JEANETTE DAVIS,B,Gurjot Singh,7000 Franklin Blvd--Sacramento-CA-95823,7533 Soules Way--Sacramento-CA-95823,12:45:00,00:00:00,2,Pending
+JEFFREY R ROE,A,,536 Jefferson St--Hayward-CA-94544,1661 Industrial Pkwy W--Hayward-CA-94544,09:15:00,00:00:00,3,Pending
+ARTHUR DOSTY,A,Sarbjot Singh,3610 Marysville Blvd-8-Sacramento-CA-95838,4612 Roseville Rd-100-North Highlands-CA-95660,10:45:00,00:00:00,4,Pending
+MAKAYLA R CORNELL,B,Elvis Presley,725 Welch Rd--Palo Alto-CA-94304,326 Alice Way--Livermore-CA-94550,17:30:00,00:00:00,39,Pending
+MOTILAL FOTEDAR,B,Hakeem Ajadi,3800 Coolidge Ave--Oakland-CA-94602,18691 W Cavendish Dr-house-Castro Valley-CA-94552,12:00:00,00:00:00,15,Pending
+CAROLYN ARMAND,B,,1650 W Yosemite Ave--Manteca-CA-95337,1443 Berrendas St--Patterson-CA-95363,17:20:00,00:00:00,27,Pending
+NATHAN BRYANT,A,Gurjot Singh,4234 N Freeway Blvd-500-Sacramento-CA-95834,251 Lathrop Way--Sacramento-CA-95815,13:45:00,00:00:00,5,Pending
+DWAYMON DEMUS,A,,1925 9TH ST--BERKELEY-CA-94710,2655 Shattuck Ave--Berkeley-CA-94704,09:15:00,00:00:00,2,Pending
+TAMMY BARROS,B,Sarbjot Singh,2624 Stockton Blvd--Sacramento-CA-95817,5201 Del Norte Blvd--Sacramento-CA-95820,18:30:00,00:00:00,2,Pending
+NORMA JEAN L PEREZ,B,Elvis Presley,2805 Whipple Rd--Union City-CA-94587,22815 Vermont St-508-Hayward-CA-94541,15:00:00,00:00:00,7,Pending
+MARIA E PINALES,B,Hakeem Ajadi,21615 Hesperian Blvd--Hayward-CA-94541,300 Elmhurst St-E50-Hayward-CA-94544,17:15:00,00:00:00,2,Pending
+EDWARD J WILLIAMS,A,,817 E Lewelling Blvd-26-Hayward-CA-94541,16110 E 14th St--San Leandro-CA-94578,12:30:00,00:00:00,1,Pending
+SANDRA L CORDEIRO,A,Nick Singh,1100 17th St-APT 304-Sacramento-CA-95811,2100 Capitol Ave--Sacramento-CA-95816,07:15:00,00:00:00,1,Pending
+STEVE F LIEBA,B,,6116 Medau Pl--Oakland-CA-94611,1226 90th Ave--Oakland-CA-94603,23:59:59,00:00:00,8,Pending
+JENNIE GALLARDO,A,,7560 Splendid Way--Elk Grove-CA-95758,2730 Florin Rd--Sacramento-CA-95822,07:30:00,00:00:00,7,Pending
+DAVID T HAMILTON,A,Omar Ahmed,1311 Martin Luther King Jr Way-10-Berkeley-CA-94709,15400 Foothill Blvd--San Leandro-CA-94578,08:00:00,00:00:00,17,Pending
+MAXINE O BENSON,A,Robel Yemane,237 Haas Ave-222-San Leandro-CA-94577,5354 Claremont Ave--Oakland-CA-94618,07:30:00,00:00:00,11,Pending
+RICHARD A MOELLER,A,,17957 Redwood Rd--Castro Valley-CA-94546,15555 E 14th St--San Leandro-CA-94578,12:45:00,00:00:00,3,Pending
+CAESARE VASQUEZ,B,Nick Singh,30 Golden Land Ct--Sacramento-CA-95834,8408 Dara Way--Sacramento-CA-95828,13:30:00,00:00:00,18,Pending
+MOHAMED A QURAISHE,A,,4987 Central Ave-142-Fremont-CA-94536,3775 Beacon Ave-3120-Fremont-CA-94538,09:15:00,00:00:00,2,Pending
+JULIET YELLMAN,A,,4001 S Watt Ave-219-Sacramento-CA-95826,2624 Stockton Blvd--Sacramento-CA-95817,07:45:00,00:00:00,6,Pending
+FEREWOINI T ARAYA,A,Omar Ahmed,1089 26th St-303-Oakland-CA-94607,505 Parnassus Ave--San Francisco-CA-94143,10:30:00,00:00:00,13,Pending
+XIMENA L CABALLERO,B,Robel Yemane,744 52nd St--Oakland-CA-94609,897 Quantas Ln--Hayward-CA-94546,11:15:00,00:00:00,15,Pending
+TOAN NGUYEN,A,,8306 Hardester Dr--Sacramento-CA-95828,8243 E Stockton Blvd-100-Sacramento-CA-95828,13:00:00,00:00:00,2,Pending
+ARTHUR DOSTY,B,Nick Singh,4612 Roseville Rd-100-North Highlands-CA-95660,3610 Marysville Blvd-8-Sacramento-CA-95838,15:45:00,00:00:00,4,Pending
+GWENDOLYN D MCCOWAN,A,,1690 164th Ave-12-San Leandro-CA-94578,10700 Macarthur Blvd-14B-Oakland-CA-94605,09:15:00,00:00:00,4,Pending
+ARTHUR NEWELLS,B,,2730 Florin Rd--Sacramento-CA-95822,9147 Tuolumne Dr--Sacramento-CA-95826,14:00:00,00:00:00,11,Pending
+DAO T LE,B,Omar Ahmed,1600 Divisadero St--San Francisco-CA-94143,1703 24th Ave-C-Oakland-CA-94601,15:00:00,00:00:00,17,Pending
+DWAYMON DEMUS,B,Robel Yemane,2655 Shattuck Ave--Berkeley-CA-94704,1925 9TH ST--BERKELEY-CA-94710,16:00:00,00:00:00,2,Pending
+LESLIE T JOHNSON,A,,6316 Mariposa Ave-17-Citrus Heights-CA-95610,6406 Tupelo Dr--Citrus Heights-CA-95621,13:00:00,00:00:00,4,Pending
+LESLIE T JOHNSON,B,Nick Singh,6406 Tupelo Dr--Citrus Heights-CA-95621,6316 Mariposa Ave-17-Citrus Heights-CA-95610,17:45:00,00:00:00,4,Pending
+SYLVIA JACKSON,A,,257 Athol Ave-10-Oakland-CA-94606,3022 International Blvd-202C-Oakland-CA-94601,09:30:00,00:00:00,3,Pending
+DANIEL BOLING,A,,17606 Sunrise Rd--Nevada City-CA-95959,2330 Post St--San Francisco-CA-94115,06:30:00,00:00:00,161,Pending
+JAMES JERMAINE,B,Omar Ahmed,1411 E 31st St--Oakland-CA-94602,2623 Renton Way--Castro Valley-CA-94546,17:00:00,00:00:00,13,Pending
+NAVAEH ZAID,A,Robel Yemane,2431 106th Ave-4-Oakland-CA-94603,562 14th St--Oakland-CA-94612,10:15:00,00:00:00,10,Pending
+ALAN CHAVEZ,B,,275 Di Salvo Ave--San Jose-CA-95128,13545 Monterey Hwy-113-San Martin-CA-95046,17:45:00,00:00:00,31,Pending
+MARGARET M ROMER,B,Ricardo Rodriquez,2107 O farrell St--Sf-CA-94115,19786 Louise Ct-612-Castro Valley-CA-94546,11:15:00,00:00:00,27,Pending
+LETICIA F GIRON,B,,1620 E Capitol Exwy--San Jose-CA-95121,2811 Deerwood Dr--San Jose-CA-95148,13:30:00,00:00:00,2,Pending
+CONCEPCION PEREZ VASQUEZ,A,,3071 Gold Canal Dr--Rancho Cordova-CA-95670,2423 Aramon Dr--Rancho Cordova-CA-95670,08:15:00,00:00:00,2,Pending
+HAILU GOCHE,B,Mateen Sheikh,2757 Telegraph Ave--Oakland-CA-94609,1600 Lakeshore Ave--Oakland-CA-94606,13:00:00,00:00:00,2,Pending
+KE MO,B,Robel Yemane,2001 Dwight Way--Berkeley-CA-94704,2119 Lincoln Ave-A-Alameda-CA-94501,17:20:00,00:00:00,9,Pending
+RUBEN HERNANDEZ,A,,2625 Octavia St--Oakland-CA-94619,9925 International Blvd-210-Oakland-CA-94603,13:00:00,00:00:00,5,Pending
+FREDA M JACKSON,B,Ricardo Rodriquez,20400 Lake Chabot Rd-304-Castro Valley-CA-94546,2047 38th Ave-E-Oakland-CA-94612,12:30:00,00:00:00,15,Pending
+THOMAS JAMES,A,,21615 Hesperian Blvd--Hayward-CA-94541,17260 Hesperian Blvd--San Lorenzo-CA-94580,09:30:00,00:00:00,2,Pending
+TAUSIA VAREA,A,,251 Lathrop Way--Sacramento-CA-95815,729 SAN JUAN RD--SACRAMENTO-CA-95834,08:30:00,00:00:00,3,Pending
+SYLVIA JACKSON,C,Mateen Sheikh,257 Athol Ave-10-Oakland-CA-94606,2041 Bancroft Way-301-Berkeley-CA-94704,14:00:00,00:00:00,7,Pending
+ADRIANA LUGO,A,Jasko Husein,2005 Naglee Ave--San Jose-CA-95128,2091 Mclaughlin Ave-111-San Jose-CA-95122,09:00:00,00:00:00,6,Pending
+Rosario Abella,A,,308 Wildflower Park Ln--Mountain View-CA-94043,155 N Wolfe Rd--Sunnyvale-CA-94086,13:15:00,00:00:00,4,Pending
+SUET FONG CHO LI,B,Ricardo Rodriquez,2551 Merced St--San Leandro-CA-94577,16134 Via Chiquita--San Lorenzo-CA-94580,17:45:00,00:00:00,4,Pending
+FREDA M JACKSON,A,,2047 38th Ave-E-Oakland-CA-94612,20400 Lake Chabot Rd-304-Castro Valley-CA-94546,09:30:00,00:00:00,15,Pending
+PATRICIA A JOHNSON,B,,6127 Fair Oaks Blvd--Carmichael-CA-95608,8060 Westcamp Rd--Fair Oaks-CA-95628,23:59:59,00:00:00,6,Pending
+KERMIT HUNTER,A,Mateen Sheikh,920 Page St--Berkeley-CA-94710,2655 Shattuck Ave--Berkeley-CA-94704,09:45:00,00:00:00,3,Pending
+FEAOMOEATA TALIVAKAOLA,A,Jasko Husein,247 W El Camino Real-100-Mountain View-CA-94040,661 E Taylor St--San Jose-CA-95112,10:15:00,00:00:00,12,Pending
+CHRISTINE AMARO,A,,152 Basch Ave--San Jose-CA-95116,1620 E Capitol Exwy--San Jose-CA-95121,13:15:00,00:00:00,4,Pending
+PATRICIA A BALLES,B,Ricardo Rodriquez,27206 Calaroga Ave-101-Hayward-CA-94545,5361 Trask St--Oakland-CA-94601,16:00:00,00:00:00,12,Pending
+JAMES KOO,A,,808 A St-unit 314-Hayward-CA-94541,32930 Alvarado Niles Rd--Union City-CA-94587,09:30:00,00:00:00,8,Pending
+EUGENIA GILL,A,,1315 Alhambra Ave--Sacramento-CA-95816,4743 Marconi Ave-12-Carmichael-CA-95608,08:45:00,00:00:00,9,Pending
+LINDA SMITH,A,Mateen Sheikh,2912 Otis St-APT 5-Berkeley-CA-94703,2895 7th St--Berkeley-CA-94710,12:00:00,00:00:00,1,Pending
+LORINE JOHNSON,B,Jasko Husein,10700 Macarthur Blvd-14A-Oakland-CA-94605,637 E 19th St--Oakland-CA-94606,14:15:00,00:00:00,8,Pending
+TAMMY BARROS,A,,5201 Del Norte Blvd--Sacramento-CA-95820,2624 Stockton Blvd--Sacramento-CA-95817,13:15:00,00:00:00,2,Pending
+TANASHA NORBERT,B,Shelima Simmons,27225 Calaroga Ave--Hayward-CA-94545,10040 Macarthur Blvd--Oakland-CA-94605,11:00:00,00:00:00,10,Pending
+THERON L CHAPPEL,B,,386 14th St--Oakland-CA-94612,1411 E 31st St--Oakland-CA-94602,23:59:59,00:00:00,3,Pending
+SHANTAYE T BEVERLY,A,,6224 Dundee Dr-24-North Highlands-CA-95660,8243 E Stockton Blvd--Sacramento-CA-95828,08:45:00,00:00:00,20,Pending
+PETE LOPES,B,Punjab Singh,7225 E Southgate Dr-D-Sacramento-CA-95823,4129 Apostolo Cir-1-Sacramento-CA-95824,08:15:00,00:00:00,4,Pending
+KE MO,A,Jasko Husein,2119 Lincoln Ave-A-Alameda-CA-94501,2001 Dwight Way--Berkeley-CA-94704,15:15:00,00:00:00,9,Pending
+STEVEN D RODRIQUEZ,B,,21463 Foothill Blvd--Hayward-CA-94541,195 Sunset Blvd--Hayward-CA-94541,23:59:59,00:00:00,1,Pending
+JEFFREY R ROE,B,Shelima Simmons,1661 Industrial Pkwy W--Hayward-CA-94544,536 Jefferson St--Hayward-CA-94544,15:30:00,00:00:00,3,Pending
+BARBARA MERRIMAN,A,,8500 Wren Ave-APT 112-Gilroy-CA-95020,16060 Caputo Dr-140-Morgan Hill-CA-95037,09:45:00,00:00:00,8,Pending
+CYNTHIA C WILLIAMS,A,,4405 42nd Ave--Sacramento-CA-95824,6555 Coyle Ave-301-Sacramento-CA-95816,08:45:00,00:00:00,5,Pending
+THOMAS MOINALFI,A,Punjab Singh,4719 50th Ave-Apt 126-Sacramento-CA-95823,7240 E Southgate Dr--Sacramento-CA-95823,08:00:00,00:00:00,2,Pending
+CHUONG SON,A,Habtamu Tegegne,1450 S White Rd-30-San Jose-CA-95127,2566 S King Rd-126-San Jose-CA-95122,09:00:00,00:00:00,3,Pending
+ANGELIQUE V MOANANU,A,,1475 167th Ave-29-San Leandro-CA-94578,14020 San Pablo Ave--San Pablo-CA-94806,13:30:00,00:00:00,25,Pending
+LORINE JOHNSON,A,Shelima Simmons,637 E 19th St--Oakland-CA-94606,10700 Macarthur Blvd-14A-Oakland-CA-94605,12:15:00,00:00:00,8,Pending
+JANELL WILLIAMS,A,,32930 Alvarado Niles Rd--Union City-CA-94587,5537 MCDONALD AVE--NEWARK-CA-94560,09:45:00,00:00:00,15,Pending
+CYNTHIA C WILLIAMS,C,,5610 Stockton--Sacramento-CA-95824,4405 42nd Ave--Sacramento-CA-95824,23:59:59,00:00:00,1,Pending
+CAESARE VASQUEZ,A,Punjab Singh,8408 Dara Way--Sacramento-CA-95828,30 Golden Land Ct--Sacramento-CA-95834,08:45:00,00:00:00,18,Pending
+MARY R GRIJALVA,A,Habtamu Tegegne,1860 Milmont Dr-STE 110-Milpitas-CA-95035,1473 Wabash St--Alviso-CA-95002,10:00:00,00:00:00,5,Pending
+PAMELA JOHNSON,B,,1860 Mowry Ave-310-Fremont-CA-94538,7036 Macarthur Blvd-2-Oakland-CA-94605,23:59:59,00:00:00,22,Pending
+ANNIE JASTE,A,Shelima Simmons,1155 Calhoun St--Hayward-CA-94544,22331 Mission Blvd--Hayward-CA-94541,14:15:00,00:00:00,3,Pending
+MINGZHU SHI,B,,2220 Moorpark Ave--San Jose-CA-95128,6468 Bancroft Way--San Jose-CA-95129,13:30:00,00:00:00,5,Pending
+LINDA M JOHNSON,B,,3555 Deer Park Dr-180-Stockton-CA-95219,144 Mun Kwok Ln-311-Stockton-CA-95202,23:59:59,00:00:00,5,Pending
+JEANETTE MORA,B,Punjab Singh,1771 Stockton Blvd--Sacramento-CA-95816,2451 Meadowview Rd-1103-Sacramento-CA-95832,17:00:00,00:00:00,6,Pending
+JOHN P WALKER,B,Habtamu Tegegne,2628 International Blvd--Oakland-CA-94601,2996 King St--Berkeley-CA-94703,18:15:00,00:00:00,6,Pending
+TOMAS MARTINEZ,B,,8095 Camino Arroyo-100-Gilroy-CA-95020,1501 Bella Vista Dr--Hollister-CA-95023,18:30:00,00:00:00,19,Pending
+LUKE SKEELS,A,Kamal Singh,2975 Sacramento St--Berkeley-CA-94702,1040 University Ave-211-Berkeley-CA-94710,07:45:00,00:00:00,2,Pending
+CATHLEEN A BUNA,A,,18348 Lake Chabot Rd--Castro Valley-CA-94546,20094 Mission Blvd--Hayward-CA-94541,09:45:00,00:00:00,3,Pending
+JASON SANTIAGO,A,,4660 Mack Rd-168-Sacramento-CA-95823,6205 Riverside Blvd-107-Sacramento-CA-95831,09:00:00,00:00:00,6,Pending
+TOAN NGUYEN,B,Punjab Singh,8243 E Stockton Blvd-100-Sacramento-CA-95828,8306 Hardester Dr-100-Sacramento-CA-95828,17:30:00,00:00:00,2,Pending
+ANGELIQUE V MOANANU,B,Habtamu Tegegne,14020 San Pablo Ave--San Pablo-CA-94806,1475 167th Ave-29-San Leandro-CA-94578,20:00:00,00:00:00,25,Pending
+LE V HO,B,,1620 E Capitol Exwy--San Jose-CA-95121,1316 Lightland Rd--San Jose-CA-95121,18:30:00,00:00:00,2,Pending
+THERON L CHAPPEL,A,Kamal Singh,1164 88th Ave--Oakland-CA-94621,386 14th St--Oakland-CA-94612,09:45:00,00:00:00,8,Pending
+MELANIE CEJA,A,,25471 Muir St--Hayward-CA-94544,5220 Claremont Ave--Oakland-CA-94618,09:45:00,00:00:00,19,Pending
+ALONZO TURNER,A,,198 E 14th St--San Leandro-CA-94577,3229 63rd Ave--Oakland-CA-94605,09:00:00,00:00:00,3,Pending
+FRANCISCA I VALENCIA,A,Punjab Singh,3525 Whitney Ave-27-Sacramento-CA-95821,4005 Manzanita Ave--Carmichael-CA-95608,15:30:00,00:00:00,4,Pending
+GRACE AMAMGBO,B,Elvis Voloder,6116 Medau Pl--Oakland-CA-94611,10 Sequoyah View Dr--Oakland-CA-94605,09:00:00,00:00:00,7,Pending
+LAVANDA HARDESTY,A,,2327 84th Ave-D-Oakland-CA-94605,3755 Beacon Ave--Fremont-CA-94538,14:45:00,00:00:00,24,Pending
+JOCELYN I MABUYO,A,Kamal Singh,2628 International Blvd--Oakland-CA-94601,1244 58th Ave--Oakland-CA-94621,10:45:00,00:00:00,2,Pending
+PAZ P PRUNEDA,A,,33632 6th St--Union City-CA-94587,1237 B St--Hayward-CA-94541,10:00:00,00:00:00,7,Pending
+BARBARA STEELE,A,,1436 Glacier Dr--Milpitas-CA-95035,725 Ridder Park Dr--San Jose-CA-95131,09:00:00,00:00:00,5,Pending
+RAPHAEL L CRAWFORD,B,Punjab Singh,30 Golden Land Ct--Sacramento-CA-95834,4407 Oak Hallow Dr-62-Sacramento-CA-95842,21:00:00,00:00:00,11,Pending
+MELANIE CEJA,B,Elvis Voloder,5220 Claremont Ave--Oakland-CA-94618,25471 Muir St--Hayward-CA-94544,12:00:00,00:00:00,19,Pending
+PATRICIA BLAND,A,,310 Harris Ave-A-Sacramento-CA-95838,1530 Howe Ave-906-Sacramento-CA-95825,23:59:59,00:00:00,5,Pending
+David Cardoza,B,Kamal Singh,1450 S White Rd--San Jose-CA-95127,443 S 11th St--San Jose-CA-95112,17:15:00,00:00:00,5,Pending
+MOTILAL FOTEDAR,A,,18691 W Cavendish Dr-house-Castro Valley-CA-94552,3800 Coolidge Ave--Oakland-CA-94602,10:00:00,00:00:00,15,Pending
+VICTORIA G GUTIERREZ,B,,2450 Washington Ave-120-San Leandro-CA-94577,3586 Pine St--Castro Valley-CA-94546,11:15:00,00:00:00,6,Pending
+GRACE AMAMGBO,A,Zee Johnson,10 Sequoyah View Dr--Oakland-CA-94605,6116 Medau Pl--Oakland-CA-94611,07:15:00,00:00:00,7,Pending
+ROSA N AVILES FONSECA,A,Elvis Voloder,24187 Park St--Hayward-CA-94544,747 52nd St--Oakland-CA-94609,13:15:00,00:00:00,18,Pending
+MARYAM RASEKHNIA,A,Kamal Singh,520 Calabria Pl--San Jose-CA-95128,242 La Pala Dr--San Jose-CA-95127,14:30:00,00:00:00,10,Pending
+DELFINO SOLIS REYES,A,,2400 Parkside Dr--Fremont-CA-94536,33405 6th St--Union City-CA-94587,10:00:00,00:00:00,5,Pending
+XIMENA L CABALLERO,A,,897 Quantas Ln--Hayward-CA-94546,744 52nd St--Oakland-CA-94609,09:00:00,00:00:00,15,Pending
+BETTY BRADFORD,B,Zee Johnson,2655 Shattuck Ave--Berkeley-CA-94704,1615 Auseon Ave--Oakland-CA-94621,14:30:00,00:00:00,10,Pending
+SALY CHEAM,A,Elvis Voloder,2712 11th Ave--Oakland-CA-94606,5354 Claremont Ave--Oakland-CA-94618,14:15:00,00:00:00,4,Pending
+DOMINGA ORTIZ,A,Surjeet Singh,1290 Tully Rd-80-San Jose-CA-95122,701 Curtner Ave--San Jose-CA-95125,08:15:00,00:00:00,3,Pending
+SOLEDAD ENRIQUEZ,A,,254 Jackson St--Hayward-CA-94544,30544 Hoylake St-APT 914-Hayward-CA-94544,10:30:00,00:00:00,5,Pending
+MARILYN D PLACIDE,A,,3049 Sacramento St-C-Berkeley-CA-94702,2915 Telegraph Ave-302-Berkeley-CA-94705,09:00:00,00:00:00,2,Pending
+ORFA MICHEL,A,Zee Johnson,3599 Pennsylvania Ave-106-Fremont-CA-94536,39465 Paseo Padre Pky-2100-Fremont-CA-94538,11:45:00,00:00:00,1,Pending
+DENISE A MUNOZ,A,Elvis Presley,670 Hampton Rd--Hayward-CA-94541,20094 Mission Blvd--Hayward-CA-94541,07:15:00,00:00:00,1,Pending
+HEATHER HALLERT,A,Zee Johnson,5658 Cello Way--Fremont-CA-94538,1825 4th St--San Francisco-CA-94158,12:30:00,00:00:00,38,Pending
+ESPERANZA TORRES,B,Surjeet Singh,16060 Caputo Dr-140-Morgan Hill-CA-95037,13865 Sycamore Ave--San Martin-CA-95046,17:30:00,00:00:00,3,Pending
+LEANDREA A KRAUSE,B,,15035 E 14th St--San Leandro-CA-94578,34 W Beverly Pl--Tracy-CA-95376,23:59:59,00:00:00,41,Pending
+RYAN HUGHES,B,Zee Johnson,15555 E 14th St--San Leandro-CA-94578,3336 Arkansas St--Oakland-CA-94602,21:30:00,00:00:00,10,Pending
+LE V HO,A,Surjeet Singh,1316 Lightland Rd--San Jose-CA-95121,1620 E Capitol Exwy--San Jose-CA-95121,14:15:00,00:00:00,1,Pending
+DONNA J TURNER,B,,2001 Dwight Way--Berkeley-CA-94704,2233 Ninth St-c-Berkeley-CA-94710,23:59:59,00:00:00,2,Pending
+JOANNE MUZQUIZ,B,Gurjot Singh,1315 Alhambra Ave--Sacramento-CA-95816,558 Santiago Ave--Sacramento-CA-95815,11:45:00,00:00:00,6,Pending
+LUIS SERRANO,A,,15555 E 14th St--San Leandro-CA-94578,215 Alden Rd--Hayward-CA-94541,09:15:00,00:00:00,3,Pending
+JENNIE GALLARDO,B,Sarbjot Singh,2730 Florin Rd--Sacramento-CA-95822,7560 Splendid Way--Elk Grove-CA-95758,13:30:00,00:00:00,7,Pending
+DAVID T HAMILTON,B,Elvis Presley,15400 Foothill Blvd--San Leandro-CA-94578,1311 Martin Luther King Jr Way-10-Berkeley-CA-94709,10:00:00,00:00:00,17,Pending
+GRETCHEN A POWELL,A,Hakeem Ajadi,908 Willow St--Oakland-CA-94607,700 Adeline St--Oakland-CA-94607,09:00:00,00:00:00,1,Pending
+NYIA ANDREWS,A,,1835 Allston Way--Berkeley-CA-94703,2000 San Pablo Ave--Oakland-CA-94612,12:00:00,00:00:00,5,Pending
+FIDENCIA LOPEZ,A,Gurjot Singh,8243 E Stockton Blvd--Sacramento-CA-95828,7801 36th Ave--Sacramento-CA-95824,08:15:00,00:00:00,5,Pending
+LALESH PRAKASH,A,,1545 Meadowview Rd--Sacramento-CA-95832,2050 Monarch Ave--Sacramento-CA-95832,09:15:00,00:00:00,1,Pending
+EVELYN D LOGAN,A,Sarbjot Singh,4612 Roseville Rd--North Highlands-CA-95660,1526 Orlando Way--Sacramento-CA-95815,09:45:00,00:00:00,4,Pending
+DONNA J TURNER,A,Elvis Presley,2233 Ninth St-c-Berkeley-CA-94710,2001 Dwight Way--Berkeley-CA-94704,11:30:00,00:00:00,2,Pending
+PAZ P PRUNEDA,B,Hakeem Ajadi,1237 B St--Hayward-CA-94541,33632 6th St--Union City-CA-94587,13:00:00,00:00:00,7,Pending
+CAROLYN ARMAND,A,,1443 Berrendas St--Patterson-CA-95363,1650 W Yosemite Ave--Manteca-CA-95337,12:30:00,00:00:00,27,Pending
+TINA G MACK,B,Gurjot Singh,2951 Fulton Ave--Sacramento-CA-95821,10517 Silverwood Way--Rancho Cordova-CA-95670,15:15:00,00:00:00,11,Pending
+DAVID ROSADO ROSADO,A,,4401 Mack Rd--Sacramento-CA-95823,6121 Pomegranate Ave-A-SACRAMENTO-CA-95823,09:15:00,00:00:00,3,Pending
+JEANETTE MORA,A,Sarbjot Singh,2451 Meadowview Rd-1103-Sacramento-CA-95832,1771 Stockton Blvd--Sacramento-CA-95816,12:30:00,00:00:00,6,Pending
+JOHN P WALKER,A,Elvis Presley,2996 King St--Berkeley-CA-94703,2628 International Blvd--Oakland-CA-94601,12:30:00,00:00:00,7,Pending
+EDWARD J WILLIAMS,B,Hakeem Ajadi,16110 E 14th St--San Leandro-CA-94578,817 E Lewelling Blvd-26-Hayward-CA-94541,14:30:00,00:00:00,1,Pending
+HEATHER HALLERT,B,,1825 4th St--San Francisco-CA-94158,5658 Cello Way--Fremont-CA-94538,15:30:00,00:00:00,38,Pending
+MADHAV K BOROLE,B,Gurjot Singh,3071 Gold Canal Dr--Rancho Cordova-CA-95670,4444 Malana Way--Rancho Cordova-CA-95742,18:45:00,00:00:00,4,Pending
+STEVE F LIEBA,A,,1226 90th Ave--Oakland-CA-94603,6116 Medau Pl--Oakland-CA-94611,09:15:00,00:00:00,7,Pending
+RAPHAEL L CRAWFORD,A,Sarbjot Singh,4407 Oak Hallow Dr-62-Sacramento-CA-95842,30 Golden Land Ct--Sacramento-CA-95834,15:45:00,00:00:00,10,Pending
+PATRICIA A BALLES,A,Elvis Presley,5361 Trask St--Oakland-CA-94601,27206 Calaroga Ave-101-Hayward-CA-94545,14:00:00,00:00:00,12,Pending
+STEVEN C WYLAND,B,Hakeem Ajadi,254 Jackson St--Hayward-CA-94544,21243 Meekland Ave--Hayward-CA-94541,18:45:00,00:00:00,2,Pending
+PRANEE YANG,A,,4018 Tricia Way--North Highlands-CA-95660,1315 Alhambra Ave--Sacramento-CA-95816,12:45:00,00:00:00,10,Pending
+SANDRA L CORDEIRO,B,Nick Singh,2100 Capitol Ave--Sacramento-CA-95816,1100 17th St-APT 304-Sacramento-CA-95811,08:15:00,00:00:00,1,Pending
+IRVELLA ALBERT,A,,1232 8th St--Oakland-CA-94607,8201 Edgewater Ave-105-Oakland-CA-94621,09:15:00,00:00:00,7,Pending
+DANIEL G BIENUSA,A,,7225 E South Gate Dr-D-Sacramento-CA-95828,10780 Coloma Rd--Rancho Cordova-CA-95670,07:45:00,00:00:00,17,Pending
+ROSALIA J COLLINS,A,Omar Ahmed,2401 Merced St--San Leandro-CA-94577,815 12th St-D11-Oakland-CA-94607,09:15:00,00:00:00,10,Pending
+ANNETTE BAKER,A,Robel Yemane,3525 Lyon Ave-20 B-Oakland-CA-94601,3100 Summit St--Oakland-CA-94609,08:30:00,00:00:00,5,Pending
+NORMA JEAN L PEREZ,A,,22815 Vermont St-508-Hayward-CA-94541,2805 Whipple Rd--Union City-CA-94587,13:00:00,00:00:00,7,Pending
+BENITA VENEGAS,A,Nick Singh,8216 Zenith Dr--Citrus Heights-CA-95621,6560 Greenback Ln-200-Citrus Heights-CA-95621,09:15:00,00:00:00,3,Pending
+MOHAMED A QURAISHE,B,,3775 Beacon Ave-3120-Fremont-CA-94538,4987 Central Ave-142-Fremont-CA-94536,23:59:59,00:00:00,2,Pending
+JOANNE MUZQUIZ,A,,558 Santiago Ave--Sacramento-CA-95815,1315 Alhambra Ave--Sacramento-CA-95816,08:00:00,00:00:00,6,Pending
+FEREWOINI T ARAYA,B,Omar Ahmed,505 Parnassus Ave--San Francisco-CA-94143,1089 26th St-303-Oakland-CA-94607,12:15:00,00:00:00,13,Pending
+ALFONSO JUAREZ,A,Robel Yemane,2710 Telegraph Ave-205-Oakland-CA-94612,7615 Bancroft Ave-2-Oakland-CA-94605,09:15:00,00:00:00,9,Pending
+MARIA E PINALES,A,,300 Elmhurst St-E50-Hayward-CA-94544,21615 Hesperian Blvd--Hayward-CA-94541,13:00:00,00:00:00,2,Pending
+TINA G MACK,A,Nick Singh,10517 Silverwood Way--Rancho Cordova-CA-95670,2951 Fulton Ave--Sacramento-CA-95821,12:15:00,00:00:00,11,Pending
+GWENDOLYN D MCCOWAN,B,,10700 Macarthur Blvd-14B-Oakland-CA-94605,1690 164th Ave-12-San Leandro-CA-94578,23:59:59,00:00:00,4,Pending
+XUE Y JIANG,B,,2628 International Blvd--Oakland-CA-94601,989 Brush St-211-Oakland-CA-94607,12:45:00,00:00:00,3,Pending
+MAO NU HE,A,Omar Ahmed,270 13th St-503-Oakland-CA-94612,3838 California St-707-San Francisco-CA-94118,13:30:00,00:00:00,16,Pending
+SYLVIA DAVIS,B,Robel Yemane,19850 Lake Chabot Rd--Castro Valley-CA-94546,3253 Leahy Way--Livermore-CA-94550,12:30:00,00:00:00,21,Pending
+ALAN CHAVEZ,A,,13545 Monterey Hwy-113-San Martin-CA-95046,275 Di Salvo Ave--San Jose-CA-95128,13:00:00,00:00:00,30,Pending
+KAREN S SMITH,A,Nick Singh,7838 Center Pkwy-68-Sacremento-CA-95823,333 University Ave-100-Sacramento-CA-95825,19:15:00,00:00:00,9,Pending
+SYLVIA JACKSON,B,,3022 International Blvd-202C-Oakland-CA-94601,257 Athol Ave-10-Oakland-CA-94606,11:15:00,00:00:00,2,Pending
+DANIEL BOLING,B,,2330 Post St--San Francisco-CA-94115,17606 Sunrise Rd--Nevada City-CA-95959,12:30:00,00:00:00,160,Pending
+HAILU GOCHE,A,Mateen Sheikh,1600 Lakeshore Ave--Oakland-CA-94606,2757 Telegraph Ave--Oakland-CA-94609,08:45:00,00:00:00,2,Pending
+JAMES JERMAINE,A,Robel Yemane,2623 Renton Way--Castro Valley-CA-94546,1411 E 31st St--Oakland-CA-94602,14:30:00,00:00:00,13,Pending
+ESPERANZA TORRES,A,,13865 Sycamore Ave--San Martin-CA-95046,16060 Caputo Dr-140-Morgan Hill-CA-95037,13:00:00,00:00:00,3,Pending
+SHANAE MASON,A,Ricardo Rodriquez,14020 San Pablo Ave--San Pablo-CA-94806,1319 Tullibee Rd--Rodeo-CA-94572,09:00:00,00:00:00,9,Pending
+DAVID ANDREWS,A,,2895 7th St--Berkeley-CA-94710,1582 Macarthur Blvd--Oakland-CA-94602,09:30:00,00:00:00,6,Pending
+JEANETTE DAVIS,A,,7533 Soules Way--Sacramento-CA-95823,7000 Franklin Blvd--Sacramento-CA-95823,08:30:00,00:00:00,2,Pending
+IRVELLA ALBERT,B,Mateen Sheikh,8201 Edgewater Ave-105-Oakland-CA-94621,1232 8th St--Oakland-CA-94607,11:00:00,00:00:00,7,Pending
+MAXINE O BENSON,B,Jasko Husein,5354 Claremont Ave--Oakland-CA-94618,237 Haas Ave-222-San Leandro-CA-94577,13:00:00,00:00:00,11,Pending
+RUBEN HERNANDEZ,B,,9925 International Blvd-210-Oakland-CA-94603,2625 Octavia St--Oakland-CA-94619,23:59:59,00:00:00,6,Pending
+JAMES KOO,B,Ricardo Rodriquez,32930 Alvarado Niles Rd--Union City-CA-94587,808 A St-unit 314-Hayward-CA-94541,15:00:00,00:00:00,7,Pending
+JHOANNA M APARICIO,A,,6850 Santa Teresa Blvd--San Jose-CA-95119,30 N JACKSON AVE-5-SAN JOSE-CA-95116,09:30:00,00:00:00,12,Pending
+PATRICIA A JOHNSON,A,,8060 Westcamp Rd--Fair Oaks-CA-95628,6127 Fair Oaks Blvd--Carmichael-CA-95608,08:30:00,00:00:00,6,Pending
+SYLVIA JACKSON,D,Mateen Sheikh,2041 Bancroft Way-301-Berkeley-CA-94704,257 Athol Ave-10-Oakland-CA-94606,15:00:00,00:00:00,6,Pending
+MARY PAGE,B,Jasko Husein,39180 Farwell Dr--Fremont-CA-94538,2821 Magnolia St-C-Oakland-CA-94608,11:45:00,00:00:00,27,Pending
+Rosario Abella,B,,155 N Wolfe Rd--Sunnyvale-CA-94086,308 Wildflower Park Ln--Mountain View-CA-94043,17:30:00,00:00:00,4,Pending
+PAMELA JOHNSON,A,Ricardo Rodriquez,7036 Macarthur Blvd-2-Oakland-CA-94605,1860 Mowry Ave-310-Fremont-CA-94538,13:30:00,00:00:00,23,Pending
+JUAN CASTRO,A,,4401 Mack Rd--Sacramento-CA-95823,7236 E Park Way-13-Sacramento-CA-95823,09:30:00,00:00:00,1,Pending
+KIENYA MYLES,A,,1315 Alhambra Ave--Sacramento-CA-95816,1212 W El Camino Ave--Sacramento-CA-95833,08:30:00,00:00:00,8,Pending
+NAVAEH ZAID,B,Mateen Sheikh,562 14th St--Oakland-CA-94612,2431 106th Ave-4-Oakland-CA-94603,16:00:00,00:00:00,11,Pending
+LINDA SMITH,B,Jasko Husein,2895 7th St--Berkeley-CA-94710,2912 Otis St-APT 5-Berkeley-CA-94703,16:45:00,00:00:00,1,Pending
+DAO T LE,A,,1703 24th Ave-C-Oakland-CA-94601,1600 Divisadero St--San Francisco-CA-94143,13:15:00,00:00:00,16,Pending
+XUE Y JIANG,A,Shelima Simmons,989 Brush St-211-Oakland-CA-94607,2628 International Blvd--Oakland-CA-94601,08:15:00,00:00:00,3,Pending
+PAULA STROUD,A,,6850 Santa Teresa Blvd--San Jose-CA-95119,2354 Pauline Dr--San Jose-CA-95124,09:40:00,00:00:00,12,Pending
+LEO RICHARDSON,B,,10700 Macarthur Blvd--Oakland-CA-94605,10 Hegenberger Rd--Oakland-CA-94621,12:45:00,00:00:00,3,Pending
+RICHARD A MOELLER,B,Mateen Sheikh,15555 E 14th St--San Leandro-CA-94578,17957 Redwood Rd--Castro Valley-CA-94546,17:30:00,00:00:00,3,Pending
+SALY CHEAM,B,Jasko Husein,5354 Claremont Ave--Oakland-CA-94618,2712 11th Ave--Oakland-CA-94606,18:15:00,00:00:00,4,Pending
+David Cardoza,A,,443 S 11th St--San Jose-CA-95112,1450 S White Rd--San Jose-CA-95127,13:15:00,00:00:00,5,Pending
+DEMOND M JEFFERSON,A,Shelima Simmons,3537 Galindo St-1-Oakland-CA-94601,2628 International Blvd--Oakland-CA-94601,09:15:00,00:00:00,1,Pending
+THERON L CHAPPEL,C,,1411 E 31st St--Oakland-CA-94602,1164 88th Ave--Oakland-CA-94621,23:59:59,00:00:00,6,Pending
+SHANTAYE T BEVERLY,C,,2020 J St-24-Sacramento-CA-95811,6224 Dundee Dr--North Highlands-CA-95660,23:59:59,00:00:00,11,Pending
+JULIET YELLMAN,B,Punjab Singh,2624 Stockton Blvd--Sacramento-CA-95817,4001 S Watt Ave-219-Sacramento-CA-95826,12:30:00,00:00:00,6,Pending
+DING NI LI,A,Habtamu Tegegne,3680 Beacon Ave-B110-Fremont-CA-94538,631 S Milpitas Blvd--Milpitas-CA-95035,07:15:00,00:00:00,8,Pending
+ZOSIMO L ARCON,A,,831 Brevins Loop--San Jose-CA-95125,888 S Bascom Ave--San Jose-CA-95128,13:30:00,00:00:00,5,Pending
+WENCESLAO GONZALEZ ACEVEDO,A,Shelima Simmons,1661 Industrial Pkwy W--Hayward-CA-94544,27132 Gading Rd--Hayward-CA-94544,10:15:00,00:00:00,2,Pending
+BARBARA MERRIMAN,B,,16060 Caputo Dr-140-Morgan Hill-CA-95037,8500 Wren Ave-APT 112-Gilroy-CA-95020,13:30:00,00:00:00,8,Pending
+CYNTHIA C WILLIAMS,B,,6555 Coyle Ave-301-Sacramento-CA-95816,5610 Stockton--Sacramento-CA-95824,23:59:59,00:00:00,12,Pending
+ARTHUR NEWELLS,A,Punjab Singh,9147 Tuolumne Dr--Sacramento-CA-95826,2730 Florin Rd--Sacramento-CA-95822,07:00:00,00:00:00,11,Pending
+DEMOND M JEFFERSON,B,Habtamu Tegegne,2628 International Blvd--Oakland-CA-94601,3537 Galindo St-1-Oakland-CA-94601,14:30:00,00:00:00,1,Pending
+STEVEN C WYLAND,A,,21243 Meekland Ave--Hayward-CA-94541,254 Jackson St--Hayward-CA-94544,13:30:00,00:00:00,2,Pending
+STEVEN D RODRIQUEZ,A,Shelima Simmons,195 Sunset Blvd--Hayward-CA-94541,21463 Foothill Blvd--Hayward-CA-94541,13:15:00,00:00:00,1,Pending
+MINGZHU SHI,A,,6468 Bancroft Way--San Jose-CA-95129,2220 Moorpark Ave--San Jose-CA-95128,09:45:00,00:00:00,5,Pending
+LINDA M JOHNSON,A,,144 Mun Kwok Ln-311-Stockton-CA-95202,3555 Deer Park Dr-180-Stockton-CA-95219,08:50:00,00:00:00,5,Pending
+SHANTAYE T BEVERLY,B,Punjab Singh,8243 E Stockton Blvd--Sacramento-CA-95828,2020 J St-24-Sacramento-CA-95811,13:30:00,00:00:00,11,Pending
+CARLOS I VIZCARRA,A,Habtamu Tegegne,375 Industrial Pkwy--Hayward-CA-94544,1825 4th St--San Francisco-CA-94158,11:10:00,00:00:00,30,Pending
+TOMAS MARTINEZ,A,,1501 Bella Vista Dr--Hollister-CA-95023,8095 Camino Arroyo-100-Gilroy-CA-95020,13:45:00,00:00:00,19,Pending
+LAVANDA HARDESTY,B,Shelima Simmons,3755 Beacon Ave--Fremont-CA-94538,2327 84th Ave-D-Oakland-CA-94605,17:15:00,00:00:00,20,Pending
+KERMIT HUNTER,B,,2655 Shattuck Ave--Berkeley-CA-94704,920 Page St--Berkeley-CA-94710,15:00:00,00:00:00,3,Pending
+GRETCHEN A POWELL,B,,700 Adeline St--Oakland-CA-94607,908 Willow St--Oakland-CA-94607,23:59:59,00:00:00,1,Pending
+PRANEE YANG,B,Punjab Singh,1315 Alhambra Ave--Sacramento-CA-95816,4018 Tricia Way--North Highlands-CA-95660,16:30:00,00:00:00,10,Pending
+SUET FONG CHO LI,A,Habtamu Tegegne,16134 Via Chiquita--San Lorenzo-CA-94580,2551 Merced St--San Leandro-CA-94577,13:00:00,00:00:00,4,Pending
+MADHAV K BOROLE,A,,4444 Malana Way--Rancho Cordova-CA-95742,3071 Gold Canal Dr--Rancho Cordova-CA-95670,14:00:00,00:00:00,4,Pending
+LEO RICHARDSON,A,Kamal Singh,10 Hegenberger Rd--Oakland-CA-94621,10700 Macarthur Blvd--Oakland-CA-94605,08:45:00,00:00:00,5,Pending
+CATHLEEN A BUNA,B,,20094 Mission Blvd--Hayward-CA-94541,18348 Lake Chabot Rd--Castro Valley-CA-94546,11:00:00,00:00:00,3,Pending
+TOMMY L WALTER,A,,198 E 14th St--San Leandro-CA-94577,1780 A St-19-Castro Valley-CA-94546,09:00:00,00:00:00,7,Pending
+NATHAN BRYANT,B,Punjab Singh,251 Lathrop Way--Sacramento-CA-95815,4141 Palm Ave-462-Sacramento-CA-95842,18:45:00,00:00:00,8,Pending
+MAO NU HE,B,Habtamu Tegegne,3838 California St-707-San Francisco-CA-94118,270 13th St-503-Oakland-CA-94612,16:00:00,00:00:00,16,Pending
+MARYAM RASEKHNIA,B,,242 La Pala Dr--San Jose-CA-95127,520 Calabria Pl--San Jose-CA-95128,23:59:59,00:00:00,10,Pending
+DOLORES C ANGEL,B,Kamal Singh,2805 Whipple Rd--Union City-CA-94587,27503 Coronado St--Hayward-CA-94545,12:00:00,00:00:00,3,Pending
+HEN X TRAN,A,,1450 Kooser Rd--San Jose-CA-95118,4158 Sarah Ct--San Jose-CA-95136,10:00:00,00:00:00,4,Pending
+COLLETE I DAVIS,A,,5354 Claremont Ave--Oakland-CA-94618,1764 9th St--Oakland-CA-94607,09:00:00,00:00:00,5,Pending
+FRANCISCA I VALENCIA,B,Punjab Singh,4005 Manzanita Ave--Carmichael-CA-95608,3525 Whitney Ave-27-Sacramento-CA-95821,20:30:00,00:00:00,4,Pending
+MARILYN D PLACIDE,B,Elvis Voloder,2915 Telegraph Ave-302-Berkeley-CA-94705,3049 Sacramento St-C-Berkeley-CA-94702,11:00:00,00:00:00,1,Pending
+JAMES STEWART,A,,6764 14th Ave--Sacramento-CA-95820,333 University Ave-100-Sacramento-CA-95825,18:45:00,00:00:00,3,Pending
+ORFA MICHEL,B,Kamal Singh,39465 Paseo Padre Pky-2100-Fremont-CA-94538,4020 Fremont Hub--Fremont-CA-94538,13:00:00,00:00:00,1,Pending
+SURINDER BEDI,A,,777 Lawrence Exwy--Santa Clara-CA-95051,1108 November Dr--Cupertino-CA-95014,10:00:00,00:00:00,5,Pending
+BARBARA STEELE,B,,725 Ridder Park Dr--San Jose-CA-95131,1436 Glacier Dr--Milpitas-CA-95035,13:45:00,00:00:00,5,Pending
+JORDAN L NELSON,A,Punjab Singh,4339 Galbrath Dr-558-Sacramento-CA-95842,3333 University Ave--Sacramento-CA-95825,19:45:00,00:00:00,10,Pending
+BETTY BRADFORD,A,Elvis Voloder,1615 Auseon Ave--Oakland-CA-94621,2655 Shattuck Ave--Berkeley-CA-94704,10:00:00,00:00:00,11,Pending
+RHACHEY SIMMONS,A,,505 Parnassus Ave--San Francisco-CA-94143,4836 Bancroft Ave--Oakland-CA-94601,23:59:59,00:00:00,17,Pending
+ZOSIMO L ARCON,B,Kamal Singh,888 S Bascom Ave--San Jose-CA-95128,831 Brevins Loop--San Jose-CA-95125,18:15:00,00:00:00,5,Pending
+SYLVIA DAVIS,A,,3253 Leahy Way--Livermore-CA-94550,19850 Lake Chabot Rd--Castro Valley-CA-94546,10:00:00,00:00:00,21,Pending
+MARY PAGE,A,,2821 Magnolia St-C-Oakland-CA-94608,39180 Farwell Dr--Fremont-CA-94538,09:00:00,00:00:00,27,Pending
+MARGARET M ROMER,A,Zee Johnson,19786 Louise Ct-612-Castro Valley-CA-94546,2107 O farrell St--Sf-CA-94115,08:30:00,00:00:00,28,Pending
+ROSA N AVILES FONSECA,B,Elvis Voloder,747 52nd St--Oakland-CA-94609,24187 Park St--Hayward-CA-94544,15:15:00,00:00:00,18,Pending
+DING NI LI,B,Surjeet Singh,631 S Milpitas Blvd--Milpitas-CA-95035,3680 Beacon Ave-B110-Fremont-CA-94538,12:30:00,00:00:00,8,Pending
+DOLORES C ANGEL,A,,27503 Coronado St--Hayward-CA-94545,2805 Whipple Rd--Union City-CA-94587,10:15:00,00:00:00,3,Pending
+TANASHA NORBERT,A,,10040 Macarthur Blvd--Oakland-CA-94605,27225 Calaroga Ave--Hayward-CA-94545,09:00:00,00:00:00,10,Pending
+GERALDINE MASSEY,A,Zee Johnson,2710 Telegraph Ave--Oakland-CA-94612,1132 8th St--Oakland-CA-94607,10:30:00,00:00:00,2,Pending
+ANNIE JASTE,B,Elvis Voloder,22331 Mission Blvd--Hayward-CA-94541,1155 Calhoun St--Hayward-CA-94544,17:00:00,00:00:00,3,Pending
+LETICIA F GIRON,A,Surjeet Singh,2811 Deerwood Dr--San Jose-CA-95148,1620 E Capitol Exwy--San Jose-CA-95121,09:30:00,00:00:00,3,Pending
+CORAZON R HEARD,A,,254 Jackson St--Hayward-CA-94544,16341 Kent Ave--San Lorenzo-CA-94580,10:45:00,00:00:00,3,Pending
+BENITA VENEGAS,B,,6560 Greenback Ln-200-Citrus Heights-CA-95621,8216 Zenith Dr--Citrus Heights-CA-95621,23:59:59,00:00:00,3,Pending

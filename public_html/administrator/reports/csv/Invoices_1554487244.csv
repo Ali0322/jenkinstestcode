@@ -1,0 +1,16 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Apr. 05 2019
+,,,Invoice From: Mar. 01 2019 To: Apr. 05 2019
+,,,Total Amount Billed: 2544.28
+1,9256,Mar-08 2019[MTM],AMBER IRISH,1288 ,Leg A,1234 Main St-- Clarkston- WA- USA,456 Thain Road--Lewiston- ID- USA,12:00,Wheel Chair - Pickup Charges: 0 - Price Per Miles: 0,4.08,5,0,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,0.00
+ 2,9256,Mar-08 2019[MTM],AMBER IRISH,1288 ,Leg B,456 Thain Road--Lewiston- ID- USA,1234 Main St-- Clarkston- WA- USA,15:00,Wheel Chair - Pickup Charges: 0 - Price Per Miles: 0,4.07,5,0,2 Man Team Charges: 0  Oxygen. Charges: 0  Wheel Chair Rental Charges: 0  ,0.00
+ 3,9269,Mar-13 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,Wheel Chair Rental Charges: 0  ,20.52
+ 4,9269,Mar-13 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,Wheel Chair Rental Charges: 0  ,20.62
+ 5,9272,Mar-14 2019[MTM],Test, ,Leg A,11957 Bighorn Peak Court--Rancho Cucamonga- CA- United States,296 North Carnegie Avenue--Claremont- CA- United States,10:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,13.65,5,8.65,,19.30
+ 6,9266,Mar-15 2019[MTM],AMBER IRISH,1288 ,Leg B,456 Thain Road--Lewiston- ID- USA,1201 South Alma School Road-- Mesa- AZ- USA,15:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,1204.78,5,1199.78,Oxygen. Charges: 0  ,2401.56
+ 7,9455,Mar-21 2019[MTM],adam 10 test 10, ,Leg A,17270 RED OAK DR STE 200--HOUSTON-TX-77090,4407 S PANTHER CREEK DR APT 227--SPRING-TX-77381,00:00,Wheel Chair - Pickup Charges: 0 - Price Per Miles: 0,14.9,5,9.9,,0.00
+ 8,9457,Apr-01 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,Wheel Chair Rental Charges: 0  ,20.52
+ 9,9457,Apr-01 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,Wheel Chair Rental Charges: 0  ,20.62
+ 10,9458,Apr-02 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,Wheel Chair Rental Charges: 0  ,20.52
+ 11,9458,Apr-02 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,Wheel Chair Rental Charges: 0  ,20.62
+

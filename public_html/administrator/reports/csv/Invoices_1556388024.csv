@@ -1,0 +1,13 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Apr. 27 2019
+,,,Invoice From: Apr. 22 2019 To: Apr. 27 2019
+,,,Total Amount Billed: 166.49
+1,9489,Apr-23 2019[Access2Care],BLANCA Test, ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,1201 South Chandler Village Drive--Chandler- AZ- USA,15:00,Wheel Chair - Pickup Charges: 5 - Price Per Miles: 5,9.49,6,3.49,,22.45
+ 2,9486,Apr-23 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,,20.62
+ 3,9486,Apr-23 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,15:30,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,,20.52
+ 4,9488,Apr-26 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,16:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,,20.52
+ 5,9487,Apr-26 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,Will ,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.26,5,9.26,,20.52
+ 6,9488,Apr-26 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,,20.62
+ 7,9487,Apr-26 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,,20.62
+ 8,9490,Apr-27 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,14.31,5,9.31,,20.62
+

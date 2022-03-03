@@ -1,0 +1,30 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Jan. 17 2019
+,,,Invoice From: Dec. 01 2018 To: Dec. 31 2018
+,,,Total Amount Billed: 3004.03
+1,8595,Dec-07 2018[Logistic Care],ASHLEY Test, ,Leg A,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,20.84,0,20.84,,109.20
+ 2,8595,Dec-07 2018[Logistic Care],ASHLEY Test, ,Leg B,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,4743 NORTHERN DANCER WAY--ORLANDO-FL,13:30,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,20.42,0,20.42,,107.10
+ 3,8597,Dec-08 2018[Logistic Care],adam smith,1288 ,Leg A,1620 Northwest 4th Street-12-Miami- FL- USA,Front Door Lane-33-St. Augustine- FL- USA,14:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,321.75,0,321.75,2 Man Team Charges: 25  Wheel Chair Rental Charges: 5  ,1643.75
+ 4,8599,Dec-08 2018[Logistic Care],ASHLEY Test, ,Leg A,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,20.84,0,20.84,,109.20
+ 5,8598,Dec-08 2018[Logistic Care],ASHLEY Test, ,Leg A,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,20.84,0,20.84,,109.20
+ 6,8596,Dec-08 2018[Logistic Care],ASHLEY Test, ,Leg B,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,4743 NORTHERN DANCER WAY--ORLANDO-FL,13:30,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,20.42,0,20.42,,107.10
+ 7,8596,Dec-08 2018[Logistic Care],ASHLEY Test, ,Leg A,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,20.84,0,20.84,,109.20
+ 8,8600,Dec-08 2018[Logistic Care],BLANCA Test, ,Leg A,15.21--10215 EASTMAR COMMONS BLVD APT 1831-ORLANDO-FL,-MAGRUDER EYE INSTITUDE--1911 N MILLS AVE-ORLANDO-FL,15:00,Wheel Chair - Pickup Charges: 21 - Price Per Miles: 2,12.3,0,12.3,,45.60
+ 9,8601,Dec-08 2018[Logistic Care],Bryan adam, ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,10:00,Wheel Chair - Pickup Charges: 21 - Price Per Miles: 2,0,0,0,,21.00
+ 10,9094,Dec-09 2018[Logistic Care],Bryan adam,1288 ,Leg B,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,12:00,Wheel Chair - Pickup Charges: 12 - Price Per Miles: 2,0,0,0,,12.00
+ 11,9094,Dec-09 2018[Logistic Care],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,10:00,Wheel Chair - Pickup Charges: 12 - Price Per Miles: 2,0,0,0,,12.00
+ 12,8604,Dec-11 2018[Logistic Care],Bryan adam, ,Leg B,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,12:00,Wheel Chair - Pickup Charges: 21 - Price Per Miles: 2,0,0,0,,21.00
+ 13,8604,Dec-11 2018[Logistic Care],Bryan adam, ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,1201 South Alma School Road--Mesa- AZ- USA,10:00,Wheel Chair - Pickup Charges: 21 - Price Per Miles: 2,0,0,0,,21.00
+ 14,8608,Dec-13 2018[Logistic Care],ASHLEY Test, ,Leg B,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,4743 NORTHERN DANCER WAY--ORLANDO-FL,13:30,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,20.25,0,20.25,,106.25
+ 15,8608,Dec-13 2018[Logistic Care],ASHLEY Test, ,Leg A,4743 NORTHERN DANCER WAY--ORLANDO-FL,-CENTRAL TREATMENT CENTERS--1800 W COLONIAL DR-ORLANDO-FL,12:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,20.78,0,20.78,,108.90
+ 16,9080,Dec-14 2018[Logistic Care],adam smith,1288 ,Leg A,1201 South Alma School Road-12- Mesa- AZ- USA,120 South Alma School Road-33- Mesa- AZ- USA,14:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,1.42,0,1.42,2 Man Team Charges: 25  Wheel Chair Rental Charges: 5  ,42.10
+ 17,9096,Dec-17 2018[Logistic Care],ASHLEY Test, ,Leg A,,,12:00,Wheel Chair - Pickup Charges: 12 - Price Per Miles: 2,0,0,0,Oxygen. Charges: 0  ,12.00
+ 18,9096,Dec-17 2018[Logistic Care],ASHLEY Test, ,Leg B,,,13:30,Wheel Chair - Pickup Charges: 12 - Price Per Miles: 2,0,0,0,Oxygen. Charges: 0  ,12.00
+ 19,9081,Dec-18 2018[Logistic Care],adam smith,1288 ,Leg A,1201 South Alma School Road-12-Mesa- AZ- USA,120 South Alma School Road-33-Mesa- AZ- USA,14:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,1.42,0,1.42,2 Man Team Charges: 25  Wheel Chair Rental Charges: 5  ,42.10
+ 20,9084,Dec-19 2018[Logistic Care],Mikelangelo N, ,Leg A,10850 Church St Rancho--Cucamonga-CA-91730,10557 Juniper Ave--Fontana-CA-92337,12:30,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,12.01,0,12.01,,65.05
+ 21,9088,Dec-21 2018[Logistic Care],adam smith,1288 ,Leg A,1201 South Alma School Road-12-Mesa- AZ- USA,120 South Alma School Road-33-Mesa- AZ- USA,14:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,1.42,0,1.42,2 Man Team Charges: 25  Wheel Chair Rental Charges: 5  ,42.10
+ 22,9090,Dec-21 2018[Logistic Care],adam smith,1288 ,Leg A,1201 South Alma School Road-12-Mesa- AZ- USA,120 South Alma School Road-33-Mesa- AZ- USA,14:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,1.42,0,1.42,2 Man Team Charges: 25  Wheel Chair Rental Charges: 5  ,42.10
+ 23,9087,Dec-21 2018[Logistic Care],amber Irish, ,Leg A,348 Shiloh Drive-- Lewiston- ID- USA,456 Thain Road--Lewiston- ID- USA,12:00,Wheel Chair - Pickup Charges: 12 - Price Per Miles: 2,4.68,0,4.68,Wheel Chair Rental Charges: 0  ,21.36
+ 24,9091,Dec-26 2018[Logistic Care],adam smith,1288 ,Leg A,1201 South Alma School Road-12-Mesa- AZ- USA,120 South Alma School Road-33-Mesa- AZ- USA,14:00,Ambulatory - Pickup Charges: 5 - Price Per Miles: 5,1.42,0,1.42,2 Man Team Charges: 25  Wheel Chair Rental Charges: 5  ,42.10
+ 25,9095,Dec-28 2018[Logistic Care],Bryan adam,1288 ,Leg A,1201 South Alma School Road--Mesa- AZ- USA,6416 South Central Avenue-- Phoenix- AZ- USA,10:00,Wheel Chair - Pickup Charges: 12 - Price Per Miles: 2,14.31,0,14.31,,40.62
+

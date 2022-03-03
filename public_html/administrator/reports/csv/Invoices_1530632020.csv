@@ -1,0 +1,8 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Jul. 03 2018
+,,,Invoice From: Jun. 01 2018 To: Jun. 30 2018
+,,,Total Amount Billed: 39.12
+1,5842,Jun-23 2018[OAK HAMMOCK],adam smith, ,Leg A,2424 Franklin St-- Denver- CO- USA,24 Franklin St-- Denver- CO- USA,10:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,3.28,0,3.28,,8.56
+ 2,5843,Jun-27 2018[OAK HAMMOCK],adam smith, ,Leg A,2424 Franklin St--Denver- CO- USA,24 Franklin St--Denver- CO- USA,10:00,Ambulatory - Pickup Charges: 2 - Price Per Miles: 2,3.28,0,3.28,No Show Charges: 3   ,3.00
+ 3,5846,Jun-28 2018[OAK HAMMOCK],adam smith, ,Leg A,2424 Franklin St-- Denver- CO- USA,24 Franklin St--Denver- CO- USA,10:00,Wheel Chair - Pickup Charges: 21 - Price Per Miles: 2,3.28,0,3.28,,27.56
+

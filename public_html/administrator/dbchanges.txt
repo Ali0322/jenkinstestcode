@@ -1,0 +1,29 @@
+ALTER TABLE  `request_info` ADD  `d_phnum2` VARCHAR( 20 ) NOT NULL AFTER  `d_phnum` ,
+ADD  `d_phnum3` VARCHAR( 20 ) NOT NULL AFTER  `d_phnum2`, ADD  `destination_instruction2` TEXT NOT NULL AFTER  `destination_instruction` , ADD  `destination_instruction3` TEXT NOT NULL AFTER  `destination_instruction2`, ADD  `droplocation2` VARCHAR( 500 ) NOT NULL AFTER  `droplocation` , ADD  `droplocation3` VARCHAR( 500 ) NOT NULL AFTER  `droplocation2`, ADD  `passenger` INT NOT NULL;
+ALTER TABLE  `trip_details` ADD  `passenger` INT NOT NULL;
+ALTER TABLE  `billing_info` CHANGE  `leg`  `leg` ENUM(  '1',  '2',  '3',  '4',  '5' ) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL COMMENT  '1 first leg, 2 for second leg';
+//////////////////////// above is updated on live server. ///////////////////////////////
+
+
+
+CREATE TABLE IF NOT EXISTS `setup` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `select_all_dv` enum('yes','no') NOT NULL,
+  `start_location` enum('office','home') NOT NULL,
+  `multi_run_same_loc` enum('yes','no') NOT NULL,
+  `multi_run_diff_loc` enum('yes','no') NOT NULL,
+  `time_cap_window` int(11) NOT NULL,
+  `mile_cap_window` int(11) NOT NULL,
+  `live_trafic_ip` enum('yes','no') NOT NULL,
+  `drv_selected` enum('0','1') NOT NULL DEFAULT '0',
+  `dated` date NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
+
+--
+-- Dumping data for table `setup`
+--
+
+INSERT INTO `setup` (`id`, `select_all_dv`, `start_location`, `multi_run_same_loc`, `multi_run_diff_loc`, `time_cap_window`, `mile_cap_window`, `live_trafic_ip`, `drv_selected`, `dated`) VALUES
+(1, 'no', 'office', 'yes', 'no', 10, 5, 'yes', '0', '2015-06-17');
+

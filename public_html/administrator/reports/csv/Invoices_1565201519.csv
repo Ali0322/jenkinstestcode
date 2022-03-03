@@ -1,0 +1,16 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Aug. 07 2019
+,,,Invoice From: Jun. 04 2019 To: Jun. 20 2019
+,,,Total Amount Billed: 630.00
+1,9549,Jun-05 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,14.31,5,9.31,,108.10
+ 2,9726,Jun-10 2019[MTM],Bryan adam,1288 ,Leg A,1201 S. Alma School Rd.,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,14.31,5,9.31,,108.10
+ 3,9497,Jun-10 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,14.31,5,9.31,,108.10
+ 4,9731,Jun-15 2019[MTM],AMBER IRISH,1288 ,Leg B,Muhammad Zeshan House number 16 Dawn baker dhama syedan-,-,11:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,0,5,0,2 Man Team Charges: 0  Oxygen. Charges: 0  ,15.00
+ 5,9731,Jun-15 2019[MTM],AMBER IRISH,1288 ,Leg A,45888888-,Muhammad Zeshan House number 16 Dawn baker dhama syedan-,13:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,0,5,0,2 Man Team Charges: 0  Oxygen. Charges: 0  ,15.00
+ 6,9732,Jun-17 2019[MTM],AMBER IRISH,1288 ,Leg A,45888888-,Muhammad Zeshan House number 16 Dawn baker dhama syedan-,13:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,0,5,0,2 Man Team Charges: 0  Oxygen. Charges: 0  ,15.00
+ 7,9732,Jun-17 2019[MTM],AMBER IRISH,1288 ,Leg B,Muhammad Zeshan House number 16 Dawn baker dhama syedan-,-,11:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,0,5,0,2 Man Team Charges: 0  Oxygen. Charges: 0  ,15.00
+ 8,9498,Jun-17 2019[MTM],Bryan adam,1288 ,Leg A,1201 South Alma School Road-- Mesa- AZ- USA,6416 South Central Avenue--Phoenix- AZ- USA,14:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,14.31,5,9.31,,108.10
+ 9,9738,Jun-19 2019[MTM],AMBER IRISH,1288 ,Leg A,45888888-,Muhammad Zeshan House number 16 Dawn baker dhama syedan-,13:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,0,5,0,2 Man Team Charges: 0  Oxygen. Charges: 0  ,15.00
+ 10,9738,Jun-19 2019[MTM],AMBER IRISH,1288 ,Leg B,Muhammad Zeshan House number 16 Dawn baker dhama syedan-,-,11:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,0,5,0,2 Man Team Charges: 0  Oxygen. Charges: 0  ,15.00
+ 11,9551,Jun-19 2019[MTM],Bryan adam,1288 ,Leg B,6416 South Central Avenue--Phoenix- AZ- USA,1201 South Alma School Road-- Mesa- AZ- USA,16:00,Ambulatory - Pickup Charges: 15 - Price Per Miles: 10,14.26,5,9.26,,107.60
+

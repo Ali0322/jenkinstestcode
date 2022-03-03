@@ -1,0 +1,7 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Feb. 12 2016
+,,,Invoice From: Feb. 11 2016 To: Feb. 11 2016
+,,,Total Amount Billed: 64.25
+1,880,Feb-11 2016[Access2Care],EMILY WHEELER, 15191840T,Leg A,13853 Willis Rd--CALDWELL ID 83607,157 Caldwell Blvd--NAMPA ID 83651,08:31,Ambulatory - Pickup Charges: 23.35 - Price Per Miles: 1.17,13,5,8,,32.71
+ 2,881,Feb-11 2016[Access2Care],GERTRUDE MOORE, 15433563T,Leg A,10305 Melmont Rd--MELBA ID 83641,210 Holly St--NAMPA ID 83686,09:14,Ambulatory - Pickup Charges: 23.35 - Price Per Miles: 1.17,12,5,7,,31.54
+

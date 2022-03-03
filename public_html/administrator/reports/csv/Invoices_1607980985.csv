@@ -1,0 +1,8 @@
+Sr. No,Invoice #,Date [Account Name],Customer Name,PO#,Leg,Pick Up Address,Delivery Address,Time,Vehicle Service,Total Miles,Free Miles,Billable Miles,Out of Area - Misc Fee,Total 
+,,,Invoice Generated On: Dec. 14 2020
+,,,Invoice From: Dec. 01 2020 To: Dec. 14 2020
+,,,Total Amount Billed: 4590.56
+1,1,Dec-07 2020[JENCARE EAST POINT],DARRYL MARABLE, ,Leg A,2765 Elkmont Ridge Southwest-- Atlanta- GA- USA,3899 Longview Drive-- Douglasville- GA- USA,06:30,MANUAL WHEECHAIR Van - Pickup Charges: 20 - Price Per Miles: 1.5,8.71,0,8.71,,33.07
+ 2,1,Dec-07 2020[JENCARE EAST POINT],DARRYL MARABLE, ,Leg B,3899 Longview Drive-- Douglasville- GA- USA,2765 Elkmont Ridge Southwest-- Atlanta- GA- USA,Will ,MANUAL WHEECHAIR Van - Pickup Charges: 20 - Price Per Miles: 1.5,8.69,0,8.69,,33.04
+ 3,2,Dec-14 2020[ST Jhon Hospital],Test bryan, ,Leg A,379 Amherst St PMB 270 N Nashua-- New Hampshire 03063,114 South State Street-- Chicago- IL- USA,12:00,Stretcher Van - Pickup Charges: 275 - Price Per Miles: 4.25,999.87,0,999.87,,4524.45
+

@@ -1,0 +1,483 @@
+<Root>
+<EDIISA>
+<EDIISA01> Authorization information qualifier (00 or 03)</EDIISA01>
+<EDIISA02> Authorization information (Will contain User ID if ISA01 is 03 other wise empty)</EDIISA02>
+<EDIISA03> Security information qualifier (01 if ISA01 is 03 and 00 if ISA01 Is 00.)</EDIISA03>
+<EDIISA04> Security information (contain Password if ISA01 is 03. Empty if ISA01 is 00)</EDIISA04>
+<EDIISA05> senderQ = "ZZ",	//Client Code</EDIISA05>
+<EDIISA06> senderId = "177141", //Client id with Clearing House</EDIISA06>
+<EDIISA07> receiverQ = "ZZ",      // Clearing House Code</EDIISA07>
+<EDIISA08> receiverId = "ZIRMED", // Clearing House ID</EDIISA08>
+<EDIISA09> current Date ("yyMMdd")</EDIISA09>
+<EDIISA10> current Time ("hhmm")</EDIISA10>
+<EDIISA11></EDIISA11>
+<EDIISA12></EDIISA12>
+<EDIISA13> </EDIISA13>
+<EDIISA14> Acknowledgment requested (0 for no 1 for yes)</EDIISA14>
+<EDIISA15> Usage Indicator (T for Test P for Production)</EDIISA15>
+<EDIISA16></EDIISA16>
+</EDIISA>
+
+<EDI1000A>		
+<EDIGS>
+<EDIGS01> Functional Identifier Code (using HC at present)</EDIGS01>
+<EDIGS02> Application Senders Code (Same as ISA06)</EDIGS02>
+<EDIGS03> Application Receivers ode (Same as ISA08)</EDIGS03>
+<EDIGS04> Current Date("yyyyMMdd") </EDIGS04>
+<EDIGS05> Current Time ("hhmm")</EDIGS05>
+<EDIGS06> Group Control Number (unique number 1 to 9 digits)</EDIGS06>
+<EDIGS07></EDIGS07>
+<EDIGS08></EDIGS08>
+</EDIGS> 
+
+<EDIST> 
+<EDIST01> </EDIST01> 
+<EDIST02> Transaction Set control Number (unique number 1 to 9 digits)</EDIST02> 
+<EDIST03></EDIST03>
+</EDIST> 
+
+<EDIBHT> 
+<EDIBHT01></EDIBHT01>
+<EDIBHT02> Transaction set purpose Code (00 for original and 18 for Reissue)</EDIBHT02>
+<EDIBHT03>	Reference Identification Unique id submitter is identified with (1 to 8 digits)</EDIBHT03>
+<EDIBHT04>	Claim Date in YYYYMMDD Format</EDIBHT04>
+<EDIBHT05>	Claim Time in HHMMSS </EDIBHT05>
+<EDIBHT06>	Transaction Type Code (CH,31,RP)….currently using CH </EDIBHT06>
+</EDIBHT>
+
+
+
+<EDIPER> <!--Start (Submitter Contact information)-->
+<EDIPER01></EDIPER01> 
+<EDIPER02></EDIPER02> <!--Name (Print Practice contact Person Name,If no such field in the system, it is ok to print the same Practice name itself.)-->
+<EDIPER03></EDIPER03> <!--Communication Number qualifier -->
+<EDIED></EDIED>	<!--Electronic data interchange Access Number. -->
+<EDIEM></EDIEM>	<!--Electronic Mail-->
+<EDIEX></EDIEX>	<!--Telephone Extension-->
+<EDIFX></EDIFX>	<!--Facsimile-->
+<EDITE></EDITE>	<!--Telephone-->
+<EDIPER04></EDIPER04>  <!--Communication Number (Complete number including country code or area code when applicable.)-->
+<EDIPER05></EDIPER05> <!--Communication Number qualifier (Like PER03)-->
+<EDIPER06></EDIPER06> <!--Communication Number (Like PER04)-->
+<EDIPER07></EDIPER07> <!--Communication Number qualifier (Like PER03) – empty if none-->
+<EDIPER08></EDIPER08> <!--Communication Number (Like PER04) – empty if none-->
+</EDIPER>
+
+<EDINM1> 
+<EDINM101></EDINM101>
+<EDINM102> Entity Type Qualifier (1 for person , 2 for non-person Entity)</EDINM102>
+<EDINM103> Name Last or Organization Name (e.g PREMIER BILLING SERVICE)</EDINM103>
+<EDINM104> Name First (only when NM102 is 1 othrewise empty)</EDINM104>
+<EDINM105> Name Last (only when NM102 is 1 othrewise empty)</EDINM105>
+<EDINM106></EDINM106>
+<EDINM107></EDINM107>
+<EDINM108></EDINM108>
+<EDINM109> billing sercive EDI</EDINM109>
+</EDINM1>
+
+</EDI1000A>
+<EDI1000B> <!--Start (Receiver)-->
+<EDINM1> <!--Start-->
+<EDINM101></EDINM101>
+<EDINM102></EDINM102> <!--Entity Type Qualifier (2 for non-person Entity)-->
+<EDINM103></EDINM103> <!--Name Last or Organization Name (e.g Key Insurance Company)-->
+<EDINM104></EDINM104> 
+<EDINM105></EDINM105> 
+<EDINM106></EDINM106>
+<EDINM107></EDINM107>
+<EDINM108></EDINM108> 
+<EDINM109></EDINM109> <!--insurance Company EDI-->
+</EDINM1> <!--END-->
+</EDI1000B> <!--END-->
+<EDI2000A> <!--Start (BILLING PROVIDER Hierarchy)-->
+<EDIHL> <!--Start-->
+<EDIHL01></EDIHL01>
+<EDIHL02></EDIHL02>
+<EDIHL03></EDIHL03>
+<EDIHL04></EDIHL04>
+</EDIHL> <!--END-->
+
+
+<EDIPRV> <!--Start-->
+<EDIPRV01></EDIPRV01> <!--Provider Code (BI if entity type Person, PT if entity Type Non-Person)-->
+<EDIPRV02></EDIPRV02> <!--Reference Id Qualifier (currently using PXC)-->
+<EDIPRV03></EDIPRV03> <!--Provider Specialty Code (Taxonomy Code)-->
+<EDIPRV04></EDIPRV04>
+<EDIPRV05></EDIPRV05>
+<EDIPRV06></EDIPRV06>
+</EDIPRV><!-- END-->
+
+
+
+<EDI2010AA> <!--Start (Billing Provider)-->
+
+
+<EDINM1> <!--Start--> 
+<EDINM101></EDINM101>  
+<EDINM102></EDINM102> <!--Entity Type Qualifier (1 for Person , 2 for non-person Entity)-->
+<EDINM103></EDINM103> <!--Name Last or Organization Name (e.g AFFORDABLE TRANSPORT PBC, LLC)-->
+<EDINM104></EDINM104> <!--See below-->
+<EDINM105></EDINM105> <!--see below-->
+<EDINM106></EDINM106> 
+<EDINM107></EDINM107> <!--see below-->
+<EDINM108></EDINM108> 
+<EDINM109></EDINM109> <!--Billing Provider NPI-->
+</EDINM1> <!--END-->
+
+
+<EDINM103></EDINM103><!-- – Name Last or Organization Name
+If the practice is enrolled with the insurance company under the practice name (or Bill with Group NPI) , then print the value from the Practice Information (i.e) Practice Name.
+If the Provider is enrolled with the Insurance company under the provider name (or Bill with Individual NPI), then print the value from the Provider information (i.e) Provider Last Name.-->
+<EDINM104></EDINM104><!-- – Name First
+If the practice is enrolled with the insurance company under the practice name (or Bill with Group NPI) , then DO NOT PRINT ANY VALUE.
+If the Provider is enrolled with the Insurance company under the provider name (or Bill with Individual NPI), then print the value from the Provider information (i.e) Provider First Name.-->
+
+<EDINM105></EDINM105><!-- – Name Middle
+If the practice is enrolled with the insurance company under the practice name (or Bill with Group NPI) , then DO NOT PRINT ANY VALUE.
+If the Provider is enrolled with the Insurance company under the provider name (or Bill with Individual NPI), then print the value from the Provider information (i.e) Provider Middle Name.-->
+
+<EDINM107></EDINM107><!-- – Name Suffix
+If the practice is enrolled with the insurance company under the practice name (or Bill with Group NPI), then DO NOT PRINT ANY VALUE.
+If the Provider is enrolled with the Insurance company under the provider name (or Bill with Individual NPI), then print the value from the Provider information (i.e) Provider Suffix.-->
+<EDIN3> <!--Start (Billing Provider Address)-->
+<EDIN301></EDIN301> <!--Address Line 1 (see below)-->
+<EDIN302></EDIN302> <!--Address Line 2 (See below)-->
+</EDIN3> <!--End-->
+
+<EDIN301></EDIN301><!-- – Address Line 1
+If the practice is enrolled with the insurance company under the practice name (or Bill with Group NPI) , then print the value from the Practice Information (i.e) Practice Address 
+If the Provider is enrolled with the Insurance company under the provider name (or Bill with Individual NPI), then print the value from the Provider information (i.e) Provider Address 2.-->
+
+<EDIN302></EDIN302><!-- – Address Line 2
+This is optional. Print only if data available.
+If the practice is enrolled with the insurance company under the practice name (or Bill with Group NPI) , then print the value from the Practice Information (i.e) Practice Address 2 if available
+If the Provider is enrolled with the Insurance company under the provider name (or Bill with Individual NPI), then print the value from the Provider information (i.e) Provider Address 2 if available.
+-->
+<EDIN4> <!--Start (Billing Provider City / State / Zip Code)-->
+<EDIN401></EDIN401> <!--City Name-->
+<EDIN402></EDIN402> <!--State or Province Code-->
+<EDIN403></EDIN403> <!--Postal Code (9 digits eg 12345-6789)-->
+</EDIN4> <!--End-->
+
+<!--N401 , N402 , N403
+If the practice is enrolled with the insurance company under the practice name (or Bill with Group NPI) , then print the value from
+the Practice Information (i.e) Practice City/State/Zip code.If the Provider is enrolled with the Insurance company under the provider name (or Bill with Individual NPI), then print the value from the Provider information (i.e) Provider City/State/Zip code.
+-->
+<EDIREF> <!--Start (Billing Provider REF)-->
+
+<EDIREF01></EDIREF01> <!--ReferenceIdentificationQualifier (currently using EI) -->
+<EDIREF02></EDIREF02> <!--TIN Number-->
+</EDIREF> <!--END--> 
+</EDI2010AA> <!--END-->
+</EDI2000A> <!--END      USS BILKUL THEEK HAY YAHN TAK     -->
+
+
+<EDI2000B> <!--Start (Subscriber Hierarchical Level)-->
+
+<EDIHL> <!--start-->
+
+<EDIHL01></EDIHL01>
+<EDIHL02></EDIHL02>
+<EDIHL03></EDIHL03>
+<EDIHL04></EDIHL04>
+
+</EDIHL> <!--END-->
+
+<EDISBR> <!--Start-->
+
+<EDISBR01></EDISBR01> <!--Payer Responsibility Code (See Below)-->
+<EDISBR02></EDISBR02> <!--Individual Relationship code (Subscriber is same person as of the patient, then Print 18, else enpty)-->
+<EDISBR03></EDISBR03> <!--Subscriber Group Policy Number-->
+<EDISBR04></EDISBR04> <!--Name (Group policy name) – empty if not known-->
+<EDISBR05></EDISBR05> <!--Insurance Type Code _- see below __ empty if not known-->
+<EDISBR06></EDISBR06> 
+<EDISBR07></EDISBR07>
+<EDISBR08></EDISBR08>
+<EDISBR09></EDISBR09> <!--Claim Filling indicator code _- see Below-->
+
+</EDISBR> <!--END-->
+<!--
+SBR01 – Payer Responsibility Sequence Number Code
+Code	Definition
+P	Primary
+S	Secondary
+T	Tertiary
+A	Code for the 4th Insurance
+B	Code for the 5th Insurance
+C	Code for the 6th Insurance
+D	Code for the 7th Insurance
+E	Code for the 8th Insurance
+F	Code for the 9th Insurance
+G	Code for the 10th Insurance
+H	Code for the 11th Insurance
+
+
+SBR05 –  Insurance Type Code
+2000B SBR05 is required when Medicare is the destination payer but not the primary payer i.e Medicare would be the second or third payer. We should capture this field either in the Patient Insurance Policy information or at the claim level.
+
+ 
+Code	Definition
+12	Medicare Secondary Working Aged Beneficiary or Spouse with Employer Group Health Plan
+13	Medicare Secondary End Stage Renal Disease
+14	Medicare Secondary , No Fault Insurance including Auto is Primary
+15	Medicare Secondary Worker's Compensation
+16	Medicare Secondary Public Health Service (PHS) or other Federal Agency
+16	Medicare Secondary Public Health Service
+41	Medicare Secondary Black Lung
+42	Medicare Secondary Veteran's Administration
+43	Medicare Secondary Veteran's Administration
+47	Medicare Secondary, Other Liability Insurance is Primary
+
+ 
+
+SBR09 – Claim Filling indicator code
+ 
+We should capture this field (single selection drop down) in the insurance master screen for each insurance.
+Code	Definition
+11	Other Non-Federal Programs
+12	Preferred Provider Organizations
+13	Point of Service
+14	Exclusive Provider Organization
+15	Indemnity Insurance
+16	Health Maintenance Organization (HMO) Medicare Risk
+17	Dental Maintenance Organization
+AM	Automobile Medical
+BL	Blue Cross/Blue Shield
+CH	Champus
+CI	Commercial Insurance Co
+DS	Disability
+HM	Health Maintenance Organization
+LM	Liability Medical
+MB	Medicare Part B
+MC	Medicaid
+MA	Medicare Part A
+OF	Other Federal Program
+TV	Title V
+VA	Veteran Administration Plan
+WC	Worker's Compensation Health Claim
+FI	Federal Employees Program
+ZZ	Mutually Defined.
+-->
+
+<EDI2010BA> <!--Start (SUBSCRIBER)-->
+
+<EDINM1> <!--start--> 
+<EDINM101></EDINM101>
+<EDINM102></EDINM102> <!--Entity Type Qualifier (1 for Person , 2 for non-person Entity)-->
+<EDINM103></EDINM103> <!--Name Last or Organization Name (Insured Person Last Name)-->
+<EDINM104></EDINM104> <!--Name First (Insured Person first Name) _ optional-->
+<EDINM105></EDINM105> <!--Name middle (Insured person Middle Name)_ optional-->
+<EDINM106></EDINM106> 
+<EDINM107></EDINM107> <!--Name Suffix (insured person suffix) _ optional-->
+<EDINM108></EDINM108> 
+<EDINM109></EDINM109> <!--Identification Number (insured policy Number)-->
+</EDINM1> <!--End-->
+
+<EDINM3> <!--start ?????-->
+</EDINM3> <!--end-->
+<EDINM4> <!--start  ????-->
+</EDINM4> <!--end-->
+
+<EDIDMG> <!--Start-->
+<EDIDMG01></EDIDMG01> 
+<EDIDMG02></EDIDMG02> <!--Date time Period (Insured Date of birth "yyyymmdd")-->
+<EDIDMG03></EDIDMG03> <!--Gender Code (M, F , U)-->
+
+</EDIDMG> <!--END-->
+</EDI2010BA> <!--END-->
+
+
+
+<EDI2010BB> <!--Start  (PAYER)-->
+
+
+<EDINM1> <!--start--> 
+<EDINM101></EDINM101>
+<EDINM102></EDINM102> <!--Entity Type Qualifier (1 for Person , 2 for non-person Entity)-->
+<EDINM103></EDINM103> <!--Name Last or Organization Name (Payer Name)-->
+<EDINM104></EDINM104> 
+<EDINM105></EDINM105> 
+<EDINM106></EDINM106> 
+<EDINM107></EDINM107> 
+<EDINM108></EDINM108> 
+<EDINM109></EDINM109> <!--Payer ID -->
+
+</EDINM1> <!--END-->
+
+<EDINM3> <!--start ?????-->
+</EDINM3> <!--end-->
+<EDINM4> <!--start  ????-->
+</EDINM4> <!--end-->
+
+<EDIREF> <!--Start  (Billing Provider secondary Identification)-->
+<EDIREF01></EDIREF01>
+<EDIREF02></EDIREF02> <!--Member Group Policy Number-->
+</EDIREF> <!--End-->
+
+</EDI2010BB> <!--End-->
+ </EDI2000B><!--END-->
+
+<EDI2000C> <!--Start (PATIENT Hierarchy)-->
+
+<EDIHL> <!--Start-->
+
+<EDIHL01></EDIHL01>
+<EDIHL02></EDIHL02>
+<EDIHL03></EDIHL03>
+<EDIHL04></EDIHL04>
+
+</EDIHL> <!--END-->
+
+<EDIPAT> <!--Start--> 
+
+<EDIPAT01></EDIPAT01> <!--Individual Relationship Code (SEE BELOW)-->
+<EDIPAT02></EDIPAT02>
+<EDIPAT03></EDIPAT03>
+<EDIPAT04></EDIPAT04>
+<EDIPAT05></EDIPAT05> <!--Date Time Period Format Qualifier (D8 if patient is known to be deceased) _ optional -->
+<EDIPAT06></EDIPAT06> <!--Date time Period (patient death date if patient is deceased. YYYYMMDD) _ optional-->
+<EDIPAT07></EDIPAT07> <!--Unit or Basis for Measurement Code (GR – Required when the patient' age is less 
+than 29 days old.) _ optional-->
+<EDIPAT08></EDIPAT08> <!--Weight (Required when the patient's age is less than 29 days old) _ optional-->
+<EDIPAT09></EDIPAT09> <!--Yes/No Condition (Print "Y" if the patient is pregnant. Leave blank if the patient is not 
+pregnant.)-->
+
+</EDIPAT> <!--END-->
+
+<!--
+PAT01 – Individual Relationship Code
+Code	Definition
+01	Spouse
+19	Child
+20	Employee
+21	Unknown
+39	Organ Donor
+40	Cadaver Donor
+53	Life Partner
+G8	Other Relationship
+-->
+<EDI2010CA> <!--Start (Patient Name)-->
+
+<EDINM1> <!--start--> 
+<EDINM101></EDINM101>
+<EDINM102></EDINM102> <!--Entity Type Qualifier (1 for Person , 2 for non-person Entity)-->
+<EDINM103></EDINM103> <!--Name Last or Organization Name (Patient Lastname)-->
+<EDINM104></EDINM104> <!--Name First (patient first Name) _ optional-->
+<EDINM105></EDINM105> <!--Name middle (patient Middle Name)_ optional-->
+<EDINM106></EDINM106> 
+<EDINM107></EDINM107> <!--Name Suffix (patient suffix) _ optional-->
+<EDINM108></EDINM108> <!--Identification code Qualifier (MI (Required if the patient identifier is different than the subscriber identifier else empty)-->
+<EDINM109></EDINM109> <!--Identification Number (Patient Primary Identification Number or Insured ID or Subscriber ID or Health Insurance claim Number)-->
+
+</EDINM1> <!--END-->
+
+<EDIN3> <!--Start--> 
+
+<EDIN301></EDIN301> <!--patient Address line 1 -->
+<EDIN302></EDIN302> <!--patient Address line 2 – optional--> 
+</EDIN3> <!--End-->
+
+
+<EDIN4> <!--Start--> 
+
+<EDIN401></EDIN401> <!--patient City-->
+<EDIN402></EDIN402> <!--patient State or Province-->
+<EDIN403></EDIN403> <!--patient Postal code-->
+
+</EDIN4> <!--End-->
+
+<EDIDMG> <!--Start--> 
+
+<EDIDMG01></EDIDMG01>
+<EDIDMG02></EDIDMG02> <!--Patient Date of Birth (YYYYMMDD)-->
+<EDIDMG03></EDIDMG03> <!--Patient Gender Code (M, F, U)-->
+</EDIDMG> <!--END-->
+</EDI2010CA> <!--End-->
+</EDI2000C><!--End-->
+
+<EDI2300> <!--Start  (Claim Information)-->
+
+<EDICLM> <!--Start--> 
+<EDICLM01></EDICLM01> 	<!--Claim Submitter Identifier (Unique Claim Number 1 to 8 digits)-->
+<EDICLM02></EDICLM02>		<!--Monetary amount (Total Charges)-->
+<EDICLM03></EDICLM03> 
+<EDICLM04></EDICLM04>
+<EDICLM05-1></EDICLM05-1>	<!--Facility Code Value (Place of Service Code) – currently using 11-->
+<EDICLM05-2></EDICLM05-2> 	<!--Facility Code Qualifier – currently using B-->
+<EDICLM05-3></EDICLM05-3>	<!--Claim Frequency Type Code (1 = Original,7 = Replacement,8 = Void)-->
+<EDICLM06></EDICLM06> 	<!--Yes/No Provider Signature on File	 (Y or N)-->
+<EDICLM07></EDICLM07> 	<!--Provider Accept Assignment Code (A = Assigned, B = Assignment Accepted on Clinical Lab Services Only, C = Not Assigned)-->
+<EDICLM08></EDICLM08>		<!--Yes/No Assignments of Benefit (Y or N)-->
+<EDICLM09></EDICLM09>		<!--Yes/No Release of Information (Y or N)-->
+<EDICLM10></EDICLM10>
+
+</EDICLM> <!--End-->
+
+<EDIREF> <!--Start-->
+
+<EDIREF01></EDIREF01>
+<EDIREF02></EDIREF02> <!--Member Group Policy Number (ELECTRONIC ROUTE: Billing provider (sender), to VAN to Key Insurance Company (receiver). VAN claim identification number)-->
+
+</EDIREF> <!--END-->
+
+<EDIHI> <!--Start  (Health Care Diagnosis Code)-->
+
+<EDIHI01-1></EDIHI01-1> <!--Code List Qualifier Code (BK)-->
+<EDIHI01-2></EDIHI01-2> <!--Industry Code (0340)-->
+<EDIHI02-1></EDIHI02-1> <!--Code List Qualifier Code (BF)-->
+<EDIHI02-2></EDIHI02-2> <!--Industry Code (36834)-->
+<!--……. continue same for all diagnosis-->
+</EDIHI> <!--END-->
+</EDI2300> <!--END-->
+
+<EDI2400> <!--Start  (Service Line)-->
+
+<EDILX> <!--Start-->
+<EDILX01></EDILX01> <!--service number (1)-->
+</EDILX> <!--End-->
+
+<EDISV1> <!--Start-->
+<EDISV101-1></EDISV101-1> 	<!--Product/Service ID Qualifier (using HC)-->
+<EDISV101-2></EDISV101-2>	<!--Product/Service ID (Procedure Code)-->
+<EDISV101-3></EDISV101-3>	<!--Procedure Modifier 1 _ optional-->
+<EDISV101-4></EDISV101-4> 	<!--Procedure Modifier 2_ optional-->
+<EDISV101-5></EDISV101-5> 	<!--Procedure Modifier 3_ optional-->
+<EDISV101-6></EDISV101-6> 	<!--Procedure Modifier 4_ optional-->
+<EDISV102></EDISV102>		<!--Monetary Amount (Line Item Charge Amount)-->
+<EDISV103></EDISV103>		<!--UNIT (UN or MJ)-->
+<EDISV104></EDISV104>		<!--Quantity (Service Unit Quantity)-->
+<EDISV105></EDISV105>		<!--Facility Code Value (Place of Service Code)-->
+<EDISV106></EDISV106>
+<EDISV107-1></EDISV107-1>	<!--First diagnosis code pointer-->
+<EDISV107-2></EDISV107-2>	<!--Second diagnosis code pointer _ optional-->
+<EDISV107-3></EDISV107-3>	<!--Third diagnosis code pointer _ optional-->
+<EDISV107-4></EDISV107-4>	<!--Forth diagnosis code pointer _ optional-->
+</EDISV1> <!--End-->
+
+<EDIDTP> <!--Start (Sevice Date)-->
+
+<EDIDTP01></EDIDTP01>	
+<EDIDTP02></EDIDTP02>
+<EDIDTP03></EDIDTP03> <!--Date time (YYYYMMDD)-->
+
+
+<!--Loop 2400 for all services with LX01 = 2, LX01 =3-->
+
+</EDIDTP> <!--END-->
+
+</EDI2400> <!--END-->
+
+
+</Root>
+<!--
+
+
+
+
+
+
+
+
+
+
+-->

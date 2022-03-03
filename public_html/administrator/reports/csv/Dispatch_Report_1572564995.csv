@@ -1,0 +1,11 @@
+Patient Name,Leg,Driver,Pick Up Address,Drop Address,Pick Time,Actual Pick Time,Total Miles,Status 
+Test1,B,abcdef mass,1202 South Chandler Village Drive--Chandler- AZ- USA,1201 s alma school road Mesa--AZ,00:00:00,13:48:42,9.09,Completed
+Test1,A,,1201 s alma school road Mesa--AZ,1202 South Chandler Village Drive--Chandler- AZ- USA,15:30:00,00:00:00,9.63,Pending
+Test1,B,abcdef mass,1202 South Chandler Village Drive--Chandler- AZ- USA,1201 s alma school road Mesa--AZ,00:00:00,13:10:25,9.09,Completed
+Test Shawn,B,abcdef mass,1202 South Chandler Village Drive--Chandler- AZ- USA,1201 s alma school road Mesa--AZ,00:00:00,13:25:06,9.09,Completed
+Test1,A,,1201 s alma school road Mesa-- AZ,1202 South Chandler Village Drive-- Chandler- AZ- USA,15:30:00,00:00:00,9.63,Pending
+Test Shawn,A,,1201 s alma school road Mesa--AZ,1202 South Chandler Village Drive--Chandler- AZ- USA,15:30:00,00:00:00,9.63,Pending
+Test1,B,Test Driver Five,1202 South Chandler Village Drive-- Chandler- AZ- USA,1201 s alma school road Mesa-- AZ,00:00:00,11:36:49,9.09,Completed
+Test Shawn,A,abcdef mass,1201 s alma school road Mesa--AZ,1202 South Chandler Village Drive--Chandler- AZ- USA,15:30:00,16:34:54,9.63,Completed
+Test1,A,,1201 s alma school road Mesa--AZ,1202 South Chandler Village Drive--Chandler- AZ- USA,15:30:00,00:00:00,9.63,Pending
+Test1,A,Test Driver Five,1201 s alma school road Mesa-- AZ,1202 South Chandler Village Drive-- Chandler- AZ- USA,12:39:00,19:47:28,9.63,Picked

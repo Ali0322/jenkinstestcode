@@ -1,0 +1,84 @@
+#mypopup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  text-align: left;
+}
+
+#mypopup .popup {
+  position: relative;
+  left:300px;
+  top:200px;
+}
+
+#mypopup table {
+  border-collapse: collapse;
+}
+
+#mypopup td {
+  border-bottom: 0; 
+}
+
+#mypopup .body {
+  padding: 10px;
+  background: #fff;
+  width: 370px;
+}
+
+#mypopup .loading {
+  text-align: center;
+}
+.popup{ background:#FFF;}
+.popup_labels{ font-size:11px; font-weight:bold; color:#202020; text-align:left;}
+.name_text{ padding-left:8px; margin:0;}
+#mypopup .inputTxtField{ margin-left:8px; margin-top:5px;}
+.top_head{ background:#039; color:#FFF; font-size:12px; font-weight:bold; width:370px; height:20px; padding-left:10px;}
+
+#mypopup .image {
+  text-align: center;
+}
+
+#mypopup img {
+  border: 0;
+  margin: 0;
+}
+
+#mypopup .footer {
+  border-top: 1px solid #DDDDDD;
+  padding-top: 5px;
+  margin-top: 10px;
+  text-align: right;
+}
+
+#mypopup .tl, #mypopup .tr, #mypopup .bl, #mypopup .br {
+  height: 10px;
+  width: 10px;
+  overflow: hidden;
+  padding: 0;
+}
+
+#mypopup_overlay {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height:100%;
+  width:100%;
+}
+
+.mypopup_hide {
+  z-index:-100;
+}
+
+.mypopup_overlayBG {
+  background-color: #000000;
+  z-index: 99;
+}
+
+* html #mypopup_overlay { /* ie6 hack */
+  position: absolute;
+  height: expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px');
+}
+@charset "utf-8";
+/* CSS Document */
+
