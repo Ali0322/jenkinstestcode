@@ -95,10 +95,12 @@
 		
 */
 
-	$dbname 	= "192.168.10.91";				//host name.
-		$dbuser 	= "demodem5_demo5";	  	//database user.
-		$dbpasswd 	= "lFz9Tmpp8c";		//database passwd.
-		$dbs		= "demodem5_demo5";		//database name.
+	$dbname         = "192.168.10.90";                              //host name.
+                $dbuser         = "cwp7_cwp7";          //database user.
+                $dbpasswd       = "lFz9Tmpp8c";         //database passwd.
+                $dbs            = "cwp7_cwp7";          //database name.
+
+
 		
 
 
