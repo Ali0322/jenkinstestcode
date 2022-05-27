@@ -52,7 +52,7 @@
 
 		<a href="drivers/" class="thumb"><span><img src="driver.png" alt="" /></span></a>
 
-		<h2><a href="drivers/">Drivers 11111111  Management</a></h2>
+		<h2><a href="drivers/">Drivers Management</a></h2>
 
 	</li>
 
@@ -72,7 +72,7 @@
 
 		<a href="attandance/" class="thumb"><span><img src="attend.png" alt="" /></span></a>
 
-		<h2><a href="attandance/">Attendance Management</a></h2>
+		<h2><a href="attandance/">111--Attendance Management </a></h2>
 
 	</li>  
 
